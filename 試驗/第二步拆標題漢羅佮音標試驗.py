@@ -31,3 +31,15 @@ class 第二步拆標題漢羅佮音標試驗(unittest.TestCase):
 		原來='sg0050002 「認真地 為 臺灣 奉獻著 生命 的 人， rin3_zin2_deh1 ui4 dai3_uan5 hong3_hen4_dior3 senn4_mia2 e2 lang5'
 		結果=('sg0050002', '「認真地 為 臺灣 奉獻著 生命 的 人，', 'rin3_zin2_deh1 ui4 dai3_uan5 hong3_hen4_dior3 senn4_mia2 e2 lang5')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
+	def test_拆開無斜線漢字有數字的(self):
+		原來='dv0094383 同 註 1。 dong2 zu4 it2'
+		結果=('dv0094383', '同 註 1。', 'dong2 zu4 it2')
+		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
+	def test_拆開無斜線有標點的(self):
+		原來='dv0380181 炒作， ca1_zork2'
+		結果=('dv0380181', '炒作，', 'ca1_zork2')
+		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
+	def test_標點佮音標黏做伙(self):
+		原來='dv0177001 睏破 三領 蓆，kuan4-pua4 sann2-nia1 ciorh2'
+		結果=('dv0177001', '睏破 三領 蓆，', 'kuan4-pua4 sann2-nia1 ciorh2')
+		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)

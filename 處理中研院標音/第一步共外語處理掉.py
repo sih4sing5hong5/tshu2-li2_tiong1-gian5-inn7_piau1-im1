@@ -25,15 +25,18 @@ class 第一步共外語處理掉:
 		資料=[]
 		頂一逝是標籤=True
 		有外語=False
-		for 句 in 句集:
-			句=句.strip()
+		for 句 in 句集.split('\n'):
+			句=句.rstrip()
+			print(句)
 			if 句=='':
 				continue
-			elif 'language' in 句 or '[//]' in 句 or '_' in 句:
+			elif 'language' in 句 or '[//]' in 句:# or '_' in 句:
 				if not 頂一逝是標籤:
 					資料=資料[:-1]
 				有外語=True
 				頂一逝是標籤=False
+			elif 'type="lexical" extent="previous"' in 句:
+				continue
 			elif 句.startswith('<') or 句.startswith('\ufeff'):
 				頂一逝是標籤=True
 				有外語=False
@@ -42,8 +45,8 @@ class 第一步共外語處理掉:
 					頂一逝是標籤=True
 				else:
 					if 頂一逝是標籤:
-						資料.append(句.strip())
+						資料.append(句)
 					else:
-						資料[-1]+=句.strip()
+						資料[-1]+=句
 					頂一逝是標籤=False
 		return 資料

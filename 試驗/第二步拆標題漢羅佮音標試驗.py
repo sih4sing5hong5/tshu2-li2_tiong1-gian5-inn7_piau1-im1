@@ -1,5 +1,5 @@
 """
-著作權所有 (C) 民國103年 意傳文化科技
+著作權所有 (C) 民國102年 意傳文化科技
 開發者：薛丞宏
 網址：http://意傳.台灣
 語料來源：請看各資料庫內說明
@@ -16,11 +16,18 @@
 感謝您的使用與推廣～～勞力！承蒙！
 """
 import unittest
-from 試驗.第一步共外語處理掉試驗 import 第一步共外語處理掉試驗
-from 試驗.第二步拆標題漢羅佮音標試驗 import 第二步拆標題漢羅佮音標試驗
+from 處理中研院標音.第二步拆標題漢羅佮音標 import 第二步拆標題漢羅佮音標
 
-if __name__ == '__main__':
-	第一步共外語處理掉試驗
-	第二步拆標題漢羅佮音標試驗
-	
-	unittest.main()
+class 第二步拆標題漢羅佮音標試驗(unittest.TestCase):
+	def setUp(self):
+		self.第二步拆標題漢羅佮音標=第二步拆標題漢羅佮音標()
+	def tearDown(self):
+		pass
+	def test_拆開(self):
+		原來='sg0050001 海海 人生 ──美麗 ｅ 容顏 /hai1_hai4 rin2_sing1 vi1_le2 e2 iong2_qan4'
+		結果=('sg0050001', '海海 人生 ──美麗 ｅ 容顏 ', 'hai1_hai4 rin2_sing1 vi1_le2 e2 iong2_qan4')
+		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
+	def test_拆開無斜線的(self):
+		原來='sg0050002 「認真地 為 臺灣 奉獻著 生命 的 人， rin3_zin2_deh1 ui4 dai3_uan5 hong3_hen4_dior3 senn4_mia2 e2 lang5'
+		結果=('sg0050002', '「認真地 為 臺灣 奉獻著 生命 的 人，', 'rin3_zin2_deh1 ui4 dai3_uan5 hong3_hen4_dior3 senn4_mia2 e2 lang5')
+		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)

@@ -27,7 +27,6 @@ class 第一步共外語處理掉:
 		有外語=False
 		for 句 in 句集.split('\n'):
 			句=句.rstrip()
-			print(句)
 			if 句=='':
 				continue
 			elif 'language' in 句 or '[//]' in 句:# or '_' in 句:

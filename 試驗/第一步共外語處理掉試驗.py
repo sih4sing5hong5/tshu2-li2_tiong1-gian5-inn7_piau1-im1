@@ -34,9 +34,6 @@ la0159215 ga 咱e 台語 講做 是 北京語 e 方言， ga3 lan1_e2 dai3_qi4 g
 			'la0159215 ga 咱e 台語 講做 是 北京語 e 方言， ga3 lan1_e2 dai3_qi4 gong1_zor4 si3 bak1_giann2_qi4 e2 hong2_qen5',
 		]
 		self.assertEqual(self.第一步共外語處理掉.擲掉外語佮空逝(原來), 結果)
-		
-		
-		
 	def test_換逝有連字符(self):
 		原來='''<Sync time="5744.368"/>
 sg0200223 漢人 最後 一次 武裝 抗日e「西來庵 事件」；han4-rin5 zue4-au2 zit3-cu3 vu1-zong1 kong4-rit2 e3 se2-lai3-an1 su3-giann2

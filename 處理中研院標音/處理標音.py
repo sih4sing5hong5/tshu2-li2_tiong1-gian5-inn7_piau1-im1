@@ -30,7 +30,11 @@ if __name__ == '__main__':
 	os.chdir(資料)
 	for 檔名 in os.listdir("."):
 		if 檔名.endswith(".trs.html"):
-			無外語=共外語處理掉.擲掉外語佮空逝(open(資料+檔名))
+			print(檔名)
+			檔案=open(資料+檔名)
+			全部語料=檔案.read()
+			檔案.close()
+			無外語=共外語處理掉.擲掉外語佮空逝(全部語料)
 			print(無外語[:10])
 			分堆句=拆標題漢羅佮音標.拆開(無外語)
 			print(分堆句[:10])

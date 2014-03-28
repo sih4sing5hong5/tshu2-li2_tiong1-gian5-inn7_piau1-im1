@@ -19,15 +19,17 @@
 # 	('gian','kian'),('hiat','hiak'),('zian','ziam'),('ming','bing'),('mong','bong'),
 # 	('puo','phoo'),('huo','hoo'),('s','si'),('z','tsi')]
 音標錯誤表=[('niunn','niu'),('min','bin'),('miann','mia'),('mong','bong'),('ming','bing'),
-
+	('nq','ng'),
 	#拍無著的，有查過原來應該是按怎
-	('pian','piann'),('ghian','ghia'),
-	('hiat','hiah'),
-	('ian','en'),('cian','ciam'),
-	('hian','hiam'),('lian','liang'),('tian','tiann'),
-	('puo','po'),('huo','hu'),
-	('huei','hue'),('ton','to'),('nin','ni'),('ie','iap'),('loi','li'),('n','na'),('guk','gut'),
-	('kuang','kang'),('men','me'),
+# 	('pian','piann'),('ghian','ghia'),
+# 	('hiat','hiah'),
+# 	('ian','en'),('cian','ciam'),
+# 	('hian','hiam'),('lian','liang'),('tian','tiann'),
+# 	('puo','po'),('huo','hu'),
+# 	('huei','hue'),('ton','to'),('nin','ni'),('ie','iap'),('loi','li'),('guk','gut'),
+# 	('kuang','kang'),
+# 	('men','me'),
+# 	('n','na'),
 	#有變iann，嘛有iam，iann較濟，予伊較袂汙染著
 # 	('gian','giann'),('zian','zinn'),
 	#z佮s後擺無一定是i，但是i較濟，予伊平均

@@ -34,7 +34,7 @@ class 第一步共外語處理掉:
 					資料=資料[:-1]
 				有外語=True
 				頂一逝是標籤=False
-			elif 'type="lexical" extent="previous"' in 句:
+			elif 'type="lexical"' in 句:
 				continue
 			elif 句.startswith('<') or 句.startswith('\ufeff'):
 				頂一逝是標籤=True

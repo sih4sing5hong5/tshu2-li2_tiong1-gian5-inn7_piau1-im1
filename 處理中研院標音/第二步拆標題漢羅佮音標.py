@@ -21,7 +21,7 @@ import re
 class 第二步拆標題漢羅佮音標:
 	頭 = 'dv0219014 中華民國走來台灣後獨立於中華人民共和國之外，/diong2-hua5-vin2-gok2zau1lai3-dai2-uan5-au2,'
 	尾 = 'dok3-lip3[li3]-i2-diong2-hua5-rin2-vin5-giong3-hor2-gok2-zi2-qua2'
-	分字佮音 = re.compile('(.*?) ([^ ]+[a-zA-Z]\d.*)')
+	分字佮音 = re.compile('(.*?) ([^ ]+[a-zA-Z]*\d.*)')
 	英文 = re.compile('[a-zA-Z]')
 	def 拆開(self, 語句):
 		資料 = []
@@ -34,16 +34,21 @@ class 第二步拆標題漢羅佮音標:
 		return 資料
 	def 拆開一句(self, 句):
 		try:
+			print('句',句)
 			標籤, 文本 = 句.split(' ', 1)
 			if '/' in 文本:
 				切文本 = 文本.rsplit('/', 1)
-			else:
+			elif ' ' in 文本:
 				切文本 =self.分字佮音.split(文本)[1:3]
+				print('文本',文本)
+				print('切文本',切文本)
 				if len(self.英文.findall(切文本[1][0]))==0:
 					切文本[0]=切文本[0]+' '
 				while len(self.英文.findall(切文本[1][0]))==0:
 					切文本[0]=切文本[0]+切文本[1][0]
 					切文本[1]=切文本[1][1:]
+			else:
+				切文本=[]
 		except:
 			print(句)
 			raise

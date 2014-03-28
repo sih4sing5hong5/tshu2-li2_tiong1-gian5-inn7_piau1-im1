@@ -121,3 +121,22 @@ sg0200156 日方 則 利用 道澤蕃「以夷 制夷」， rit3-hong1 zik1 li3-
 			'sg0200156 日方 則 利用 道澤蕃「以夷 制夷」， rit3-hong1 zik1 li3-iong3 dor3-dit1-huan1 i1-i5 ze4-i5',
 		]
 		self.assertEqual(self.第一步共外語處理掉.擲掉外語佮空逝(原來), 結果)
+	def test_一句話兩逝(self):
+		原來='''<Sync time="4992.736"/>
+sg0103051 同時 思念 每一個 好朋友 變幻 咖啡 魔法 e 時陣， /dong2-si5 su2-liam3 mui1-zit3-e3 hor1-bing2-iu4 ben4-huan3 ga2-bi1 mo3-huat2 e3 si3-zun2 
+<Sync time="4996.976"/>
+sg0103052 特殊 e 癖好、/dik3-su5 e3 pi4-hor4 
+<Sync time="4998.256"/>
+sg0103053 以及 溫柔 e 神情。/i1-gip3 un2-ru5 e3 sin2
+<Event desc="sim2" type="lexical" extent="instantaneous"/>
+-zing5 
+<Sync time="5000.208"/>
+sg0103054 而且， /li3-ciann1 
+<Sync time="5001.072"/>
+'''
+		結果=['sg0103051 同時 思念 每一個 好朋友 變幻 咖啡 魔法 e 時陣， /dong2-si5 su2-liam3 mui1-zit3-e3 hor1-bing2-iu4 ben4-huan3 ga2-bi1 mo3-huat2 e3 si3-zun2',
+			'sg0103052 特殊 e 癖好、/dik3-su5 e3 pi4-hor4',
+			'sg0103053 以及 溫柔 e 神情。/i1-gip3 un2-ru5 e3 sin2-zing5',
+			'sg0103054 而且， /li3-ciann1',
+		]
+		self.assertEqual(self.第一步共外語處理掉.擲掉外語佮空逝(原來), 結果)

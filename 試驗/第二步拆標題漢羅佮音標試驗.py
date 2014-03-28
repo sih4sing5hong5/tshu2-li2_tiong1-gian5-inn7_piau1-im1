@@ -43,3 +43,7 @@ class 第二步拆標題漢羅佮音標試驗(unittest.TestCase):
 		原來='dv0177001 睏破 三領 蓆，kuan4-pua4 sann2-nia1 ciorh2'
 		結果=('dv0177001', '睏破 三領 蓆，', 'kuan4-pua4 sann2-nia1 ciorh2')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
+	def test_一字句(self):
+		原來='ch0038812 有！ u2'
+		結果=('ch0038812', '有！', 'u2')
+		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)

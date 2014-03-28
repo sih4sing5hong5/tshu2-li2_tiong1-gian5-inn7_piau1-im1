@@ -47,3 +47,8 @@ class 第二步拆標題漢羅佮音標試驗(unittest.TestCase):
 		原來='ch0038812 有！ u2'
 		結果=('ch0038812', '有！', 'u2')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
+	def test_漢字上尾是音標(self):
+		原來='dv0284204 真正變做 「中國人」ah，zin2-ziann4-ben4-zor4, diong2-gok1-lang5-a2-'
+		結果=('dv0284204', '真正變做 「中國人」ah，', 'zin2-ziann4-ben4-zor4, diong2-gok1-lang5-a2-')
+		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
+

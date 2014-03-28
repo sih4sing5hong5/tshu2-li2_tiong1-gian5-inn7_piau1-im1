@@ -34,14 +34,14 @@ class 第二步拆標題漢羅佮音標:
 		return 資料
 	def 拆開一句(self, 句):
 		try:
-			print('句',句)
+# 			print('句',句)
 			標籤, 文本 = 句.split(' ', 1)
 			if '/' in 文本:
 				切文本 = 文本.rsplit('/', 1)
 			elif ' ' in 文本:
 				切文本 =self.分字佮音.split(文本)[1:3]
-				print('文本',文本)
-				print('切文本',切文本)
+# 				print('文本',文本)
+# 				print('切文本',切文本)
 				if len(self.英文.findall(切文本[1][0]))==0:
 					切文本[0]=切文本[0]+' '
 				while len(self.英文.findall(切文本[1][0]))==0:

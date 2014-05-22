@@ -20,35 +20,41 @@ from 處理中研院標音.第二步拆標題漢羅佮音標 import 第二步拆
 
 class 第二步拆標題漢羅佮音標試驗(unittest.TestCase):
 	def setUp(self):
-		self.第二步拆標題漢羅佮音標=第二步拆標題漢羅佮音標()
+		self.第二步拆標題漢羅佮音標 = 第二步拆標題漢羅佮音標()
 	def tearDown(self):
 		pass
 	def test_拆開(self):
-		原來='sg0050001 海海 人生 ──美麗 ｅ 容顏 /hai1_hai4 rin2_sing1 vi1_le2 e2 iong2_qan4'
-		結果=('sg0050001', '海海 人生 ──美麗 ｅ 容顏 ', 'hai1_hai4 rin2_sing1 vi1_le2 e2 iong2_qan4')
+		原來 = 'sg0050001 海海 人生 ──美麗 ｅ 容顏 /hai1_hai4 rin2_sing1 vi1_le2 e2 iong2_qan4'
+		結果 = ('sg0050001', '海海 人生 ──美麗 ｅ 容顏 ', 'hai1_hai4 rin2_sing1 vi1_le2 e2 iong2_qan4')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
 	def test_拆開無斜線的(self):
-		原來='sg0050002 「認真地 為 臺灣 奉獻著 生命 的 人， rin3_zin2_deh1 ui4 dai3_uan5 hong3_hen4_dior3 senn4_mia2 e2 lang5'
-		結果=('sg0050002', '「認真地 為 臺灣 奉獻著 生命 的 人，', 'rin3_zin2_deh1 ui4 dai3_uan5 hong3_hen4_dior3 senn4_mia2 e2 lang5')
+		原來 = 'sg0050002 「認真地 為 臺灣 奉獻著 生命 的 人， rin3_zin2_deh1 ui4 dai3_uan5 hong3_hen4_dior3 senn4_mia2 e2 lang5'
+		結果 = ('sg0050002', '「認真地 為 臺灣 奉獻著 生命 的 人，', 'rin3_zin2_deh1 ui4 dai3_uan5 hong3_hen4_dior3 senn4_mia2 e2 lang5')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
 	def test_拆開無斜線漢字有數字的(self):
-		原來='dv0094383 同 註 1。 dong2 zu4 it2'
-		結果=('dv0094383', '同 註 1。', 'dong2 zu4 it2')
+		原來 = 'dv0094383 同 註 1。 dong2 zu4 it2'
+		結果 = ('dv0094383', '同 註 1。', 'dong2 zu4 it2')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
 	def test_拆開無斜線有標點的(self):
-		原來='dv0380181 炒作， ca1_zork2'
-		結果=('dv0380181', '炒作，', 'ca1_zork2')
+		原來 = 'dv0380181 炒作， ca1_zork2'
+		結果 = ('dv0380181', '炒作，', 'ca1_zork2')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
 	def test_標點佮音標黏做伙(self):
-		原來='dv0177001 睏破 三領 蓆，kuan4-pua4 sann2-nia1 ciorh2'
-		結果=('dv0177001', '睏破 三領 蓆，', 'kuan4-pua4 sann2-nia1 ciorh2')
+		原來 = 'dv0177001 睏破 三領 蓆，kuan4-pua4 sann2-nia1 ciorh2'
+		結果 = ('dv0177001', '睏破 三領 蓆，', 'kuan4-pua4 sann2-nia1 ciorh2')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
 	def test_一字句(self):
-		原來='ch0038812 有！ u2'
-		結果=('ch0038812', '有！', 'u2')
+		原來 = 'ch0038812 有！ u2'
+		結果 = ('ch0038812', '有！', 'u2')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
 	def test_漢字上尾是音標(self):
-		原來='dv0284204 真正變做 「中國人」ah，zin2-ziann4-ben4-zor4, diong2-gok1-lang5-a2-'
-		結果=('dv0284204', '真正變做 「中國人」ah，', 'zin2-ziann4-ben4-zor4, diong2-gok1-lang5-a2-')
+		原來 = 'dv0284204 真正變做 「中國人」ah，zin2-ziann4-ben4-zor4, diong2-gok1-lang5-a2-'
+		結果 = ('dv0284204', '真正變做 「中國人」ah，', 'zin2-ziann4-ben4-zor4, diong2-gok1-lang5-a2-')
+		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
+	def test_有標點有空白括號(self):
+		原來 = 'sg0116001 環保 ｅ 幸運草 我 所 熟sai- ｅ 淑惠 一直 到 今仔日， huan2-bor4- e3- hing3-un3-cau4, qua1- so1- sik3-sai2- e3, siok1-hui2, it1-di3(dit3)- gau4,gin2-na1-lit1-'
+		結果 = ('sg0116001',
+			'環保 ｅ 幸運草 我 所 熟sai- ｅ 淑惠 一直 到 今仔日，',
+			'huan2-bor4- e3- hing3-un3-cau4, qua1- so1- sik3-sai2- e3, siok1-hui2, it1-di3(dit3)- gau4,gin2-na1-lit1-')
 		self.assertEqual(self.第二步拆標題漢羅佮音標.拆開一句(原來), 結果)
 

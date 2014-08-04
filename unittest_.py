@@ -1,20 +1,10 @@
 ﻿import unittest
 		
-		
 
-class Getstring:
-
-    def GetSpeak(self, content):
-        return speaker
-	def Getstarttime(self,content):
-		return starttime
-	def Getendtime(self,content):
-		return endtime
-	def Getcontent(self,content):
-		return content
 
 class CalculatorTest(unittest.TestCase):                 
 	
+	#content 有字的翻譯
     input="<Turn speaker="spk9" startTime="165.166" endTime="166.172">
 		  <Sync time="165.166"/>
 		  梅子呢//<ruby><rb>mui-zui4</rb><rt>梅子</rt></ruby> <ruby><rb>le3</rb><rt>呢</rt></ruby>

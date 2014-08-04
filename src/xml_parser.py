@@ -1,17 +1,19 @@
 import xml.etree.ElementTree as ET
 dict={}
+global index
+index = 0
 tree = ET.parse('xml_test.trs')
 root = tree.getroot()
 for Epi in root.findall('Episode'):
     for Sec in Epi.findall('Section'):
         for Turn in Sec.findall('Turn'):
-            attribute = Turn.items()
-            if(len(attribute)==2):
-                dict.update({attribute[0][0] : attribute[0][1]})
-                dict.update({attribute[1][0] : attribute[1][1]})
-                print("start:",dict['startTime'],"end:",dict['endTime'])
-            elif(len(attribute)==3):
-                dict.update({attribute[0][0] : attribute[0][1]})
-                dict.update({attribute[1][0] : attribute[1][1]})
-                dict.update({attribute[2][0] : attribute[2][1]})
-                print("start:",dict['startTime'],"end:",dict['endTime'],"speaker:",dict['speaker'])
+            attri_spk = Turn.items()
+            if(len(attri_spk)==3):
+                dict.update({attri_spk[0][0] : attri_spk[0][1]})
+                dict.update({attri_spk[1][0] : attri_spk[1][1]})
+                dict.update({attri_spk[2][0] : attri_spk[2][1]})
+                #print("speaker:",dict['speaker'])
+                for Sync in Turn.findall('Sync'):
+                    attri_sync = Sync.items();
+                    dict.update({'time[',index,']' : attri_sync[1]})
+                    print(dict['time[0]'])

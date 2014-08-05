@@ -29,7 +29,7 @@ def Gettime(content):
     return Time
 
 i=0
-f = open('test.trs','r',encoding='UTF-8')    
+f = open('part2_unittest_input/input.trs','r',encoding='UTF-8')    
 while (i<3):
     content=(f.readline())
     print(GetSpeak(content))

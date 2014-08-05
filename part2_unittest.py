@@ -3,14 +3,14 @@ import trs_try as ty
 
 class CalculatorTest(unittest.TestCase):		
 	#content 有字的翻譯
-	input=open('input.trs','r',encoding='UTF-8')  
+	input=open('part2_unittest_input/input.trs','r',encoding='UTF-8')
 	##file's content
 	'''<Turn speaker="spk9" startTime="165.166" endTime="166.172">
 			<Sync time="165.166"/>
 			梅子呢//<ruby><rb>mui-zui4</rb><rt>梅子</rt></ruby> <ruby><rb>le3</rb><rt>呢</rt></ruby>
 			</Turn>'''
 
-	intput_1=open('input_1.trs','r',encoding='UTF-8') 
+	intput_1=open('part2_unittest_input/input_1.trs','r',encoding='UTF-8')
 	##file's content 
 	'''<Turn speaker="spk1" startTime="89.798" endTime="97.052">
 	<Sync time="89.798"/>
@@ -22,7 +22,7 @@ class CalculatorTest(unittest.TestCase):
 	</Turn>'''
 
 	##漢羅	()
-	input_2=open('input_2.trs','r',encoding='UTF-8') 
+	input_2=open('part2_unittest_input/input_2.trs','r',encoding='UTF-8') 
 	##file's content
 	'''<Turn speaker="spk1" startTime="0.000000" endTime="1773.844">
 	<Sync time="175.477"/>

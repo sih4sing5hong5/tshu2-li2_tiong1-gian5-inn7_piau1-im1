@@ -3,10 +3,12 @@ import trs_try as ty
 
 class CalculatorTest(unittest.TestCase):		
 	#content 有字的翻譯
-	input="""<Turn speaker="spk9" startTime="165.166" endTime="166.172">
+	input=open('test.trs','r',encoding='UTF-8')  
+	##content 
+	'''<Turn speaker="spk9" startTime="165.166" endTime="166.172">
 			<Sync time="165.166"/>
 			梅子呢//<ruby><rb>mui-zui4</rb><rt>梅子</rt></ruby> <ruby><rb>le3</rb><rt>呢</rt></ruby>
-			</Turn>"""
+			</Turn>'''
 
 	intput_1="""<Turn speaker="spk1" startTime="89.798" endTime="97.052">
 	<Sync time="89.798"/>

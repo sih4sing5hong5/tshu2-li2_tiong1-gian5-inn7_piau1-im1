@@ -30,10 +30,10 @@ def Gettime(content):
 
 i=0
 f = open('part2_unittest_input/input.trs','r',encoding='UTF-8')    
-while (i<3):
+while True:
     content=(f.readline())
     print(GetSpeak(content))
     print(Gettime(content))
     print(Getcontent(f,content))
-    i=i+1
+    if not content:break
 f.close()

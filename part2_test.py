@@ -29,9 +29,11 @@ def Gettime(content):
     return Time
 
 i=0
-f = open('part2_unittest_input/input.trs','r',encoding='UTF-8')    
+f = open('part2_trs_test/PTSN_20121116-zy-121126-121210-121216.trs','r',encoding='UTF-8')    
 while True:
+    print("1231")
     content=(f.readline())
+    print(content)
     print(GetSpeak(content))
     print(Gettime(content))
     print(Getcontent(f,content))

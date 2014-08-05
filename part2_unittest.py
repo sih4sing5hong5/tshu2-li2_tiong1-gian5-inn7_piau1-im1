@@ -9,8 +9,10 @@ class CalculatorTest(unittest.TestCase):
 		while True:
 		    content=(f.readline())
 		    if not content:break
-		    if ty.Getcontent(f,content)!="null-content":
-		    		return (ty.Getcontent(f,content))
+		    filecontent=ty.Getcontent(f,content)
+		    if filecontent!="null-content":
+		    		return filecontent
+		    		break
 		f.close()
 		
 	def getfiletime(self,file):
@@ -18,17 +20,18 @@ class CalculatorTest(unittest.TestCase):
 		while True:
 			time=(f.readline())
 			if not time:break
-			if ty.Gettime(f,time)!="null-Time":
-				return (ty.Gettime(f,time))
+			if ty.Gettime(time)!="null-Time":
+				return (ty.Gettime(time))
 		f.close()
 		
-	def getfilspk(self,file):
+	def getfilespk(self,file):
 		f = open(file,'r',encoding='UTF-8')    
 		while True:
 		    spk=(f.readline())
+		    if (ty.GetSpeak(spk)) !="null-speaker":
+		    		print(ty.GetSpeak(spk))
+		    		return (ty.GetSpeak(spk))
 		    if not spk:break
-		    if ty.Getcontent(f,spk)!="null-speaker":
-		    		return (ty.Getcontent(f,spk))
 		f.close()
 	
 	
@@ -56,7 +59,7 @@ class CalculatorTest(unittest.TestCase):
 				<Sync time="165.166"/>
 				梅子呢//<ruby><rb>mui-zui4</rb><rt>梅子</rt></ruby> <ruby><rb>le3</rb><rt>呢</rt></ruby>
 				</Turn>'''									 
-		self.assertEqual(ty.GetSpeak(input),self.speaker)		
+		self.assertEqual(self.getfilespk(input),self.speaker)		
 		
 	def test_time(self):	
 		#content 有字的翻譯
@@ -66,7 +69,7 @@ class CalculatorTest(unittest.TestCase):
 			<Sync time="165.166"/>
 			梅子呢//<ruby><rb>mui-zui4</rb><rt>梅子</rt></ruby> <ruby><rb>le3</rb><rt>呢</rt></ruby>
 			</Turn>'''			
-		self.assertEqual(ty.Gettime(input),self.starttime)		
+		self.assertEqual(self.getfiletime(input),self.starttime)		
 				
 		
 	def test_content(self):	#content 有字的翻譯
@@ -80,46 +83,46 @@ class CalculatorTest(unittest.TestCase):
 
 
 
-
+'''
 	#input_1	
 	def test_spk1(self):	
 		input1='part2_unittest_input/input_1.trs'
 		##file's content 
-		'''<Turn speaker="spk1" startTime="89.798" endTime="97.052">
+		''''''<Turn speaker="spk1" startTime="89.798" endTime="97.052">
 		<Sync time="89.798"/>
 		ding1-gai4-la3-honnh2,li1-u3-gong1-diorh3-gong1-honnh2-
 		<Sync time="92.017"/>
 		li1-si3-piu4-gi4-huan2-neh2-honnh2-
 		<Sync time="93.783"/>
 		gong1-zit1-le2-kui2,zit3-dionn2-zi2-pior3,li1-dau4-de4-si3-kui2-sann1-mih1-kuan4,e2-zi2-pior3-
-		</Turn>'''				
+		</Turn>''''''				
 		self.assertEqual(ty.GetSpeak(input1),self.speaker1)		
 		
 	def test_starttime1(self):		
 		input1='part2_unittest_input/input_1.trs'
 		##file's content 
-		'''<Turn speaker="spk1" startTime="89.798" endTime="97.052">
+		''''''<Turn speaker="spk1" startTime="89.798" endTime="97.052">
 		<Sync time="89.798"/>
 		ding1-gai4-la3-honnh2,li1-u3-gong1-diorh3-gong1-honnh2-
 		<Sync time="92.017"/>
 		li1-si3-piu4-gi4-huan2-neh2-honnh2-
 		<Sync time="93.783"/>
 		gong1-zit1-le2-kui2,zit3-dionn2-zi2-pior3,li1-dau4-de4-si3-kui2-sann1-mih1-kuan4,e2-zi2-pior3-
-		</Turn>'''
+		</Turn>''''''
 		self.assertEqual(ty.Gettime(input1),self.starttime1)		
 		
 		
 	def test_content1(self):		
 		input1='part2_unittest_input/input_1.trs'
 		##file's content 
-		'''<Turn speaker="spk1" startTime="89.798" endTime="97.052">
+		''''''<Turn speaker="spk1" startTime="89.798" endTime="97.052">
 		<Sync time="89.798"/>
 		ding1-gai4-la3-honnh2,li1-u3-gong1-diorh3-gong1-honnh2-
 		<Sync time="92.017"/>
 		li1-si3-piu4-gi4-huan2-neh2-honnh2-
 		<Sync time="93.783"/>
 		gong1-zit1-le2-kui2,zit3-dionn2-zi2-pior3,li1-dau4-de4-si3-kui2-sann1-mih1-kuan4,e2-zi2-pior3-
-		</Turn>'''
+		</Turn>''''''
 		self.assertEqual(self.getfilecontent(input1),self.talkcontent1)						
 
 
@@ -131,7 +134,7 @@ class CalculatorTest(unittest.TestCase):
 		##漢羅	()
 		input2='part2_unittest_input/input_2.trs'
 		##file's content
-		'''<Turn speaker="spk1" startTime="0.000000" endTime="1773.844">
+		''''''<Turn speaker="spk1" startTime="0.000000" endTime="1773.844">
 		<Sync time="175.477"/>
 		ze1-gan1-na1-ve3-su2-
 		<Event desc="zh" type="language" extent="begin"/>
@@ -144,14 +147,14 @@ class CalculatorTest(unittest.TestCase):
 		-le1-gong1-
 		<Sync time="179.334"/>
 		enn3-ze1-le1-gong1,a2-binn4-a2-zong1-tong4,an1-ne1-gang3-kuan4-honnh2-
-		</Turn>'''
+		</Turn>''''''
 		self.assertEqual(ty.GetSpeak(input2),self.speaker2)		
 		
 	def test_starttime2(self):
 		##漢羅	()
 		input2='part2_unittest_input/input_2.trs'
 		##file's content
-		'''<Turn speaker="spk1" startTime="0.000000" endTime="1773.844">
+		''''''<Turn speaker="spk1" startTime="0.000000" endTime="1773.844">
 		<Sync time="175.477"/>
 		ze1-gan1-na1-ve3-su2-
 		<Event desc="zh" type="language" extent="begin"/>
@@ -164,14 +167,14 @@ class CalculatorTest(unittest.TestCase):
 		-le1-gong1-
 		<Sync time="179.334"/>
 		enn3-ze1-le1-gong1,a2-binn4-a2-zong1-tong4,an1-ne1-gang3-kuan4-honnh2-
-		</Turn>'''
+		</Turn>''''''
 		self.assertEqual(ty.Gettime(input2),self.starttime2)		
 		
 	def test_content2(self):		
 		##漢羅	()
 		input2='part2_unittest_input/input_2.trs'
 		##file's content
-		'''<Turn speaker="spk1" startTime="0.000000" endTime="1773.844">
+		''''''<Turn speaker="spk1" startTime="0.000000" endTime="1773.844">
 		<Sync time="175.477"/>
 		ze1-gan1-na1-ve3-su2-
 		<Event desc="zh" type="language" extent="begin"/>
@@ -184,9 +187,9 @@ class CalculatorTest(unittest.TestCase):
 		-le1-gong1-
 		<Sync time="179.334"/>
 		enn3-ze1-le1-gong1,a2-binn4-a2-zong1-tong4,an1-ne1-gang3-kuan4-honnh2-
-		</Turn>'''
+		</Turn>''''''
 		self.assertEqual(self.getfilecontent(input2),self.talkcontent2)						
 
-
+'''
 if __name__ == '__main__':
 		unittest.main()		

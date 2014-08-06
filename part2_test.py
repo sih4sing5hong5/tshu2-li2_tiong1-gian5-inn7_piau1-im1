@@ -1,9 +1,9 @@
 
 def GetSpeak(content):
     speaker=""
-    if content.find("speaker")!=(-1):
+    if content.find("speaker=")!=(-1):
         for i in range(4):
-            speaker=speaker+content[int(content.find("speaker")+9+i)]
+            speaker=speaker+content[int(content.find("speaker=")+9+i)]
     else:
         speaker="null-speaker"
     return speaker		
@@ -34,8 +34,17 @@ while True:
     print("1231")
     content=(f.readline())
     print(content)
-    print(GetSpeak(content))
-    print(Gettime(content))
-    print(Getcontent(f,content))
+    spk=GetSpeak(content)
+    tim=Gettime(content)
+    cont=Getcontent(f,content)
+    if spk !="null-speaker":
+        print("spk!")
+        print(spk)
+    elif tim !="null-Time":
+        print("tim!")
+        print(tim)
+    elif cont !="null-content":
+        print("cont!")
+        print(cont)
     if not content:break
 f.close()

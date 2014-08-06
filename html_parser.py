@@ -1,12 +1,10 @@
 from html.parser import HTMLParser
-#global index, dict
+
 index=0
 dict={}
 file = open('vvrs01-20130301 (20130316)-0416.trs','r',encoding='utf-8')
 data = file.read().replace('\t',"")
 data2 =data.replace('\n',"")
-#data.replace("\t", "")
-#print(data2)
  
 class MyParser(HTMLParser):
 #    def handle_startendtag(self, tag, attrs):
@@ -14,14 +12,16 @@ class MyParser(HTMLParser):
 #             print(attrs)
             
     def handle_data(self, data): 
-        if(self.is_cn_char(data[0])):
-            """存入字典"""
-            global index
-            index = self.update_dict(index, dict, data)
-               
-        elif(data[0]=="-" or data[0]==" "):
-            """直接接上一行"""
-            self.append_dict(index, dict, data)   
+        if(len(data) >= 2):
+            if(self.is_cn_char(data[0]) or (self.is_cn_char(data[1]) and data[0]==" ")):
+                """存入字典"""
+                global index
+                index = self.update_dict(index, dict, data)
+                #print(data[1])
+                   
+            elif(data[0]=="-" or data[0]==" "):
+                """直接接上一行"""
+                self.append_dict(index, dict, data)   
     
     def is_cn_char(self, i): 
         """判斷是否為中文"""
@@ -40,10 +40,13 @@ class MyParser(HTMLParser):
         tmp.append(data)
         tmp1=''.join(tmp)
         dict.update({index_tmp:tmp1})
+        
+#     def change_data_value(self,data):
+#         tmp = list(data)
+#         tmp[0]=""
+#         "".join(tmp)
          
 parser = MyParser(strict=False)
 parser.feed(data2)
-#data = open("xml_test.trs",'r', encoding='utf-8')
-#print(data.readlines())
 for i in range(len(dict)):
-     print(dict[i])
+      print(dict[i])

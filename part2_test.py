@@ -33,17 +33,28 @@ def Gettime(content):
 
 i=0
 cont=" "
+starttime="0"
+startspk="null-speaker"
+nowspk="null-speaker"
+startcont="null-content"
+nowcont="null-content"
 f = open('part2_trs_test/PTSN_20121116-zy-121126-121210-121216.trs','r',encoding='UTF-8')    
-while True:
+while i<100:
     content=(f.readline())
     spk=GetSpeak(content)
     tim=Gettime(content)
     cont=Getcontent(f,content,cont)
+    i=i+1
     if spk !="null-speaker":
-        print(spk)
-    if tim !="null-Time":
-        print(tim)
+        nowspk=spk
     if cont !="null-content":
-        print(cont)
-    if not content:break
+        nowcont=cont
+        print("------"+nowcont)
+    if tim !="null-Time":
+        if starttime != tim:
+            print(startspk+" || "+starttime+" || "+tim+" || "+startcont)
+            starttime=tim
+            startspk=nowspk
+            startcont=nowcont
+            
 f.close()

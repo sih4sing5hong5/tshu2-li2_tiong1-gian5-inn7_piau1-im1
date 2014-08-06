@@ -5,14 +5,21 @@ class CalculatorTest(unittest.TestCase):
 
 	##read file content
 	def getfilecontent(self,file):
+		filecontent="null-content"
 		f = open(file,'r',encoding='UTF-8')    
 		while True:
-		    content=(f.readline())
-		    if not content:break
-		    filecontent=ty.Getcontent(f,content)
-		    if filecontent!="null-content":
-		    		return filecontent
-		    		break
+			content=(f.readline())
+			print("!!!!!!!!!!")
+			print(content)
+			print("------")
+			print(filecontent)
+			if not content:break
+			if filecontent!="null-content":
+				print("^^^^^^^^^^^^^^^^^^^^")
+				if content.find("Event desc=") == (-1):
+					return filecontent
+					break
+			filecontent=ty.Getcontent(f,content,filecontent)
 		f.close()
 		
 	def getfiletime(self,file):
@@ -29,7 +36,6 @@ class CalculatorTest(unittest.TestCase):
 		while True:
 		    spk=(f.readline())
 		    if (ty.GetSpeak(spk)) !="null-speaker":
-		    		print(ty.GetSpeak(spk))
 		    		return (ty.GetSpeak(spk))
 		    if not spk:break
 		f.close()

@@ -15,7 +15,7 @@ def Getcontent(file,content,cont):
         content=cont+content
     else:
         content="null-content"
-    return content.replace("\n"," ")
+    return content.replace("\n","")
 
 def Gettime(content):
     Time=""

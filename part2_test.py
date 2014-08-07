@@ -30,7 +30,7 @@ def Gettime(content):
     else:
         Time="null-Time"
     return Time
-
+inputfile="blktc25-zy-20131010-0222-1030226.trs"
 i=0
 cont=" "
 starttime="0"
@@ -41,7 +41,7 @@ nowspk="null-speaker"
 startcont="null-content"
 nowcont="null-content"
 outputfile=""
-f = open('part2_trs_test/blktc25-zy-20131010-0222-1030226.trs','r',encoding='UTF-8')    
+f = open('part2_trs_test/'+inputfile,'r',encoding='UTF-8')    
 while True:
     content=(f.readline())
     if not content:
@@ -72,5 +72,7 @@ while True:
         nowcont=cont
             
 f.close()
-
-print (outputfile)
+#print (outputfile)
+f=open('part2_transform_txt/'+inputfile[0:(len(inputfile)-3):1]+'txt','w')
+f.write(outputfile)
+f.close()

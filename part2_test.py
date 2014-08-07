@@ -40,12 +40,15 @@ endspk="null-speaker"
 nowspk="null-speaker"
 startcont="null-content"
 nowcont="null-content"
+outputfile=""
 f = open('part2_trs_test/blktc25-zy-20131010-0222-1030226.trs','r',encoding='UTF-8')    
 while True:
     content=(f.readline())
     if not content:
-        print(startspk+" || "+starttime+" || "+endtime+" || "+startcont)
-        print(endspk+" || "+endtime+" || "+"end"+" || "+nowcont)
+        #print(startspk+" || "+starttime+" || "+endtime+" || "+startcont)
+        #print(endspk+" || "+endtime+" || "+"end"+" || "+nowcont)
+        outputfile=outputfile+startspk+" | "+starttime+" || "+endtime+" ||| "+startcont+"\n"
+        outputfile=outputfile+endspk+" | "+endtime+" || "+"end"+" ||| "+nowcont+"\n"
         break
     spk=GetSpeak(content)
     tim=Gettime(content)
@@ -58,7 +61,8 @@ while True:
             if starttime == "0" :
                 startspk=nowspk
             if endtime !="0" and endtime.find("0.0")==(-1):
-                print(startspk+" || "+starttime+" || "+endtime+" || "+startcont)
+                #print(startspk+" || "+starttime+" || "+endtime+" || "+startcont)
+                outputfile=outputfile+startspk+" | "+starttime+" || "+endtime+" ||| "+startcont+"\n"
             starttime=endtime
             endtime=tim
             startspk=endspk
@@ -68,3 +72,5 @@ while True:
         nowcont=cont
             
 f.close()
+
+print (outputfile)

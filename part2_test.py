@@ -40,7 +40,7 @@ endspk="null-speaker"
 nowspk="null-speaker"
 startcont="null-content"
 nowcont="null-content"
-f = open('part2_trs_test/PTSN_20121116-zy-121126-121210-121216.trs','r',encoding='UTF-8')    
+f = open('part2_trs_test/0805-220002-111206-120106.trs','r',encoding='UTF-8')    
 while True:
     content=(f.readline())
     if not content:
@@ -55,9 +55,9 @@ while True:
         nowspk=spk
     if tim !="null-Time" :
         if starttime != tim:
-            if starttime =="0":
+            if starttime == "0" :
                 startspk=nowspk
-            if endtime !="0":
+            if endtime !="0" and endtime.find("0.0")==(-1):
                 print(startspk+" || "+starttime+" || "+endtime+" || "+startcont)
             starttime=endtime
             endtime=tim

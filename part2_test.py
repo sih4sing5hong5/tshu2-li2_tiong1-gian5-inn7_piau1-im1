@@ -40,7 +40,7 @@ endspk="null-speaker"
 nowspk="null-speaker"
 startcont="null-content"
 nowcont="null-content"
-f = open('part2_trs_test/1115-220002-120825(1017)121114.trs','r',encoding='UTF-8')    
+f = open('part2_trs_test/20110626-zy-120502-0620-120718.trs','r',encoding='UTF-8')    
 while True:
     content=(f.readline())
     if not content:

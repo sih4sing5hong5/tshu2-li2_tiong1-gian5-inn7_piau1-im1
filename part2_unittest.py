@@ -18,6 +18,7 @@ class CalculatorTest(unittest.TestCase):
 				print("^^^^^^^^^^^^^^^^^^^^")
 				if content.find("Event desc=") == (-1):
 					return filecontent
+					f.close()
 					break
 			filecontent=ty.Getcontent(f,content,filecontent)
 		f.close()

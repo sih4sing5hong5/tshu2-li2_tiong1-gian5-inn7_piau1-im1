@@ -1,7 +1,5 @@
 ﻿import unittest
-import sys
-sys.path.append("../src")
-import part2_test as ty
+from src.part2_test import Getcontent, Gettime, GetSpeak
 
 class CalculatorTest(unittest.TestCase):	
 
@@ -11,18 +9,13 @@ class CalculatorTest(unittest.TestCase):
 		f = open(file,'r',encoding='UTF-8')    
 		while True:
 			content=(f.readline())
-			print("!!!!!!!!!!")
-			print(content)
-			print("------")
-			print(filecontent)
 			if not content:break
 			if filecontent!="null-content":
-				print("^^^^^^^^^^^^^^^^^^^^")
 				if content.find("Event desc=") == (-1):
 					return filecontent
 					f.close()
 					break
-			filecontent=ty.Getcontent(f,content,filecontent)
+			filecontent=Getcontent(f,content,filecontent)
 		f.close()
 		
 	def getfiletime(self,file):
@@ -30,16 +23,16 @@ class CalculatorTest(unittest.TestCase):
 		while True:
 			time=(f.readline())
 			if not time:break
-			if ty.Gettime(time)!="null-Time":
-				return (ty.Gettime(time))
+			if Gettime(time)!="null-Time":
+				return (Gettime(time))
 		f.close()
 		
 	def getfilespk(self,file):
 		f = open(file,'r',encoding='UTF-8')    
 		while True:
 		    spk=(f.readline())
-		    if (ty.GetSpeak(spk)) !="null-speaker":
-		    		return (ty.GetSpeak(spk))
+		    if (GetSpeak(spk)) !="null-speaker":
+		    		return (GetSpeak(spk))
 		    if not spk:break
 		f.close()
 	

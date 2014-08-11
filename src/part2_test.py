@@ -31,7 +31,7 @@ def Gettime(content):
     else:
         Time="null-Time"
     return Time
-inputfile="1115-220002-120825(1017)121114.trs"
+inputfile="PTSN_20121116-zy-121126-121210-121216.trs"
 i=0
 cont=" "
 starttime="0"

@@ -1,5 +1,7 @@
 ﻿import unittest
-from src.part2_test import Getcontent, Gettime, GetSpeak
+import sys
+sys.path.append("../corpus_web/src/")
+import 
 
 class CalculatorTest(unittest.TestCase):	
 
@@ -26,18 +28,18 @@ class CalculatorTest(unittest.TestCase):
 			if Gettime(time)!="null-Time":
 				return (Gettime(time))
 		f.close()
-		
+	
 	def getfilespk(self,file):
 		f = open(file,'r',encoding='UTF-8')    
 		while True:
-		    spk=(f.readline())
-		    if (GetSpeak(spk)) !="null-speaker":
-		    		return (GetSpeak(spk))
-		    if not spk:break
+			spk=(f.readline())
+			if (GetSpeak(spk)) !="null-speaker":
+				return (GetSpeak(spk))
+			if not spk:break
 		f.close()
-	
-	
-	#input	
+
+
+#input	
 	def setUp(self):
 		self.speaker="spk9"
 		self.starttime="165.166"
@@ -47,12 +49,12 @@ class CalculatorTest(unittest.TestCase):
 		self.starttime1="89.798"
 		self.talkcontent1="ding1-gai4-la3-honnh2,li1-u3-gong1-diorh3-gong1-honnh2-"
 		
-		
+	
 		self.speaker2="spk1"
 		self.starttime2="175.477"
 		self.talkcontent2="ze1-gan1-na1-ve3-su2- 坤元,坤元 -si2-vor3-honnh2, 坤元法師 -le1-gong1-"
-		
-		
+	
+	
 	def test_spk(self):	
 		#content 有字的翻譯
 		input='part2_unittest_input/input.trs'
@@ -62,7 +64,7 @@ class CalculatorTest(unittest.TestCase):
 				梅子呢//<ruby><rb>mui-zui4</rb><rt>梅子</rt></ruby> <ruby><rb>le3</rb><rt>呢</rt></ruby>
 				</Turn>'''									 
 		self.assertEqual(self.getfilespk(input),self.speaker)		
-		
+	
 	def test_starttime(self):	
 		#content 有字的翻譯
 		input='part2_unittest_input/input.trs'
@@ -73,7 +75,7 @@ class CalculatorTest(unittest.TestCase):
 			</Turn>'''			
 		self.assertEqual(self.getfiletime(input),self.starttime)		
 				
-		
+	
 	def test_content(self):	#content 有字的翻譯
 		input='part2_unittest_input/input.trs'
 		##file's content

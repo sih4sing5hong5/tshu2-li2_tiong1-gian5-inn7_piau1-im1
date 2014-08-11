@@ -1,0 +1,44 @@
+<Trans scribe="ZiiYu" audio_filename="blktc05" version="8" version_date="140220">
+    <Speakers>
+        <Speaker id="spk1" name="孩子們" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk2" name="文溪" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk3" name="文森" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk4" name="朝森" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk5" name="月菁" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk6" name="文溪妻" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk7" name="朝元" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk8" name="關師父" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk9" name="蔡太太" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk10" name="月梅" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk11" name="學生們" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk12" name="一條龍" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk13" name="同學1" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk14" name="同學2" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk15" name="女同學" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk16" name="小王" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk17" name="阿得" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk18" name="正雄" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk19" name="高腳仔" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk20" name="文溪一家人" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk21" name="文溪母" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk22" name="老師" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk23" name="學生" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk24" name="同事" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk25" name="陳仔" check="no" dialect="native" accent="" scope="local"/>
+        <Speaker id="spk26" name="張仔" check="no" dialect="native" accent="" scope="local"/>
+    </Speakers>
+    <Episode>
+        <Section type="report" startTime="0" endTime="2880.046">
+            <Turn startTime="0" endTime="129.14">
+                <Sync time="0"/>
+                <Event desc="empty" type="noise" extent="instantaneous"/>
+            </Turn>
+            <Turn speaker="spk1" startTime="129.14" endTime="132.733">
+                <Sync time="129.14"/>
+                爸... 乖//a2-dor4-sang3 ,a2-dor4-sang3 dor4-sang3
+                <Sync time="131.26"/>
+                爸...//dor4-sang3
+            </Turn>
+        </Section>
+    </Episode>
+</Trans>

@@ -1,3 +1,4 @@
+import os
 
 def GetSpeak(content):
     speaker=""
@@ -41,7 +42,9 @@ nowspk="null-speaker"
 startcont="null-content"
 nowcont="null-content"
 outputfile=""
-f = open('part2_trs_test/'+inputfile,'r',encoding='UTF-8')    
+curDir=os.path.dirname(__file__)
+a=os.path.join(curDir,'part2_trs_test',inputfile)
+f = open(a,'r',encoding='UTF-8')    
 while True:
     content=(f.readline())
     if not content:
@@ -73,6 +76,7 @@ while True:
             
 f.close()
 #print (outputfile)
-f=open('part2_transform_txt/'+inputfile[0:(len(inputfile)-3):1]+'txt','w')
+aaaa=os.path.join(curDir,'part2_transform_txt',inputfile[0:(len(inputfile)-3):1]+'txt')
+f=open(aaaa,'w')
 f.write(outputfile)
 f.close()

@@ -1,7 +1,7 @@
 ﻿import unittest
 import sys
-sys.path.append("../corpus_web/src/")
-import 
+import src.part2_test as ty
+
 
 class CalculatorTest(unittest.TestCase):	
 
@@ -17,7 +17,7 @@ class CalculatorTest(unittest.TestCase):
 					return filecontent
 					f.close()
 					break
-			filecontent=Getcontent(f,content,filecontent)
+			filecontent=ty.Getcontent(f,content,filecontent)
 		f.close()
 		
 	def getfiletime(self,file):
@@ -25,16 +25,16 @@ class CalculatorTest(unittest.TestCase):
 		while True:
 			time=(f.readline())
 			if not time:break
-			if Gettime(time)!="null-Time":
-				return (Gettime(time))
+			if ty.Gettime(time)!="null-Time":
+				return (ty.Gettime(time))
 		f.close()
 	
 	def getfilespk(self,file):
 		f = open(file,'r',encoding='UTF-8')    
 		while True:
 			spk=(f.readline())
-			if (GetSpeak(spk)) !="null-speaker":
-				return (GetSpeak(spk))
+			if (ty.GetSpeak(spk)) !="null-speaker":
+				return (ty.GetSpeak(spk))
 			if not spk:break
 		f.close()
 

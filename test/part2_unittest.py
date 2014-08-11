@@ -1,4 +1,6 @@
 ﻿import unittest
+import sys
+sys.path.append("../src")
 import part2_test as ty
 
 class CalculatorTest(unittest.TestCase):	

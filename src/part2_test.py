@@ -1,4 +1,5 @@
 import os
+import json
 
 def GetSpeak(content):
     speaker=""
@@ -32,7 +33,7 @@ def Gettime(content):
         Time="null-Time"
     return Time
 inputfile="PTSN_20121116-zy-121126-121210-121216.trs"
-i=0
+i=1
 cont=" "
 starttime="0"
 endtime="0"
@@ -42,6 +43,11 @@ nowspk="null-speaker"
 startcont="null-content"
 nowcont="null-content"
 outputfile=""
+outputjsonspk=[]
+outputjsonstart=[]
+outputjsonend=[]
+outputjsoncont=[]
+
 curDir=os.path.dirname(__file__)
 a=os.path.join(curDir,'part2_trs_test',inputfile)
 f = open(a,'r',encoding='UTF-8')    
@@ -50,13 +56,20 @@ while True:
     if not content:
         #print(startspk+" || "+starttime+" || "+endtime+" || "+startcont)
         #print(endspk+" || "+endtime+" || "+"end"+" || "+nowcont)
-        outputfile=outputfile+startspk+" | "+starttime+" || "+endtime+" ||| "+startcont+"\n"
+        outputjsonspk.append(startspk)
+        outputjsonstart.append(starttime)
+        outputjsonend.append(endtime)
+        outputjsoncont.append(startcont)
+        i=i+1
         outputfile=outputfile+endspk+" | "+endtime+" || "+"end"+" ||| "+nowcont+"\n"
+        outputjsonspk.append(endspk)
+        outputjsonstart.append(endtime)
+        outputjsonend.append("end")
+        outputjsoncont.append(nowcont)
         break
     spk=GetSpeak(content)
     tim=Gettime(content)
     cont=Getcontent(f,content,cont)
-    i=i+1
     if spk !="null-speaker":
         nowspk=spk
     if tim !="null-Time" :
@@ -65,7 +78,10 @@ while True:
                 startspk=nowspk
             if endtime !="0" and endtime.find("0.0")==(-1):
                 #print(startspk+" || "+starttime+" || "+endtime+" || "+startcont)
-                outputfile=outputfile+startspk+" | "+starttime+" || "+endtime+" ||| "+startcont+"\n"
+                outputjsonspk.append(startspk)
+                outputjsonstart.append(starttime)
+                outputjsonend.append(endtime)
+                outputjsoncont.append(startcont)
             starttime=endtime
             endtime=tim
             startspk=endspk
@@ -78,5 +94,11 @@ f.close()
 #print (outputfile)
 aaaa=os.path.join(curDir,'part2_transform_txt',inputfile[0:(len(inputfile)-3):1]+'txt')
 f=open(aaaa,'w')
+f.write(outputfile)
+f.close()
+outputjsonfile={'speaker':outputjsonspk,'starttime':outputjsonstart,'endtime':outputjsonend,'content':outputjsoncont}
+outputjsonfile2=json.dumps(outputjsonfile)
+aaaab=os.path.join(curDir,'part2_transform_txt',inputfile[0:(len(inputfile)-3):1]+'json')
+f=open(aaaab,'w')
 f.write(outputfile)
 f.close()

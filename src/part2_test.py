@@ -98,7 +98,7 @@ f.write(outputfile)
 f.close()
 outputjsonfile={'speaker':outputjsonspk,'starttime':outputjsonstart,'endtime':outputjsonend,'content':outputjsoncont}
 outputjsonfile2=json.dumps(outputjsonfile)
-aaaab=os.path.join(curDir,'part2_transform_txt',inputfile[0:(len(inputfile)-3):1]+'json')
+aaaab=os.path.join(curDir,'part2_transform_json',inputfile[0:(len(inputfile)-3):1]+'json')
 f=open(aaaab,'w')
 f.write(outputjsonfile2)
 f.close()

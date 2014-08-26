@@ -79,7 +79,6 @@ class 分類檔名測試(unittest.TestCase):
 		'_Chen Tsau_40-20131119-20131208.trs',
 		'_Chen Tsau_40-20131119.trs']
 
-
 		結果 = [{'name':'_Chen Tsau_30',
 		 '0':'20131103 _Chen Tsau_30-20131103.trs',
 		 '1':'20131115 _Chen Tsau_30-20131103-20131115.trs',
@@ -88,7 +87,7 @@ class 分類檔名測試(unittest.TestCase):
 		 '0':'20131119 _Chen Tsau_40-20131119.trs',
 		 '1':'20131208 _Chen Tsau_40-20131119-20131208.trs',
 		 '2':'20131225 _Chen Tsau_40-20131119-20131208-20131225.trs'}]
-		#self.assertEqual(self.(原來), 結果)
+		self.assertEqual(檔案分類(原來), 結果)
 		
 		
 	def test_錯誤日期格式(self):

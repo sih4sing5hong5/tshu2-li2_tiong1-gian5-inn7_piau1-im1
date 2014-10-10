@@ -5,7 +5,9 @@ from 臺灣言語工具.表單.肯語句連詞 import 肯語句連詞
 from 臺灣言語工具.斷詞.拄好長度辭典揣詞 import 拄好長度辭典揣詞
 from 臺灣言語工具.斷詞.連詞揀集內組 import 連詞揀集內組
 from 臺灣言語工具.解析整理.字物件篩仔 import 字物件篩仔
-語言模型檔 = '例句.lm'
+import os
+這馬所在 = os.path.dirname(__file__)
+語言模型檔 = os.path.join(這馬所在, '例句.lm')
 class 揣全漢全羅:
 	辭典揣詞 = 拄好長度辭典揣詞()
 	揀集內組 = 連詞揀集內組()

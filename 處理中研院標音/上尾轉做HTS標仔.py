@@ -44,7 +44,7 @@ class 上尾轉做HTS標仔:
 			標仔 = self.轉合成標仔.句物件轉標仔(音值句物件)
 			這馬目錄 = os.path.dirname(os.path.abspath(__file__))
 			語料資料夾名 = os.path.join(這馬目錄, '..', 'HTS標仔')
-			聲韻 = self.轉合成標仔.提出標仔主要音值(標仔)
+			聲韻 = self.轉合成標仔.提出標仔陣列主要音值(標仔)
 			for 資料夾,資料 in zip(['full','mono'],[標仔,聲韻]):
 				輸出資料夾名=os.path.join(語料資料夾名, 資料夾)
 				os.makedirs(輸出資料夾名, exist_ok=True)

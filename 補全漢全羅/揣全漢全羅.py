@@ -14,9 +14,9 @@ class 揣全漢全羅:
 	_篩仔 = 字物件篩仔()
 	def __init__(self, 斷詞=True):
 		if 斷詞:
-			辭典, 模型 = 斷字典, 斷字語言模型
-		else:
 			辭典, 模型 = 斷詞典, 斷詞語言模型
+		else:
+			辭典, 模型 = 斷字典, 斷字語言模型
 		with gzip.open(辭典, 'rb') as f:
 			self.辭典 = pickle.load(f)
 		self.連詞 = 肯語句連詞(模型)

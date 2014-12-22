@@ -1,0 +1,2969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="(unknown)" audio_filename="1001-230001" version="21" version_date="120111">
+<Speakers>
+<Speaker id="spk1" name="主持人" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="酥餅" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="xx"/>
+</Topics>
+<Episode>
+<Section type="report" topic="to1" startTime="0" endTime="1618.546">
+<Turn speaker="spk1" startTime="0.000000" endTime="18.938">
+<Sync time="0.000000"/>
+gok1-ui2-cin3-ai3 tiann2-ziong4-bing2-iu4,lan1 dor4-dng4-ai2-gau4 vang3-diong1-e2-gok1-ga1
+<Sync time="3.461"/>
+giann1
+<Event desc="gin2-a1" type="lexical" extent="previous"/>
+-si3 nng3-cing1-kong1-zap3-ni5,gau1 ah3 zap3-queh3-ce2-it2,le1-bai4-qo2 e2 am4-si5
+<Sync time="9.003"/>
+dong2-si5-ma3-si3 vang3-diong1-e2-gok1-ga1,gau1-ba4-zap3-zip1 e2 bor4-cut2
+<Sync time="12.814"/>
+lan1-lai2-gau4 zat3-it1-diam4,zit1-e2-dan2-uan5 annh3ze3-di3 qua1-e2-binn1-a1 si3
+<Sync time="16.521"/>
+so2-biann4-honnh2 m2 so2-biann4
+</Turn>
+<Turn speaker="spk2" startTime="18.938" endTime="19.211">
+<Sync time="18.938"/>
+mh2
+</Turn>
+<Turn speaker="spk1" startTime="19.211" endTime="20.668">
+<Sync time="19.211"/>
+zit1-le2 mng3-li1 zit3-le2-vun3-de5,hor1-vo3-
+</Turn>
+<Turn speaker="spk2" startTime="20.668" endTime="20.999">
+<Sync time="20.668"/>
+mh3-hmh1
+</Turn>
+<Turn speaker="spk1" startTime="20.999" endTime="31.344">
+<Sync time="20.999"/>
+zit1-le2-gue4-ki3-honnh2 ca2-but1-dor3,li1-lai5-an1-ne1 lai2-gah1 zing2-qo3-gai4
+<Sync time="25.111"/>
+qua1-u3-zu4-i3-honnh2 long1-u3 za4-den3-nau4-lai5
+<Sync time="27.306"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="30.245"/>
+li1-veh1 zionn3-zet1-vok3 honnh2
+</Turn>
+<Turn speaker="spk2" startTime="31.344" endTime="32.423">
+<Sync time="31.344"/>
+qua1-giann5
+<Event desc="gin2-a1" type="lexical" extent="previous"/>
+-lit1 ma3-u2-a3
+</Turn>
+<Turn speaker="spk1" startTime="32.423" endTime="33.416">
+<Sync time="32.423"/>
+ah1 gi2-sit1-u2-a2
+</Turn>
+<Turn speaker="spk2" startTime="33.416" endTime="38.915">
+<Sync time="33.416"/>
+
+<Event desc="mix" type="noise" extent="instantaneous"/>
+
+<Sync time="33.916"/>
+qua1 diorh2 qua1-zit1-ma4,iong3-ciu1-gi1 dor3-e3-dang4,zor4-gang3-kuan4 e2 dai3-zi3
+<Sync time="37.115"/>
+
+<Event desc="laugh" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.915" endTime="62.241">
+<Sync time="38.915"/>
+hor4 so1-i4
+<Sync time="39.637"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="41.993"/>
+hit1-le2 
+<Sync time="42.836"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="45.061"/>
+ngh3 zue4-gin2 huat1-sing1-e2-dai3-zi3-honnh2-
+<Sync time="47.587"/>
+u3-zit3-giann2-dai3-zi3,gi2-sit1 i2-ma3-si3 gah1-
+<Event desc="zh" type="language" extent="begin"/>
+邏輯
+<Event desc="zh" type="language" extent="end"/>
+u3-zit3-diam1-a1 guan2-he2
+<Sync time="51.105"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="54.582"/>
+dor3-si3-gong1-neh2 honnh2,zit1-le2 
+<Event desc="zh" type="language" extent="begin"/>
+邏輯
+<Event desc="zh" type="language" extent="end"/>
+ gi2-sit1 vor2-it1-ding3 si3
+<Sync time="58.123"/>
+e3-dang4-te3-lai2 zin2-ziann4 gai1-guat1-dai3-zi3
+<Sync time="60.02"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+ 
+</Turn>
+<Turn speaker="spk2" startTime="62.241" endTime="64.399">
+<Sync time="62.241"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="62.708"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+邏輯
+<Event desc="zh" type="language" extent="end"/>
+ na3-diorh2,diorh2
+</Turn>
+<Turn speaker="spk1" startTime="64.399" endTime="69.522">
+<Sync time="64.399"/>
+mh3 
+<Sync time="64.777"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="66.732"/>
+lan1-mui1-zit3-e2-lang5 m3-si3-gong1,gau4-zue4-au2
+<Sync time="68.631"/>
+zin2-ziann4-iong3-
+</Turn>
+<Turn speaker="spk2" startTime="69.522" endTime="71.784">
+<Sync time="69.522"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="71.784" endTime="90.949">
+<Sync time="71.784"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="74.945"/>
+ze1-gui2-e2-gue4-ting5
+<Sync time="75.795"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="78.851"/>
+hor1-vo3-honnh2,zue4-gin2-
+<Sync time="80.441"/>
+ngh3 zit1-le2 eh1,li1-u3-gam1-gak2 honnh3
+<Sync time="83.934"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="86.105"/>
+zing2-zit3-zam2-a4-la3-honnh2
+<Sync time="88.001"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="90.949" endTime="91.621">
+<Sync time="90.949"/>
+mh3-hmh1
+</Turn>
+<Turn speaker="spk1" startTime="91.621" endTime="109.656">
+<Sync time="91.621"/>
+ah1 zue4-gin2 in2-ui3,u3-zit1-le2 
+<Event desc="zh" type="language" extent="begin"/>
+九一九事件之後
+<Event desc="zh" type="language" extent="end"/>
+  dor3-si3-gong1-zit1-le2-
+<Sync time="96.392"/>
+gor2-iong5-im2-zui4 liau1-au2 neh3-honnh2,li1-huat1-hen3 gor2-hiong5-e2-im2-zui4 
+<Sync time="99.555"/>
+zit1-giann3-dai3-zi3,oh2 i2-gah1-
+<Event desc="zh" type="language" extent="begin"/>
+花博
+<Event desc="zh" type="language" extent="end"/>
+ e2,zin2-u3-cia2-biann3 oh2
+<Sync time="103.153"/>
+honnh2 zit1-le2-
+<Sync time="103.906"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="107.102"/>
+zit1-le2 annh3,zit1-le2
+</Turn>
+<Turn speaker="spk2" startTime="109.656" endTime="110.14">
+<Sync time="109.656"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="110.14" endTime="120.379">
+<Sync time="110.14"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="111.925"/>
+m3-gor1-ma3-si3 zin2-gi2-guai3,eh1 vin2-diau3-zor3-cuai3
+<Event desc="cut3-lai3" type="lexical" extent="previous"/>
+ neh3 honnh2
+<Sync time="115.593"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+說陳菊
+<Event desc="zh" type="language" extent="end"/>
+ i2-de3-it1-por1
+<Sync time="117.829"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="120.379" endTime="120.695">
+<Sync time="120.379"/>
+mh3-hmh1
+</Turn>
+<Turn speaker="spk1" startTime="120.695" endTime="131.766">
+<Sync time="120.695"/>
+honnh2 ah1-dong2-len5,or3 
+<Event desc="zh" type="language" extent="begin"/>
+黃昭順
+<Event desc="zh" type="language" extent="end"/>
+ gah1 
+<Event desc="zh" type="language" extent="begin"/>
+楊秋興
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="124.518"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="127.397"/>
+dan3-si3 zue4-gin2-oh2,honnh2 in2-ui3-zit1-le2,dan2-giok2 gong1
+</Turn>
+<Turn speaker="spk2" startTime="131.766" endTime="132.822">
+<Sync time="131.766"/>
+hior4-kun1-ri3-zap3-hun2-zing1-
+</Turn>
+<Turn speaker="spk1" startTime="132.822" endTime="143.932">
+<Sync time="132.822"/>
+gong1-i2-hior4-kun4 li3-zap3-hun2-zing1,ah1 gor1-lai5-lor3-si3 annh3
+<Sync time="135.96"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="138.572"/>
+zit1-e2-dai3-zi3 honnh2
+<Sync time="139.68"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="142.698"/>
+eh2 ze1-veh1-an1-zua1 gai1-sueh3
+</Turn>
+<Turn speaker="spk2" startTime="143.932" endTime="145.426">
+<Sync time="143.932"/>
+annh1 u3 
+<Event desc="zh" type="language" extent="begin"/>
+上升
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="145.426" endTime="148.332411">
+<Sync time="145.426"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="148.332411" endTime="179.871">
+<Sync time="148.332411"/>
+qua1-si3-an1-ne1-gam1-gak2-la3,le3-gong1-
+<Sync time="150.307"/>
+qua1 e3-gi1-qua1,ding1-gai3 di3-so4-hua5-zia1,le1-gong1 
+<Event desc="zh" type="language" extent="begin"/>
+民調
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="154.266"/>
+le3-gong1 
+<Event desc="zh" type="language" extent="begin"/>
+民調
+<Event desc="zh" type="language" extent="end"/>
+ zor3-cuai3
+<Event desc="cut3-lai3" type="lexical" extent="previous"/>
+,
+<Event desc="zh" type="language" extent="begin"/>
+數字會說故事
+<Event desc="zh" type="language" extent="end"/>
+ honnh2
+<Sync time="158.605"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="162.231"/>
+si3-an1-na1 kuann4-zit1-e2-dai3-zi3,gi2-sit1
+<Sync time="165.159"/>
+gi2-sit1 u3-lang2-le1-gong1,a3 
+<Event desc="zh" type="language" extent="begin"/>
+第一波民調陳菊
+<Event desc="zh" type="language" extent="end"/>
+ lak1-cit1-pa1
+<Sync time="169.205"/>
+ah1 gi2-tann1-e2-lang5 uann2-lak1-nng3-pa1,qua1-gam1-gak1-gong1 
+<Sync time="172.617"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="174.815"/>
+u3-dang2-si2-a1 dor3-e3-gong1,ah1 qua1-dor2-im2-zui4 le1-huan5-na2
+<Sync time="177.412"/>
+li1-le1-mng3-qua1 ze1-u2-e2-vor5-e2
+<Sync time="178.711"/>
+qua1-vor2-sionn2-veh1-ga3-li1-gong4-
+</Turn>
+<Turn speaker="spk1" startTime="179.871" endTime="180.621">
+<Sync time="179.871"/>
+diorh1-a2
+</Turn>
+<Turn speaker="spk2" startTime="180.621" endTime="197.727">
+<Sync time="180.621"/>
+diorh1-a2,u3-kor1-ling2 dor3-si3-an1-ne1,so1-i1 in2-ui3 
+<Event desc="zh" type="language" extent="begin"/>
+陳菊
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="183.688"/>
+bun1-de4-e2 
+<Event desc="zh" type="language" extent="begin"/>
+支持度
+<Event desc="zh" type="language" extent="end"/>
+ kah1 
+<Event desc="zh" type="language" extent="begin"/>
+百分比
+<Event desc="zh" type="language" extent="end"/>
+ kah1-ze2-mah3
+<Sync time="186.076"/>
+ah1 so1-i1 vor2-sionn3-veh1 gong4-e2-lang5,dor3-dong2-len5
+<Event desc="zh" type="language" extent="begin"/>
+比例
+<Event desc="zh" type="language" extent="end"/>
+kah1-ze2
+<Sync time="189.871"/>
+ah1 
+<Event desc="zh" type="language" extent="begin"/>
+類似比例
+<Event desc="zh" type="language" extent="end"/>
+ e2 lang5,ah3 zi2-ci2 
+<Event desc="zh" type="language" extent="begin"/>
+楊秋興
+<Event desc="zh" type="language" extent="end"/>
+ e1
+<Sync time="193.463"/>
+ma3 vor2-sionn3-veh1-gong4,zi2-ci2 
+<Event desc="zh" type="language" extent="begin"/>
+黃昭順
+<Event desc="zh" type="language" extent="end"/>
+ ma3 vor2-sionn3-veh1-gong4
+<Sync time="195.719"/>
+so1-i1 
+<Event desc="zh" type="language" extent="begin"/>
+大家同比例降低啊
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="197.727" endTime="198.602">
+<Sync time="197.727"/>
+mh3-hmh2
+</Turn>
+<Turn speaker="spk2" startTime="198.602" endTime="215.757">
+<Sync time="198.602"/>
+qua1-gam1-gak1 kor1-ling2,zi1-si3-zit1-e2 quan2-in1-nia5,dor3-i3-gong1 hit1-le2-zin2-ziann3-e2
+<Sync time="202.179"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+支持度變化
+<Event desc="zh" type="language" extent="end"/>
+ di3-hit1-le2-si2-zun2,
+<Event desc="zh" type="language" extent="begin"/>
+可能不大
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="205.211"/>
+dan3-si3-zue4-gin2 hit1-le2 
+<Event desc="zh" type="language" extent="begin"/>
+藍
+<Event desc="zh" type="language" extent="end"/>
+ de3-gong1 kah1
+<Sync time="209.165"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+偏藍色
+<Event desc="zh" type="language" extent="end"/>
+ e2 
+<Event desc="zh" type="language" extent="begin"/>
+媒體
+<Event desc="zh" type="language" extent="end"/>
+ it1-di3-le1, de1
+<Sync time="212.415"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="215.757" endTime="220.832">
+<Sync time="215.757"/>
+mh3-
+<Sync time="216.401"/>
+iu2-gi2-si3-honnh2
+<Sync time="217.651"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="219.83"/>
+te3-cuai2
+<Event desc="cut1-lai2" type="lexical" extent="previous"/>
+-zior3 honnh2
+</Turn>
+<Turn speaker="spk2" startTime="220.832" endTime="221.187">
+<Sync time="220.832"/>
+diorh1
+</Turn>
+<Turn speaker="spk1" startTime="221.187" endTime="228.798">
+<Sync time="221.187"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="224.1"/>
+gong1-lan1 ngh3 
+<Event desc="zh" type="language" extent="begin"/>
+李鴻源教授
+<Event desc="zh" type="language" extent="end"/>
+so1-gong4-e2
+<Sync time="226.539"/>
+sam1-mih1
+<Event desc="zh" type="language" extent="begin"/>
+治洪池
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="227.471"/>
+
+<Event desc="mix" type="noise" extent="instantaneous"/>
+
+<Sync time="227.895"/>
+ki1-gui2-bo1
+</Turn>
+<Turn speaker="spk2" startTime="228.798" endTime="229.136">
+<Sync time="228.798"/>
+mh2
+</Turn>
+<Turn speaker="spk1" startTime="229.136" endTime="235.693">
+<Sync time="229.136"/>
+ngh3 lak3-e5 za1-ki1-zit3-le5-la3 sann2-mi4-a1-
+<Sync time="231.325"/>
+zinn5 si3-iong3-dui4-dorh2
+<Sync time="232.38"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="234.56"/>
+lai2-gong4-e2-si2-zun2
+</Turn>
+<Turn speaker="spk2" startTime="235.693" endTime="267.534349">
+<Sync time="235.693"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+她會影響到一些人
+<Event desc="zh" type="language" extent="end"/>
+ ah1 so1-i1,so1-qua1-gam1-gak1
+<Sync time="240.006"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="242.804"/>
+honnh2-
+<Sync time="243.898"/>
+kor1-ling3-uann3-u3 
+<Sync time="244.751"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="248.836"/>
+dor3-i3-gong1 
+<Event desc="zh" type="language" extent="begin"/>
+合理來推論
+<Event desc="zh" type="language" extent="end"/>
+ si3-an1-ne1,dan3-si3-deh1-kuann4 gor2-hiong5
+<Sync time="252.678"/>
+zit1-le2-dai3-zi3-honnh2,qua1-u3-zit3-gua1 qua1-u3 zit3-e3-kuann4-huat2,ka1-vor2-gang5
+<Sync time="256.718"/>
+dor3-i3 qua1-gam1-gak1-gong1
+<Sync time="257.847"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="260.789"/>
+gi2-sit1 gok1-vin2-dong4,u3-kor1-ling2 i2-zu1-iau2
+<Sync time="264.314"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="267.534349" endTime="282.117">
+<Sync time="267.534349"/>
+qua1-gam1-gak1 hit1-e2-sin2,it1-di3-le1-ca1 iunn2-ciu2-hing1,e2-si2-zun2-honnh2
+<Sync time="270.712"/>
+honnh2-
+<Sync time="271.336"/>
+i2-zue4-zu1-iau3 si3-hi2-vang3-gong1,ngh3 ki1-in1 ze1-si3-qua1-gai3
+<Event desc="ga2-gi3" type="lexical" extent="previous"/>
+-gam1-gak2- 
+<Sync time="276.117"/>
+i2-ca1-iunn2-ciu2-hing1,gi2-sit1
+<Sync time="277.69"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="282.117" endTime="282.383">
+<Sync time="282.117"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="282.383" endTime="298.547">
+<Sync time="282.383"/>
+ui3-siann1-mi4 in2-ui3 sin2-bak1-ci2 gah1 dai3-bak1-ci2,u3-zin2-ze3 
+<Sync time="285.302"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+外來的人口
+<Event desc="zh" type="language" extent="end"/>
+ -dior2-vo3-honnh2-
+<Sync time="287.008"/>
+ah1 dak3-ge2-bun1-sin1 neh3 honnh2
+<Sync time="289.364"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="293.054"/>
+bun1-lai5 dor3-m3-si3-gong1,zuat3-dui4-hah1-ni3-guan5 bi1-gau4-
+<Sync time="295.335"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+南二都
+<Event desc="zh" type="language" extent="end"/>
+ lai2-gong4 
+<Sync time="296.461"/>
+so1-i4 
+<Sync time="297.014"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="298.547" endTime="298.86">
+<Sync time="298.547"/>
+mh2
+</Turn>
+<Turn speaker="spk1" startTime="298.86" endTime="301.297">
+<Sync time="298.86"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="301.297" endTime="301.563">
+<Sync time="301.297"/>
+mh3
+</Turn>
+<Turn speaker="spk1" startTime="301.563" endTime="303.446">
+<Sync time="301.563"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="303.446" endTime="304.009">
+<Sync time="303.446"/>
+mh3-hmh3
+</Turn>
+<Turn speaker="spk1" startTime="304.009" endTime="333.425">
+<Sync time="304.009"/>
+ah1 sim3-zi1-neh2,he1-e2-si2-zun2 in2-it1-di3-le1 
+<Event desc="zh" type="language" extent="begin"/>
+策反
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="307.241"/>
+annh3 zit1-e2 ngh3 
+<Event desc="zh" type="language" extent="begin"/>
+許添財
+<Event desc="zh" type="language" extent="end"/>
+,
+<Event desc="mix" type="noise" extent="instantaneous"/>
+-
+<Sync time="309.982"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="313.178"/>
+iu2-gi2 ko1-tiam2-zai5 i2-gue4-ki3,gor1-u3 zit1-le2 
+<Sync time="315.879"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="318.993"/>
+so1-i4 dak3-ge2 le1-sionn3-gong1,uah2 
+<Sync time="321.022"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="325.849"/>
+i2-gui2-e5 ki1-ing1-hiong4-dior3-e3,vor2-it1-ding3-si3 ngh3 zit1-le2
+<Sync time="330.521"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+南二都
+<Event desc="zh" type="language" extent="end"/>
+ honnh2
+<Sync time="331.461"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="333.425" endTime="333.691">
+<Sync time="333.425"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="333.691" endTime="348.801">
+<Sync time="333.691"/>
+in2-ui3 
+<Event desc="zh" type="language" extent="begin"/>
+南二都反而
+<Event desc="zh" type="language" extent="end"/>
+ dor3-cionn3 
+<Event desc="zh" type="language" extent="begin"/>
+很多的
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="337.058"/>
+m3 
+<Event desc="zh" type="language" extent="begin"/>
+評論者
+<Event desc="zh" type="language" extent="end"/>
+ le1-gong4-e3 honnh2
+<Sync time="339.765"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="343.334"/>
+zit1-le2 annh3
+<Sync time="344.626"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="348.801" endTime="387.218">
+<Sync time="348.801"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="349.576"/>
+dan3-si3 qua1-dor3-i3-gong1
+<Sync time="352.054"/>
+m3 kor1-ling2 sng4 
+<Event desc="zh" type="language" extent="begin"/>
+提醒民進黨的操盤者
+<Event desc="zh" type="language" extent="end"/>
+ dor3-i3-gong1
+<Sync time="357.293"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="366.043"/>
+ah1 get1-gor4 dui4-hong1-e2 
+<Event desc="zh" type="language" extent="begin"/>
+操盤
+<Event desc="zh" type="language" extent="end"/>
+ si3 
+<Sync time="368.847"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="372.551"/>
+ah1 dor4-zit3-e5 si3-gior4-zor4-iann5,qua1-e3-gi4-e1 lan4-di3-ding1-gai3,guan3-ci3-dionn4
+<Sync time="377.342"/>
+le1-suan1-gi4-e2-sin2
+<Event desc="si2-zun2" type="lexical" extent="previous"/>
+,
+<Event desc="zh" type="language" extent="begin"/>
+我的觀點
+<Event desc="zh" type="language" extent="end"/>
+ lor3-i3-gong1,li1-zin2-ziann4
+<Sync time="381.483"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+好的操盤手
+<Event desc="zh" type="language" extent="end"/>
+ li1-dor3-si3 e3-dang4 iong3 
+<Sync time="383.704"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="387.218" endTime="387.536">
+<Sync time="387.218"/>
+hmh3
+</Turn>
+<Turn speaker="spk2" startTime="387.536" endTime="390.734">
+<Sync time="387.536"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="390.734" endTime="392.346">
+<Sync time="390.734"/>
+diorh2
+<Sync time="391.065"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="392.346" endTime="404.679">
+<Sync time="392.346"/>
+diorh1-a2,li1-le1-gong1 oh2 quan1-zia1,biann4-gah1 cun2-zit3-ba4-pior3 su1
+<Sync time="396.312"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="400.25"/>
+dor3-i3-gong1 li1-na3-zai2-iann1,zia1-e3-su1
+<Event desc="zh" type="language" extent="begin"/>
+你乾脆
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="402.451"/>
+ho2-su2 qo3-van3-pior3,ah1 li1-hia1-iann2
+</Turn>
+<Turn speaker="spk1" startTime="404.679" endTime="405.783">
+<Sync time="404.679"/>
+zi1-hor4-bang4-diau2-an1-ne1-
+</Turn>
+<Turn speaker="spk2" startTime="405.783" endTime="414.969">
+<Sync time="405.783"/>
+diorh1-a2,diorh1-a2 de3-gong1 
+<Event desc="zh" type="language" extent="begin"/>
+從操盤
+<Event desc="zh" type="language" extent="end"/>
+ lai3-gong1 
+<Sync time="407.911"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="409.969"/>
+gi2-sit1-si3-an1-ne1 
+<Sync time="410.95"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="414.969" endTime="417.625">
+<Sync time="414.969"/>
+ah1 m3-gor1 li1-ui3-siann1-mih1,u3 
+<Event desc="zh" type="language" extent="begin"/>
+這種憂心呢
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="417.625" endTime="426.562">
+<Sync time="417.625"/>
+qua1-dor3-i3-gong1 i2-u3-kor1-ling2,ua1 qua1-e2 
+<Event desc="zh" type="language" extent="begin"/>
+觀察
+<Event desc="zh" type="language" extent="end"/>
+ dor3-i3-gong1 
+<Sync time="421.406"/>
+gok1-vin2-dong4 i2-gi2-sit1,vor2-le1-cap1-gong1 i2-an1-ne1,
+<Event desc="zh" type="language" extent="begin"/>
+操作
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="424.914"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="426.562" endTime="427.056">
+<Sync time="426.562"/>
+hmh3
+</Turn>
+<Turn speaker="spk2" startTime="427.056" endTime="427.336947">
+<Sync time="427.056"/>
+ah3-si3-gong1
+</Turn>
+<Turn speaker="spk1" startTime="427.336947" endTime="429.475">
+<Sync time="427.336947"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="429.475" endTime="436.329">
+<Sync time="429.475"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="430.087"/>
+dor3-i3-gong1-dor3-sng4 
+<Sync time="431.029"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="433.337"/>
+huan1-zing3-hit1-sik1 bun1-de4-dor3 ve3-iann5-a2
+<Sync time="435.6"/>
+ah1-dan3-si3 
+</Turn>
+<Turn speaker="spk1" startTime="436.329" endTime="437.237">
+<Sync time="436.329"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="437.237" endTime="437.828">
+<Sync time="437.237"/>
+diorh1-a2-
+</Turn>
+<Turn speaker="spk1" startTime="437.828" endTime="440.928">
+<Sync time="437.828"/>
+dor3-si3-gong1 
+<Sync time="438.491"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="440.928" endTime="450.995">
+<Sync time="440.928"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+陳菊,陳菊多
+<Event desc="zh" type="language" extent="end"/>
+ vor5-qua1-gong1
+<Sync time="442.694"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="445.839"/>
+den2-dor4- 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="448.538"/>
+dor3-i3-gong1-
+<Sync time="449.22"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="450.995" endTime="451.338">
+<Sync time="450.995"/>
+hmh3
+</Turn>
+<Turn speaker="spk2" startTime="451.338" endTime="453.538">
+<Sync time="451.338"/>
+dan3-si3 huan1-zing3-hit1-sik1,bun1-de4 dor3-ve3-iann5
+</Turn>
+<Turn speaker="spk1" startTime="453.538" endTime="454.413">
+<Sync time="453.538"/>
+hmh3
+</Turn>
+<Turn speaker="spk2" startTime="454.413" endTime="472.617683">
+<Sync time="454.413"/>
+ah1 zi1-iau4 
+<Sync time="455.054"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="458.652"/>
+ah1 sim3-zi4-gong1 in2-ui3-m3-si3,zai3-de3-lang5 kor1-ling2,tiann2-liau4
+<Sync time="462.851"/>
+i2-ma3 
+<Event desc="zh" type="language" extent="begin"/>
+無從判斷
+<Event desc="zh" type="language" extent="end"/>
+ ,i2-sim3-zi4-di3 dai2-bak1-ci2
+<Sync time="465.921"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="471.86"/>
+si3-sing2-gong1-oh2
+</Turn>
+<Turn speaker="spk1" startTime="472.617683" endTime="483.303">
+<Sync time="472.617683"/>
+iah1-m3-gor1 
+<Event desc="zh" type="language" extent="begin"/>
+你有什麼具體的建議嗎
+<Event desc="zh" type="language" extent="end"/>
+ in2-ui3,tam1-bik3-gong4-la3 honnh2
+<Sync time="477.949"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="483.303" endTime="483.662">
+<Sync time="483.303"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="483.662" endTime="485.22">
+<Sync time="483.662"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="485.035"/>
+diorh2
+</Turn>
+<Turn speaker="spk2" startTime="485.22" endTime="485.627">
+<Sync time="485.22"/>
+diorh2
+</Turn>
+<Turn speaker="spk1" startTime="485.627" endTime="504.568">
+<Sync time="485.627"/>
+honnh2 ah1 dong2-len5,dak3-e2-ma3 gam1-gak1 zin2-gi2-guai3,dor3-si3-gong1
+<Sync time="489.299"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="492.926"/>
+a1 ah2-si3-gong1-neh2 bau2-gua2,ngh3 
+<Event desc="zh" type="language" extent="begin"/>
+蘇貞昌不出手
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="497.176"/>
+ah1 hit1-le2 dan3-si3-la3 honnh2,
+<Event desc="zh" type="language" extent="begin"/>
+我們看到
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="501.128"/>
+ngh3 sam1-lip1,vin2-si2
+<Sync time="502.664"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="504.568" endTime="505.115">
+<Sync time="504.568"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="505.115" endTime="512.258328">
+<Sync time="505.115"/>
+ann3 
+<Event desc="zh" type="language" extent="begin"/>
+認真
+<Event desc="zh" type="language" extent="end"/>
+ ah1-li1-cu1-li1 gui1-e2-ci3-qi3-quan5 honnh2 
+<Sync time="508.094"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+他也是每天一報
+<Event desc="zh" type="language" extent="end"/>
+ an2-ne2 ,zit1-le2-bo3-hun2
+<Sync time="511.024"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="512.258328" endTime="560.979120">
+<Sync time="512.258328"/>
+qua1-gam1-gak1
+<Sync time="514.758"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="516.87"/>
+in2-ui3-qua1-e3-gi1 lan1-zin4-zing5,ma3-u3 
+<Event desc="zh" type="language" extent="begin"/>
+討論到
+<Event desc="zh" type="language" extent="end"/>
+ gong1-vin2-zin4-dong4
+<Sync time="519.89"/>
+ziah1-e2 
+<Event desc="zh" type="language" extent="begin"/>
+頭人
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="520.964"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="524.587"/>
+dor3-si3-gong1
+<Sync time="525.88"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="529.398"/>
+sing2-kuann4 
+<Event desc="zh" type="language" extent="begin"/>
+風向
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="530.994"/>
+ah1-dan1-hit1-e2 
+<Sync time="531.886"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="536.354"/>
+in2-gam1-a1[gak1]-gong1 dai2-uan5-e2-sia3-hue2
+<Sync time="538.721"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="540.51"/>
+dor3-i3-gong1 li1-kuann3-kiai3
+<Event desc="kit3-lai3" type="lexical" extent="previous"/>
+,kah1-vor2-hiah1-
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ hiah1-hiah1-painn4
+<Sync time="543.61"/>
+ah2-si3-gong1 hiah1-cia4-qia2-qia5,an1-ne1 qua1-gam1-gak1
+<Sync time="546.244"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="549.385"/>
+ah1-so1-i1 vor2-guan1-si3,
+<Event desc="zh" type="language" extent="begin"/>
+蔡英文
+<Event desc="zh" type="language" extent="end"/>
+ah2-si3 
+<Event desc="zh" type="language" extent="begin"/>
+蘇貞昌
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="552.074"/>
+ah2-si3 
+<Event desc="zh" type="language" extent="begin"/>
+蘇嘉全
+<Event desc="zh" type="language" extent="end"/>
+ sim3-zi4,bau2-kua4 
+<Event desc="zh" type="language" extent="begin"/>
+陳菊
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="554.701"/>
+honnh2 ah1-gah1 
+<Event desc="zh" type="language" extent="begin"/>
+賴清德
+<Event desc="zh" type="language" extent="end"/>
+ gi2-sit1
+<Sync time="558.565"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="560.979120" endTime="575.87">
+<Sync time="560.979120"/>
+hit1-le2 qua1-ding1-rit2 honnh2,mng3 tiann2-ziong4-bing2-iu4 gong1,kah1-su1 na3-ma5-zai3
+<Sync time="566.623"/>
+kui2 hit1-zun2-si3 
+<Event desc="zh" type="language" extent="begin"/>
+六十天的時候
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="569.554"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="572.317"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+到
+<Event desc="zh" type="language" extent="end"/>
+ li1-kui1-cuai3 
+<Sync time="573.523"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="575.32"/>
+an1-ne1-honnh2
+</Turn>
+<Turn speaker="spk2" startTime="575.87" endTime="576.276">
+<Sync time="575.87"/>
+mh2
+</Turn>
+<Turn speaker="spk1" startTime="576.276" endTime="583.538">
+<Sync time="576.276"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="578.921"/>
+m3-gor1 
+<Sync time="579.589"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="583.538" endTime="583.851">
+<Sync time="583.538"/>
+diorh2
+</Turn>
+<Turn speaker="spk1" startTime="583.851" endTime="591.695">
+<Sync time="583.851"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="586.381"/>
+ah1 zit1-le2 iu2-gi2-qua1-gong1
+<Sync time="588.032"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="591.695" endTime="592.086">
+<Sync time="591.695"/>
+mh3-hmh3
+</Turn>
+<Turn speaker="spk1" startTime="592.086" endTime="593.883">
+<Sync time="592.086"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="593.883" endTime="594.974">
+<Sync time="593.883"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="594.974" endTime="621.151">
+<Sync time="594.974"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="597.289"/>
+zit1-ma4-gor2-hiong5 sui2-ren5 
+<Sync time="598.376"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="603.511"/>
+li1-dor3-sng4 iong3-dor3-e3-honnh2, ma3-vor2-kor1-ling5 uan2-zuan2-dor3-gue3-lai3-
+<Sync time="607.252"/>
+so1-i4 di3-zit1-le2 zing2-hing5-zi2-ha2
+<Sync time="609.347"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="612.317"/>
+li1-ga2-gi3 bun1-sin1-e2
+<Sync time="613.723"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="621.151" endTime="621.558">
+<Sync time="621.151"/>
+mh2
+</Turn>
+<Turn speaker="spk1" startTime="621.558" endTime="626.685">
+<Sync time="621.558"/>
+e3-rin3-ui3-gong1 enn5,zit1-le2-dai3-bak1-ci2 
+<Event desc="zh" type="language" extent="begin"/>
+好像很樂觀
+<Event desc="zh" type="language" extent="end"/>
+ in2-ui3
+<Sync time="625.328"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="626.685" endTime="627.028">
+<Sync time="626.685"/>
+mh2
+</Turn>
+<Turn speaker="spk1" startTime="627.028" endTime="652.902">
+<Sync time="627.028"/>
+honnh2 ah1-zit1-le2 annh3
+<Sync time="629.126"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="631.108"/>
+sui2-ren5-gong1 
+<Event desc="zh" type="language" extent="begin"/>
+余天
+<Event desc="zh" type="language" extent="end"/>
+ honnh2,di3-hia1 
+<Event desc="zh" type="language" extent="begin"/>
+在挑
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="634.207"/>
+annh3-zit1-le2 
+<Event desc="zh" type="language" extent="begin"/>
+胡志強
+<Event desc="zh" type="language" extent="end"/>
+ in2-ang2-a1-vo4-e2 zit1-le2-sin2-te4 oh2
+<Sync time="637.86"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="640.642"/>
+qua1-gam1-gak1
+<Event desc="zh" type="language" extent="begin"/>
+你講到邵曉鈴的時候
+<Event desc="zh" type="language" extent="end"/>
+ he1-zin2-ziann4 u3-iann1 gong1-gue4-tau5
+<Sync time="643.934"/>
+
+<Event desc="mix" type="noise" extent="instantaneous"/>
+-[+dan3]-[+si3]
+<Sync time="645.232"/>
+ki1-gong1-dior3
+<Sync time="646.259"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="647.268"/>
+
+<Event desc="mix" type="noise" extent="instantaneous"/>
+
+<Sync time="649.435"/>
+gong1 ah2 zin1-e1-honnh2,li1-i1-ging2 zor4-gau1-dang1-a1,ah1-zit1-ma4 gor1-lue2
+</Turn>
+<Turn speaker="spk2" startTime="652.902" endTime="653.279">
+<Sync time="652.902"/>
+diorh2
+</Turn>
+<Turn speaker="spk1" startTime="653.279" endTime="656.843">
+<Sync time="653.279"/>
+ah1 honnh2
+<Sync time="654.545"/>
+
+<Event desc="mix" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="656.843" endTime="657.109">
+<Sync time="656.843"/>
+diorh2
+</Turn>
+<Turn speaker="spk1" startTime="657.109" endTime="658.538">
+<Sync time="657.109"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="658.538" endTime="658.772">
+<Sync time="658.538"/>
+diorh2
+</Turn>
+<Turn speaker="spk1" startTime="658.772" endTime="660.821">
+<Sync time="658.772"/>
+hannh2 gah1-li1-e2 zit1-le2,annh3
+</Turn>
+<Turn speaker="spk2" startTime="660.821" endTime="661.555">
+<Sync time="660.821"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="661.555" endTime="665.977">
+<Sync time="661.555"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="663.611"/>
+ngh3 zit1-le2 
+<Event desc="zh" type="language" extent="begin"/>
+勤政度
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="665.977" endTime="666.227">
+<Sync time="665.977"/>
+diorh2
+</Turn>
+<Turn speaker="spk1" startTime="666.227" endTime="669.585">
+<Sync time="666.227"/>
+honnh2 dan3-si3-gong1-dior3,
+<Event desc="zh" type="language" extent="begin"/>
+新北市的時後
+<Event desc="zh" type="language" extent="end"/>
+ honnh2
+</Turn>
+<Turn speaker="spk2" startTime="669.585" endTime="670.085">
+<Sync time="669.585"/>
+hmh3
+</Turn>
+<Turn speaker="spk1" startTime="670.085" endTime="720.243">
+<Sync time="670.085"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="672.927"/>
+aih2-iah3 veh1-an1-nua4,annh3 zit1-le2 cua4-ing2-vun5 honnh2,ah1-gah1 annh3-
+<Sync time="678.661"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="682.743"/>
+hoh3 si3
+<Sync time="683.489"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="684.992"/>
+ah1 zit1-le2 in2-so1-zor3-e2 dai3-zi3,ah1-gor1-u3 in2-dui4 annh3-zit1-le2
+<Sync time="690.492"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="691.979"/>
+dor3-si3-gong1 
+<Event desc="zh" type="language" extent="begin"/>
+新北市的
+<Event desc="zh" type="language" extent="end"/>
+ guan2-he2 ding1-ding4-honnh2
+<Sync time="694.377"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="698.099"/>
+cua4-ing2-vun5 
+<Event desc="zh" type="language" extent="begin"/>
+好像反而陷入困境
+<Event desc="zh" type="language" extent="end"/>
+zit1-le2-
+<Event desc="zh" type="language" extent="begin"/>
+困境
+<Event desc="zh" type="language" extent="end"/>
+neh2
+<Sync time="701.868"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="707.249"/>
+in2-ui3 annh3
+<Sync time="708.428"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="713.797"/>
+zit1-kuan1-zing4-zik2 cut1-lai2,annh3
+<Sync time="716.434"/>
+lai2-
+<Event desc="zh" type="language" extent="begin"/>
+幫蔡英文加分
+<Event desc="zh" type="language" extent="end"/>
+ li1-e2-kuann4-huat2 neh3
+<Sync time="718.86"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="720.243" endTime="796.099">
+<Sync time="720.243"/>
+ding1-le1-bai3 qua1-u3,qua1-u3-zor4-zit3-e2 dai3-zi3-honnh2,dor3-i3-iong3-zit3-gua1
+<Sync time="724.236"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+統計
+<Event desc="zh" type="language" extent="end"/>
+ e2 
+<Event desc="zh" type="language" extent="begin"/>
+手法
+<Event desc="zh" type="language" extent="end"/>
+ ki1
+<Sync time="725.987"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+建建
+<Event desc="zh" type="language" extent="end"/>
+ iong2,ki1-
+<Event desc="zh" type="language" extent="begin"/>
+建模
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="728.267"/>
+ah1 zit1-le2 
+<Event desc="zh" type="language" extent="begin"/>
+模型
+<Event desc="zh" type="language" extent="end"/>
+ cut2-lai3 e3-dang4,zor4-zit3-gua1
+<Sync time="730.773"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+情境分析啊
+<Event desc="zh" type="language" extent="end"/>
+ honnh2,ah1-qua1-dai3-kai3 bor4-gor4-zit3-e2,zit1-e2-get1-gor4
+<Sync time="734.582"/>
+lor3-i3-gong1 i1-dai3-bak1-ci2, e2 
+<Event desc="zh" type="language" extent="begin"/>
+選舉結果
+<Event desc="zh" type="language" extent="end"/>
+ honnh2
+<Sync time="737.202"/>
+na3-zun1-lan1 
+<Event desc="zh" type="language" extent="begin"/>
+假設藍綠
+<Event desc="zh" type="language" extent="end"/>
+ e2 
+<Event desc="zh" type="language" extent="begin"/>
+基本盤
+<Event desc="zh" type="language" extent="end"/>
+ si3
+<Sync time="739.855"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+藍藍五十八,綠四十二
+<Event desc="zh" type="language" extent="end"/>
+ dor3-i3-ziau4 
+<Event desc="zh" type="language" extent="begin"/>
+謝長廷
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="743.084"/>
+le1-suan1-dai3-bak1-ci2-dionn4,hit1-le2-buann5 lai2-kuann3
+<Sync time="745.622"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+蘇貞昌
+<Event desc="zh" type="language" extent="end"/>
+ iann2 ca2-vor4
+<Event desc="but1-dor2" type="lexical" extent="previous"/>
+ 
+<Event desc="zh" type="language" extent="begin"/>
+郝龍斌
+<Event desc="zh" type="language" extent="end"/>
+ sann2-pa1
+<Sync time="749.247"/>
+honnh3 ah1-dong2-en5,zok1 zok1-ze3-lang5 e3-dang4-gong1,ah1 zit1-na5-e2 di3-dai3-bak1-ci2
+<Sync time="753.162"/>
+kah1-u3-kor1-ling2 gor1-u3-qo3,qo3-zap3-beh2 ah1-so1-i14 na3-zun1,ling3-qua3-zit3-ziong1
+<Sync time="755.74"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+假設
+<Event desc="zh" type="language" extent="end"/>
+ dor3-i3-gong1,a3 na5 sann2-zak3-qo2
+<Sync time="758.605"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+綠
+<Event desc="zh" type="language" extent="end"/>
+ sann2-zap1,ah1-diong2-gan1 uann3-sann1-zak3-qo2
+<Sync time="761.66"/>
+na3-zun1 di3-zit1-le2 
+<Event desc="zh" type="language" extent="begin"/>
+假設之下,蘇貞昌
+<Event desc="zh" type="language" extent="end"/>
+ sim3-zi4 u3-kor1-ling2-si3
+<Sync time="765.487"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+五五對四五
+<Event desc="zh" type="language" extent="end"/>
+ e3-dang4-iann2-gah1,zap3-pa1 honnh3 ah1-so1-i1
+<Sync time="769.545"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="774.251"/>
+di3-ding1-le1-bai3 zin4-zing5,
+<Event desc="zh" type="language" extent="begin"/>
+發酵的很好
+<Event desc="zh" type="language" extent="end"/>
+ u3-guan2-he2
+<Sync time="778.536"/>
+dan3-si3 
+<Event desc="zh" type="language" extent="begin"/>
+新北市
+<Event desc="zh" type="language" extent="end"/>
+ na3-zun1-iong3 gang3-kuan4-e2
+<Sync time="781.329"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+手法
+<Event desc="zh" type="language" extent="end"/>
+ ki1-
+<Event desc="zh" type="language" extent="begin"/>
+建立模式
+<Event desc="zh" type="language" extent="end"/>
+ ah1 zor4
+<Sync time="783.141"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+情境分析
+<Event desc="zh" type="language" extent="end"/>
+ honnh2,
+<Event desc="zh" type="language" extent="begin"/>
+假設
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="785.385"/>
+annh3 na3-an4-ziau4 
+<Event desc="zh" type="language" extent="begin"/>
+羅文嘉
+<Event desc="zh" type="language" extent="end"/>
+ hit1-zun2-e2 hit1-le2 
+<Sync time="789.002"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+比例
+<Event desc="zh" type="language" extent="end"/>
+ lor3-ki1-bun1 e2-ue2 ngh3
+<Sync time="792.156"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+蔡英文
+<Event desc="zh" type="language" extent="end"/>
+ ca2-but1-dor3 iau1-gor1-su2 
+<Event desc="zh" type="language" extent="begin"/>
+朱立倫
+<Event desc="zh" type="language" extent="end"/>
+ sann2-pa1
+</Turn>
+<Turn speaker="spk1" startTime="796.099" endTime="797.115">
+<Sync time="796.099"/>
+mh3-hmh1
+</Turn>
+<Turn speaker="spk2" startTime="797.115" endTime="828.87">
+<Sync time="797.115"/>
+dan3-si3 li1-na3 
+<Event desc="zh" type="language" extent="begin"/>
+假設
+<Event desc="zh" type="language" extent="end"/>
+ gong1,hit1-le2 zit1-ma4-e2 
+<Sync time="800.376"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="803.176"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+蔡英文
+<Event desc="zh" type="language" extent="end"/>
+ su2-lu1-kah1-ze2,su2-a1-gah1 be4-pa1,in2-ui3
+<Sync time="807.086"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+蔡英文
+<Event desc="zh" type="language" extent="end"/>
+ di3
+<Sync time="808.541"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="814.769"/>
+heh3 m3 so1-i1,dui2-zit1-e2 
+<Event desc="zh" type="language" extent="begin"/>
+觀察
+<Event desc="zh" type="language" extent="end"/>
+ qua1-sionn2 
+<Sync time="817.619"/>
+gah1 zok1-ze3 tiann2-ziong4-bing2-iu4,vor2 vor2-iong3-so4-hak3 
+<Event desc="zh" type="language" extent="begin"/>
+模式
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="821.108"/>
+ki1-zor4 
+<Event desc="zh" type="language" extent="begin"/>
+分析,其實結果類似
+<Event desc="zh" type="language" extent="end"/>
+ dor3-i3,dua3-bo3-hun2-lang5
+<Sync time="825.307"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="828.87" endTime="848.579">
+<Sync time="828.87"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="830.401"/>
+honnh2 so1-i4-e3-dang4 kuann4-cut1,annh3 zit1-le2 gok1-vin2-dong4,dui4-sin2 dui4-dai3-bak1-ci2
+<Sync time="835.905"/>
+si3-rin3-ui3-gong1
+<Sync time="837.016"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="844.079"/>
+so1 qua1-gong1-iong3 
+<Event desc="zh" type="language" extent="begin"/>
+操作
+<Event desc="zh" type="language" extent="end"/>
+ an1-ne1-ka1-painn1-se3
+<Sync time="846.245"/>
+i2-dor3-si3-gong1 neh3
+<Sync time="847.352"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="848.579" endTime="848.907">
+<Sync time="848.579"/>
+mh3
+</Turn>
+<Turn speaker="spk1" startTime="848.907" endTime="857.181">
+<Sync time="848.907"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="852.223"/>
+i1-ging2-gue3-ki3-a3
+<Sync time="853.369"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="857.181" endTime="867.218">
+<Sync time="857.181"/>
+eh3 giann5
+<Event desc="gin2-a1" type="lexical" extent="previous"/>
+-rit1 
+<Sync time="859.179"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="861.248"/>
+lor3-si3-gan1-na1 dai3-bak1-ci3-zing4-hu4,iau2-ciann1 
+<Event desc="zh" type="language" extent="begin"/>
+連勝文
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="865.823"/>
+ki1-dam2-rim3-zit1-vu2
+</Turn>
+<Turn speaker="spk1" startTime="867.218" endTime="868.343">
+<Sync time="867.218"/>
+mh2-hmh2
+</Turn>
+<Turn speaker="spk2" startTime="868.343" endTime="870.67">
+<Sync time="868.343"/>
+eh2 qua1-gam1-a1[gak1]
+<Sync time="869.06"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="870.67" endTime="871.374">
+<Sync time="870.67"/>
+an1-na1-gong4
+</Turn>
+<Turn speaker="spk2" startTime="871.374" endTime="876.188">
+<Sync time="871.374"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="876.188" endTime="877.235">
+<Sync time="876.188"/>
+mh2
+</Turn>
+<Turn speaker="spk2" startTime="877.235" endTime="882.063">
+<Sync time="877.235"/>
+ah1 si3-an1-na4 tu2-len2-gan1,zit1-e2-si2-gan1 su2-iau4-ki1 
+<Event desc="zh" type="language" extent="begin"/>
+向連戰的勢力示好
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="882.063" endTime="883.969">
+<Sync time="882.063"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="883.969" endTime="899.264619">
+<Sync time="883.969"/>
+dor3-i3-gong1 li1-na3-zun1 m3-si3-im2,li1-na3-vor2-im2-zui4 li1-ve3-ki1
+<Sync time="887.165"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+抱枯木嘛
+<Event desc="zh" type="language" extent="end"/>
+ so1-i1
+<Sync time="888.885"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="892.844"/>
+ah1qua1-e2 
+<Event desc="zh" type="language" extent="begin"/>
+判斷
+<Event desc="zh" type="language" extent="end"/>
+ si3-gong1,eh1 gi2-sit1 ma1-ing2-giu4 
+<Sync time="897.032"/>
+vor2-it1-ding3 vor2-sionn3-veh1,siu2-li1 
+<Event desc="zh" type="language" extent="begin"/>
+郝龍斌
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="899.264619" endTime="910.597">
+<Sync time="899.264619"/>
+diorh1-a2,eh2 zit1-le2-bo3-hun2,lan1-ma3-gam1-gak1 zin2-gi2-guai3 honnh2
+<Sync time="903.327"/>
+in2-ui3 annh3,
+<Event desc="zh" type="language" extent="begin"/>
+花博
+<Event desc="zh" type="language" extent="end"/>
+ gong1-gui2-bo1 honnh2
+<Sync time="907.309"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="910.597" endTime="910.988">
+<Sync time="910.597"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="910.988" endTime="918.955">
+<Sync time="910.988"/>
+honnh2
+<Sync time="911.424"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="914.699"/>
+e3-gue3-ki3 si3-ing2
+<Event desc="in2" type="lexical" extent="previous"/>
+-ue3
+<Event desc="ui3" type="lexical" extent="previous"/>
+ 
+<Sync time="916.831"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="918.955" endTime="919.283">
+<Sync time="918.955"/>
+mh3
+</Turn>
+<Turn speaker="spk1" startTime="919.283" endTime="925.557">
+<Sync time="919.283"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+他排除了
+<Event desc="zh" type="language" extent="end"/>
+ annh3,pi4-ru2-gong1 cin2-ciunn3,quan2-lai5 hu4-ci3-diunn4
+<Sync time="923.224"/>
+na3-gong1 in2-he1 
+<Event desc="zh" type="language" extent="begin"/>
+四人幫
+<Event desc="zh" type="language" extent="end"/>
+ honnh2 e2 
+<Event desc="zh" type="language" extent="begin"/>
+勢力
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="925.557" endTime="925.932">
+<Sync time="925.557"/>
+diorh2
+</Turn>
+<Turn speaker="spk1" startTime="925.932" endTime="929.101">
+<Sync time="925.932"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="929.101" endTime="969.842">
+<Sync time="929.101"/>
+diorh1
+<Sync time="929.827"/>
+diorh2-diorh2 ze1-gi2-sit1,dor3-qua1-e2-diong3-diam4,ah1-dong2-len5 qua1-zit1-mai4
+<Sync time="932.67"/>
+kah1-vor2-lok2 
+<Event desc="zh" type="language" extent="begin"/>
+判斷
+<Event desc="zh" type="language" extent="end"/>
+ le3-gong1,
+<Event desc="zh" type="language" extent="begin"/>
+郝跟連結合
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="936.346"/>
+si3-ciau2-liau4-e2 
+<Event desc="zh" type="language" extent="begin"/>
+結果
+<Event desc="zh" type="language" extent="end"/>
+,ah2-si3-gong1 hit1-le2
+<Sync time="939.882"/>
+dann5-veh1-kai2-si1 ciau5-e2-kai2-si4
+<Sync time="941.949"/>
+li1-zai2-iann1-qua1-e2-i4-su3,dor3-i3-gong1-
+<Sync time="943.43"/>
+dor3-i3-zin4-zing5 lang2-i1-ging2,bang2-i2 cu1-li1-diau2-a2,ah1-zit1-mai4 le1-hu4
+<Sync time="946.741"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+尾款
+<Event desc="zh" type="language" extent="end"/>
+ ah2-si3-gong1,ze1-gi2-sit1-si3 
+<Event desc="zh" type="language" extent="begin"/>
+契約的開始
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="949.923"/>
+ze1qua1-vok3-zing5 kah1 
+<Event desc="zh" type="language" extent="begin"/>
+才比較沒有辦法判斷
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="952.68"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="955.758"/>
+ua1-e2-
+<Event desc="zh" type="language" extent="begin"/>
+判斷
+<Event desc="zh" type="language" extent="end"/>
+ e3 ben4-zor4-gong1,hmh3
+<Sync time="958.587"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="964.852"/>
+ah1 na3-zun1 
+<Sync time="965.805"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="969.842" endTime="971.758">
+<Sync time="969.842"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="971.758" endTime="974.055">
+<Sync time="971.758"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="974.055" endTime="991.52">
+<Sync time="974.055"/>
+hennh3 m3-gor1,m3-gor1 na3-si3-gong1 zen4-huat2,ben4-zor4-an1-en1 e2 si2-zun2
+<Sync time="979.508"/>
+an1-ne1-ma3-si3 zit1-e2,gok1-vin2-dong4 ziah3-lang5-gau4-gau3 neh3 honnh2
+<Sync time="983.055"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+他認為說
+<Event desc="zh" type="language" extent="end"/>
+ eh1 zit1-giann2-dai3-zi3 
+<Sync time="984.961"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="988.242"/>
+honnh2 ah1-sim3-zi1  li1-tau2-a4-gong4-e3,siu2-li1 
+<Event desc="zh" type="language" extent="begin"/>
+郝龍斌
+<Event desc="zh" type="language" extent="end"/>
+ iong2-e2
+</Turn>
+<Turn speaker="spk2" startTime="991.52" endTime="991.885">
+<Sync time="991.52"/>
+hmh3
+</Turn>
+<Turn speaker="spk1" startTime="991.885" endTime="1009.435">
+<Sync time="991.885"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="995.974"/>
+eh2 li1 u3-gam1-gak2-vor3 honnh2,zit1-nng3-ni2-lai5-neh2 honnh2
+<Sync time="999.445"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1004.232"/>
+m3-gor1 
+<Event desc="zh" type="language" extent="begin"/>
+她被英雄化
+<Event desc="zh" type="language" extent="end"/>
+ u3-zit3-e2 zue4-zu1-iau3 quan2-in1,dor3-si3-gong1
+<Sync time="1007.106"/>
+annh3 ca2-but1-dor2 u3-lak3-gai4 e2 suan1-gi4 
+</Turn>
+<Turn speaker="spk2" startTime="1009.435" endTime="1011.065">
+<Sync time="1009.435"/>
+long1-iann5-long1-vor2-su1-la3-honnh2-
+</Turn>
+<Turn speaker="spk1" startTime="1011.065" endTime="1032.43">
+<Sync time="1011.065"/>
+m3-gor1 di3-zia1-lai3-de4 
+<Sync time="1011.983"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1016.954"/>
+dit2-le2-honnh2
+<Sync time="1017.815"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1023.462"/>
+u3-siann1-mi4 den2-dor4-di3,li1-e3-gi4-e1 i1-zing5 a2-binn4-a2-vo3 
+<Sync time="1026.45"/>
+a2-binn4-a2 zit1-zing3-e2-si2-zun2
+<Sync time="1027.896"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1032.43" endTime="1032.652">
+<Sync time="1032.43"/>
+mh3
+</Turn>
+<Turn speaker="spk1" startTime="1032.652" endTime="1062.194">
+<Sync time="1032.652"/>
+ah1 gi2-tann1-e2-lang5 oh3,ca2-but1-dor2 li1-gong1-siann1-mih1,
+<Event desc="zh" type="language" extent="begin"/>
+幾個天王
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1037.362"/>
+an1-zuann4-he1
+<Sync time="1038.22"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1045.236"/>
+qua1-gam1-a1 i2-gah1 
+<Sync time="1046.806"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1051.291"/>
+gan1-na1 
+<Sync time="1051.863"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1057.606"/>
+ah1-but1-si5 gong1-ga3-de3-hng1 e2 pai4-he2 a3-hor4
+<Sync time="1060.337"/>
+
+<Event desc="mix" type="noise" extent="instantaneous"/>
+
+<Sync time="1061.509"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1062.194" endTime="1063.991">
+<Sync time="1062.194"/>
+ah1-get1-gor4 sit1-bai2 honnh2
+</Turn>
+<Turn speaker="spk1" startTime="1063.991" endTime="1065.747326">
+<Sync time="1063.991"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1065.747326" endTime="1073.897">
+<Sync time="1065.747326"/>
+qua1 dan3-si3 qua1-gam1-a1 
+<Event desc="zh" type="language" extent="begin"/>
+國民黨
+<Event desc="zh" type="language" extent="end"/>
+ e2 
+<Event desc="zh" type="language" extent="begin"/>
+權力結構
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1067.933"/>
+gah1 
+<Event desc="zh" type="language" extent="begin"/>
+民進黨
+<Event desc="zh" type="language" extent="end"/>
+ vor2-siann1-gang5-la3
+<Sync time="1069.381"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+民進黨
+<Event desc="zh" type="language" extent="end"/>
+ gi2-sit1 vor2 
+<Event desc="zh" type="language" extent="begin"/>
+權力結構啦
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1071.62"/>
+so1-i1 i2-e2 
+<Event desc="zh" type="language" extent="begin"/>
+英雄很容易替換
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1073.897" endTime="1074.725">
+<Sync time="1073.897"/>
+mh3-hmh2
+</Turn>
+<Turn speaker="spk2" startTime="1074.725" endTime="1095.14">
+<Sync time="1074.725"/>
+dan3-si3 gok1-vin2-dong4 m3-si2,gok1-vin2-dong4 
+<Sync time="1076.594"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1080.757"/>
+ah1-so1-i1 li1-na3-zun1 vor2 
+<Event desc="zh" type="language" extent="begin"/>
+沒有那個根你吸不到養分
+<Event desc="zh" type="language" extent="end"/>
+ li1-di3-tau2
+<Sync time="1085.566"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1087.504"/>
+so1-i1-li1 kah1-vor2-huat1-do2,gong1 
+<Sync time="1089.918"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1092.504"/>
+qua1-gam1-a1 
+<Event desc="zh" type="language" extent="begin"/>
+這是一個根本的不同
+<Event desc="zh" type="language" extent="end"/>
+ ah1 li1-gong1,si3-an1-na4-
+</Turn>
+<Turn speaker="spk1" startTime="1095.14" endTime="1097.06">
+<Sync time="1095.14"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1097.06" endTime="1124.997">
+<Sync time="1097.06"/>
+diorh2
+<Sync time="1097.56"/>
+ah1-si3-an1-na4-zit1-mai4 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ dai3-bak1-ci2,na3-zun1-gong1 
+<Sync time="1101.404"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+我的觀察
+<Event desc="zh" type="language" extent="end"/>
+dor3-i3-gong1
+<Sync time="1103.015"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1109.17"/>
+ah1-so4-hua5 e2 vun3-de5
+<Sync time="1110.29"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1112.81"/>
+ua1
+<Event desc="zh" type="language" extent="begin"/>
+直覺
+<Event desc="zh" type="language" extent="end"/>
+ le1-sionn2,u3-zit3-e2 le3-gong1
+<Sync time="1115.517"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1116.564"/>
+in2-ui3 li1-dong2 dai2-bak1-ci2 e2
+<Sync time="1118.26"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1120.248"/>
+gi2-sit1 hit1-le2 
+<Sync time="1124.464"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1124.997" endTime="1126.16">
+<Sync time="1124.997"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1126.16" endTime="1164.828936">
+<Sync time="1126.16"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1127.49"/>
+diorh2
+<Sync time="1127.941"/>
+ah1-so1-i1 
+<Sync time="1129.1"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1133.238"/>
+ah1 vun3-de5
+<Sync time="1134.356"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1138.368"/>
+in2-ui3 na3 gi2-sit1-na3-zun1,iong3-
+<Event desc="zh" type="language" extent="begin"/>
+花博
+<Event desc="zh" type="language" extent="end"/>
+ 
+<Event desc="cut1-lai2" type="lexical" extent="previous"/>
+-dau3-honnh2
+<Sync time="1141.164"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+這其實是毀滅性的鬥爭
+<Event desc="zh" type="language" extent="end"/>
+ neh3-honnh2
+<Sync time="1143.259"/>
+dor3-i3-gong1 veh1-lap3-ze1 ben4-zor4,zit3-le2 
+<Event desc="zh" type="language" extent="begin"/>
+弊案
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1145.222"/>
+sim3-zi1 
+<Event desc="zh" type="language" extent="begin"/>
+收押到市政府
+<Event desc="zh" type="language" extent="end"/>
+ e2-lang5,ze1-gi2-sit1 
+<Sync time="1149.711"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+傷在藍裡面
+<Event desc="zh" type="language" extent="end"/>
+ dor3-i3-gong1
+<Sync time="1151.617"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1154.974"/>
+zit1-mai4-gann1-u3 
+<Event desc="zh" type="language" extent="begin"/>
+這麼危機
+<Event desc="zh" type="language" extent="end"/>
+ dor3-i3-gong1
+<Sync time="1157.729"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1163.619"/>
+dan3-si3
+</Turn>
+<Turn speaker="spk1" startTime="1164.828936" endTime="1167.129">
+<Sync time="1164.828936"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1167.129" endTime="1167.691">
+<Sync time="1167.129"/>
+diorh2
+</Turn>
+<Turn speaker="spk1" startTime="1167.691" endTime="1175.425">
+<Sync time="1167.691"/>
+but1-gor3 li1-u3-veh1 dor4-dng4-ai2,hue2-dap1-qua1-e2 vun3-de5-vo3-honnh2
+<Sync time="1170.879"/>
+or3 
+<Event desc="zh" type="language" extent="begin"/>
+除了你以
+<Event desc="zh" type="language" extent="end"/>
+ qua1-u3-zit3-gua1 
+<Sync time="1173.09"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1175.425" endTime="1175.8">
+<Sync time="1175.425"/>
+hmh3
+</Turn>
+<Turn speaker="spk1" startTime="1175.8" endTime="1219.348">
+<Sync time="1175.8"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1177.233"/>
+m3-zai2-an1-nua4 neh3-honnh2,dor3-i3-gong1 dui4-zit1-ma4,vok3-zing5
+<Sync time="1179.982"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+看好度
+<Event desc="zh" type="language" extent="end"/>
+ dong2-len5 dai2-diong1 
+<Event desc="zh" type="language" extent="begin"/>
+他還是
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1183.131"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1184.116"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+比較
+<Event desc="zh" type="language" extent="end"/>
+ diorh2,
+<Event desc="zh" type="language" extent="begin"/>
+就是說那個
+<Event desc="zh" type="language" extent="end"/>
+ or3
+<Sync time="1187.845"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+蘇嘉全
+<Event desc="zh" type="language" extent="end"/>
+ honnh2,iah1-si3 kah1-sin2-ko4
+<Sync time="1189.897"/>
+m3-gor1 in2-ki1-kuann4,ze1-lak3-zap3-gang1 e2-ben4-hua3 
+<Event desc="zh" type="language" extent="begin"/>
+所謂曲線的時候
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1193.757"/>
+in2-den2-dor4 gam1-gak1 
+<Event desc="zh" type="language" extent="begin"/>
+蘇嘉全後勢看好
+<Event desc="zh" type="language" extent="end"/>
+m3-gor1 cua4-ing2-vun5 neh3
+<Sync time="1197.909"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1202.64"/>
+e2-zit3-le2-hit1-lor2,du2-hui1-dor3-si3 zin2-ziann4-huat1-sing2,siann1-mih1-dai3-zi3 la3-honnh2
+<Sync time="1206.51"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1211.801"/>
+zit1-ma4-si3-gong1 qo3-zap3-cit1-gang1 liau1-au2-honnh2
+<Sync time="1214.487"/>
+an1-ne1-e2-siu3 an1-ne1-e3,e3 zing2-hing5 den2-dor4,cua4-ing2-vun5 kah1-ui2-hiam4 neh2
+</Turn>
+<Turn speaker="spk2" startTime="1219.348" endTime="1221.125">
+<Sync time="1219.348"/>
+qua1-ma3-si3-an1-ne1,gam1-gak2-a2-
+</Turn>
+<Turn speaker="spk1" startTime="1221.125" endTime="1221.852">
+<Sync time="1221.125"/>
+li1-ma3-si3 an1-ne1
+</Turn>
+<Turn speaker="spk2" startTime="1221.852" endTime="1233.150047">
+<Sync time="1221.852"/>
+qua1-ma3-si3-an1-ne1-gam1-gak2-
+<Sync time="1222.775"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1231.65"/>
+ah1-so1-i4 dui4
+</Turn>
+<Turn speaker="spk2" startTime="1233.150047" endTime="1237.950125">
+<Sync time="1233.150047"/>
+in2-ui3 dai3-bak1-ci3-zing3 e2 vun3-de5
+<Sync time="1234.616"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1236.871"/>
+li1-e2-i4-su3 si3-an1-ne1 mah3
+</Turn>
+<Turn speaker="spk1" startTime="1237.950125" endTime="1244.135">
+<Sync time="1237.950125"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1244.135" endTime="1244.776">
+<Sync time="1244.135"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1244.776" endTime="1263.017">
+<Sync time="1244.776"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+然後
+<Event desc="zh" type="language" extent="end"/>
+ diorh2-a2,
+<Event desc="zh" type="language" extent="begin"/>
+朱立倫挾著說
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1247.545"/>
+eh1 i2-tor2-hng2-guan2 sui2-ren5
+<Sync time="1249.119"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1252.006"/>
+i2-ma3-si3 zok1-pa4-biann4,veh1-ki1-cue3 
+<Event desc="zh" type="language" extent="begin"/>
+朱立倫
+<Event desc="zh" type="language" extent="end"/>
+ i2-di3 tor2-hng2-guan2
+<Sync time="1255.626"/>
+u3-zit3-gua1 annh3,vun3-de5-la3-honnh2
+<Sync time="1258.517"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1263.017" endTime="1266.376">
+<Sync time="1263.017"/>
+in2-ui3 
+<Event desc="zh" type="language" extent="begin"/>
+朱立倫
+<Event desc="zh" type="language" extent="end"/>
+ e2 
+<Event desc="zh" type="language" extent="begin"/>
+媒體關係其實是很好喔
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1266.376" endTime="1267.05">
+<Sync time="1266.376"/>
+hmh3
+</Turn>
+<Turn speaker="spk2" startTime="1267.05" endTime="1304.088">
+<Sync time="1267.05"/>
+dor3-i3-gogn1 
+<Event desc="zh" type="language" extent="begin"/>
+胡志強啊朱立倫
+<Event desc="zh" type="language" extent="end"/>
+ in2 si3-an1-na4,e3-dang4-di3 in2-zit1-bue3
+<Sync time="1273.004"/>
+zit1-mai4-sng4-si3
+<Sync time="1274.425"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1279.772"/>
+so1-i1-li1-gong1 gang3-kuan1 
+<Event desc="zh" type="language" extent="begin"/>
+類似
+<Event desc="zh" type="language" extent="end"/>
+ e2 mih3-giann2,gi2-sit1
+<Sync time="1283.013"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+朱立倫
+<Event desc="zh" type="language" extent="end"/>
+ ma3-u3 zit3-gua1-vun3-de5 a2,sionn3-zit1-lor2
+<Sync time="1285.155"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+水水源保護區
+<Event desc="zh" type="language" extent="end"/>
+ ki1-dor4 hit1-le2,u3-dok1 e2 to5 e2 dai3-zi3
+<Sync time="1291.474"/>
+dor4-hia1-gu4 honnh2,
+<Event desc="silence" type="noise" extent="instantaneous"/>
+ gi2-sit1 lan1 
+<Event desc="zh" type="language" extent="begin"/>
+稍微聯想一下
+<Event desc="zh" type="language" extent="end"/>
+ li1-gong1 
+<Sync time="1296.463"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1303.771"/>
+dan3-si3
+</Turn>
+<Turn speaker="spk1" startTime="1304.088" endTime="1304.87">
+<Sync time="1304.088"/>
+mh3
+</Turn>
+<Turn speaker="spk2" startTime="1304.87" endTime="1320.405">
+<Sync time="1304.87"/>
+li1-na3-zun1 mui2-te4,e2-guan2-he2-hor4
+<Sync time="1307.404"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1315.953"/>
+na3-vor5 li1 
+<Event desc="zh" type="language" extent="begin"/>
+就被蓋下去了
+<Event desc="zh" type="language" extent="end"/>
+-
+<Event desc="silence" type="noise" extent="instantaneous"/>
+,so1-i1
+</Turn>
+<Turn speaker="spk1" startTime="1320.405" endTime="1324.111526">
+<Sync time="1320.405"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1322.764"/>
+cua4-ing2-vun5 cue3-vor2-de2-vok2
+</Turn>
+<Turn speaker="spk2" startTime="1324.111526" endTime="1329.192">
+<Sync time="1324.111526"/>
+dan3-si3 qua1-gam1-a1 
+<Sync time="1326.162"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1329.192" endTime="1329.958">
+<Sync time="1329.192"/>
+mh3
+</Turn>
+<Turn speaker="spk2" startTime="1329.958" endTime="1351.471971">
+<Sync time="1329.958"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1333.66"/>
+dor3-hit1 dor2-qua1-gong1,zit1-le2-bai4-sann1 i2-u3-ban3 zit3-e2
+<Sync time="1335.675"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+網友會嘛
+<Event desc="zh" type="language" extent="end"/>
+ah1 qua1-kuann4-i2 len1-gong1-hia1-e2 sionn3-huat2
+<Sync time="1339.2"/>
+e2 biau1-zing5
+<Sync time="1339.847"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1341.305"/>
+dor3-i3-gong1 i2-zin2-ziann4,siong2-sin4-gong1 i2-u3 zit1-duann3-si2-gan1,i2-u3-sionn3-cut1
+<Sync time="1346.026"/>
+zit3-tor4 e3-dang4-ho3 dai3-bak1 
+<Event desc="zh" type="language" extent="begin"/>
+新北市
+<Event desc="zh" type="language" extent="end"/>
+ dai3-bak1-guan2-e2-lang5
+<Sync time="1350.206"/>
+gor1-ha1-hing3-hok2 e2 hong2-huat2
+</Turn>
+<Turn speaker="spk1" startTime="1351.471971" endTime="1355.725">
+<Sync time="1351.471971"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Sync time="1352.058"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1355.393"/>
+honnh2
+</Turn>
+<Turn speaker="spk2" startTime="1355.725" endTime="1356.147">
+<Sync time="1355.725"/>
+hmh3
+</Turn>
+<Turn speaker="spk1" startTime="1356.147" endTime="1373.686">
+<Sync time="1356.147"/>
+ah1 dor3-si3-gong1 veh1-iong3-het1-le2,hing3-hok2-e2-siann2-ci2 la3 honnh2 ah1
+<Sync time="1361.11"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Sync time="1361.753"/>
+honnh3 qua1-ai4-sin1-e2 sin2-bak1-ci2 an1-ne1
+<Sync time="1364.691"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+啊台北超越台北
+<Event desc="zh" type="language" extent="end"/>
+ gi2-sit1 ziah1-e1
+<Sync time="1367.011"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1369.879"/>
+ah1-dan3-si3 veh1-gong4-e3 dor3-si3-gong1
+<Sync time="1371.963"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1373.686" endTime="1374.029">
+<Sync time="1373.686"/>
+hmh3
+</Turn>
+<Turn speaker="spk1" startTime="1374.029" endTime="1381.481">
+<Sync time="1374.029"/>
+di3-i1-zing5 lan1-gong1 annh3,dai3-bak1-ci2
+<Sync time="1377.65"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1379.106"/>
+si3 
+<Event desc="zh" type="language" extent="begin"/>
+那個藍是大於綠
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1381.481" endTime="1382.059">
+<Sync time="1381.481"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1382.059" endTime="1386.247">
+<Sync time="1382.059"/>
+di3-zit1-e2 zing2-hing5-zi2-ha2 
+<Event desc="zh" type="language" extent="begin"/>
+反而中間選民
+<Event desc="zh" type="language" extent="end"/>
+ in2-dui4 
+<Sync time="1385.401"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1386.247" endTime="1386.532">
+<Sync time="1386.247"/>
+hmh3
+</Turn>
+<Turn speaker="spk1" startTime="1386.532" endTime="1388.585">
+<Sync time="1386.532"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1388.585" endTime="1388.944">
+<Sync time="1388.585"/>
+diorh1
+</Turn>
+<Turn speaker="spk1" startTime="1388.944" endTime="1392.911">
+<Sync time="1388.944"/>
+dan3-si3 uann3-dor4-dng2-ai3,annh3 cua4-ing2-vun5,ziau1-li4-gong4 honnh2
+</Turn>
+<Turn speaker="spk2" startTime="1392.911" endTime="1393.239">
+<Sync time="1392.911"/>
+hmh2
+</Turn>
+<Turn speaker="spk1" startTime="1393.239" endTime="1400.328">
+<Sync time="1393.239"/>
+i2-gah1 so2-zin2-ciong1 nng3-e2-lang5 e2 hing2-siong2
+<Sync time="1395.809"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1397.351"/>
+in2-ui3-i2-dui4
+<Sync time="1398.298"/>
+vin2-zin4-dong4 
+<Event desc="zh" type="language" extent="begin"/>
+並沒有
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1400.328" endTime="1401.422">
+<Sync time="1400.328"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1401.422" endTime="1405.984">
+<Sync time="1401.422"/>
+diorh2
+<Sync time="1402.087"/>
+dan3-si3 li1-zor3-kiai3
+<Sync time="1403.524"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1405.984" endTime="1408.016">
+<Sync time="1405.984"/>
+in2-ui3 i2-e2-dui4-ciu4 si3 
+<Event desc="zh" type="language" extent="begin"/>
+朱立倫
+<Event desc="zh" type="language" extent="end"/>
+ na2
+</Turn>
+<Turn speaker="spk1" startTime="1408.016" endTime="1408.668">
+<Sync time="1408.016"/>
+hmh3
+</Turn>
+<Turn speaker="spk2" startTime="1408.668" endTime="1422.353123">
+<Sync time="1408.668"/>
+diorh1-a2
+<Sync time="1409.312"/>
+qua1-gam1-gak1 dua3-bo3-e2-lang5,
+<Event desc="zh" type="language" extent="begin"/>
+對朱立倫並沒有惡感
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1413.371"/>
+in2-ui3 
+<Event desc="zh" type="language" extent="begin"/>
+朱立倫
+<Event desc="zh" type="language" extent="end"/>
+ li1-la2-sionn2,honnh2 
+<Event desc="zh" type="language" extent="begin"/>
+在
+<Event desc="zh" type="language" extent="end"/>
+
+<Sync time="1416.043"/>
+bau2-kua4-gong1 dan2-zui1-binn4-zong1-tong4
+<Sync time="1417.581"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1422.353123" endTime="1432.743">
+<Sync time="1422.353123"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1423.993"/>
+qua1-vat1 hong1-mng3-gue4,annh3 sik3-sai2 i2-e2-lang5-honnh2
+<Sync time="1427.866"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1429.236"/>
+lor3-si3-gong1 i2-le1 i2-zok1-pa4-biann3,le1-gau2 lik1-e2-bing2-iu4
+</Turn>
+<Turn speaker="spk2" startTime="1432.743" endTime="1433.368">
+<Sync time="1432.743"/>
+mh2
+</Turn>
+<Turn speaker="spk1" startTime="1433.368" endTime="1433.858">
+<Sync time="1433.368"/>
+hmh3
+</Turn>
+<Turn speaker="spk2" startTime="1433.858" endTime="1447.857">
+<Sync time="1433.858"/>
+diorh2
+<Sync time="1434.608"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+然後
+<Event desc="zh" type="language" extent="end"/>
+ sim3-zi4 qua1-gam1-a1,di3-hit1-duann3-si2-gan1,dor3-i3-gong1
+<Sync time="1439.182"/>
+iu2-gi2-li3 sim1-mih1 
+<Event desc="zh" type="language" extent="begin"/>
+紅衫軍
+<Event desc="zh" type="language" extent="end"/>
+ hit1-duann3-si2-gan1
+<Sync time="1441.546"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1447.857" endTime="1448.576">
+<Sync time="1447.857"/>
+mh3
+</Turn>
+<Turn speaker="spk2" startTime="1448.576" endTime="1460.403">
+<Sync time="1448.576"/>
+ah1-gor1 i2-e2-dionn3-lang5,si3-hit1-le2 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1452.937"/>
+orh2,lim2-si2 ve3-gi1-mia5,ha1-za4-e2 dai2-lam2-guan2-e2-qi3-dionn4,honnh2 qua1-gam1-gak1 gi2-sit1
+<Sync time="1456.774"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1459.173"/>
+ma3-u3-it1-ding2-e2
+</Turn>
+<Turn speaker="spk1" startTime="1460.403" endTime="1461.168">
+<Sync time="1460.403"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1461.168" endTime="1462.518">
+<Sync time="1461.168"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+影響
+<Event desc="zh" type="language" extent="end"/>
+ gah1 
+<Event desc="zh" type="language" extent="begin"/>
+了解
+<Event desc="zh" type="language" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1462.518" endTime="1463.893">
+<Sync time="1462.518"/>
+hmh3
+</Turn>
+<Turn speaker="spk2" startTime="1463.893" endTime="1467.721">
+<Sync time="1463.893"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1467.721" endTime="1484.31">
+<Sync time="1467.721"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Sync time="1468.159"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1474.466"/>
+dong2-len5 zit1-giann3-dai3-zi3,lan1-e3-huat1-hen3-gong1 annh3,zit1-giann2-dai3-zi3
+<Sync time="1478.495"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1484.31" endTime="1484.669">
+<Sync time="1484.31"/>
+hmh3
+</Turn>
+<Turn speaker="spk1" startTime="1484.669" endTime="1500.554394">
+<Sync time="1484.669"/>
+e3
+<Sync time="1484.794"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1491.218"/>
+zit1-gai4 zin2-gi2-guai3 honnh2,iu2-gi2-gor1-iong5 gah1 zit1-le2,dai2-lam5 honnh2
+<Sync time="1495.624"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1499.531"/>
+li1-u3zit1-e2 kuann4-huat2-vo3
+</Turn>
+<Turn speaker="spk2" startTime="1500.554394" endTime="1514.164">
+<Sync time="1500.554394"/>
+dan3-si3
+<Sync time="1502.39"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1507.662"/>
+zit1-gui1-dang1 
+<Event desc="zh" type="language" extent="begin"/>
+執政
+<Event desc="zh" type="language" extent="end"/>
+ vor2-hor4 e2 zing2-hing5-zi2-ha2
+<Sync time="1510.649"/>
+in2-gi2-sit1 vor2-hit1-le2,
+<Event desc="zh" type="language" extent="begin"/>
+基本盤
+<Event desc="zh" type="language" extent="end"/>
+ a2
+</Turn>
+<Turn speaker="spk1" startTime="1514.164" endTime="1515.039">
+<Sync time="1514.164"/>
+mh2
+</Turn>
+<Turn speaker="spk2" startTime="1515.039" endTime="1518.565">
+<Sync time="1515.039"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1518.565" endTime="1519.544">
+<Sync time="1518.565"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1519.544" endTime="1521.443">
+<Sync time="1519.544"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1521.443" endTime="1522.162">
+<Sync time="1521.443"/>
+mh3
+</Turn>
+<Turn speaker="spk2" startTime="1522.162" endTime="1530.194">
+<Sync time="1522.162"/>
+ah1-so1-i1
+<Sync time="1524.331"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1525.534"/>
+so1-
+<Event desc="zh" type="language" extent="begin"/>
+我
+<Event desc="zh" type="language" extent="end"/>
+ qua1-a3-si3 gam1-gak1-gong1,in2 in2-e2
+<Sync time="1528.446"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1530.194" endTime="1530.866">
+<Sync time="1530.194"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1530.866" endTime="1532.804">
+<Sync time="1530.866"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1532.804" endTime="1533.414">
+<Sync time="1532.804"/>
+mh3
+</Turn>
+<Turn speaker="spk2" startTime="1533.414" endTime="1542.907">
+<Sync time="1533.414"/>
+so1-i1 vor2-guan1-zor4-siann4,qua1 dor3-i3-gong1 zok1-ze3
+<Sync time="1537.352"/>
+tor1-lun2-a3-hor4 ah2-si3-gong1,
+<Event desc="zh" type="language" extent="begin"/>
+注意力
+<Event desc="zh" type="language" extent="end"/>
+ ah3-hor4
+<Sync time="1540.567"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1542.907" endTime="1577.458">
+<Sync time="1542.907"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Sync time="1543.383"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1544.357"/>
+kah1-dan4 lan1
+<Sync time="1545.203"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1563.263"/>
+dong2-len5 lan1-zit1-ma4-gong4,ma3-si3 zit1-ma4-gong4 nia5
+<Sync time="1565.51"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1568.215"/>
+i2-ma3-m3-si3 zin2-ziann3-e2 
+<Event desc="zh" type="language" extent="begin"/>
+預言
+<Event desc="zh" type="language" extent="end"/>
+ la3
+<Sync time="1570.556"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1573.593"/>
+di3-zia1-lai3-de4
+<Sync time="1574.377"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1577.458" endTime="1577.786">
+<Sync time="1577.458"/>
+mh3
+</Turn>
+<Turn speaker="spk1" startTime="1577.786" endTime="1587.964">
+<Sync time="1577.786"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1587.964" endTime="1588.574">
+<Sync time="1587.964"/>
+mh3-hmh1
+</Turn>
+<Turn speaker="spk1" startTime="1588.574" endTime="1598.069">
+<Sync time="1588.574"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1592.941"/>
+ing1-gai2-si3-gong1
+<Sync time="1593.797"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1598.069" endTime="1598.616">
+<Sync time="1598.069"/>
+mh3-hmh1
+</Turn>
+<Turn speaker="spk1" startTime="1598.616" endTime="1608.392">
+<Sync time="1598.616"/>
+or3 zit1-le2
+<Event desc="en" type="language" extent="begin"/>
+ECFA
+<Event desc="en" type="language" extent="end"/>
+ li3-ciann1-neh3 honnh2
+<Sync time="1602.429"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1608.392" endTime="1608.704">
+<Sync time="1608.392"/>
+hmh3
+</Turn>
+<Turn speaker="spk1" startTime="1608.704" endTime="1613.74">
+<Sync time="1608.704"/>
+iu2-gi2 gong1-gah1 de3-li3-gu3 e2 sin2
+<Event desc="si2-zun2" type="lexical" extent="previous"/>
+,qua1-gam1-gak1-he1 
+<Event desc="zh" type="language" extent="begin"/>
+有點嚴重
+<Event desc="zh" type="language" extent="end"/>
+ neh3 
+<Sync time="1611.565"/>
+
+<Event desc="mix" type="noise" extent="instantaneous"/>
+
+<Sync time="1612.14"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1613.74" endTime="1618.546">
+<Sync time="1613.74"/>
+hmh2-hmh2
+<Sync time="1614.537"/>
+
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Sync time="1615.289"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

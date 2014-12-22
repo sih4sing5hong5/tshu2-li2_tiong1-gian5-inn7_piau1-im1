@@ -1,0 +1,3863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="user" audio_filename="vvrs22" version="10" version_date="130516">
+<Speakers>
+<Speaker id="spk1" name="靜慧" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="梅子" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="梅子媽" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="建宇" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="添福爸" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="添福" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="鄰居" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk8" name="鴻宇" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk9" name="姊夫" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk10" name="添福姊" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk11" name="運將" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk12" name="運將2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk13" name="運將3" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk14" name="運將4" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk15" name="運將5" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk16" name="運將6" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk17" name="運將7" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk18" name="同事" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk19" name="運將8" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="2880.046">
+<Turn startTime="0" endTime="121.834">
+<Sync time="0"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="120.117"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="121.834" endTime="142.109">
+<Sync time="121.834"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="138.627"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="141.608"/>
+媽//a2-vu4 
+</Turn>
+<Turn speaker="spk2" startTime="142.109" endTime="145.405">
+<Sync time="142.109"/>
+靜慧 遲到就不好了//zing2-hui2-a3 di2-dor3 dor3 m3-hor4 a3 
+<Sync time="143.676"/>
+快點帶建宇去盥洗/gin1 cua3 
+<Event desc="zh" type="language" extent="begin"/>
+建宇
+<Event desc="zh" type="language" extent="end"/>
+ ki1 se1-vin2 
+</Turn>
+<Turn speaker="spk1" startTime="145.405" endTime="185.243">
+<Sync time="145.405"/>
+來… 快點…來不及了…//lai5 lai5 lai5 ,giann5 ,gin4-e3 gin4-e3 gin4-e3 ,ve3-hu3 a3 ve3-hu3 a3 
+<Sync time="148.688"/>
+清醒一點 來//zing2-sin5 a2 lai5 
+<Sync time="150.471"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="151.815"/>
+先坐一下 先坐一下 鵬宇 乖喔//sior1 ze2-zit3-e3 sior1 ze2-zit3-e3 
+<Event desc="zh" type="language" extent="begin"/>
+鴻宇
+<Event desc="zh" type="language" extent="end"/>
+ guai1 o1 honnh2 
+<Sync time="154.753"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="155.912"/>
+糟了… 來不及了 又要坐計程車了//hai1-a1 hai1-a1 ve3-hu3 a3 ,ai4 ze3 ke4-ling2
+<Event desc="ting2" type="lexical" extent="previous"/>
+-cia1 a1 la3 
+<Sync time="158.581"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="163.677"/>
+忘了領錢//vue3-gi1 e1 nia1-zinn5 
+<Sync time="165.036"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="177.227"/>
+走… 來…好好走//giann2 giann2 giann2 giann5 ,lai5 lai5 giann5 hor4 
+<Sync time="180.805"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="183.337"/>
+媽 鵬宇就拜託你囉//a2-vu4 
+<Event desc="zh" type="language" extent="begin"/>
+鴻宇
+<Event desc="zh" type="language" extent="end"/>
+ dor3 bai4-tok2 li3 a3 o2 
+</Turn>
+<Turn speaker="spk2" startTime="185.243" endTime="187.352">
+<Sync time="185.243"/>
+不行 你阿嬤人不舒服//ve3-ing2-li1 la3 ,lin1 a2-ma4 lang5 gang2-ko4 la3 
+</Turn>
+<Turn speaker="spk1" startTime="187.352" endTime="203.929">
+<Sync time="187.352"/>
+hann5 
+<Sync time="187.929"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="203.929" endTime="204.764">
+<Sync time="203.929"/>
+我先坐進去//qua1 sing2 rip2-vai3-ki3 
+</Turn>
+<Turn speaker="spk1" startTime="204.764" endTime="205.15">
+<Sync time="204.764"/>
+好 //hor4 
+</Turn>
+<Turn speaker="spk2" startTime="205.15" endTime="232.554">
+<Sync time="205.15"/>
+好 來 //hor4 lai5 
+<Sync time="205.937"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="209.801"/>
+媽 你的頭小心一點//a2-vu4 ze1 tau5 kah1 se4-ri2 e3 lai5 
+<Sync time="211.857"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="228.178"/>
+小心喔//se4-ri2 o2 
+<Sync time="229.49"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="230.945"/>
+要不要回房裡休息//ah1 veh1-ki1 bang2-ging1 hior4-kun3 vor3 
+</Turn>
+<Turn speaker="spk3" startTime="232.554" endTime="238.955">
+<Sync time="232.554"/>
+不用啦 我在那裡坐一下就好//m3-ven4 la3 ,qua1 hia1 ze2-zit3-e3 diorh3-hor4 
+<Sync time="236.445"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="238.955" endTime="244.821">
+<Sync time="238.955"/>
+阿嬤//a2-ma4 
+<Sync time="239.694"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="244.821" endTime="245.394">
+<Sync time="244.821"/>
+mh2 
+</Turn>
+<Turn speaker="spk3" startTime="245.394" endTime="246.313">
+<Sync time="245.394"/>
+mh2 ng3 
+</Turn>
+<Turn speaker="spk2" startTime="246.313" endTime="247.272">
+<Sync time="246.313"/>
+小心喔//se4-li2 oh2
+</Turn>
+<Turn speaker="spk3" startTime="247.272" endTime="253.501">
+<Sync time="247.272"/>
+好 好//hor4 hor4 
+<Sync time="247.916"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="253.501" endTime="257.376">
+<Sync time="253.501"/>
+靜慧 你去倒杯水給阿嬤吃藥//zing2-hui2-a3 ah1 li1 ki1 tin2-gun1-zui4 , lai2 ho2 a2-ma4 pue4 iorh2-a4 
+</Turn>
+<Turn speaker="spk1" startTime="257.376" endTime="258.223">
+<Sync time="257.376"/>
+好//hor4 
+</Turn>
+<Turn speaker="spk2" startTime="258.223" endTime="261.667">
+<Sync time="258.223"/>
+來 孩子給我//lai5 qin1-na4 ho2 qua2 
+<Sync time="259.301"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="261.667" endTime="303.206">
+<Sync time="261.667"/>
+愛講話//oh2 ai4 gong1-ue2 
+<Sync time="263.651"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="268.282"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="303.206" endTime="306.698">
+<Sync time="303.206"/>
+媽媽 我不用上課嗎//ma3-ma5 ,qua4 m3-ven1 siong3-kor3 o3 
+<Sync time="305.916"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="306.698" endTime="310.113">
+<Sync time="306.698"/>
+媽媽幫你請假了//ma2-ma1 u3 ga3-li1 cing1-ga4 a3 la3 honnh2 
+<Sync time="308.539"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="310.113" endTime="319.88">
+<Sync time="310.113"/>
+靜慧 這樣也不是辦法//zing2-hui2-a3 ,an1-ne1 ma3 m3-si3 ban3-huat2 
+<Sync time="312.785"/>
+還是盡量不要請假//ah1-si3 zing2-liong2 honnh2 ,kah1 mai4 cing1-ga4 e3 
+<Sync time="315.599"/>
+像今天這種情形//ah1 can2-ciunn3 gin2-na4 zit1-kuan1 zing2-hing5 honnh2 
+<Sync time="317.88"/>
+我自己來處理就行了//qua1 ga2-gi2 lai2 cu1-li4 diorh3 e3-ing2-li3 a2 
+</Turn>
+<Turn speaker="spk1" startTime="319.88" endTime="321.438">
+<Sync time="319.88"/>
+媽//a2-vu4 
+</Turn>
+<Turn speaker="spk3" startTime="321.438" endTime="328.23">
+<Sync time="321.438"/>
+對不起 靜慧//pai1-se3 neh2 zing3-hue2
+<Event desc="hui2" type="lexical" extent="instantaneous"/>
+
+<Sync time="323.594"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="324.777"/>
+阿嬤身體不好耽誤到你//a2-ma4 sin2-te4 vor3-hor4 dan5
+<Event desc="dan2" type="lexical" extent="instantaneous"/>
+-qo3 diorh3 li4 o3 
+</Turn>
+<Turn speaker="spk1" startTime="328.23" endTime="334.204">
+<Sync time="328.23"/>
+阿嬤 你別想那麼多//a2-ma4 li1 mai4 siunn3 hiah1-ze2 la3 
+<Sync time="331.105"/>
+是我自己不放心所以才請假的//si3 qua1 ga2-di3 vor2-hong4-sim1 ,so1-i4 zah1 cing1-ga4 e3 a2 
+</Turn>
+<Turn speaker="spk2" startTime="334.204" endTime="340.622">
+<Sync time="334.204"/>
+是啦 媽 靜慧有這分孝心//si2 la3 ,a2-vu4 ,ah1 zing3-hui2 oh2 u3 zit1-hun3 hau4-sim1 
+<Sync time="337.876"/>
+你應該高興才對//li1 ing4-gai2 huann2-hi4 a2 
+<Sync time="339.377"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="340.622" endTime="364.865">
+<Sync time="340.622"/>
+是啊//si2 a2 
+<Sync time="341.748"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="342.754"/>
+有你們婆媳 還有秀琴這麼孝順的媳婦///u3 lin4 ,gah1 siu4-kim5 ,ziah1-ni3 iu1-hau3 e3 sin2-bu2 
+<Sync time="347.675"/>
+是我們陳家的福氣//si3 lan1 dan5-ga3 e3 hok1-ki3 la3 
+<Sync time="350.582"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="353.986"/>
+是我們上輩子修來的福氣 現在//lan4 oh2 zing2-se3 u3 siu1 ,zit1-ma4 o3 
+<Sync time="357.611"/>
+才能成為一家人//ziah1 e3-dang4 zor4 zit3-ge2-lang5 zit3-kau1-zau3 
+<Sync time="360.473"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="361.527"/>
+要惜福//ai4 sior4-hok2 
+<Sync time="362.958"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="364.865" endTime="390.297">
+<Sync time="364.865"/>
+我們知道//qun1 zai1 la3 
+<Sync time="366.037"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="367.995"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="390.297" endTime="397.265">
+<Sync time="390.297"/>
+培植 你去睡覺//kai4-a3 ,ah1 li1 ki1 kun3 la3 
+<Sync time="393.638"/>
+明天你還要上班呢//mi2-a1-zai3 gorh1 veh1 siong3-ban1 neh2 
+<Sync time="395.708"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="397.265" endTime="402.845">
+<Sync time="397.265"/>
+不用啦 明天我不去市場//ven4 la3 ,mi2-a1-zai3 ,qua1 vuai5-ki1 cai4-ci2-a4 la3 
+<Sync time="400.655"/>
+我留在家裡照顧你//qua1 lau2 luai4 go3 li3 la3 
+<Sync time="402.117"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="402.845" endTime="408.14">
+<Sync time="402.845"/>
+有梅子在就行了//u3 mui2-zu4 diorh3 e3-ing2-e2 la3 
+<Sync time="405.305"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="408.14" endTime="415.309">
+<Sync time="408.14"/>
+我還是留下來照顧你好了//ua1 ah3-si3 lau2 luai4 go3 li3 la3 
+<Sync time="410.0"/>
+反正賣菜的生意又不怎麼好 不用去//ah1 huinn2-dit3 ve3-cai2 sing2-li4 iah3-m3-si3 deh1 qua3-hor4 a3 ven1-ki3 la3 
+<Sync time="413.949"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="415.309" endTime="426.474">
+<Sync time="415.309"/>
+就是生意不好才要更認真做//ah1 dor3-si3 vor2-hor4 ,m3-ziah1 ai4 gorh1-kah1 rin3-zin2 zor3 e3 
+<Sync time="418.246"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="425.162"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="426.474" endTime="433.856">
+<Sync time="426.474"/>
+奇怪//enn5 gi2-guai3 
+<Sync time="428.021"/>
+添福說要倒果汁給阿嬤喝//tiam2-hok2 gong1 veh1 dor4 gor1-ziap2 ,ho3 a2-ma4 lim1 
+<Sync time="430.88"/>
+怎麼去那麼久還沒回來//a4 hiah1-gu4 long1 ah1-ve3 dng4-ai3 a3 
+<Sync time="432.921"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="433.856" endTime="439.889">
+<Sync time="433.856"/>
+我去看看//qua1 lai5 kuann4-mai2 e2 
+<Sync time="435.234"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="436.574"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="439.889" endTime="452.208">
+<Sync time="439.889"/>
+添福 //tiam1-hok2-a3 
+<Sync time="440.999"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="441.967"/>
+來 你氣喘病又發作了//lai5 ,li1 he2-gu1 qia5 kit3-lai3 a3 la3 
+<Sync time="444.344"/>
+來 來 別緊張 別緊張//lai5 lai5 mai4 gin1-diunn1 mai4 gin1-diunn1 
+<Sync time="446.948"/>
+來… 放輕鬆//hannh2 lai5 lai5 lai5 ,bang4 ho2 kin2-sang1 
+<Sync time="450.796"/>
+放輕鬆//bang4 ho2 kin2-sang1 honnh2 
+</Turn>
+<Turn speaker="spk1" startTime="452.208" endTime="453.453">
+<Sync time="452.208"/>
+你怎麼了/si3 an1-nua4 
+</Turn>
+<Turn speaker="spk2" startTime="453.453" endTime="454.722">
+<Sync time="453.453"/>
+放輕鬆//bang4 ho2 kin2-sang1 
+</Turn>
+<Turn speaker="spk1" startTime="454.722" endTime="457.922">
+<Sync time="454.722"/>
+添福//tiam1-hok2 
+<Sync time="456.396"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="457.922" endTime="465.892">
+<Sync time="457.922"/>
+放輕鬆//bang4 ho2 kin2-sang1 
+<Sync time="458.781"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="465.892" endTime="467.682">
+<Sync time="465.892"/>
+我沒事//vue3-iau4-gin4 la3 
+<Sync time="466.512"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="467.682" endTime="473.213">
+<Sync time="467.682"/>
+你都喘成這樣還說沒事//li1 long1 cuan2
+<Event desc="cuan1" type="lexical" extent="instantaneous"/>
+ gah1 an1-ne1 gorh1 gong1 ve3-iau4
+<Event desc="viau5" type="lexical" extent="previous"/>
+-gin4 
+<Sync time="469.51"/>
+媽 要不要送他去醫院//a2-vu4 gam1 ai4 sang4 i2 ki1 benn3-inn2 a3 
+<Sync time="471.751"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="473.213" endTime="478.093">
+<Sync time="473.213"/>
+不用啦//m3-ven4 la3 
+<Sync time="473.81"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="474.912"/>
+我休息一下就好了//qua1 hior4-kun3 zit3-e3 dor3-hor4 a3 
+<Sync time="476.157"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="478.093" endTime="482.863">
+<Sync time="478.093"/>
+靜慧 我們扶他去房間躺著//zing3-hui2-a3 ,lan1 ca4-i2 lai2 bang2-ging1 dor4 
+<Sync time="480.281"/>
+吃藥之後要是沒比較好 就送他去醫院//iorh2-a4 ziah3-ziah2 na3 vor2-hau2 honnh2,a2 ,sang4 lai5 benn3-inn2 
+</Turn>
+<Turn speaker="spk1" startTime="482.863" endTime="498.265">
+<Sync time="482.863"/>
+好//hor4 
+<Sync time="483.785"/>
+好 來… ////hor4 lai5 lai5 
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="487.939"/>
+慢慢來//lai5 dau3-dau2-a1 lai5 
+<Sync time="489.33"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="498.265" endTime="503.85">
+<Sync time="498.265"/>
+靜慧 我去幫孩子洗澡//zing3-hui2-a3 ,qua1 lai2-ki1 ga3 qin1-na4 se1 sing2-ku1 la3 
+<Sync time="501.14"/>
+噴的氣喘藥在哪//ah1 li1 he1 ,he1 pun3 e3 he1 
+</Turn>
+<Turn speaker="spk1" startTime="503.85" endTime="508.519">
+<Sync time="503.85"/>
+在這裡//di2 zia1 
+<Sync time="504.518"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="505.496"/>
+待會他又不舒服就讓他自己噴//liam2-mi1 na3 gorh1-kah1 vor2-song1-kuai3 si2-zun2 honnh2 ,li1 ziah1 te3 ho2-i2 ga2-gi2 pun3 honnh2 
+</Turn>
+<Turn speaker="spk1" startTime="508.519" endTime="519.775">
+<Sync time="508.519"/>
+好 我知道//hor4 qua1 zai2-iann4 
+<Sync time="509.707"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="519.775" endTime="524.116">
+<Sync time="519.775"/>
+添福 你有沒有好一點//tiam2-hok2-a3 ,li1 u3 kah1-hor4 vor3 
+<Sync time="522.385"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="524.116" endTime="528.37">
+<Sync time="524.116"/>
+有 好多了//u2-la3 ,u3 kah1-hor4-a3 la3 
+<Sync time="526.1"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="528.37" endTime="536.031">
+<Sync time="528.37"/>
+對不起 最近我比較忙//sit1-le4 la3 ,zue3-gun2 qua1 kah1 vor2-ing5 
+<Sync time="531.338"/>
+沒特別調養你的身體//long1 vor2 diau2-iong1 li1 e2 sin2-te4 
+<Sync time="533.343"/>
+所以你的氣喘病才會復發對吧//so1-i1 li1 e2 binn2 ,zah1 e3 hok3-huat2 diorh2-vor3 
+</Turn>
+<Turn speaker="spk6" startTime="536.031" endTime="548.032">
+<Sync time="536.031"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="536.998"/>
+不是啦//*(m3)-si2 la3 
+<Sync time="537.828"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="539.168"/>
+我這是老毛病了//qua1 ze1 si3 lau3-zing4-tau5 a2 
+<Sync time="540.949"/>
+隨時都有可能發作//sui2-si5 honnh2 long1 e3 huat1-zok2 la3 
+<Sync time="543.715"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="544.438"/>
+這跟調不調養沒關係//ze1 gah1 diau2-iong4 vor2 diau2-iong4 vor2 guan2-he2 la3 
+</Turn>
+<Turn speaker="spk1" startTime="548.032" endTime="557.421">
+<Sync time="548.032"/>
+怎麼會沒關係//na4-e3 vor2 guan2-he2 leh3 
+<Sync time="550.078"/>
+我明天一早去市場//qua1 mi2-a1-zai3 zai1-ki4 zah1 ki1 ci3-diunn5 
+<Sync time="552.621"/>
+買些你應該愛吃的菜//ve1 gui1-hang2-a1 li1 ing4-gai2 ai4-ziah2 e2 cai3 
+<Sync time="554.621"/>
+煮給你吃好嗎//ziah1 gorh1 zu1 ho3 li1 ziah2 ,hor4-vor3 
+<Sync time="556.171"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="557.421" endTime="559.311">
+<Sync time="557.421"/>
+不必這麼麻煩//ven1 ziah1 ma2-huan5 la3 
+</Turn>
+<Turn speaker="spk1" startTime="559.311" endTime="569.664">
+<Sync time="559.311"/>
+怎麼會麻煩 //a4-e3 ma2-huan5 leh3 
+<Sync time="561.003"/>
+煮菜不麻煩//zu1-cai3 ve3 ma2-huan5 
+<Sync time="563.068"/>
+你的身體出問題 //li1 e3 sin2-te4 ,an1-ne1 pa4-pai4-ki3 
+<Sync time="566.021"/>
+那才麻煩呢//an2-ne2 m3-zah1 ma2-huan5 
+<Sync time="567.505"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="569.664" endTime="577.846">
+<Sync time="569.664"/>
+靜慧 //zing2-hui2 
+<Sync time="570.499"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="572.073"/>
+對不起//sit1-le4 la3 
+<Sync time="572.722"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="573.651"/>
+讓你擔心了//ho3 li1 huan2-lor4 a3 
+<Sync time="575.33"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="577.846" endTime="583.473">
+<Sync time="577.846"/>
+不會啦 //ve3 la3 
+<Sync time="578.808"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="579.719"/>
+你只要好好照顧你自己就好//li1 zi1-iau4 hor1-hor1-a1 ziau4-go4 li1 ga2-di2 dor3-hor4 a3 
+<Sync time="582.204"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="583.473" endTime="587.699">
+<Sync time="583.473"/>
+我知道//qua1 zai2-iann4 la3 
+<Sync time="584.613"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="587.699" endTime="594.469">
+<Sync time="587.699"/>
+最近不知道怎麼回事//zue4-gun2 m3-zai2 si3 an1-nua4 
+<Sync time="589.574"/>
+家裡發生那麼多事情//cu4-lai2 huat1-sing2 hiah1-ni3-ze2 dai3-zi3 
+<Sync time="592.139"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="594.469" endTime="609.888">
+<Sync time="594.469"/>
+那都是因為我們都太忙了//he1 long1-si3 in2-ui3 honnh2 ,lan1 siunn2-gue4 vor2-ing5 a2 
+<Sync time="598.621"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="599.651"/>
+沒時間照顧阿嬤和孩子//ah1 a3 vor2 si3-gan1 ziau4-go4 a2-ma4 ,ah1-gorh1 qin1-na4 
+<Sync time="602.801"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="604.594"/>
+連我自己的身體也照顧不好//len3 qua1 ga2-di3 e2 sin2-te4 ,dor3 ziau4-go4 ve3 hor4 a3 
+<Sync time="608.344"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="609.888" endTime="626.272">
+<Sync time="609.888"/>
+我媳婦她就是辭掉工作//qun1 sin2-bu2 honnh2 ,i2 diorh3 kang2-kue3 si2 diau2 
+<Sync time="612.326"/>
+在家裡專心照顧孩子//dan4 cu4-lai3-de4 ,zuan2-sim2 ziau4-go4 qin1-na4 
+<Sync time="614.603"/>
+雖然每個月沒薪水可領//sui2-lang2
+<Event desc="len2" type="lexical" extent="previous"/>
+ gong1 honnh2 ,dak3-gor4-queh2 vor2 sin2-sui4 tang2 nia4 
+<Sync time="617.181"/>
+但是她把孩子照顧得很好//ah1-m3-gor1 honnh2 ,i2 ziong3 qin1-na4 ziau4-go4 ziok1-hor4 e3 neh2 
+<Sync time="620.165"/>
+這半年來我還沒聽過他感冒呢//ze1 buann4-ni2-qua2 honnh2 ,gorh1 m3-vat1 tiann2-gue4 gong1 i2 gam1-mo2 neh2 
+<Sync time="623.399"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="626.272" endTime="631.083">
+<Sync time="626.272"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="626.73"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="628.237"/>
+你在想什麼//li1 deh1 siunn3 siann4 
+<Sync time="629.286"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="631.083" endTime="660.764">
+<Sync time="631.083"/>
+沒有啦//ah2 vor5 la3 
+<Sync time="632.723"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="656.186"/>
+今天晚上天氣很涼 你怎麼跑出來//ing2-am3 zok1-ling4-e3 neh2 ,li1 na4-e3 cut2-lai3 la3 
+<Sync time="658.905"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="660.764" endTime="670.833">
+<Sync time="660.764"/>
+我出來找你啊//ua1 dor3 lai2 cue2 li2 a2 
+<Sync time="662.029"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="665.372"/>
+天上半顆星星也沒有//hng2 ah1 tinn2-ding4 ia3 vor2 cinn1 a1 
+<Sync time="667.825"/>
+你在看什麼//li1 si3 leh1 kuann4 siannh2 
+<Sync time="669.56"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="670.833" endTime="676.74">
+<Sync time="670.833"/>
+剛才還很多//du1-a4 gorh1 ziann2-ze2 a2 
+<Sync time="672.482"/>
+現在雲來了當然看不見//zit1-ma4 hun5 lai3 a2 ,dor3 long1 kuann4-vor5 a2 
+<Sync time="674.911"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="676.74" endTime="681.309">
+<Sync time="676.74"/>
+現在滿天都是雲//ah1 zit1-ma4 gui2-e2-tinn1 honnh2 long1-si3 hun5 la3 
+<Sync time="679.396"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="681.309" endTime="701.19">
+<Sync time="681.309"/>
+是啊 跟人一樣//si2 a2 ,dor4 gah1 lang5 gang3-kuan4 
+<Sync time="684.368"/>
+人在運勢不好的時候//lang5 e3 un2-se3 na3 vai4 oh2 
+<Sync time="686.536"/>
+就會看不清楚//dor3-e3 kuann4 ve3 cing2-cor4 
+<Sync time="687.989"/>
+以前運勢好的時候是什麼樣子//i1-za4 un3-se4 hor4 e2 si3-zun2 si3 siann1-kuan4 
+<Sync time="690.958"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="692.174"/>
+感覺那段日子離得好遙遠//gam1-gak2 hit1-duann2 rit3-zi4 ,li3 qun1 zok1-hng2 e2 
+<Sync time="696.002"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="701.19" endTime="735.54">
+<Sync time="701.19"/>
+建宇的感冒已經好了//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ e2 gam1-mo2 i1-ging2 hor4-a3 
+<Sync time="703.065"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="703.971"/>
+我和阿嬤的身體也好很多了//h1 qua1 a2-ma4 e2 sin2-te4 oh2 ,ma3 hor1 zin2-ze2 a2 
+<Sync time="706.705"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="710.502"/>
+你是不是因為剛剛你同事//li1 si2-m3-si3 tau2-du1-a4 lin1 dong2-su2 
+<Sync time="712.509"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="712.991"/>
+打電話來//ka4-den3-ue2 lai5 
+<Sync time="714.183"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="715.018"/>
+讓你心情不好//li1 sim2-lai2 leh1 vor2 huann2-hi4 
+<Sync time="716.331"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="721.606"/>
+不過//si3 gong1 honnh2 
+<Sync time="722.822"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="723.49"/>
+你請那麼多假//li1 cing1 ziah1-ni3 ze3 ga4 la3 
+<Sync time="724.975"/>
+你主管不高興那也很正常//ah1 li1 e3 zu1-guan4 vor2-huann2-hi4 ,he1 ma3 zing4-siong5 e2 a2 
+<Sync time="728.381"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="731.247"/>
+等孩子再大一些//dan1 qin1-na4 kah1 dua3-han3 e3 
+<Sync time="732.821"/>
+就不會這麼麻煩了//dor3 ve3 ziah1 ma2-huan5 a2 
+<Sync time="734.462"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="735.54" endTime="745.632">
+<Sync time="735.54"/>
+那還要好幾年呢//e1 gorh1 ai4 gui1-a3-ni5 le3 
+<Sync time="737.118"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="739.694"/>
+我不知道我還能撐多久//qua4 m3-zai2-iann4 qua1 gorh1 e3-ing5 dan1 qua3-gu4 
+<Sync time="742.631"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="745.632" endTime="751.785">
+<Sync time="745.632"/>
+不然你把工作辭掉//ah1-vor5 li1 ga3 tau2-lo2 si3-diau2 la3 
+<Sync time="747.21"/>
+我養你 你怕什麼//qua1 ci2 li1 a2 ,li1 giann2 siann1-mi4 
+<Sync time="749.666"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="751.785" endTime="757.335">
+<Sync time="751.785"/>
+你說的是真的嗎//li1 gong4-e3 si2 ziann2-sit2-e2 o3 
+<Sync time="753.16"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="757.335" endTime="762.068">
+<Sync time="757.335"/>
+我說的當然是真的//qua1 gong4 e3 o3 ,dong2-len5 ma3-si3 ziann2-sit1-e3 
+<Sync time="760.038"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="762.068" endTime="766.855">
+<Sync time="762.068"/>
+現在我在想的就是這件事//qua1 zit1-ma4 leh1 siunn2-e2 dor3-si3 zit1-giann2 dai3-zi3 neh2 
+<Sync time="764.834"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="766.855" endTime="771.977">
+<Sync time="766.855"/>
+你就是在想辭職的問題//li1 dor3-si3 leh1 siunn3 si2-zit2 e2 vun3-de5 o3 
+<Sync time="768.824"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="771.977" endTime="786.927">
+<Sync time="771.977"/>
+建宇早上老是叫不起來//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ tau4-za4 long1 be4-ve3-kiai3 
+<Sync time="773.977"/>
+我每天都要搭計程車//qua1 dak3-gang1 long1-ai4 ze3 ke4-ling2-cia1 
+<Sync time="776.298"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="776.923"/>
+每個月的車費都很貴//mui1-gor4-queh2 cia2-zinn5 long1 zok1-gui3-e3 
+<Sync time="779.127"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="781.143"/>
+這陣子我的薪水都不夠用//zit1-zam2-a4 ,qua1 e2 sin2-sui4 long1 vor2-gau4 iong2 la3 
+<Sync time="785.611"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="786.927" endTime="790.123">
+<Sync time="786.927"/>
+那你要告訴我啊//ze1 li1 ai4 ga3 qua1 gong4 a2 
+<Sync time="788.645"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="790.123" endTime="809.78">
+<Sync time="790.123"/>
+我也很怕加重你的負擔//qua1 ma3 ziok1 giann2 e1 ,zing2-ga2 li1 e2 hu3-dan1
+<Event desc="dam1" type="lexical" extent="instantaneous"/>
+
+<Sync time="793.352"/>
+我很想做好家裡的事情//qua1 ziok1 siunn3-veh1 zor4-hor4 ziau4-go4 cu4-lai2 e2 dai2-zi3 
+<Sync time="792.388"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="797.064"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="798.689"/>
+可是如果我辭掉工作 家裡的經濟//m3-gor1 na3-si3 qua1 si2-zit2 ,cu4-lai2 e2 ging2-ze3 
+<Sync time="801.939"/>
+就完全靠你一個人了//dor3 long1-ai4 kor4 li1 zit3-e3-lang5 a2 neh2 
+<Sync time="803.861"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="809.78" endTime="831.12">
+<Sync time="809.78"/>
+這本來就是我要做的//ze1 bun1-lai5 dor3-si3 qua1 ai4 zor3 e3 
+<Sync time="811.639"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="812.932"/>
+我讀北商的時候//qua1 tak3 
+<Event desc="zh" type="language" extent="begin"/>
+北商
+<Event desc="zh" type="language" extent="end"/>
+ e3 si2-zun2 
+<Sync time="814.511"/>
+是媽媽告訴我的//si3 a2-vu4 ga3 qua1 gong4 e3 
+<Sync time="816.089"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="817.044"/>
+我從小//qua1 zu3 se4-han3 
+<Sync time="818.17"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="818.938"/>
+父母//a2-bah2 a2-vu4 
+<Sync time="819.777"/>
+常為錢爭吵//dor3 ui3-diorh3 zinn5 ,leh1 uan2-ge1 
+<Sync time="821.638"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="822.883"/>
+所以當時心//so1-i1 hit1-le2 si2-zun2 
+<Sync time="823.961"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="824.633"/>
+我就下定決//qua1 dor3 he3 guat1-sim1 
+<Sync time="826.101"/>
+要承擔起全部責任//ai4 dann2-ki1 so1-u2 e2 zik1-lim2 
+<Sync time="827.601"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="828.401"/>
+這樣家庭才會溫暖//an1-ne1 ga2-ding5 ziah1-e3 un2-luan4 a2 
+<Sync time="829.838"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="831.12" endTime="852.754">
+<Sync time="831.12"/>
+你要記住 將來你一定要有責任//li1 ai4 e3-gi3-li3 ,ziong2-lai5 li1 it1-ding3 ai4 u3 zit1-rim2
+<Sync time="834.114"/>
+擔起一個家庭//dann1-ki1 zit3-le2 ga2-ding5 
+<Sync time="835.089"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="836.49"/>
+一個男人只知道靠老婆//zit3-e2 za2-bo1-lang5 ,na3 zai2-iann1 kor4 vo4 nia5 
+<Sync time="838.38"/>
+那是沒出息的//he1-si3 vor2 cut1-tuat2 e3 
+<Sync time="839.631"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="841.522"/>
+一個女人沒有男人倚靠//zit3-e2 za2-vo1-lang5 ,vor2 za2-bo2-lang5 tang2 ua1-kor3 
+<Sync time="844.757"/>
+做到死誰會心疼//zor4 gau4 si4 ,siann4 e3 tiann4-siorh2 
+<Sync time="847.57"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="852.754" endTime="858.693">
+<Sync time="852.754"/>
+添福//tiam2-hok2 
+<Sync time="853.494"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="854.286"/>
+你在想什麼//li1 si3 leh1 siunn3 sannh2 
+<Sync time="855.63"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="858.693" endTime="873.203">
+<Sync time="858.693"/>
+靜慧//zing2-hui2-a3 
+<Sync time="859.771"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="860.539"/>
+你的工作很好//li1 gang2-zok2 zin2-hor4 
+<Sync time="862.133"/>
+我尊重你的意思//qua1 zun2-diong3 li1 e2 i4-su3 
+<Sync time="863.711"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="864.689"/>
+讓你做自己想做的事//e3 ho3 li1 zor4 li1 ga4-i4 zor3 e2 dai3-zi3 
+<Sync time="866.767"/>
+倒不是要你多賺一份薪水//ah1 m3-si3 veh1-ai4-li4 ge2 zit3-hun3 sin2-sui4 o3 
+<Sync time="868.876"/>
+來幫助家計//lai3 ga3 cu3-e3 dau4-sann2-gang2 a3 
+<Sync time="870.423"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="873.203" endTime="878.927">
+<Sync time="873.203"/>
+你的意思是說//li1 e3 i4-su3 si3 gong1 
+<Sync time="874.625"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="875.321"/>
+你同意我辭職//li1 da4-ing4 qua1 si2-zit2 
+<Sync time="876.649"/>
+專心照顧家裡//ziau4-go4 cu4-lai2 
+<Sync time="877.587"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="878.927" endTime="889.282">
+<Sync time="878.927"/>
+這件事你自己決定//it1-giann2 dai3-zi3 o3 li1 ga2-di3 guat1-ding2 la3 
+<Sync time="881.505"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="882.409"/>
+不過我相信你辭職後//iah1 m3-gor1 qua1 siong2-sin3 ,li1 na3 si2-zit2 honnh2 
+<Sync time="885.191"/>
+會把家裡照顧得很好//e3-dang4 ga3 cu3-e3 ,ziau4-go4 zin2-hor4 
+<Sync time="887.363"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="889.282" endTime="891.958">
+<Sync time="889.282"/>
+謝謝你//dor2-sia2 li2 
+<Sync time="890.336"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="891.958" endTime="894.645">
+<Sync time="891.958"/>
+不 是我要謝謝你//vor5 no3 ,si3 qua1 ai4 dor2-sia2 li2 a2
+</Turn>
+<Turn speaker="spk1" startTime="894.645" endTime="899.308">
+<Sync time="894.645"/>
+我都要辭職了 你還謝我//qua1 long1 veh1 si3-zit2 a3 ,li1 gorh1 ga5 se4-dor2-sia2 
+<Sync time="898.358"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="899.308" endTime="937.216">
+<Sync time="899.308"/>
+你為了照顧好家庭放棄工作//ah1 li1 ui3-diorh3 ziau4-go4 ga2-ding5 ,hong4-ki4 gang2-zok2 a5 
+<Sync time="901.886"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="905.513"/>
+好啦 回家吧//hor4 la3 ,lai5-dng4 la3 
+<Sync time="907.946"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="934.716"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="937.216" endTime="942.972">
+<Sync time="937.216"/>
+媽//a2-vu4 
+<Sync time="937.892"/>
+hannh2 
+<Sync time="938.989"/>
+你不要一直躺在床上//mai4 it1-dit3 di3-e1 honnh2 bang2-ging1 te1 la3 ,lai2 ke4-tiann1 ze2 honn4 
+</Turn>
+<Turn speaker="spk3" startTime="942.972" endTime="951.943">
+<Sync time="942.972"/>
+好…//hor4 hor4 
+<Sync time="944.268"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="951.943" endTime="953.802">
+<Sync time="951.943"/>
+阿嬤 媽 我回來了//a2-ma4 a2-vu4 qua1 dng4-ai3 a3 
+</Turn>
+<Turn speaker="spk3" startTime="953.802" endTime="955.187">
+<Sync time="953.802"/>
+回來啦//dng4-ai3 a3 o3 
+</Turn>
+<Turn speaker="spk1" startTime="955.187" endTime="956.36">
+<Sync time="955.187"/>
+我有買豆花喔//qua1 u3 vue1 dau3-hue1 o1 
+</Turn>
+<Turn speaker="spk3" startTime="956.36" endTime="957.813">
+<Sync time="956.36"/>
+好…//hor4 hor4 hor4 hor4 hor4 
+</Turn>
+<Turn speaker="spk1" startTime="957.813" endTime="964.874">
+<Sync time="957.813"/>
+我去拿碗//ah2 ah2 qua1 lai2-ki1 te3 uann4 
+<Sync time="959.794"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="964.874" endTime="969.89">
+<Sync time="964.874"/>
+怎麼又買高麗菜//li1 gorh1 ve1 gor2-le2-cai3 
+<Sync time="966.109"/>
+天天吃 吃不膩嗎//dak3-gang1 ziah2 ,ziah3 ve3-sen2 o3 
+<Sync time="968.192"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="969.89" endTime="974.55">
+<Sync time="969.89"/>
+媽 現在是高麗菜盛產期//a2-vu4 ,zit1-ma4 gor2-le2-cai3 dua3-cut2 neh2 
+<Sync time="972.399"/>
+一斤才幾塊錢而已 很便宜//zit3-gin1 ziah1 gui1-ko1 nia5 ,ziok1-siok2-e2 neh2 
+</Turn>
+<Turn speaker="spk2" startTime="974.55" endTime="982.038">
+<Sync time="974.55"/>
+再便宜總要換換口味//ah1 dor3-si3 gorh1-kah1 siok2 honnh2 ,zong4-si3 ai4 uann3 zit3-diam1-a1 kau1-vi2 a2 
+<Sync time="978.127"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="982.038" endTime="989.106343402">
+<Sync time="982.038"/>
+靜慧廚藝這麼好//lan1 zing3-hue2-a2 ziah1 qau3 zu4 
+<Sync time="984.132"/>
+雖然是同樣的菜也會變花樣//gang3-kuan4 e2 cai3 ,ah2 ma3 u3 ben4-hua3 a2 
+<Sync time="987.333"/>
+一樣好吃//gang3-kuan1 hor1-ziah2 la3 hannh2 
+</Turn>
+<Turn speaker="spk2" startTime="989.106343402" endTime="997.21">
+<Sync time="989.106343402"/>
+菜可以變花樣//ah1 cai3 e3-dang4 ben4-kuan4 ,
+<Sync time="990.81"/>
+水果要怎麼變//ah1 zui1-gor4 si3 veh1 an1-na1 ben3 
+<Sync time="992.698"/>
+天天吃香蕉都快變香蕉臉了//dak3-gang1 ziah3 gin2-zior1 ,dit3-veh1 ben4 gin2-zior2-vin2 a1 
+<Sync time="996.089"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="997.21" endTime="997.93">
+<Sync time="997.21"/>
+媽//a2-vu4 
+</Turn>
+<Turn speaker="spk2" startTime="997.93" endTime="1005.614">
+<Sync time="997.93"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="998.831"/>
+你別告訴我香蕉也很便宜//a3 li1 mai4 ga5 gong1 gin2-zior1 ma3 ziok1-siok2-e2 
+<Sync time="1000.845"/>
+再便宜偶爾也要買點別的//ah1 dor3-si3 gorh1-kah1 siok2 ,san2-but1-qo3-si5 ,ma3 ai4 uann3 ve1 bat3-kuan4 e3 
+<Sync time="1004.441"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1005.614" endTime="1014.862">
+<Sync time="1005.614"/>
+那我明天買柳丁//na3 an1-ne1 ,qua1 me2-a1-zai3 honnh2 , ve1 liu1-ding1 la3 
+<Sync time="1007.599"/>
+現在柳丁也很便宜//zit1-ma4 liu1-ding1 ma3 ziann2-siok2 
+<Sync time="1009.182"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1011.698"/>
+我先拿菜進去放//qua1 sing2 ga3 cai3 ke3 e1 kng3 honnh2 
+<Sync time="1013.214"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1014.862" endTime="1016.389">
+<Sync time="1014.862"/>
+我先拿菜進去放// 媽//a2-vu4 
+<Sync time="1015.673"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1016.389" endTime="1018.487">
+<Sync time="1016.389"/>
+靜慧 吃早餐//zing2-hue2-a3 ziah3 za1-dng3 a2 
+</Turn>
+<Turn speaker="spk1" startTime="1018.487" endTime="1021.945">
+<Sync time="1018.487"/>
+好//hor4 
+<Sync time="1019.107"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1021.945" endTime="1034.684">
+<Sync time="1021.945"/>
+怎麼買都是那幾樣//an1-nua1 vue4 long1 hit1 gui1-kuan4 la3 
+<Sync time="1024.023"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1034.684" endTime="1053.727">
+<Sync time="1034.684"/>
+這些香蕉要怎麼處理//ziah1 e2 gin2-zior1 ,ai4 an1-nua1 cu1-li4 
+<Sync time="1036.684"/>
+大家才會喜歡吃呢//dak3-ge2 ziah1 e3 ai4-ziah2 le3 
+<Sync time="1038.296"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1053.727" endTime="1062.288">
+<Sync time="1053.727"/>
+建宇 你這個字寫錯了 來 擦掉//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ li1 zit1-ri2 sia1 m3-diorh1 a3 lai5 hu1-diau2 
+<Sync time="1056.352"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1058.735"/>
+有沒有看到 這樣寫的//u3 kuann3 e3 vor3 si3 an1-ne1 sia4 e3
+<Sync time="1059.97"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="1062.288" endTime="1063.672">
+<Sync time="1062.288"/>
+曾祖母 你看//a2-zo4 ,li1 kuann3 
+</Turn>
+<Turn speaker="spk3" startTime="1063.672" endTime="1075.647">
+<Sync time="1063.672"/>
+看什麼 曾祖母看不到//kuann4 sannh2 la3 ,a2-zo4 kuann4-vor5 la3 
+<Sync time="1065.718"/>
+曾祖母用摸的//a2-zo4 iong3 vong1 e2 oh2 o3 
+<Sync time="1067.862"/>
+這是什麼//ai5-ior3 ,ze1-si3 siann1-mi4 a3 hann5 
+<Sync time="1070.505"/>
+怎麼滑滑地//na4-e3 gut3-gut2 le3 oh2 
+<Sync time="1072.227"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1074.569"/>
+這個是什麼//zit1-liap2 si3 sannh2 
+</Turn>
+<Turn speaker="spk8" startTime="1075.647" endTime="1078.038">
+<Sync time="1075.647"/>
+曾祖母 那個是人啦//a2-zo4 hit1-le1 si3 lang5 la3 
+</Turn>
+<Turn speaker="spk3" startTime="1078.038" endTime="1081.094">
+<Sync time="1078.038"/>
+是人喔//si3 lang5 o3 
+<Sync time="1079.444"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1081.094" endTime="1086.555">
+<Sync time="1081.094"/>
+媽 你抱孩子抱這麼久 腿應該痠了吧//a2-vu4-a3 ,ah1 li1 qin1-na4 por3 ziah1-gu4 a3 ,ka1 ing4-gai2 e3 sng1 a1 la3 honnh2 
+<Sync time="1085.0"/>
+來啦 給我抱//lai5 la3 ho3 qua1 por2 la3 
+</Turn>
+<Turn speaker="spk3" startTime="1086.555" endTime="1089.345">
+<Sync time="1086.555"/>
+好 來…越來越重了//hor4 lai5 lai5 ,lu1 lai5 lu1 dang2 ai5-ior5 
+</Turn>
+<Turn speaker="spk5" startTime="1089.345" endTime="1101.107">
+<Sync time="1089.345"/>
+鵬宇 來 來阿公這裡//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ lai5 lai3 a2-gong1 zia1 
+<Sync time="1090.991"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1092.284"/>
+來 阿公抱你//laih2 a2-gong1 ga3 li1 por2 
+<Sync time="1094.167"/>
+你也好重喔//oh2 li1 ma3 ziok1-dang2 e3 neh2 hann5 a3 
+<Sync time="1097.172"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1098.323"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="1101.107" endTime="1113.227">
+<Sync time="1101.107"/>
+阿公 你的鬍子刺刺地//a2-gong1 ,li1 e3 cui4-ciu1 ca1-ca4
+<Event desc="cak3-cak2" type="lexical" extent="instantaneous"/>
+ e3 
+<Sync time="1104.091"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1105.4"/>
+刺刺地//cak3-cak2 o3 
+<Sync time="1106.464"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1107.54"/>
+等一下阿公//dan4-e3 a2-gong1 honnh2 
+<Sync time="1108.386"/>
+把鬍子刮乾淨 好不好//qia3 cui4-ciu1 kau2-kau1-e3 honnh2 ,hor4-vor3 
+<Sync time="1110.716"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1113.227" endTime="1115.352">
+<Sync time="1113.227"/>
+來… 吃蛋糕//lai5 lai5 lai5 ,ziah3 ge2-nng3-gor1 oh3 
+</Turn>
+<Turn speaker="spk5" startTime="1115.352" endTime="1119.389">
+<Sync time="1115.352"/>
+吃蛋糕 來…//lai5 oh2, oh2, ge2-nng3-gor1 lai5 lai5 lai5 
+<Sync time="1117.31"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1119.389" endTime="1126.448">
+<Sync time="1119.389"/>
+阿嬤這是用香蕉和麵粉去烤的//a2-ma4 ze1 honnh2 si3 gin2-zior1 gorh1-u3 mi3-hun4 ,lorh2-ki1 hang2 e2 
+<Sync time="1123.658"/>
+很好吃喔//ziok1 hor1-ziah2 e3 o2 
+</Turn>
+<Turn speaker="spk3" startTime="1126.448" endTime="1128.118">
+<Sync time="1126.448"/>
+香蕉還能做蛋糕喔//oh2 zor4 ge2-nng3-gor1 o3 
+</Turn>
+<Turn speaker="spk1" startTime="1128.118" endTime="1136.176">
+<Sync time="1128.118"/>
+是啊//si2 a2 
+<Sync time="1129.255"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1135.293"/>
+好吃嗎//hor1-ziah2 vor3 
+</Turn>
+<Turn speaker="spk3" startTime="1136.176" endTime="1136.872">
+<Sync time="1136.176"/>
+m5-m3 
+</Turn>
+<Turn speaker="spk5" startTime="1136.872" endTime="1141.766">
+<Sync time="1136.872"/>
+好香 好好吃//oh2 ziok1-pang1 ziok1 hor1-ziah1 e3 neh2 
+<Sync time="1139.329"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1141.766" endTime="1144.657">
+<Sync time="1141.766"/>
+好吃//hor1-ziah2 neh2 
+<Sync time="1142.625"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1144.657" endTime="1150.576">
+<Sync time="1144.657"/>
+口味很特別//kau1-vi2 zin2 dik3-bet2 neh2 
+<Sync time="1146.116"/>
+我第一次吃到香蕉做的蛋糕//qua1 tau2-zit3-ben3 oh2 ,ziah3-diorh3 gin2-zior1 zor3 e3 ge2-nng3-gor1 neh2 
+<Sync time="1149.24"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1150.576" endTime="1183.453">
+<Sync time="1150.576"/>
+只有我們家才會有的口味//zi1-u3 lan1-dau1 ziah1-u2 e3 kau1-vi2 
+<Sync time="1153.123"/>
+我們家的媳婦好聰明好厲害//mh2 lan1-dau1 e2 sin2-bu2 o3 ,ziah1-kiau4 ziah1-qau5 hng4 
+<Sync time="1158.009"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1183.453" endTime="1195.608">
+<Sync time="1183.453"/>
+這些錢恐怕撐不到月底//ia1 e2 zinn5 ,kor1-ling5 dong4-ve3-gau4 queh3-de4 
+<Sync time="1186.434"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1195.608" endTime="1198.593">
+<Sync time="1195.608"/>
+靜慧 你怎麼恍神恍神地//zing2-hui3-a3 ,li1 na4-e3 qong3-sin3 qong3-sin5 a3 
+</Turn>
+<Turn speaker="spk1" startTime="1198.593" endTime="1213.353">
+<Sync time="1198.593"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1199.493"/>
+沒有啦//vor5 la3 
+<Sync time="1200.532"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1201.801"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1202.903"/>
+我沒去上班 家庭還有孩子//qua1 vor2 zor4-sit2 ,ga2-ding5 gorh1-u3 qin1-na4 
+<Sync time="1206.122"/>
+我覺得我都照顧得很好//qua1 gam1-gak1 ,qua1 long1 ziau4-go4 gah1 ziann2-hor4 
+<Sync time="1208.747"/>
+建宇的功課也進步很多//ah1 
+<Event desc="zh" type="language" extent="begin"/>
+建宇
+<Event desc="zh" type="language" extent="end"/>
+ e2 
+<Event desc="zh" type="language" extent="begin"/>
+功課
+<Event desc="zh" type="language" extent="end"/>
+ ma3 u3 zin4-bo2 a2 
+<Sync time="1211.451"/>
+可是//ah1 m3-gor1 
+</Turn>
+<Turn speaker="spk6" startTime="1213.353" endTime="1216.768">
+<Sync time="1213.353"/>
+可是你後悔辭職是不是//ah1 m3-gor1 li1 hior3-hue1 si2-zit2 diorh2-vor3 
+<Sync time="1215.027"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1216.768" endTime="1229.889">
+<Sync time="1216.768"/>
+我不是後悔//qua1 si3 vor2 hior3-hue4 la3 ,
+<Sync time="1218.768"/>
+只是家計全靠你一個人//zi1-si3 cu4-lai2 e2 kai2-siau1 , long1 kor4 li1 zit3-e3-lang5 
+<Sync time="1221.955"/>
+我用錢都要很小心謹慎//qua1 iong3-zinn5 long1-ai4 ziok1 zu4-i3 e3 
+<Sync time="1224.908"/>
+稍微不小心錢就不夠用//sior1-kua1 vor2-zu4-i3 zinn5 dor4-e3 vor3-gau4-iong2 a2 
+<Sync time="1228.455"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1229.889" endTime="1232.622">
+<Sync time="1229.889"/>
+是不是我給你的買菜錢不夠//si3-m3-si3 ho2-li2 ve1-cai4-zinn5 vor2-gau3 
+<Sync time="1231.592"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1232.622" endTime="1238.398">
+<Sync time="1232.622"/>
+是有點不夠//si3 u3 dam3-bor2-a1 vor2-gau3 
+<Sync time="1234.53"/>
+這個月菜價又漲了//zit1-gor4-queh2 e2 cai4-zinn5 gorh1 ki4 a3 
+<Sync time="1236.967"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1238.398" endTime="1242.571">
+<Sync time="1238.398"/>
+不然我每個月多一千塊錢給你//ah1 vor5 an1-ne1 la3 ,qua1 mui1-zit3-gor4-queh1 honnh2 gorh1 ge2 zit3-cing2-ko1 ho2 li2 
+<Sync time="1241.784"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1242.571" endTime="1251.782">
+<Sync time="1242.571"/>
+真的//ziann2-sit2 e2 o3 
+<Sync time="1243.501"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1244.622"/>
+那我就可以買不一樣的菜了//na3-an1-ne1 ,qua1 dor3 e3-ing5 ve1 vor2-gang3-kuan4 e2 cai3 a3 
+<Sync time="1246.857"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1247.675"/>
+添福 謝謝你//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ dor2-sia2 li2 
+<Sync time="1249.425"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1251.782" endTime="1258.858">
+<Sync time="1251.782"/>
+媽 你說什麼 你要我去找姊夫//a2-vu4-a3 ,li1 gong1 siannh2 , li1 veh1 ai4 qua1 ce3 zi1-hu1 o3 
+<Sync time="1254.985"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1255.483"/>
+請姊夫提攜靜慧開礦油行//h1 veh1 ai4 zi1-hu1 ,ah1 dau4-sann2-gang2 ga3 zing3-hui2 ,kui2 iu2-hang5 o3 
+</Turn>
+<Turn speaker="spk2" startTime="1258.858" endTime="1269.243">
+<Sync time="1258.858"/>
+對啊 你姊和姊夫//diorh2 a2 ,lin2 a2-zi4 gah1 zi1-hu1 honnh2 
+<Sync time="1261.397"/>
+去年就想拉拔靜慧開礦油行//gu3-ni5 dor3 siunn3-veh1 can2-sing2 zing3-hui2 lai2 kui2 kong4-iu2-hang5 a2 
+<Sync time="1264.412"/>
+當初如果答應 現在不知道賺多少錢了//dong2-co1 na3-si3 da4-ing3 honnh2 ,zit1-ma4 za4 dor3 m3-zai2 ,tan4 qua3-ze3 zinn5 a2 
+<Sync time="1268.069"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1269.243" endTime="1273.055">
+<Sync time="1269.243"/>
+當初靜慧不肯答應 一定有她的考量//ah1 dong2-co1 zing2-hui2 vor2 da4-ing3 honnh2 ,it1-ding3 si3 i2 e2 kor1-lu2 e2 la3 
+</Turn>
+<Turn speaker="spk2" startTime="1273.055" endTime="1287.396">
+<Sync time="1273.055"/>
+有什麼好考慮的//u3 siann1-mih1 hor1 kor1-lu2 e2 a3 
+<Sync time="1275.324"/>
+哪有人會拒絕賺錢的好機會//na4 u3 lang2 gi3-zuat3 he1 ,tan4-zinn5 e2 hor1 gi2-hue2 
+<Sync time="1277.985"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1279.335"/>
+添福 你還是去找你姊夫一趟//tiam2-hok2-a3 ,li1 oh3 ah1-si3 ki1 cue3 lin1 zi1-hu1 zit3-zua3 la3 
+<Sync time="1283.023"/>
+請他們勸勸靜慧//ciann1 in2 honnh2 ,ga3 zing3-hui2 kor1-kng3 zit3-le3 
+<Sync time="1285.507"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1287.396" endTime="1294.507">
+<Sync time="1287.396"/>
+好啦 媽//hor4 la3 ,a2-vu4 
+<Sync time="1288.708"/>
+我找一天去和姊夫商量看看//qua1 cue3 zit3-gang2-a4 oh2 ,ki1 cue3 zi1-hu1 cam2-siong5 la3 
+<Sync time="1291.849"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1294.507" endTime="1296.319">
+<Sync time="1294.507"/>
+喝茶//lai5 lim2-de5 la3 
+</Turn>
+<Turn speaker="spk6" startTime="1296.319" endTime="1308.871">
+<Sync time="1296.319"/>
+姊夫 謝謝你//zi1-hu1 dor2-sia2 li2 
+<Sync time="1298.054"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1300.73"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1302.574"/>
+姊夫 真是抱歉//zi1-hu1 a3 ,gong1 ziok1 pai1-se3 e3 
+<Sync time="1304.48"/>
+還讓你們專程從店裡回來//ah1 gorh1 ho3 lin1 zuan2-gang2 honnh2 ,ui4 diam3-e3 dng4-lai3 
+<Sync time="1307.074"/>
+早知道我去店裡找你們就好//ah1 za4-zai1 qua1 ki1 cue2 lin2 diorh3-hor4 a3 
+</Turn>
+<Turn speaker="spk9" startTime="1308.871" endTime="1312.736">
+<Sync time="1308.871"/>
+剛剛店裡人多不方便說話//ah1 du1-a4 diam3-e3 lang5 ze2 ,vor2-hong2-ben3 gong1-ue2 la3 
+<Sync time="1311.73"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1312.736" endTime="1313.809">
+<Sync time="1312.736"/>
+你們生意很好喔//lin1 sing2-li4 zok1-hor4 honnh2 
+</Turn>
+<Turn speaker="spk9" startTime="1313.809" endTime="1320.862">
+<Sync time="1313.809"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1314.151"/>
+是啊 這幾天//henn2 a2 ,ah1 zit1-gui2-gang2-a4 honnh2 
+<Sync time="1316.214"/>
+又找了幾個工人來幫忙//gorh1-u3 ciann4 zit3-gua1 gang2-lang5 lai2 dau4-sann2-gang2 la3 
+<Sync time="1318.544"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1320.862" endTime="1332.493">
+<Sync time="1320.862"/>
+添福 上次我和你姊夫//tiam2-hok2-a3 ,ah1 ding1-gai4 oh2 ,qua1 gah1 lin1 zi1-hu1 
+<Sync time="1323.94"/>
+就已經去勸靜慧開礦油行//dor3 i1-ging2 ki1 ko1-kng4 
+<Event desc="zh" type="language" extent="begin"/>
+靜慧
+<Event desc="zh" type="language" extent="end"/>
+ kui2 kong4-iu2-hang5 a2 
+<Sync time="1326.622"/>
+但是她不答應//ah1 m3-gor1 i2 dor2 m3-king4 
+<Sync time="1328.451"/>
+現在再勸她 她會答應嗎//ah1 zit1-ma4 ,gior4 qun1 ki1 ga2 gong4 i2 gam1-e3 da4-ing3 
+</Turn>
+<Turn speaker="spk6" startTime="1332.493" endTime="1343.654">
+<Sync time="1332.493"/>
+這個我也不知道//ze1 qua1 ma3 m3-zai2-iann4 la3 
+<Sync time="1334.259"/>
+不過媽昨晚又跟我提起這件事//ah1 si3-gong1 a2-vu4 o3 ,zang5 ho3 qua1 te3-ki1 zit1-giann2 dai3-zi3 
+<Sync time="1337.389"/>
+她希望以你們的經驗//ah1 i3 gong1 honnh2 ,iong3 lin1 e2 ging2-qiam2 
+<Sync time="1340.343"/>
+再和靜慧商量看看//ham2 zing3-hui2 cam2-siong5 zit3-e3 a3 la3 
+<Sync time="1342.015"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1343.654" endTime="1348.071">
+<Sync time="1343.654"/>
+看來媽也贊成這件事//kuann4-kiai3 a2-vu4 oh2 ma3 zan4-sing2 zit1-giann2 dai3-zi3 a3 
+<Sync time="1346.107"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1348.071" endTime="1359.941">
+<Sync time="1348.071"/>
+對了 說實話//diorh2 la3 ,gong1 zing4-ging1 e1 
+<Sync time="1349.734"/>
+添福//tiam2-hok2-a3 
+<Sync time="1350.493"/>
+開礦油行生意//he1 na3-veh1 kui2 kong4-iu2-hang5 
+<Sync time="1352.363"/>
+忙的時候連吃飯的時間都沒有//dng2 li1 vor2-ing5 e2 si2-zun2 ,len3 ziah3-bng2 e2 si2-gang2 dor2 vor5 neh2 
+<Sync time="1355.004"/>
+你們要有心理準備//li1 ai4 zor4 sim2-li1 zun1-bi2 o2 
+<Sync time="1356.551"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1359.941" endTime="1377.235">
+<Sync time="1359.941"/>
+不用這麼緊張//ven1 ziah1 gin1-diunn1 la2 
+<Sync time="1361.644"/>
+到時候多請幾個工人來幫忙就好了//ah1 gau4 si2-zun2 honnh2 ge2 ciann4 gui1-e2 gang2-lang5 ,dng1-ai2 dau4-sann2-gang2 dor3-hor4 a2 
+<Sync time="1365.333"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1366.181"/>
+想要賺錢就要把握機會//siunn3-veh1 tan4-zinn5 oh2 dor3-ai4 ba1-ak3 gi2-hue2 
+<Sync time="1368.271"/>
+機會一失去是回不來的//ah1 gi2-hue2 zit3-sit2-ki3 ,si3 ve3 gorh1 dng4-ai3 o2 
+<Sync time="1371.068"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1373.13"/>
+不然這樣 明天我幫你去勸勸靜慧//vor5 an1-ne1 la3 ,mi2-a1-zai3 oh2 ,qua1 te4 li1 lai5 ga3 
+<Event desc="zh" type="language" extent="begin"/>
+靜慧
+<Event desc="zh" type="language" extent="end"/>
+ gong1 kuann4-mai2 a4 
+<Sync time="1376.521"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1377.235" endTime="1384.389">
+<Sync time="1377.235"/>
+姊 謝謝你//a2-zi4 dor2-sia2 li2 
+<Sync time="1378.552"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1384.389" endTime="1390.128">
+<Sync time="1384.389"/>
+姊 你今天專程來//a2-zi4 li1 giann5-lit2 zuan2-gang2 lai5 
+<Sync time="1386.717"/>
+就是為了要我去開礦油行/dor3-si3 siunn3-veh1 gior4 qua1 ki1 kui2 iu2-hang5 o3 
+<Sync time="1389.035"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1390.128" endTime="1395.956">
+<Sync time="1390.128"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1390.847"/>
+只要你願意//zi1-iau4 li1 quan3-i3 honnh2 
+<Sync time="1392.081"/>
+姊姊和姊夫一定會幫你//a2-zi4 gah1 zi1-hu1 ,dor3 it1-ding3 ga3 lin1 dau4-sann2-gang2 la2 
+<Sync time="1394.488"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1395.956" endTime="1402.542">
+<Sync time="1395.956"/>
+這件事你去年就已經提過//zit1-giann2 dai3-zi3 ,li1 ding1-ni5 lor3 i1-ging2 gong4-gue4 a3 
+<Sync time="1399.298"/>
+我以為事情已經過了//qua1 gior4-si3 gong1 dai3-zi3 i1-ging2 gue3-ki3 a3 
+</Turn>
+<Turn speaker="spk2" startTime="1402.542" endTime="1419.378">
+<Sync time="1402.542"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1403.214"/>
+靜慧 當初你顧慮到家裡//zing3-hui2-a3 ,ah1 dong2-co2 honnh2 ,li1 lor3-si3 go4-lu3 gong1 cu4-lai3-vin2 
+<Sync time="1406.667"/>
+老小需要照顧//ah1 gorh1-u3 lau2-e2 ah1 gorh1 se4-han3-e3 ai4 ziau4-go3 
+<Sync time="1409.015"/>
+才會推掉這麼好的機會//ziah1-e3 te2-si2 ziah1-hor4 e3 gi2-hue2 
+<Sync time="1410.827"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1411.471"/>
+我看這一年來 你們夫妻手頭也很緊//ah1 qua1 kuann4 zit1-ni5 honnh2 ,lin1 ang2-a1-vo4 e3 ciu1-tau5 ma3 zin2-an5 
+<Sync time="1414.393"/>
+所以我再請你姊來跟你說一下//so1-i1 qua1 m3-ziah1 gorh1 ciann1 lin1 a2-zi4 lai2 ga3 li3 gong4 zit3-le3 
+<Sync time="1417.018"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1419.378" endTime="1434.81">
+<Sync time="1419.378"/>
+是啊 媽真的很關心你們//si2 a2 ,a2-vu4 oh2 si3 zin2-ziann4 ,ziok2 guan2-sim2 lin4 e3 a2 
+<Sync time="1422.878"/>
+添福我也是從小就照顧他//ah1 tiam2-hok2 o3 ,qua1 ma3-si3 zu3 se4-han3 ,dor3 ga2 ziau4-go3 a3 
+<Sync time="1426.502"/>
+如果能改善你們的經濟//kah1-su1 gong1 na3 si3 e3-dang4 gai1-sen3 lin1 e3 ging2-ze3 
+<Sync time="1429.627"/>
+姊姊也覺得有責任要幫助你們//a2-zi4 ma3 gam1-gak1 u3 zit1-e2 zit1-qim2 ,ai4 ga3 lin1 dau4-sann2-gan2 a2 
+<Sync time="1432.424"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1434.81" endTime="1453.291">
+<Sync time="1434.81"/>
+你姊和你姊夫有心幫你//ah1 lin1 a2-zi4 zi1-hu1 oh2 ,u3-sim1 ga3 li1 dau4-sann2-gang2 
+<Sync time="1437.341"/>
+絕對妥當 一切都會很順利//he1 zuat3-dui4 tor4-dong3 e3 ,it1-ce3 long1 e3 zin2 sun3-li2 e2 
+<Sync time="1440.331"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1441.261"/>
+你就別再猶豫了//li1 lor3 mai4 gorh1 diunn2-du5 a2 
+<Sync time="1442.52"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1453.291" endTime="1463.395">
+<Sync time="1453.291"/>
+這也是一個能賺錢的機會//he1 ma3-si3 zit3-e2 oh2 ,zin2-hor1 tan4-zinn5 e3 gi2-hue2 a2 
+<Sync time="1456.4"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1458.158"/>
+如果你有什麼顧慮 我們就不要勉強//ga1-su1 li1 na3-si3 u3 siann1-mih1 go4-lu2 ,lan1 dor3 mai4 ven1-giong4 
+<Sync time="1461.314"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1463.395" endTime="1475.92">
+<Sync time="1463.395"/>
+可是媽好像很希望 我們能開礦油行//zi1-si3 a2-vu4 ,cin2-ciunn3 zok1 hi2-vang3,lan1 e3-ing5 kui2 iu2-hang5 neh2 
+<Sync time="1466.848"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1470.67"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1475.92" endTime="1483.636">
+<Sync time="1475.92"/>
+那也是媽的一番好意//he1 ma3-si3 a2-vu4 e2 oh2 zit3-huan1 e2 hor1-i3 la3 
+<Sync time="1478.92"/>
+她希望我們多賺些錢 改善家裡的經濟//veh1 ho3 lan1 tan4 gua5 zinn5 ,veh1 gai1-sen4
+<Event desc="sen3 " type="lexical" extent="instantaneous"/>
+ lan1 e3 ging2-ze3 a3 
+<Sync time="1482.652"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1483.636" endTime="1494.116">
+<Sync time="1483.636"/>
+我知道//qua1 zai2-iann4 a2 
+<Sync time="1484.933"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1486.339"/>
+可是我只要想起小時候//m3-gor1 ,qua1 zi1-iau4 siunn3-diorh3 se4-han3 e2 si2-zun2 
+<Sync time="1489.307"/>
+我家的礦油行發生過火災//cu4-lai2 bat1
+<Event desc="vat1" type="lexical" extent="previous"/>
+ huat1-sing2 gue4 hue1-zai1 
+<Sync time="1491.4"/>
+我就會害怕//qua1 dor3 e3 giann1 
+</Turn>
+<Turn speaker="spk6" startTime="1494.116" endTime="1497.793">
+<Sync time="1494.116"/>
+可是那都是過去的事了//iah1 m3-gor1 honnh2 ,ze1 long1-si3 gue4-ki3 e3 dai3-zi3 la3 
+<Sync time="1496.522"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1497.793" endTime="1513.302">
+<Sync time="1497.793"/>
+就是啊 靜慧//dor2-si2 a2 ,zing3-hui2 
+<Sync time="1499.621"/>
+這都十幾年前的事了 還想它做什麼呢//ah1 ze1 long1 zap3-ni5 i1-zing5 e2 dai3-zi3 ,gorh1 siunn3 i2 veh1 cong4 siannh2 
+<Sync time="1502.65"/>
+如果因為這樣 放棄這麼好賺錢的機會//ah1 na3-si3 in2-ui3 an1-ne1 ,hong4-ki4 hah1-ni3 hor4 tan4-zinn5 e3 gi2-hue2
+<Sync time="1506.759"/>
+很可惜呢//zin2 kor1-siorh2 neh2 
+<Sync time="1507.932"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="1513.302" endTime="1519.523">
+<Sync time="1513.302"/>
+媽 我看還是讓靜慧再想想吧//a2-vu4-a3 ,qua1 kuann3 honnh2 ah3-si3 ho3 zing3-hui2 honnh2 ,siunn3 kuann4-mai2 a4 le3 la3 ,
+<Sync time="1517.833"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1519.523" endTime="1524.708">
+<Sync time="1519.523"/>
+好吧 你們好好商量//hor4 la3 ,lin1 hor1-hor1-a1 cam2-siong5 
+<Sync time="1522.085"/>
+要認真考慮知道嗎//ai4 rin3-zin2 kor1-lu2 zai2-iann4 vor3 
+</Turn>
+<Turn speaker="spk1" startTime="1524.708" endTime="1563.432">
+<Sync time="1524.708"/>
+我們知道//mh2 ,qun1 zai2-iann4 
+<Sync time="1526.38"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1536.04"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1563.432" endTime="1571.931">
+<Sync time="1563.432"/>
+人家都誠心誠意要幫她了//lang5 dor2 honnh2 i1-ging2 sing3-sim1 veh1 ga3-i2 dau4-sann2-gang2 a2 
+<Sync time="1566.245"/>
+她還說要考慮//i2 gorh1 gong1 veh1 kor1-ku2 la3 
+<Sync time="1568.196"/>
+真不知道靜慧心裡在想什麼//qua1 ziann2-sit3 m3 zai2-ann1 honnh2 ,zing3-hui2 sim3-guann2-lai2 ,di2-e1 siunn3 sannh2 
+</Turn>
+<Turn speaker="spk3" startTime="1571.931" endTime="1583.660">
+<Sync time="1571.931"/>
+靜慧也沒有拒絕//zing2-hue2 ma3 vor2 gu3-zuat2 la3 
+<Sync time="1574.478"/>
+說要考慮一下啊//i2 gong1 veh1 kor1-lu2 zit3-e3 a2 
+<Sync time="1577.042"/>
+哪需要考慮//na4 diorh3-ai4 kor1-lu2 a3 
+<Sync time="1579.136"/>
+那都是她的說法 她根本就不想開礦油行//he1 si3 i2 e2 gong1-huat2 la3 ,i2 gen2-bun4 dor2 vor2 siunn3-veh1 kui2 iu2-hang5 la3 
+</Turn>
+<Turn speaker="spk3" startTime="1583.660" endTime="1586.667">
+<Sync time="1583.660"/>
+你怎麼知道她在想什麼//li1 na4-e3 zai2-iann1 i2 di1-e1 siunn3-sannh2 
+</Turn>
+<Turn speaker="spk2" startTime="1586.667" endTime="1593.55">
+<Sync time="1586.667"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1587.303"/>
+她要是不這麼想 早就直接答應了//ah1 i2 na3-si3 vor2 an1-ne1 siunn2 honnh2 ,za4 dor3 dit3-ziap2 da4-ing3 a3 
+<Sync time="1590.499"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1593.55" endTime="1636.053">
+<Sync time="1593.55"/>
+梅子//mui2-zu4 a3 
+<Sync time="1594.722"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1596.5"/>
+一枝草一點露//zit3 gi2 cau4 zit3 diam1 lo2 
+<Sync time="1598.557"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1600.149"/>
+凡事自然就好//dai3-zi3 o3 ,bang4 ho3 i2 zu3-len5 
+<Sync time="1603.18"/>
+不要太過勉強//m3-tang2 ven1-giong4 la3 
+<Sync time="1604.993"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1606.233"/>
+你看開一點 心情才會輕鬆//li1 honnh2 kah1 kin2-sang1 le3 ,sim2-zing2 ziah1-e3 kuinn4-uah2 honnh2 
+<Sync time="1610.42"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1636.053" endTime="1648.617">
+<Sync time="1636.053"/>
+如果開礦油行自己當老闆//ah1-su1 kui2 iu2-hang5 ga2-di2 zor4 tau2-ge1 
+<Sync time="1638.537"/>
+也許我可以把孩子 帶到店裡去照顧//vor2-dik1-kak2 qua1 e3-ing5 ga3 qin1-na4 cua3-ki1 diam4-lai2 ziau4-go3 
+<Sync time="1641.814"/>
+一邊賺錢一邊顧家/zit3-vin3 tan4-zinn5 zit3-vin3 go4-ge1 
+<Sync time="1644.408"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1648.617" endTime="1672.514">
+<Sync time="1648.617"/>
+去買菜//ki1 ve1-cai3 la3 
+<Sync time="1649.929"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1652.373"/>
+aih2 
+<Sync time="1653.193"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1654.357"/>
+該說的都說了//ah1 gai2 gong4 e3 long1 gong4 a3 
+<Sync time="1656.014"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1657.558"/>
+好了 秀嬌 我看這件事就算了吧//hor4 a2 la2 ior1-koh2 ,qua1 kuann3 zit1-giann2 dai3-zi3 honnh2 ,dor3 zun1-du1-suah2 la3 
+<Sync time="1662.745"/>
+既然她猶豫不決//ah1 gi4-len5 i2 dor2 hah1-ni3 diu2-du5 a2 
+<Sync time="1664.87"/>
+我們就不要勉強她//dor3 mai4 ga3-i2 ven1-giong4 
+<Sync time="1666.636"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1667.805"/>
+開礦油行的事再說吧//iu2-hang5  e2 dai3-zi3 honnh2 ,ziah1 gorh1 gong4 la3 
+<Sync time="1671.118"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1672.514" endTime="1713.149">
+<Sync time="1672.514"/>
+媽 //a2-vu4 
+<Sync time="1673.951"/>
+我來跟姊姊說//qua1 gah1 a2-zi4 gong4 zit3-e3 
+<Sync time="1675.768"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1679.026"/>
+喂 姊 我是靜慧//e5 a2-zi4 o3 ,qua1 zing3-hui2 la3 
+<Sync time="1682.026"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1683.232"/>
+我決定要開礦油行了//qua1 guat1-ding2 oh2 ,veh1 kui2 iu2-hang5 a2 
+<Sync time="1685.448"/>
+以後要拜託你和姊夫了//i1-au2 dor3 ai4 bai4-tok1 li1 gah1 zi1-hu1 neh2 
+<Sync time="1687.801"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1688.76"/>
+是啊//si2 a2 
+<Sync time="1689.633"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1690.691"/>
+henn3 
+<Sync time="1691.432"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1707.812"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1713.149" endTime="1716.362">
+<Sync time="1713.149"/>
+真好…//ziann2-hor4 ziann2-hor4 honnh2 
+<Sync time="1714.823"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1716.362" endTime="1720.503">
+<Sync time="1716.362"/>
+媽 今天礦油行開幕//a2-vu4 ,ah1 gin2-na1-rit2 iu2-hang5 kai2-vo2 honnh2 ,li1 ziok1 huann2-hi4 e3 diorh2-vor3 
+</Turn>
+<Turn speaker="spk3" startTime="1720.503" endTime="1722.076">
+<Sync time="1720.503"/>
+你很高興對不對//li1 ma3 huann2-hi4 honn4 
+</Turn>
+<Turn speaker="spk2" startTime="1722.076" endTime="1729.585">
+<Sync time="1722.076"/>
+當然高興//dong2-len5 huann2-hi4 a2 aih2 
+<Sync time="1723.659"/>
+多虧有正義和秀嬌的幫忙//ah1 hor1-ga2-zai4 honnh2 , u3 zing4-li2 gah1 ior1-koh2 in2 dau4-sang2-gang2 la3 
+<Sync time="1726.935"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1728.727"/>
+靜慧 //zing3-hui2 a3 
+</Turn>
+<Turn speaker="spk1" startTime="1729.585" endTime="1730.617">
+<Sync time="1729.585"/>
+媽//a2-vu4 
+</Turn>
+<Turn speaker="spk2" startTime="1730.617" endTime="1736.267">
+<Sync time="1730.617"/>
+添福 //tiam2-hok2 
+<Sync time="1731.564"/>
+來…去啦 去跟你姊和姊夫道謝 快去//lai5 lai5 lai5 ,ki3 la3 , ki1 ga2 lin1 a2-zi4 gah1 zi1-hu1 se4 dor2-sia2 ,gin1-ki3 
+</Turn>
+<Turn speaker="spk6" startTime="1736.267" endTime="1740.91">
+<Sync time="1736.267"/>
+好//oh2 hor4 
+<Sync time="1737.281"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1740.91" endTime="1743.899">
+<Sync time="1740.91"/>
+好…//hor4 hor4 hor4 
+<Sync time="1741.863"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1742.582"/>
+恭喜 恭喜//giong2-hi4 o3 ,giong2-hi4 o3 
+</Turn>
+<Turn speaker="spk10" startTime="1743.899" endTime="1744.587">
+<Sync time="1743.899"/>
+恭喜 //giong2-hi4 o3 
+</Turn>
+<Turn speaker="spk6" startTime="1744.587" endTime="1750.57">
+<Sync time="1744.587"/>
+姊夫 姊//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ zi1-hu1 a3 ,a2-zi4 
+<Sync time="1746.686"/>
+這回真的要謝謝你們//zit1-bai3 oh2 zin2-ziann4 ai4 dor2-sia2 lin1 la3 
+<Sync time="1748.748"/>
+要不然這間礦油行也無法開張//ah1 na3-vor5 honnh2 ,zit1 diam3 vor2-huat1-do2 kui2-vo2 a3 
+</Turn>
+<Turn speaker="spk9" startTime="1750.57" endTime="1766.135">
+<Sync time="1750.57"/>
+別這麼客氣//ai2-ior3 ,mai4 hah1-ni2-a1 ke4-ki3 la3 
+<Sync time="1752.601"/>
+這是我應該做的//ze1 qua1 ing4-gai2 ai4 zor3 e3 la3 
+<Sync time="1754.188"/>
+不過 添福 靜慧//si3 gong1 honnh2 tiam2-hok2-a3 ,zing3-hui2-a3 
+<Sync time="1756.407"/>
+你們要有心理準備//lin4 dor3-ai4 sim2-li4 zun1-bi2 neh2 
+<Sync time="1758.282"/>
+礦油行生意正好的時候//ze1 kong4-iu2-hang5 e2 sing2-li4 honnh2 ,na3 dng2-hor4 honnh2 
+<Sync time="1760.586"/>
+會非常忙碌//si3 ziok1 vor2-ing5 e2 oh2 
+<Sync time="1761.993"/>
+到時候你們要請個工人//gau4-si2-zun2 oh2 lin1 dor3-ai4 ciann4 zit3-e3-a1 gang2-lang5 
+<Sync time="1763.617"/>
+來幫忙//lai2 ga3-lin1(*) dau4-sann2-gang2 neh2 
+<Sync time="1764.728"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1766.135" endTime="1775.05">
+<Sync time="1766.135"/>
+不用 不用請工人//m3-ven4 la3 , m3-ven1 ciann4 gang2-lang5 la3 
+<Sync time="1767.901"/>
+我和你爸就可以幫忙了//qua1 gah1 lin1 a2-bah2 oh2 dor3 e3-dang4 dau4-sann2-gang2 a2 
+<Sync time="1770.05"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1775.05" endTime="1780.185">
+<Sync time="1775.05"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1776.902"/>
+正義//a2-qi2-a3 
+<Sync time="1777.784"/>
+要怎麼做生意 你都有教靜慧吧//ah1 veh1 na1 zor4 sing2-li4 ,li1 u3 ga3 zing3-hui2-a2 gong4 vor3 a3 
+</Turn>
+<Turn speaker="spk9" startTime="1780.185" endTime="1785.708">
+<Sync time="1780.185"/>
+有啦 爸 我都教過他們了//h2 u2 la3 ,a2-bah2 ,qua1 long1-u3 ga3 in2 ga3-gue3 a3
+<Sync time="1782.92"/>
+要是他們還有不懂的地方 可以打電話來問我//ah1 in2 na3 m3-zai2-iann4 e2 so1-zai2 honnh2 ,e3-ing5 ka4 den3-ue2 lai2 mng2 qua2 a2 
+</Turn>
+<Turn speaker="spk5" startTime="1785.708" endTime="1786.588">
+<Sync time="1785.708"/>
+好//hor4 hor4 
+</Turn>
+<Turn speaker="spk6" startTime="1786.588" endTime="1788.762">
+<Sync time="1786.588"/>
+姊夫 謝謝你//zi1-hu1 dor2-sia2 li2 o3 
+</Turn>
+<Turn speaker="spk9" startTime="1788.762" endTime="1789.767">
+<Sync time="1788.762"/>
+別這麼客氣//na4 hah1 ke4-ki3 a3 
+</Turn>
+<Turn speaker="spk1" startTime="1789.767" endTime="1791.778">
+<Sync time="1789.767"/>
+對了 裡面有湯圓進去吃//diorh2 la3 ,lai3-de4 u3 inn2-a4 lip2 ai1 ziah2 
+</Turn>
+<Turn speaker="spk2" startTime="1791.778" endTime="1795.574">
+<Sync time="1791.778"/>
+好啊 謝謝 對啦… 忙了半天肚子都餓了 來//a3 diorh2 la3 diorh2 la3 ,vor2-ing2 gui2 buann4-bo1 honnh2 ,bat1-do4 iau1-a1 lai2 
+</Turn>
+<Turn speaker="spk10" startTime="1795.574" endTime="1796.492">
+<Sync time="1795.574"/>
+好…自己來//hor4-hor4 ga2 gi3 lai5 
+</Turn>
+<Turn speaker="spk10" startTime="1796.492" endTime="1812.315">
+<Sync time="1796.492"/>
+媽 自己來//a2-vu4 li1 ga2-gi3 lai5  
+<Sync time="1797.789"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1812.315" endTime="1822.002">
+<Sync time="1812.315"/>
+你在炒什麼 好香喔//aih2-ior5 o3 ,li1 di2-e1 ca1 sannh2 la3 ,ziah1-ni3 pang1 o3 
+<Sync time="1816.409"/>
+我聞了肚子都餓了//oh2 bat1-do4 ziok1-iau1 gu2 gu2 gior3 liorh2 
+<Sync time="1819.945"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1822.002" endTime="1837.269">
+<Sync time="1822.002"/>
+媽 你肚子餓先吃//a2-vu4 li1 bat1-do4 iau1, li1 sing2-ziah2 honnh2 ,lai5 
+<Sync time="1824.977"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1829.742"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1834.928"/>
+我來盛飯//qua1 lai3 de1-bng2 honn4 
+<Sync time="1836.788"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1837.269" endTime="1843.66393015">
+<Sync time="1837.269"/>
+等一下//ah1 sior1-dan4 e3 la3 
+<Sync time="1839.288"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1840.153"/>
+等你送飯到店裡回來 我們再一起吃好不好//dan1 li1 ui4 ui2 diam3 dng4-lai3 , qun1 dau4-din2 ziah2 la3 ,hor4-vor3 
+</Turn>
+<Turn speaker="spk2" startTime="1843.66393015" endTime="1851.941">
+<Sync time="1843.66393015"/>
+媽 你餓了先吃//a2-vu4 li1 iau1 ,li1 sing2-ziah2 la3 
+<Sync time="1846.351"/>
+店裡如果很忙//qua1 honnh2 ,he1 diam3 na3 vor2-ing5 honnh2 
+<Sync time="1848.566"/>
+我可能會晚一點回來 這裡有菜//qua1 e3 kah1-uann3 dng4-ai3 e3 o2 honnh2 , eh ziah1 u3 cai3 
+</Turn>
+<Turn speaker="spk5" startTime="1851.941" endTime="1853.359">
+<Sync time="1851.941"/>
+媽 我回來了//a2-vu4 ,qua1 dngh2-ai3 a3 
+</Turn>
+<Turn speaker="spk3" startTime="1853.359" endTime="1854.854">
+<Sync time="1853.359"/>
+回來啦//dngh2-ai3 a3 
+</Turn>
+<Turn speaker="spk2" startTime="1854.854" endTime="1857.925">
+<Sync time="1854.854"/>
+你怎麼回來了 店裡不用幫忙嗎//ah1 li1 na4-e3 dngh2-ai3 , diam3-e3 m3-ven1 dau4-sann2-gang2 o3 
+</Turn>
+<Turn speaker="spk5" startTime="1857.925" endTime="1864.815">
+<Sync time="1857.925"/>
+一整個上午才兩三個客人//gui2 e2-za1-a4 ,vor2 nng2 sann2 e1 lang2-keh2 a3 
+<Sync time="1860.942"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1861.521"/>
+不需要我幫忙//vor2 su2-iau4 qua1 dau4-sann2-gang2 la3 
+<Sync time="1863.619"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1864.815" endTime="1869.354">
+<Sync time="1864.815"/>
+一整個上午才兩三個客人//ui2 zai1-ki4 vor2 nng2 sann2 e2 lang2-keh2 
+<Sync time="1867.206"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1868.428"/>
+怎麼會這樣//na4 an1-ne1 a3 
+</Turn>
+<Turn speaker="spk5" startTime="1869.354" endTime="1874.86">
+<Sync time="1869.354"/>
+可能是我們礦油行才剛開張//kor1-ling5 si3 lan1 iu2-hang5 honnh2 ,ziah1 kai2-qiap1 nia5 
+<Sync time="1871.76"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1872.691"/>
+沒有人知道吧//vor2 lang2 zai2-iann4 la3 
+<Sync time="1873.941"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1874.86" endTime="1882.108">
+<Sync time="1874.86"/>
+怎麼可能 招牌那麼大擺在路邊//veh1 na4 u3 kor1-ling5 la3 ,ah1 kang5-bang4 hah1 dua3-e5 ,cai3 di2-e1 lo3-binn1 
+<Sync time="1878.688"/>
+路過的人都看得見啊//ah1 gue4-lo3-lang5 long1 kuann4 e3 diorh2 a2 
+<Sync time="1881.135"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1882.108" endTime="1885.483">
+<Sync time="1882.108"/>
+會不會是靜慧 不好意思招呼客人//gam1-si3 zing2-hui2 pai1-se4 gah1 lang2 pa4-zior2-ho1 a3 
+</Turn>
+<Turn speaker="spk5" startTime="1885.483" endTime="1892.572">
+<Sync time="1885.483"/>
+媽 不是啦//a2-vu4 a3 m3-si2 la3 
+<Sync time="1887.853"/>
+根本沒客人上門要怎麼招呼//ah1 gin2-bun4 dor2 vor2 lang2-keh2 ,si3 veh1 an1-na1 pa4-zior2-ho1 la3 
+<Sync time="1891.033"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1892.572" endTime="1905.587">
+<Sync time="1892.572"/>
+正義的礦油行 //ah1 qi2-a2 iu2-hang5 honnh2 
+<Sync time="1894.265"/>
+請七八個工人還忙不過來//si3 vor2-ing2 gah1 ai4 cit1-be4-e5 dau4-sann2-gang2 ,ziah1 vor2-ing2 e3 gue3-lai3 
+<Sync time="1897.369"/>
+靜慧開的這間 生意怎麼會這麼差//ah1 zing3-hui2 zit1-ging1 ,na4-e3 sing2-li4 ziah1-vai4 a3 
+<Sync time="1899.739"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1902.333"/>
+問題到底出在哪裡呢 //ze1 vun3-de5 dau4-de4 cut1 di3-e1 dor1-ui2 a3 
+<Sync time="1904.395"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk9" startTime="1905.587" endTime="1910.518">
+<Sync time="1905.587"/>
+問題可能出在//he1 vun3-de5 kor1-ling5 cut1 di3-e1 oh2
+<Sync time="1907.603"/>
+你不懂得如何招呼客人//li4 m3-zai2-iann1 veh1 an1-na1 zior2-ho2 sing2-li4 la3 
+<Sync time="1909.242"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1910.518" endTime="1920.604">
+<Sync time="1910.518"/>
+可是我每天都站在店門口招呼客人//ah1 m3-gor1 ,qua1 dak3-gang1 long1 di3-e1 mng2-ka2-kau4 zior2-ho2 lang2-keh2 
+<Sync time="1914.315"/>
+只要看到路過的人我都會招呼//zi1-iau4 u3 ging2-gue3 ,qua1 long1 e3 zior2-ho1 a1 
+<Sync time="1916.737"/>
+不過他們都不肯進來//m3-gor1 in2 long1 vuai5 lip2-vai3 la3 
+<Sync time="1919.002"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk10" startTime="1920.604" endTime="1926.222">
+<Sync time="1920.604"/>
+你都招呼哪些客人//ah1 li1 long1 zior2-ho2 siann1-mih1-kuan4 e3 lang5 a3 
+<Sync time="1923.072"/>
+當然是騎車和開車的人啊//ah1 dor2 kia2-cia1 gorh1-u3 kui2-cia1 e2 lang5 a2 
+</Turn>
+<Turn speaker="spk9" startTime="1926.222" endTime="1930.425">
+<Sync time="1926.222"/>
+對了 靜慧//diorh2 la3 ,zing3-hui2 a3 
+<Sync time="1928.097"/>
+你有沒有招呼計程車的司機大哥//ah1 li1 gann1-u3 ki1 zior2-ho2 ,ke4-ling2
+<Event desc="ting2" type="lexical" extent="previous"/>
+-cia2 su2-gi1 e2 lau1-dua3-gor1 
+</Turn>
+<Turn speaker="spk1" startTime="1930.425" endTime="1933.964">
+<Sync time="1930.425"/>
+當然有 只要他們路過我都會招呼//dong2-len5 ma3 u3 ,zi1-iau4 u3 in2 u3 ging2-gue3 ,qua1 long1 e3 zior2-ho1 
+</Turn>
+<Turn speaker="spk9" startTime="1933.964" endTime="1935.871">
+<Sync time="1933.964"/>
+不 這還不夠//vor5 la3 ,an1-ne1 vor2-gau3 la3 
+</Turn>
+<Turn speaker="spk9" startTime="1935.871" endTime="1938.979">
+<Sync time="1935.871"/>
+你要去計程車行招攬生意//li4 m3-diorh3 ai4 ki1 ke4-ling3
+<Event desc="ting2" type="lexical" extent="previous"/>
+-cia2-hang5 hia1 ,ki1 zior2-ho2 in2 e2 sing2-li4 
+</Turn>
+<Turn speaker="spk1" startTime="1938.979" endTime="1940.618">
+<Sync time="1938.979"/>
+計程車行//ke4-ling2-cia2-hang5 o3 
+</Turn>
+<Turn speaker="spk10" startTime="1940.618" endTime="1948.927">
+<Sync time="1940.618"/>
+是啊 而且你還要買一些糖果餅乾//si2 a2 ,li3-ciann1 o3 ,li1 gorh1-ai4 ve1 zit3-gua1 tng2-a1-biann4 la3 
+<Sync time="1943.879"/>
+和一些飲料去請他們 和他們打好關係//ah1 guann3 zit3-gua1 liang5-e2 honnh2 ,ki1 ho3 in2 ziah2 ,gah1 in2 bua3-gam1-zing5 
+<Sync time="1946.662"/>
+這樣他們一定會來跟你捧場//an1-ne1 oh2 ,in2 diorh3 it1-ding3 e3 lai2 , ga3 li1 gau2-guan1 la3 
+</Turn>
+<Turn speaker="spk1" startTime="1948.927" endTime="1965.556">
+<Sync time="1948.927"/>
+是這樣啊//si3 an1-ne1 o3 
+<Sync time="1950.411"/>
+好 我一定會試試看//hor4 qua1 it1-ding3 e3 ci4-kuann4-mai2 
+<Sync time="1952.203"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1953.036"/>
+謝謝姊夫 姊姊//dor2-sia3 zi1-hu1 a2-zi4 
+<Sync time="1955.0"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1963.874"/>
+早安//qau2-za4 o3 
+<Sync time="1964.906"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="1965.556" endTime="1966.689">
+<Sync time="1965.556"/>
+你好 你好//heh2 li1 hor4 li1 hor4 
+</Turn>
+<Turn speaker="spk1" startTime="1966.689" endTime="1972.015">
+<Sync time="1966.689"/>
+司機大哥 來… 這個…//dua2-e2 lai5 lai5 ze1 ze1 
+<Sync time="1968.407"/>
+我帶一些糖果餅乾來 給你們配茶喝//qua1 za4 zit3-gua1 tng2-a4 la3 ,ho3 lin1 pue4-de5 honnh2 
+<Sync time="1970.952"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk11" startTime="1972.015" endTime="1974.155">
+<Sync time="1972.015"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1972.765"/>
+不好意思 還讓你請客//uah2 pai1-se3 honnh2 ,suah1 ho3 li1 ciann4 
+</Turn>
+<Turn speaker="spk1" startTime="1974.155" endTime="1984.776">
+<Sync time="1974.155"/>
+不會啦 不會啦 我是在隔壁開礦油行的//ve2 la3 ve2 la3 ,ah1 qua1 si3 ge4-biah2 ,he1 kui2 iu2-hang5 e2 
+<Sync time="1977.073"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1977.343"/>
+這是我的名片//ah1 ze1 si3 qua1 e2 me4-zih2 ,
+<Sync time="1978.552"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1978.742"/>
+來 參考看看//lai5 can2
+<Event desc="cam2" type="lexical" extent="instantaneous"/>
+-kor1 kuann4-mai2 e2 
+<Sync time="1980.306"/>
+有空的時候 歡迎來加油//ah1 u3-ing5 e3 si2-zun2 ,lai3 ga2-iu5 la3 honnh2 
+<Sync time="1982.203"/>
+給我們捧場 謝謝 我會特別優待你們//gau2-guan1 zit3-le3 dor2-sia2 ,qua4 e3 ho3 lin1 iu2-tai2 o2 
+</Turn>
+<Turn speaker="spk11" startTime="1984.776" endTime="1987.977">
+<Sync time="1984.776"/>
+好啊 好啊 你為人這麼親切//hor4 a2 hor4 a2 ,li1 zor4-lang5 ziah1 cin2-cet2 diorh2 honnh2 
+<Sync time="1986.902"/>
+下回加油一定去找你//au3-zua2 ga2-iu5 , it1-ding3 ki1 cue2 li2 
+</Turn>
+<Turn speaker="spk1" startTime="1987.977" endTime="1993.544">
+<Sync time="1987.977"/>
+好…謝謝//hor4 hor4 hor4 ,dor2-sia2 neh2 honnh2 
+<Sync time="1989.977"/>
+來 吃糖果//lai5 ziah3 tng2-a4 la3 honnh2 
+<Sync time="1991.478"/>
+我先走了 謝謝 謝謝 //ah1 qua1 sing2 lai5-zau4 a3 ,dor2-sia2 dor2-sia2 
+</Turn>
+<Turn speaker="spk11" startTime="1993.544" endTime="2012.164">
+<Sync time="1993.544"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1994.935"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2012.164" endTime="2022.014">
+<Sync time="2012.164"/>
+在銀行算別人的錢//dih1 in2
+<Event desc="qin2" type="lexical" extent="instantaneous"/>
+-hang5 sng4 bat3-lang5 e2 zinn5 
+<Sync time="2013.448"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2013.967"/>
+在這裡算自己的錢 //di3 zia1 sng4 ga3-di3 e3 zinn5 
+<Sync time="2015.061"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2016.434"/>
+感覺真好//gam1-gak1 zok1 hor4 e3 
+<Sync time="2017.434"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2022.014" endTime="2028.7">
+<Sync time="2022.014"/>
+這都是姊姊和姊夫幫我//long1-si3 a2-zi4 gah1 zi1-hu1 honnh2 ,ga3 qua1 dau4-sann2-gang2 la3 
+<Sync time="2025.155"/>
+我們的生意才能這麼好//lan1 e2 sing2-li4 ,m3-ziah1 u3-huat1-do2 hiah1-ni2-a1 hor4 a2 
+<Sync time="2027.318"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2028.7" endTime="2036.343">
+<Sync time="2028.7"/>
+姊和姊夫真的很貼心//a2-zi4 oh2 ,gah1 zi1-hu1 oh2 zin2-ziann4 ziok1 gam1-sim1 e1 la3 
+<Sync time="2031.653"/>
+不但提拔我們做生意//ga3 lan1 kan2-sing5 zor4-sing2-li4 
+<Sync time="2033.111"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2033.786"/>
+連做生意的祕訣 也都傳授給我們//len3 tan4-zinn5 e2 pet1-bo2 ,ma3 ga3 lan1 ga3 
+<Sync time="2035.442"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2036.343" endTime="2047.399">
+<Sync time="2036.343"/>
+是啊 還好生意有改善//si2 a2 ,hor1-ga2-zai3 honnh2 ,sing2-li4 u3 gai1-sen2 
+<Sync time="2039.499"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2040.078"/>
+我才不會那麼擔心//qua1 zah1 ve3 hiah1 huan2-lor4 
+<Sync time="2041.418"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2042.078"/>
+對了 添福//diorh2 la3 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2043.078"/>
+你下班之後就直接趕過來 會不會太累//li1 an1-ne1 ha3-ban1 lor3 guann4-gue3-lai3 ,gam1 vue3 siunn2-tiam4 
+<Sync time="2046.359"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2047.399" endTime="2062.505">
+<Sync time="2047.399"/>
+有錢賺怎麼會累呢//tan4-zinn5 si3 veh1 na4-e3 tiam4 la3 
+<Sync time="2048.586"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2049.552"/>
+原來你也是一隻錢鼠//quan3-lai5 honnh2 ,li1 ma3-si3 zit3-ziah1 zinn2-ci4 neh2 
+<Sync time="2052.277"/>
+我到現在才知道//qua1 zit1-ma4 ziah1 zai2-iann4 
+<Sync time="2053.527"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2055.701"/>
+我們正正當當做生意//ah1 lan1 zing4-zing4-dong2-dong1 zor4-sing2-li4 
+<Sync time="2057.295"/>
+有什麼不好//u3 siann1 vor2-hor4 le3 
+<Sync time="2058.459"/>
+有錢賺我怎麼會嫌//ah1 u3 zinn5 tan3 oh2 ,qua1 veh1 na4-e3 hiam5 la3 
+<Sync time="2060.584"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2062.505" endTime="2070.917">
+<Sync time="2062.505"/>
+好了 錢鼠 //hor4 a3 ,zinn2-ci4 
+<Sync time="2064.057"/>
+你的錢算好了沒 回家吧//li1 zinn5 sng4-hor4 a3 honnh2 ,lai5-dng4 a3 a2 
+<Sync time="2066.152"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2070.035"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2070.917" endTime="2082.583">
+<Sync time="2070.917"/>
+走吧//giann5 
+<Sync time="2071.762"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2082.583" endTime="2084.823">
+<Sync time="2082.583"/>
+等一下 等一下//sior1-dan4-e3 ,sior1-den4-e3 a3
+<Sync time="2083.676"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2084.823" endTime="2087.697">
+<Sync time="2084.823"/>
+司機大哥 我們打烊了//un4-ziang3-dua2-e2 qun1 guinn2-diam3 a3 neh2 
+<Sync time="2086.995"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2087.697" endTime="2100.669">
+<Sync time="2087.697"/>
+拜託 幫我加個油//bai4-tok2 e3 ,bang2 qua1 ga2 zit3-e2-a1 iu5 e2 la3 
+<Sync time="2089.822"/>
+我白天已經來好幾趟了//qua1 lit1-si3 a2 oh2 ,i1-ging2 zau1 gui1-a3-zua2 a2 neh2 
+<Sync time="2092.468"/>
+你們生意好到 計程車從街頭排到街尾//lin1 e2 sing2-li4 honnh2 hor1-gah1 ,he1 ge4-ling2-cia1 zu3 ge2-a1-tau5 , bai3 gah1 ge2-a1-ve4 
+<Sync time="2096.358"/>
+我沒時間等只好晚上再過來//ah1 lor2 vor3-sann1 si2-gan1 tang2 dan4 zi1-hor4 am4-si2-a4 ziah1-lai5 a2 
+<Sync time="2099.639"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2100.669" endTime="2103.252">
+<Sync time="2100.669"/>
+對不起 我們真的打烊了//pai1-se3 la3 ,quan1 zin2-ziann4 guainn2-mng5 a2 la3 
+<Sync time="2102.576"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2103.252" endTime="2109.807">
+<Sync time="2103.252"/>
+拜託 幫我加一下啦//ai4-tok2 e3 ,ga5 ga1 zit3-le3 la3 
+<Sync time="2104.897"/>
+我現在再不加油//qua1 zit1-ma4 na3 vor2 ga2-iu5 honnh2 
+<Sync time="2106.776"/>
+明天一早我就沒辦法做生意了//mi2-a1-zai3 ,qua1 zit3-tau4-za4 ,dor3 vor2 sing2-li4 tang2 zor3 a2 
+</Turn>
+<Turn speaker="spk6" startTime="2109.807" endTime="2110.689">
+<Sync time="2109.807"/>
+這個//ze1 honnh2 quan1 di3 
+</Turn>
+<Turn speaker="spk1" startTime="2110.689" endTime="2114.61">
+<Sync time="2110.689"/>
+好啦//hor4 la3 
+<Sync time="2111.078"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2111.966"/>
+你稍等一下//li1 sior1-dan4-zit3-e3 honnh2 
+<Sync time="2113.076"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk12" startTime="2114.61" endTime="2137.235">
+<Sync time="2114.61"/>
+老闆娘 謝謝你 你人真好//tau2-ge2-niu5 dor2-sia2 li1 la3 ,li1 lang5 ziok1 hor4 e3 
+<Sync time="2116.906"/>
+我以後會常常來捧場//qua4 au3-bai4 e3 diann3-diann3 ,lai3 gau2-guan1 e1 la3 
+<Sync time="2118.661"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2137.235" endTime="2139.003">
+<Sync time="2137.235"/>
+媽 我們回來了//a2-vu4 qua1 dng4-ai3 a3 
+</Turn>
+<Turn speaker="spk2" startTime="2139.003" endTime="2141.607">
+<Sync time="2139.003"/>
+回來啦 靜慧 去拿湯匙//dng4-ai3 a3 ,ah2 zing3-hui2 a3 ,ki1 te3 tng2-si2-a4 
+</Turn>
+<Turn speaker="spk1" startTime="2141.607" endTime="2143.151">
+<Sync time="2141.607"/>
+好//oh2 hor4 
+<Sync time="2142.227"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2143.151" endTime="2150.01">
+<Sync time="2143.151"/>
+來… //lai5 lai5 lai5 
+<Sync time="2143.875"/>
+媽剛煮好的紅豆湯 趁熱吃//a2-vu4 zu1 ze1 ang2-dau2-a1-tng1 honnh2 ,tan4 sior1 lai2-ziah2 honnh2 
+<Sync time="2146.841"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2149.26"/>
+你坐//h1 li1 hia1 ze2 
+</Turn>
+<Turn speaker="spk1" startTime="2150.01" endTime="2166.486">
+<Sync time="2150.01"/>
+好//ah2 hor4 
+<Sync time="2150.73"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2154.462"/>
+好香喔//ziok1 pang1 e1 neh2 
+<Sync time="2155.947"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2158.093"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2166.486" endTime="2169.684">
+<Sync time="2166.486"/>
+好好吃 媽 //mh2 ziok1 hor1-ziah2 e2 ,a2-vu4 
+<Sync time="2168.234"/>
+你也吃一碗//li1 ma3 ziah2 zit3-uann3 a3 
+</Turn>
+<Turn speaker="spk2" startTime="2169.684" endTime="2173.95">
+<Sync time="2169.684"/>
+我剛才在煮的時候有吃過了//ua1 du1-ziah2 deh1 zu4 e3 si2-zun2 ,qua1 u3 ziah2 la3 
+<Sync time="2171.684"/>
+你們多吃一點//lin1 ge2 ziah2 zit3-gua3 honn4 
+<Sync time="2173.419"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2173.95" endTime="2175.749">
+<Sync time="2173.95"/>
+媽 孩子們呢//a2-vu4-a3 ,ah1 qin1-a4 le3 
+<Sync time="2174.798"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2175.749" endTime="2183.32">
+<Sync time="2175.749"/>
+都一點多了 已經睡了//long1 diam1-qua2 a2, long1 ma3 kun3 na3 
+<Sync time="2177.508"/>
+不然明天怎麼起得來//ah1-vor5 mi2-a1-zai3 ,veh1 na4 be4 e3 kit2-lai3 
+<Sync time="2179.041"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2180.84"/>
+今天生意還是很好嗎//gin2-na4 sing2-li4 ah1-si3 zin2-hor4 simh2 
+<Sync time="2182.293"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2183.32" endTime="2198.219">
+<Sync time="2183.32"/>
+生意真的好好喔//ze1 sing2-li4 o3 ,zin2-ziann4 u3-gau4-hor4 e3 la3 
+<Sync time="2185.491"/>
+幸好我每天下班都去幫忙//he1 si3 hor1-ga2-zai4 honnh2 ,qun1
+<Event desc="qua1" type="lexical" extent="instantaneous"/>
+ mui1-zit3-gang1 ha3-ban1 long1 ki1 dau4-sann2-gang2 la3 
+<Sync time="2188.473"/>
+不然真不知道該怎麼辦//ah1-na3-vor5 honnh2 he1 m3-zai2 ,veh1 an1-zuann4 neh2 
+<Sync time="2190.426"/>
+加油還要排隊呢//he1 ga2-iu5 ,dor4 gorh1 ai4 bai2-dui2 la3 
+<Sync time="2192.395"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2193.115"/>
+大家都在催//dak3-e2 long1 leh1 cui1 la3 
+<Sync time="2194.092"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2194.512"/>
+看了心裡真的好急//kuann3 le3 sim2-lai2 ,zin2-ziann4 ziok1 gip2 e3 
+<Sync time="2196.418"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2198.219" endTime="2215.056">
+<Sync time="2198.219"/>
+生意好歸好//ah1 sing2-li4 hor4 honnh2 ,si3 hor4 la3 
+<Sync time="2200.36"/>
+不過也不能做得太累//ah1 m3-gor1 honnh2 ,ma3 ve3-dang4 siunn2 tiam4 a2 
+<Sync time="2203.157"/>
+尤其你白天還得去銀行上班//iu2-gi2 si3 li1 rit2-si2-a3 honnh2 ,gorh1 ai4-ki1 qin2-hang5 siong3-ban1 
+<Sync time="2206.438"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2207.541"/>
+我看以後生意不要做得那麼晚//qua1 kuann3 honnh2 ,au2-bai4 mai4 kui2 hah1-ni3 uann3 la3 
+<Sync time="2209.541"/>
+早點打烊回家睡飽一點 //kah1 za1 siu2-siu1 le3 ,ah1 dng2-ai2 kun4 kah1 ba4 e3 
+<Sync time="2212.26"/>
+身體才是最重要的//sin2-te4 ziah1-si3 siong3 diong3-iau3 e3 
+<Sync time="2213.901"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2215.056" endTime="2220.393">
+<Sync time="2215.056"/>
+媽 你放心//a2-vu4 a3 ,li1 hong4-sim1 la3 
+<Sync time="2216.696"/>
+我現在的身體比以前更強壯//qua1 zit1-ma4 sin2-te4 honnh2 ,si3 bi1 hit1-zun2 gorh1 kah1 iong4 
+<Sync time="2219.009"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2220.393" endTime="2225.61">
+<Sync time="2220.393"/>
+你少吹牛了//li1 m3-ven1 pong4-hong2 la3 
+<Sync time="2221.721"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2222.392"/>
+你要是身體強壯 怎麼會動不動就感冒//li1 sin2-te4 na3 iong4 honnh2 ,na4 kap3-ve3-diorh2 dor3 gam1-mo2 
+<Sync time="2224.861"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2225.61" endTime="2228.674">
+<Sync time="2225.61"/>
+那是因為天氣太冷了//e1 si3 in2-ui3 tinn2-ki3 siunn2-gue4 ling4 e3 
+<Sync time="2227.688"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2228.674" endTime="2234.886">
+<Sync time="2228.674"/>
+誰說天氣冷就會感冒//siang4 gong1 tinn2-ki3 ling4 dor3 e3 gam1-mo2 
+<Sync time="2230.581"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2231.103"/>
+那是因為你太累了//he1 dor3-si3 li1 siunn2-gue4 tiam4 la3 
+<Sync time="2232.713"/>
+才會抵抗力不夠//m3-ziah1-e3 de1-kong4-lat2 vor2-gau3 
+<Sync time="2234.228"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2234.886" endTime="2240.542">
+<Sync time="2234.886"/>
+是啊 添福 //si2 la3 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2236.496"/>
+以後我們早一點打烊//i1-au2 honnh2 ,lan1 lor3 kah1-za1 siu2-diam3 e3 
+<Sync time="2238.605"/>
+身體照顧好比較實在//sin2-te4 go4 ho2 hor4 ,kah1 sit3-zai2 
+</Turn>
+<Turn speaker="spk2" startTime="2240.542" endTime="2248.891">
+<Sync time="2240.542"/>
+就是啊 要賺錢身體也要照顧好//diorh3-si2 a2 ,he1 zinn4 ai4 tan3 o3 ,sin2-te4 ma3-si3 ai4 go3 
+<Sync time="2243.823"/>
+否則賺到錢卻用不到//ah1 na3-vor5 ,zinn5 tan3-diorh3 a3 ,suah1 iong3 ve3 diorh2 
+<Sync time="2246.24"/>
+那也是白費工夫對不對//he1 ma3 vor2-cai1-gang1 a1 diorh2-vor3 
+<Sync time="2248.183"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2248.891" endTime="2255.681">
+<Sync time="2248.891"/>
+你們兩個//lin1 nng3-e5 la3 
+<Sync time="2250.063"/>
+把我的身體講得好像用紙糊似的//ah1 ga3 qua1 sin2-te4 honnh2 gong1 gah1 na1 zua4 go5-e2 le3
+<Sync time="2252.166"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2255.681" endTime="2259.141">
+<Sync time="2255.681"/>
+你喔 不知道該怎麼說你才好//m3-zai1 an1-na1 gong4 li3 
+<Sync time="2256.441"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2257.848"/>
+好好吃//gau4 hor1 ziah2 e2 
+</Turn>
+<Turn speaker="spk6" startTime="2259.141" endTime="2266.067">
+<Sync time="2259.141"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2259.991"/>
+要不要再吃一碗 來//veh1 gorh1 de4 vor3 lai5
+<Sync time="2261.25"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2263.825"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2266.067" endTime="2268.891">
+<Sync time="2266.067"/>
+來 多吃一點//lai5 ge2 ziah1 gua3
+<Sync time="2267.521"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2268.891" endTime="2281.79">
+<Sync time="2268.891"/>
+來 乖乖坐在這裡//lai5 guai2-guai1 zia1 ze2 honnh2 
+<Sync time="2270.532"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2273.047"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2281.79" endTime="2306.722">
+<Sync time="2281.79"/>
+老闆 請喝茶//tau2-ge1 a3 lim2-de5 la3 
+<Sync time="2282.779"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2304.901"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2306.722" endTime="2307.673">
+<Sync time="2306.722"/>
+你回來了//li1 dngh2-ai3 a3 o3 
+</Turn>
+<Turn speaker="spk6" startTime="2307.673" endTime="2312.506">
+<Sync time="2307.673"/>
+是啊//si2 a2 
+<Sync time="2307.863"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2311.671"/>
+爸 我回來了//a2-bah2 qua1 dngh2-ai3 a3 
+</Turn>
+<Turn speaker="spk5" startTime="2312.506" endTime="2313.686">
+<Sync time="2312.506"/>
+回來啦//hor4 la3 
+<Sync time="2313.088"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk8" startTime="2313.686" endTime="2314.341">
+<Sync time="2313.686"/>
+爸//a2-bah2 
+</Turn>
+<Turn speaker="spk6" startTime="2314.341" endTime="2316.988">
+<Sync time="2314.341"/>
+乖//ai4 guai1 
+<Sync time="2315.014"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2316.988" endTime="2319.027">
+<Sync time="2316.988"/>
+ 你後面的車要加多少//li1 au3-biah2 hia1 e2 cia1 ga2 qua3 ze1 a3 
+</Turn>
+<Turn speaker="spk13" startTime="2319.027" endTime="2321.383">
+<Sync time="2319.027"/>
+幫我加二十公升//ga5 ga1 li3-zap3-lip3 a3 
+<Sync time="2319.926"/>
+好 馬上來//o3 hor4 ma1-siong2 lai5 
+<Sync time="2320.839"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk14" startTime="2321.383" endTime="2323.711">
+<Sync time="2321.383"/>
+老闆娘 好了沒//eh2 tau2-ge2-niu5 hor4 a3 vue2 
+<Sync time="2322.883"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2323.711" endTime="2328.421">
+<Sync time="2323.711"/>
+快好了//veh1 hor4 a3 
+<Sync time="2324.23"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2327.010"/>
+老闆 好了//tau2-ge1 hor4 a3 la3 
+</Turn>
+<Turn speaker="spk14" startTime="2328.421" endTime="2329.094">
+<Sync time="2328.421"/>
+這樣多少錢//an1-ne1 qua3-ze2 
+</Turn>
+<Turn speaker="spk1" startTime="2329.094" endTime="2332.119">
+<Sync time="2329.094"/>
+一百塊就好//zit3-bah2 lor3-hor4 
+<Sync time="2330.181"/>
+謝謝 你要加多少//dor2-sia2 o3 ,ah1 li1 veh1 ai4 qua3-ze2 
+</Turn>
+<Turn speaker="spk15" startTime="2332.119" endTime="2332.461">
+<Sync time="2332.119"/>
+十公升//zap3-lip1 
+</Turn>
+<Turn speaker="spk1" startTime="2332.461" endTime="2335.209">
+<Sync time="2332.461"/>
+十公升 請等一下////zap3-lip2 honnh2 sior1-dan4 e3 o2 
+<Sync time="2334.03"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2335.209" endTime="2336.401">
+<Sync time="2335.209"/>
+添福//tiam2-hok2 a3 
+<Sync time="2335.882"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2336.401" endTime="2337.242">
+<Sync time="2336.401"/>
+媽//a2-vu4 
+<Sync time="2336.948"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk16" startTime="2337.242" endTime="2354.548">
+<Sync time="2337.242"/>
+老闆 快一點 我的車拋錨//tau2-ge1 gin4-e3 la3 ,qua1 diau2-cia1 a1 
+<Sync time="2339.307"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2352.736"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2354.548" endTime="2355.543">
+<Sync time="2354.548"/>
+馬上來//sui2-lai5 a3 
+</Turn>
+<Turn speaker="spk6" startTime="2355.543" endTime="2364.057">
+<Sync time="2355.543"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2356.786"/>
+我來…//qua1 lai5 la3 
+<Sync time="2357.714"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2362.276"/>
+靜慧 他也要換機油了//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ i2 ma3 veh1 uann3 o2-iu5 a2 
+</Turn>
+<Turn speaker="spk1" startTime="2364.057" endTime="2369.843">
+<Sync time="2364.057"/>
+好 我來//hor4 qua1 lai5 
+<Sync time="2365.667"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk17" startTime="2369.843" endTime="2371.982">
+<Sync time="2369.843"/>
+老闆 加油//tau2-ge1 a3 ga2-iu5 o3 
+<Sync time="2371.359"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2371.982" endTime="2390.004">
+<Sync time="2371.982"/>
+好 馬上來…//hor4 sui2-lai5 sui2-lai5 
+<Sync time="2373.153"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="2390.004" endTime="2394.368">
+<Sync time="2390.004"/>
+添福 //tiam2-hok2 a3 
+<Sync time="2390.485"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2392.495"/>
+一起吃過晚餐再走//zor4-hue1 ziah3 am4-dng3 ziah1 zau4 la3 
+<Sync time="2393.87"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2394.368" endTime="2395.294">
+<Sync time="2394.368"/>
+不用啦//m3-ven4 la3 
+<Sync time="2394.851"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="2395.294" endTime="2401.424">
+<Sync time="2395.294"/>
+怎麼//an1-na4 
+<Sync time="2395.585"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2396.192"/>
+又要去油行幫老婆囉//veh1 gue1 iu2-hang5 ,ga3 vo4 dau4-sann2-gang2 o3 
+<Sync time="2398.129"/>
+才剛下班而已 先休息一下//du1-a1 ha3-ban1 nia5 sior1 hior4-kun3 zit3-e3 la3 
+<Sync time="2400.16"/>
+別這麼拚命//m3-hor1 ziah3
+<Event desc="ziah1" type="lexical" extent="instantaneous"/>
+ biann3 la3 
+</Turn>
+<Turn speaker="spk6" startTime="2401.424" endTime="2404.542">
+<Sync time="2401.424"/>
+不拚不行 我老婆忙不過來//or2 biann3 ve3-ing2-e2 la3 qun1 vo4 o3 ,vor2-ing2 ve3-gue3-lai3 la3 
+<Sync time="2403.814"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="2404.542" endTime="2414.998">
+<Sync time="2404.542"/>
+你現在在銀行上班//li1 rit1-si3 di3 qin2-hang5 leh1 siong3-ban1 
+<Sync time="2406.355"/>
+晚上又要到油行上班//am4-si5 dor3 gorh1 ki1 iu2-hang5 siong3-ban1 
+<Sync time="2408.081"/>
+蠟燭兩頭燒 //n1-ne1 la3-zik2 nng3-tau5 sior1 
+<Sync time="2409.628"/>
+你要小心//ai4 se4-li2 o3 
+<Sync time="2410.794"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2412.206"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2412.743"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2414.337"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2414.998" endTime="2419.833">
+<Sync time="2414.998"/>
+沒關係 我先走了//ve3-iau1
+<Event desc="viau5" type="lexical" extent="previous"/>
+-gin4 la3 ,qua1 sing2 lai5-zau4 honnh2 
+<Sync time="2416.638"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="2419.833" endTime="2420.921">
+<Sync time="2419.833"/>
+怎麼 又要去廁所囉//an1-na3 veh1 gorh1 li1 ben3-so4 a3 
+</Turn>
+<Turn speaker="spk6" startTime="2420.921" endTime="2433.209">
+<Sync time="2420.921"/>
+是啊//si2 a2 
+<Sync time="2421.693"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2424.464"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2433.209" endTime="2434.979">
+<Sync time="2433.209"/>
+靜慧 我來了//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ qua1 lai5 
+</Turn>
+<Turn speaker="spk1" startTime="2434.979" endTime="2436.751">
+<Sync time="2434.979"/>
+你先去把外套脫下來//li1 sing2 ki1 ga3 qua3-tor3 tng3-kiai3 
+</Turn>
+<Turn speaker="spk6" startTime="2436.751" endTime="2449.28">
+<Sync time="2436.751"/>
+好 //oh2 hor4 
+<Sync time="2437.701"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="2449.28" endTime="2449.89">
+<Sync time="2449.28"/>
+老闆 //tau2-ge1 a3 
+</Turn>
+<Turn speaker="spk6" startTime="2449.89" endTime="2451.239">
+<Sync time="2449.89"/>
+抱歉…//pai1-se3 pai1-se3 pai1-se3 
+</Turn>
+<Turn speaker="spk19" startTime="2451.239" endTime="2452.165">
+<Sync time="2451.239"/>
+我在趕時間//qua1 gorh1 guann1 si3-gan1 la3 
+</Turn>
+<Turn speaker="spk6" startTime="2452.165" endTime="2464.89">
+<Sync time="2452.165"/>
+好…//hor4 hor4 hor4 hor4 hor4 
+<Sync time="2453.221"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2462.299"/>
+老闆 抱歉 請等一下//tau2-ge1-a3 pai1-se3 honnh2 ,dan4-e3 honnh2 
+<Sync time="2464.26"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="2464.89" endTime="2467.0">
+<Sync time="2464.89"/>
+老闆 我在趕時間呢//tau2-ge1-a3 ,ah1 qua1 deh1 guann1 si3-gan1 neh2 
+</Turn>
+<Turn speaker="spk6" startTime="2467.0" endTime="2468.989">
+<Sync time="2467.0"/>
+靜慧 快… 快去幫忙//zing3-hui2 a3 ,gin4-le3 gin4-le3 ,ki1 dau4-sann2-gang2 
+</Turn>
+<Turn speaker="spk1" startTime="2468.989" endTime="2470.561">
+<Sync time="2468.989"/>
+喔//oh2 
+<Sync time="2469.673"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="2470.561" endTime="2472.608">
+<Sync time="2470.561"/>
+老闆娘 好了沒//tau3-ge2-niu5 dann1 si3 hor4-vue3 
+</Turn>
+<Turn speaker="spk1" startTime="2472.608" endTime="2478.962">
+<Sync time="2472.608"/>
+好 我來了//hor4 a2 ,qua1 lai3 a2 
+<Sync time="2473.709"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2478.962" endTime="2483.792">
+<Sync time="2478.962"/>
+這樣也不是辦法//an1-ne1 m3-si3 ban3-huat2 la3 
+<Sync time="2480.337"/>
+我看還是到醫院檢查一下 比較妥當//qua1 kuann3 o3 ,ah3-si3 ki1 benn3-inn2 giam1-za1 zit3-le3 kah1 tor4-dong3 la3
+<Sync time="2483.115"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2483.792" endTime="2488.519">
+<Sync time="2483.792"/>
+對啦 你媽說得對//diorh2 la3 ,lin1 a2-vu4 gong1-a1 ziann2-diorh2 
+<Sync time="2486.182"/>
+去看一下醫生比較妥當//kuann4 zit3-le2 i2-sing1 honnh2 ,kah1 tor4-dong3 la3 
+</Turn>
+<Turn speaker="spk1" startTime="2488.519" endTime="2492.292">
+<Sync time="2488.519"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2489.445"/>
+找個時間 我陪你去看醫生//cue3 zit3-e2 si2-gan1 ,qua1 bue3 li1 ki1 kuann4 i2-sing1 la3 
+<Sync time="2491.796"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2492.292" endTime="2496.166">
+<Sync time="2492.292"/>
+你別大驚小怪 那又不是什麼病//ai2-ior3 ,li1 mai4 dua3-giann2-sior1-guai3 la3 ,he1 a3 m3-si3 siann1-mih1 binn2-a2 
+<Sync time="2494.823"/>
+我只是頻尿而已//qua1 si3 kah1 gau3-lior2 nia5 
+</Turn>
+<Turn speaker="spk1" startTime="2496.166" endTime="2498.901">
+<Sync time="2496.166"/>
+頻尿就不是病嗎//ah1 gau3-lior2 m3-si3 benn2 o3 
+<Sync time="2497.744"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2498.901" endTime="2504.081">
+<Sync time="2498.901"/>
+就是啊 上次你去參加研習 不是說一直上廁所//si2 a2 ,ah1 ding1-ben3 li1 ki1 en1-sip2 m3-si3 gong1 honnh2 ,it1-dit3 zau1 ben3-so4 
+<Sync time="2502.651"/>
+讓你感到很沒面子//ho3 li1 gam1-gak1 ziok1 vor2 vin3-zu4 e3 
+</Turn>
+<Turn speaker="spk3" startTime="2504.081" endTime="2511.863">
+<Sync time="2504.081"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2504.938"/>
+就算不是病//zun1 gong1 m3-si3 benn2 
+<Sync time="2506.55"/>
+造成生活上的不方便//honnh2 ,ah1 sing2-uah3 vor3 hong2-ben2 la3 
+<Sync time="2508.942"/>
+去看一下醫生 這樣比較安心//kuann3 zit3-le3 la3 ,an1-ne1 kah1 an2-sim1 la3 hannh2 
+<Sync time="2511.114"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2511.863" endTime="2516.903">
+<Sync time="2511.863"/>
+好啦 好啦 我找個時間去看醫生//hor4 la3 ,hor4 la3 ,qua1 cue3 zit3-le3 si3-gan1 honnh2 ,ziah1 ki1 kuann4 i2-sing1 la3 
+<Sync time="2515.02"/>
+讓你們大家安心一點//ho3 lin1 dak3-ge2 kah1 an1-sim1 e1 la3 honnh2 
+</Turn>
+<Turn speaker="spk2" startTime="2516.903" endTime="2519.520">
+<Sync time="2516.903"/>
+這還差不多//an1-ne1 m3-ziah1 ca2-but1-dor1 
+<Sync time="2518.014"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2519.520" endTime="2532.475">
+<Sync time="2519.520"/>
+那你什麼時候要去//h1 li1 dang2 si5 veh1-ki3 la3 
+<Sync time="2520.567"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2532.475" endTime="2565.246">
+<Sync time="2532.475"/>
+奇怪 怎麼進去這麼久//gi2 guai3 na4 ziah1-ni3 gu4 a3 
+<Sync time="2534.506"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2565.246" endTime="2582.731">
+<Sync time="2565.246"/>
+ai4 ior3 
+<Sync time="2565.957"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2578.672"/>
+只不過是尿急一點//ah1 zi1-but1-gor3 si3 rior2 kah1 gip2 zit3-su3-a3 
+<Sync time="2580.5"/>
+為什麼要開刀//na4 diorh3-ai4 kui2-dor1 la3 
+<Sync time="2581.886"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2582.731" endTime="2588.829">
+<Sync time="2582.731"/>
+我也不知道//ua1 ma3 m3-zai1 
+<Sync time="2583.629"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2584.578"/>
+後來我進去問//au2-lai3 qua1 ki1 mng2 
+<Sync time="2585.684"/>
+才知道是住院醫生下的決定//zah1 zai2-iann1 he1 si3 
+<Event desc="zh" type="language" extent="begin"/>
+住院醫生
+<Event desc="zh" type="language" extent="end"/>
+ so1 zor3 e3 guat1-ding2 
+</Turn>
+<Turn speaker="spk2" startTime="2588.829" endTime="2591.777">
+<Sync time="2588.829"/>
+怎麼會是住院醫生說要開刀//ah1 na4-si3 
+<Event desc="zh" type="language" extent="begin"/>
+住院醫生
+<Event desc="zh" type="language" extent="end"/>
+ gong1 veh1 kui2-dor1 
+<Sync time="2590.891"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2591.777" endTime="2596.20060676">
+<Sync time="2591.777"/>
+聽說//tiann2 gong1 
+<Sync time="2592.349"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2592.896"/>
+主治大夫因為有事離開//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ i2 u3 dai3-zi3 li3-kui1 so1-i4 
+</Turn>
+<Turn speaker="spk2" startTime="2596.20060676" endTime="2598.959">
+<Sync time="2596.20060676"/>
+所以就隨便幫人家開刀//ah1 so1-i4 i2 dor3 cin4-cai4 gang5 kui2-dor1 o3 
+<Sync time="2597.984"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2598.959" endTime="2603.609">
+<Sync time="2598.959"/>
+媽 //a2-vu4 
+<Sync time="2599.619"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2600.328"/>
+醫生會做這樣的決定//i2-sing1 e3 zor an1-ne1 e3 guat1-ding2 
+<Sync time="2602.0"/>
+一定有他的道理//it1-ding2 u3 i2 e2 dor3-li4 a2 
+</Turn>
+<Turn speaker="spk2" startTime="2603.609" endTime="2611.628">
+<Sync time="2603.609"/>
+就算再怎麼有道理//dor3-si3 gorh1 an1-nua1 u3 dor3-li4 
+<Sync time="2605.312"/>
+開刀這麼大的事情//he1 kui2-dor1 ziah1-ni3 dua2 e3 dai3-zi3 
+<Sync time="2606.807"/>
+也應該和家屬商量啊//ma3 ai4 gah1 ga2-siok2 cam3-siong5 a2 
+<Sync time="2608.304"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2609.097"/>
+他有跟你商量嗎//i1 gann1-u3 gah1 li1 cam2-siong5 a3 
+<Sync time="2610.175"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2611.628" endTime="2626.905">
+<Sync time="2611.628"/>
+沒有//vor4 neh2 
+<Sync time="2612.453"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2613.493"/>
+添福問診之後//tiam2-hok2 vun3-zin4 liau1-au2 
+<Sync time="2615.603"/>
+醫生就說他還要做檢查/i2-sing1 lor3 gong1 i2 ai4 gorh1 zor4 giam1-za1 
+<Sync time="2618.244"/>
+就叫我先出去//dor3 gior4 qua1 sing2 li3-kui1 
+<Sync time="2619.947"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2620.412"/>
+我後來再看到他的時候//qua1 au2-lai3 gorh1 kuann4-diorh3 i2 e3 si3-zun2 
+<Sync time="2622.396"/>
+就已經提著尿袋出來//dor3 i2-ging2 guann3 lior3-de2 
+<Sync time="2624.036"/>
+說開完刀了//gong1 kui2-dor1 kui2 hor4 a3 
+<Sync time="2625.677"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2626.905" endTime="2633.132">
+<Sync time="2626.905"/>
+怎麼會這樣//i2-ior5 o3 ,na4 an1-ne1 la3 
+<Sync time="2629.921"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2633.132" endTime="2638.661">
+<Sync time="2633.132"/>
+好了//hor4 a3 la3 
+<Sync time="2633.954"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2634.802"/>
+刀都已經開了 現在生氣也沒用//ah1 dor1 dor2 i1-ging2 kui1 a1 ,zit1-ma4 siunn3-ki3 ma3 vor2-lo3-iong2 
+<Sync time="2637.505"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2638.661" endTime="2646.874">
+<Sync time="2638.661"/>
+怎麼會不生氣/veh1 na4 m3 siunn3-ki3 a3 
+<Sync time="2640.036"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2640.346"/>
+ 添福平白無故被挨了一刀//ah1 tiam2-hok2 an1-ne1 be3-beh2 hong5 kui2 zit3-dor1 neh2 
+<Sync time="2642.721"/>
+你不心疼 我可是心疼得很//li1 veh3 m3-gam1 ,qua1 si3 ziok1 m3-gam1 e1 o3 
+<Sync time="2645.081"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2646.874" endTime="2652.813">
+<Sync time="2646.874"/>
+梅子//mui2-zu4 a3 
+<Sync time="2647.583"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2648.155"/>
+說不定這次 添福經過手術之後////vor3 kak1-ding3 zit1-gai4 oh2 ,tiam2-hok2-a3 kui2-dor1 liau1-au2 
+<Sync time="2650.921"/>
+他的病就好了//i2 binn2 diorh3 hor4 a3 
+<Sync time="2652.233"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2652.813" endTime="2656.666">
+<Sync time="2652.813"/>
+那怎麼會是病//he1 veh1 na4-si3 benn2 la3 
+<Sync time="2654.688"/>
+只是尿多了一些//zi1-si3 rior2 kah1-ze1 zit3 su3 a3 
+</Turn>
+<Turn speaker="spk1" startTime="2656.666" endTime="2665.023">
+<Sync time="2656.666"/>
+媽 醫生說//a2-vu4 i2-sing1 gong1 
+<Sync time="2658.838"/>
+是尿道狹窄症//he1 si3 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2660.618"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2665.023" endTime="2687.205">
+<Sync time="2665.023"/>
+我本來以為去看個醫生//qua1 bun1-lai5 liah3-zun1 gong1 honnh2 ah1 ki1 kuann4 i2-sing1 a3 
+<Sync time="2668.058"/>
+拿藥回來吃一吃就好了//te3 ior2-a4 dng4-ai2 ziah3-ziah2 e2 diorh3-hor4 a3 
+<Sync time="2669.839"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2670.438"/>
+怎麼會挨了一刀回來//na4 e3 honnh2 gua4 zit3-dor1 dng4-ai3 la3 
+<Sync time="2673.0"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2675.578"/>
+我真心疼//ziok1 m3-gam1 e1 
+<Sync time="2676.672"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2687.205" endTime="2699.471">
+<Sync time="2687.205"/>
+添福 你的麻藥退了//
+<Event desc="zh" type="language" extent="instantaneous"/>
+ li1 va2-iorh2 tue3 a3 
+<Sync time="2690.212"/>
+很痛對不對//ziok1 tiann3 e3 diorh2-vor3 
+<Sync time="2691.299"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2696.236"/>
+媽 我來//a2-vu4 qua1 lai5 
+<Sync time="2697.611"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2699.471" endTime="2701.219">
+<Sync time="2699.471"/>
+好點了沒//u3 kah1 hor4 vor3 
+<Sync time="2700.283"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2701.219" endTime="2704.651">
+<Sync time="2701.219"/>
+有 媽//u3 la3 a2-vu4 
+<Sync time="2702.08"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2704.651" endTime="2725.291">
+<Sync time="2704.651"/>
+這件事你自己也要負點責任//zit1-e2 di3-zi3 ,l1 ga2-gi2 ma3 ai4 hu3 zit3-diam1-a1 zit1-rim2 
+<Sync time="2706.979"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2707.563"/>
+人家說要開刀你就給人家開/ah1 lang2 gong1 kui2-dor1 ,li1 dor3 hong5 kui2-dor1 
+<Sync time="2709.578"/>
+也不會打通電話回來 跟家人商量一下//a3 ve3-hiau1 ka4 den3-ue2 ,dng4-ai3 gah1 cu3-e3 ,cam2-siong5 zit3-le3 
+<Sync time="2712.438"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2715.188"/>
+你也是//li4(lih1) ma3-si2 la3 
+<Sync time="2716.129"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2716.688"/>
+人都跟到醫院了//lang5 long1 gau4 benn3-inn2 a2 
+<Sync time="2718.298"/>
+丈夫被開了一刀還不知道//ang1 hong5 kui2-zit3-dor1 ma3 m3-zai2-iann4 
+<Sync time="2720.126"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2722.027"/>
+真不知道該怎麼說你才好//m3-zai2 veh1 an1-na1 gong4 li3 a3
+<Sync time="2723.706"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2725.291" endTime="2730.911">
+<Sync time="2725.291"/>
+ 媽 //a2-vu4 a3 
+<Sync time="2725.987"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2726.999"/>
+你別唸靜慧//li1 mai4 liam3 zing3-hui2 la3 
+<Sync time="2728.171"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2728.935"/>
+這和她沒關係//ze1 gah1-i2 vor2 guan2-he2 la3 
+<Sync time="2730.31"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2730.911" endTime="2736.448">
+<Sync time="2730.911"/>
+至少她也要謹慎一點去問一下//ah1 siong3-vor5 i2 ma3-ai4 kah1 gin1-sin2 ,ki1 mng2-zit3-le3 
+<Sync time="2733.379"/>
+才不會你被開刀 她都不知道//m3-ziah1 ve3 li1 hong5 kui2-dor1 ,i2 long1 m3-zai2-iann4 
+<Sync time="2735.547"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2736.448" endTime="2742.473">
+<Sync time="2736.448"/>
+媽 對不起//a2-vu4 sit1-le4 hannh2 
+<Sync time="2738.62"/>
+都是我太疏忽了//long1-si3 qua1 vor2-zu1-i3 
+<Sync time="2739.945"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2742.473" endTime="2747.571">
+<Sync time="2742.473"/>
+碰到這麼重要的事情//du1-diorh3 ziah1-ni3 diong3-iau3 e2 dai2-zi3 honnh2 
+<Sync time="2744.051"/>
+你怎麼會糊里糊塗//li1 na4-e3 ziah1-ni3 ho2-li1-ho2-do5 la3 
+<Sync time="2746.042"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2747.571" endTime="2752.399">
+<Sync time="2747.571"/>
+好啦 媽//or4 la3 a2-vu4 
+<Sync time="2748.522"/>
+事情都過去了 別再提了//ah1 dai3-zi3 dor3 long1 gue3-ki3 a3 ,mai4 gorh1 gong4 a3 la3 
+<Sync time="2751.017"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2752.399" endTime="2770.702">
+<Sync time="2752.399"/>
+要我別說//ai4 qua1 mai4 gong4 honnh2 
+<Sync time="2753.767"/>
+你就趕快把身體顧好//li1 dor3 gin1 ga3 sin2-te4 go4-ho2-hor4 la3 
+<Sync time="2755.321"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2757.737"/>
+當初是我鼓勵你們去開礦油行//dong2-co1 si3 qua1 go1-le3 ,lin1 ki1 kui2 iu2-hang5 e2 
+<Sync time="2759.875"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2760.584"/>
+但是我並沒有要你也投入去做//iah1 m3-gor1 ,qua1 bing3-vor3 ai4 li1 liau2-lue5 zor3 a3 
+<Sync time="2762.397"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2763.184"/>
+你白天要上班晚上也要上班//ah1 li1 rit3-si5 ai4 siong3-ban1 am4-si3-a3 ma3 siong3-ban1 
+<Sync time="2766.069"/>
+身體都搞壞了 //ah1 sin2-te4 long1 vu1 pai4-ki3 
+<Sync time="2767.538"/>
+這該怎麼辦//an1-ne1 veh1 an1-zuann4 
+<Sync time="2768.538"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2770.702" endTime="2772.994">
+<Sync time="2770.702"/>
+好啦 我知道//hor4 la3 ,qua1 zai2-iann4 la3 
+<Sync time="2772.014"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2772.994" endTime="2776.545">
+<Sync time="2772.994"/>
+靜慧 快幫添福把身體擦一擦//zing3-hui2-a3 ,gin1 ga3 tiam2-hok2-a3 e3 sing2-ku1 cit1-cit1-le3 
+<Sync time="2775.525"/>
+讓他儘快就寢//ho3 i2 gin1 kun3 
+</Turn>
+<Turn speaker="spk1" startTime="2776.545" endTime="2781.724">
+<Sync time="2776.545"/>
+好 我知道//hor4 qua1 zai2-iann4 
+<Sync time="2777.726"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2781.724" endTime="2792.956">
+<Sync time="2781.724"/>
+只知道疼惜老婆//gan2-na2 zai2-iann1 sior4-vo4 la3
+<Sync time="2783.162"/>
+都不知道愛惜自己//long1 m3 zai2-iann1 sior4 ga2-di2 
+<Sync time="2784.019"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2790.737"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="2792.956" endTime="2880.046">
+<Sync time="2792.956"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="2793.389"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2794.505"/>
+你別擔心//li1 mai4 huan2-lor4 la3 
+<Sync time="2795.365"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="2796.215"/>
+我不會有事的//qua1 ve3 u3 dai3-zi3 e3 
+<Sync time="2797.09"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="2799.935"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

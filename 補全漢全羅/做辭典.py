@@ -18,6 +18,7 @@ from 臺灣言語工具.解析整理.詞物件網仔 import 詞物件網仔
 
 # ngram-count -order 3 -interpolate -wbdiscount -unk -text 斷字例句.txt -lm 斷字例句.lm
 # ngram-count -order 3 -interpolate -wbdiscount -text 斷詞例句.txt -text 斷詞新聞句.txt -lm 斷詞例句.lm
+#/home/joseyarashio/下載/srilm-1.7.1/bin/i686-m64/ngram-count -order 3 -intete -wbdiscount -text 斷詞例句.txt -text 附錄句一對一斷詞.txt -text 01.華臺校對有例句.txt -text 01.典藏校對有例句.txt -lm 斷詞例句.lm
 斷字語言模型 = os.path.join(這馬所在, '斷字例句.lm')
 斷詞語言模型 = os.path.join(這馬所在, '斷詞例句.lm')
 
@@ -97,7 +98,7 @@ if __name__ == '__main__':
 	with open('05.典藏校對有例句.txt', 'rt') as f:
 		檔案加入辭典(f, 辭典)
 		
-	with open('05.華臺校對有例句.txt', 'rt') as f:
+	with open('01.華臺校對有例句.txt', 'rt') as f:
 		檔案加入辭典(f, 辭典)
 		
 	with open('附錄句一對一斷詞.txt', 'rt') as f:

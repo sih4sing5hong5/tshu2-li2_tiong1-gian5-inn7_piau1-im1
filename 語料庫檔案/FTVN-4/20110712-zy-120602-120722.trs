@@ -1,0 +1,3055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="(unknown)" audio_filename="20110712-zy" version="22" version_date="120722">
+<Speakers>
+<Speaker id="spk1" name="speaker1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="speaker2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="speaker3" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="speaker4" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="speaker5" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="speaker6" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="speaker7" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk8" name="speaker8" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk9" name="speaker9" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk10" name="???" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk11" name="???1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk12" name="???1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk13" name="???2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk14" name="???" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk15" name="??" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk16" name="??" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk17" name="主播" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk18" name="女主播" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk19" name="男記者1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk20" name="女記者1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk21" name="中盤" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk22" name="陳龍志" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="xx"/>
+</Topics>
+<Episode>
+<Section type="report" topic="to1" startTime="0" endTime="1915.466">
+<Turn speaker="spk18" startTime="0" endTime="19.92015599999999">
+<Sync time="0"/>
+guan2-ziong4-bing2-iu4 nqo1-an1 
+<Sync time="0.767"/>
+huan2-ing5(ing2) siu2-kuann3 vin2-si2-e3-bo1 
+<Sync time="2.218"/>
+sann2-diam1-sin2-vun5 qua1-si3 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="4.080"/>
+sin2-vun5 zit3-kai2-si4 
+<Sync time="4.962"/>
+lai2-guan2-sim1 di2-e1-sin2-bak1-ci2 zit3-le2-gok1-sior4 
+<Sync time="7.269"/>
+it1-ni5-e2 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="8.347"/>
+ui3-diorh3-veh1 guan1-ga4-hak3-sing1 
+<Sync time="9.909"/>
+ging4-ren5 ga3-hak3-sing1 e2-siang2-ciu4 bak2-kit3-lai3 
+<Sync time="12.088"/>
+gorh1-te3-cai4-dor1 ga3-hak3-sing1 he4-giann1 
+<Sync time="14.291"/>
+sui2-ren2-gong1 ga2-diunn4-u3-biau1-si2 
+<Sync time="16.216"/>
+vor2-veh1-dui2-giu3 dan3-si3 
+<Sync time="17.639"/>
+hak3-hau2 i1-ging2-dui4-zit1-le2 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="19.013"/>
+lai2-zor4-cu1-huat2 
+</Turn>
+<Turn speaker="spk19" startTime="19.92015599999999" endTime="41.01192299999998">
+<Sync time="19.92015599999999"/>
+hau3-diunn4-cut2-lai2 hue3-sit1-le4 
+<Sync time="21.188"/>
+giam2-sue4-ving5 in2-ui3-si4-qeh3-de4 
+<Sync time="23.063"/>
+zit3-le2 ga4-it1-ni2-a4 si4(sinn4)-dan5-e2-dor3-su1 
+<Sync time="25.139"/>
+ui3-diorh3(lor3)-gaun1(guan1)-ga4-zit3-le2 u3- 
+<Event desc="zh" type="language" extent="begin"/>
+亞斯博格
+<Event desc="zh" type="language" extent="end"/>
+ zinn3(zing3)-e3-qin1-na4 
+<Sync time="28.342"/>
+ging4-len5 ga3-qin1-na4 e2-siang2-ciu4 long1-bak2-kit3-lai3 
+<Sync time="30.826"/>
+ki1-hak3(ha3)
+<Event desc="hak3" type="lexical" extent="instantaneous"/>
+-hau2 e2 zau4-ka1-hia1 
+<Sync time="32.795"/>
+te2-cai4-dor1-gah1-diam1 
+<Sync time="34.153"/>
+gong1-veh1 ga2 dok2-lorh3-ki3 
+<Sync time="35.559"/>
+gorh1-ga3-qin1-na4-gong1 zeh1-si3 zin2-qiam2-diong2-e2-dai3-zi3 
+<Sync time="38.387"/>
+gui2-ban1 e2-qin1-na4 si3 giann1-gah1-veh1-si4 
+</Turn>
+<Turn speaker="spk19" startTime="41.01192299999998" endTime="46.05592299999999">
+<Sync time="41.01192299999998"/>
+qin1-na4 e2-lau3-vu4 si3 zin2-li1-gai4 
+<Sync time="42.554"/>
+dan3-si3 gi2-ta1 e2 hak2(hak3)-sing1 kuann4-dor3(lor3) 
+<Event desc="zh" type="language" extent="begin"/>
+老師
+<Event desc="zh" type="language" extent="end"/>
+ qia2-dor1 si3 
+<Sync time="45.243"/>
+giann2-gah1-veh1-si4 
+</Turn>
+<Turn speaker="spk19" startTime="46.05592299999999" endTime="53.141">
+<Sync time="46.05592299999999"/>
+gi2-ta1-e3-qin1-na4 dng1-ki1-cu4-lai2 dor3-m3-si3 zin2-zing4-siong5 
+<Sync time="48.68"/>
+dua3-lang5 ga2-mng2 ziah1-zai2-iann1-gong1 hak2-hau2 u3-cut1-zit1-kuan1-dai2-zi3 
+<Sync time="51.235"/>
+gin1-ga3-hak2-hau2 bor4-gor3
+<Sync time="52.103"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="53.141" endTime="64.649">
+<Sync time="53.141"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+ u3-hue1-gai4 ma3-u3-hue3-sit1-le2 
+<Sync time="55.148"/>
+dong2-su3-lin5 e3-ga2-diunn4 ma3-u3-ziap1-siu2 
+<Sync time="57.101"/>
+dan2-si3 
+<Event desc="zh" type="language" extent="begin"/>
+老師
+<Event desc="zh" type="language" extent="end"/>
+ siunn3-ki3-ki3(kit3)-lai3 
+<Sync time="58.697"/>
+zit1-le2 zue4-huat2 kor1-ling5(ling2) si3-e3-hai3-diorh3 i2-ga2-gi2 
+<Sync time="61.338"/>
+vin2-si2-sin2-vun5 sin2-bak1-ci2 bor4-dor2 
+<Sync time="63.979"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="64.649" endTime="80.754">
+<Sync time="64.649"/>
+zit3-le3 siau4-len3-lang5 in2-ui3 but1-vuan4 
+<Sync time="66.336"/>
+gok1-diong1 e3-dong2-cong1 nng3-ni3-zing5 ciunn4
+<Event desc="ciunn1" type="lexical" extent="instantaneous"/>
+ i2-e3-lu1-bing3-iu4 
+<Sync time="69.507"/>
+ging4-ren5 cue3-lai2 zat3
+<Event desc="zap3" type="lexical" extent="instantaneous"/>
+-sann2-e3-bing2-iu4 
+<Sync time="71.342"/>
+te3-si2-gue2-dor1 tai2-siong2(siong1) zit1-le2 dong2-cong1 
+<Sync time="73.827"/>
+ging4-hong1 quan2(uan2)-bun4 lin3-ui3(ui5)-gong1 si3 
+<Sync time="75.796"/>
+dan2-sun5 eh2 pe2-cia2-zok2 deh1-pa4-lang3 
+<Event desc="lang5" type="lexical" extent="instantaneous"/>
+
+<Sync time="78.03"/>
+dui3-ca5-liau1-au2 ziah1-zai2-iann4 
+<Sync time="79.515"/>
+si3-gam1-zing5-giu4-hun1 
+</Turn>
+<Turn speaker="spk20" startTime="80.754" endTime="92.85628899999999">
+<Sync time="80.754"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="81.031"/>
+ze4-le2 tau2-mo1 ni2-zor4-gim2-ng2-sik2 
+<Sync time="82.333"/>
+gan2-na2 zat3-lak3-hue3 senn4-sun2 e2-siau4-len5 
+<Sync time="84.052"/>
+vok3-ving5-gi2-miau2 ho3-ga4-cia1-e2-lang5 qia2-si2-gue2-dor1 tai2-diorh3-siong1 
+<Sync time="87.224"/>
+m3-gorh1 ging1-hong1 diau2-za1-liau1-au2 huat1-hen2 
+<Sync time="89.139"/>
+quan2-in1 si3-in2-ui3 senn4-sun1 e2-siau4-len5 
+<Sync time="90.914"/>
+dih1-nng3-ni2-zing5 ciunn2-lang2-e2-lu1-bing2-iu4 
+</Turn>
+<Turn speaker="spk20" startTime="92.85628899999999" endTime="101.45635599999999">
+<Sync time="92.85628899999999"/>
+giu4-ho2-rin2-quan5 guann1-gau4-ui2 
+<Sync time="94.148"/>
+ma1-siong2 ga2-siau4-len5 e2 sann1 tng4-diau2(diau3) 
+<Sync time="96.116"/>
+i2-ka2-ziah1-piann1 e2-kang2-cui3 zin2-ziann4-zin2-cim1(cin1)
+<Event desc="cim1" type="lexical" extent="previous"/>
+
+<Sync time="98.35"/>
+i2(in2)-si3 dong2-diunn5 cu1-li4 
+<Sync time="99.678"/>
+deh1(de5)-hen3-diunn5 long1-si3-hue4-riah2 
+</Turn>
+<Turn speaker="spk20" startTime="101.45635599999999" endTime="114.531">
+<Sync time="101.45635599999999"/>
+in2-ui3 diorh3-siong1-qiam2-diong2 
+<Sync time="102.741"/>
+giu4-ho2-rin2-quan5 ga2-siau4-len5 cah2-diorh3 
+<Sync time="104.505"/>
+i2-ziah1-u3-huat1-do2 giann2-kit1-li1 giu4-ho3-cia1 
+<Sync time="106.246"/>
+li3-ciann4 pak1-di3 tan4-gah2 ding1-vin2 
+<Sync time="107.808"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="108.081"/>
+zit1-le2-an4-giann2 iah3-ho3 vue3-sing2-len5 e2-hiam3-huan2 
+<Sync time="110.126"/>
+lin2-sing1-dau2
+<Event desc="lau2" type="lexical" extent="instantaneous"/>
+-ha3-an4-de4 
+<Sync time="111.471"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="111.87"/>
+vin2-si2-sin2-vun5 dai2-lam2-ci2 bor4-dor2 
+<Sync time="113.792"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="114.531" endTime="132.97660299999995">
+<Sync time="114.531"/>
+di2-e1-viau2-lik2(lit2) zit3-ging2 
+<Event desc="en" type="language" extent="instantaneous"/>
+
+<Sync time="116.038"/>
+u3-si4-e2-lam2-zu4 in2-ui2
+<Sync time="117.521"/>
+ong1-ge4-bia4-ging2 e2-bng2-ging1 lai2 bang2-ging1 lai3-de4-kuann3 
+<Sync time="120.332"/>
+diorh3-in1-ki1-liau1 cit1-bue4-e2-lam2-zu4 but1-vuan4 
+<Sync time="122.631"/>
+te3-ziu1-gan2-na4 gah1-vet3-hue1-ki3 
+<Sync time="124.49"/>
+ga3-in2 gong4-tau2-kak2
+<Sync time="125.771"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="126.007"/>
+qi2-ciann1 zit1-cit4(cit1)-bue4-e2-lang5 gorh1-di2-e1 
+<Event desc="en" type="language" extent="begin"/>
+KTV
+<Event desc="en" type="language" extent="end"/>
+ e2-mng2-ka2-kau4 
+<Sync time="128.747"/>
+ge4-siok3-siu2-li4 zit1-si4-e2 i1-ging2 hue3-sit1-le4 e2-za2-bo1 
+<Sync time="131.747"/>
+hing2-ui5 si3-zin2-ok1-zik2(zit2)
+</Turn>
+<Turn speaker="spk20" startTime="132.97660299999995" endTime="143.281">
+<Sync time="132.97660299999995"/>
+cing2-lorh3 cen1-sik2 sia1-zuh2 e2-za2-bo2-lang5 
+<Sync time="134.543"/>
+tau5-moh2 leh3 it1-dit3-hong5-pah2 
+<Sync time="136.059"/>
+li3-ciann1 u3-lang3(lang2)-ki1-ka2-dang3-ciu4 iah1-gorh1-vor2-gau3 
+<Sync time="138.440"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="138.721"/>
+te3-binn1-a1 e2 vet3-hue1-ki3 gah1-kang1 e2 ziu1-guan1-na4 
+<Sync time="140.862"/>
+len2-sua3-ham1 bi3-hai3-rin5 e2 tau2-kak2 
+<Sync time="142.686"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="143.281" endTime="167.13686899999993">
+<Sync time="143.281"/>
+dih1-pah2-e2-si2-zun2
+<Sync time="144.207"/>
+u3-sann2-e2-za2-vo4 ui3-binn1-a1 ging2-gue3
+<Sync time="145.988"/>
+in2-kor1-ling5 dor3-si3 in1-ki1 ciong2-dut2
+<Event desc="tut2" type="lexical" extent="instantaneous"/>
+-e2-quan2-in1 
+<Sync time="148.394"/>
+quan3-lai5 bi3-hai3-rin5 gah1-si3-e2-bing2-iu4 
+<Sync time="150.207"/>
+ki1-zit1-ging2 
+<Event desc="en" type="language" extent="begin"/>
+KTV
+<Event desc="en" type="language" extent="end"/>
+ ciunn4-gua1 
+<Sync time="151.692"/>
+gang3-bau2-siunn1 gi2-diong1 zit3-le2 sior1-zia4 
+<Sync time="153.409"/>
+sik3-sai3 ge4-bia4-bau2-siunn1 senn4-nqo4-e2-zu1-hiam5 
+<Sync time="155.659"/>
+so1-i4 dor3-ki1-kai2-gang4 
+<Sync time="156.632"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="157.025"/>
+bi3-hai3-rin5 zi1-si3 kia3-lih1 dui4-hong1 bau2-siunn1-mng2-kau4 
+<Sync time="159.235"/>
+kuann4-zit3-le3 dor3-ho3 dui4-hong1 pah2 
+<Sync time="160.704"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="160.993"/>
+len3-bi3-hai3-rin5 e2 bing2-iu4 veh1-ga3-i2 cua3-ki1-kuann4-i2-sing1 
+<Sync time="163.446"/>
+dor1-iah1-ve3-giann2-gau4(gah1) dua3-mng2-kau4 
+<Sync time="164.961"/>
+ma3-si3-gang3-kuan4 ho3-lang2 pa4-gah1 zin2-ci3-cam4 
+</Turn>
+<Turn speaker="spk20" startTime="167.13686899999993" endTime="180.73697599999997">
+<Sync time="167.13686899999993"/>
+gan2-na2-kuann3-zit3-le3 dor3-ga3-lang2 pa4-gah1 sang4-benn3-inn2 gip1-giu3 
+<Sync time="169.501"/>
+len3-ging1-hong1 long1-hainn4-gau5(tau5) 
+<Sync time="170.907"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="171.169"/>
+ging1-hong1-au2-lai3 gin2-gi4 gam4-si3-ue3-vin2 
+<Sync time="173.126"/>
+liah3-dor3 ri3-zat3-qo3-hue3 senn4-nqo4-e2-zu1-hiam5 
+<Sync time="175.217"/>
+ia3-i2-ziau4 sat1-rin5 zue3-hiam5 ham2(han2)-sang3-huat1-ban2 
+<Sync time="177.82"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="178.203"/>
+vin2-si2-sin2-vun5 viau2-lik2-bor4-dor2 
+<Sync time="180.062"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="180.73697599999997" endTime="201.01713499999994">
+<Sync time="180.73697599999997"/>
+lai2-guan2-sim1(sin1)
+<Event desc="sim1" type="lexical" extent="previous"/>
+ di1(di3)-e1-hun2-lim5 bak1-gang4 
+<Sync time="182.449"/>
+zit3-e2 qi3-zat3-qo3-hue3 *(e2)hu3-lin3-lang5
+<Sync time="184.153"/>
+in2-ui3 bat1-do4-tiann3 ki1-kuann4-benn2 
+<Sync time="185.84"/>
+ling3-gang1-zai1-ki4 zing2-sin5 
+<Sync time="187.25"/>
+lin2
+<Event desc="lim2" type="lexical" extent="instantaneous"/>
+-uan2-zui4 hu2-len2-gang1 dor3(dior3) cui4
+<Event desc="cui3" type="lexical" extent="instantaneous"/>
+ kui2-kui1 
+<Sync time="189.672"/>
+bok3-bi3-sit1
+<Event desc="si1" type="lexical" extent="instantaneous"/>
+-vong5 
+<Sync time="190.828"/>
+huat1-i1-iam3
+<Event desc="qiam3" type="lexical" extent="instantaneous"/>
+-si1 
+<Sync time="192.038"/>
+in2-ui3(ui5) i2(*)-si1-zia4 m3-si3-diong4-dok2 
+<Sync time="193.928"/>
+ga2-siok2-lin3-ui3-gong1 zit1-le2-zing2-hing5 
+<Sync time="195.82"/>
+gah1-lan2-dau2
+<Event desc="lam2-dau5" type="lexical" extent="instantaneous"/>
+ qo3-e2-lang2 bo3-bi2(bi3)-e2-zong3-hong4 zin2-sior2-sing5 
+<Sync time="198.841"/>
+m4
+<Event desc="ng4" type="lexical" extent="instantaneous"/>
+-vang3-giam4-hong1 e3-dang4 hor1-hor1-diau2-za1 
+</Turn>
+<Turn speaker="spk20" startTime="201.01713499999994" endTime="207.69718699999993">
+<Sync time="201.01713499999994"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="202.817"/>
+senn4-cua3-hu3-rin2-lang5 e2-da2-guann1 
+<Sync time="204.067"/>
+dor1-li3-vin2-cng5 mo2-ni3(ni5)-sin2-bo2 
+<Sync time="205.733"/>
+hong5-huat1-hen3 si1-vong5-*(si2-zun2) e2-zong3-hong4 
+</Turn>
+<Turn speaker="spk20" startTime="207.69718699999993" endTime="228.593">
+<Sync time="207.69718699999993"/>
+senn4-cua3(cua2)-e2-hu3-rin2-lang5 ri3-zat3-qo3-hue3 
+<Sync time="209.402"/>
+dua4-hun2-lim5 bak1-gang4 
+<Sync time="210.527"/>
+i2-gau1-hor2 e3-bo1 bat3(bat1)-do4-tiann3 
+<Sync time="212.167"/>
+kit1(ki1)-hu3-gin2 diau4-dua3-dang5 liau1-au2 dor3-dngh2-ki3 
+<Sync time="214.167"/>
+am4-si5 cit1-diam1-qua2 ziah3-mue5(muai5)-liau1-au2 dor3-dit3-ziap2(ziap3) hior4-kun3 
+<Sync time="216.823"/>
+de3-ri3-gang1 tau4-za3-si3-diam4 i2-gam1-gak1-cui4-da1 
+<Sync time="219.108"/>
+ciann1-ang2-sai3 tin2-zui4-ho3-i2-lim1 
+<Sync time="220.671"/>
+hu3-rin2-lang5 e2 ang2-sai3 qo3-diam1-qua2 cut1-ki1(li1)-ziah3-za1-dng3 
+<Sync time="223.061"/>
+cit1-diam1-qua2 dngh2-ki3-e2-si2-zun2 
+<Sync time="224.623"/>
+huat1-hen3 senn2(senn4)-cua3(cua2) e2-hu3-rin2-lang5 dor1-di3-vin2-cng2-ding4 
+<Sync time="226.836"/>
+it1-ging2-vor2-kui3-a3 
+<Sync time="228.117"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="228.593" endTime="242.33406599999995">
+<Sync time="228.593"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="228.713"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="229.131"/>
+huat1-i1 siong4-qiam2 
+<Sync time="229.918"/>
+hu3-rin2-lang5 vor2-qua3-siong1 ma3-vor2-diong4-dok2 
+<Sync time="231.981"/>
+m3-gorh1 ga2-siok2 rin3-ui5 
+<Sync time="233.137"/>
+lang5-di3 nng3-diam1-zing2-lai2 an1-ne1-si1-vong5 
+<Sync time="234.907"/>
+sit3-zai2 ho3-in2 vor2-huat1-do2 ziap1-siu2 
+<Sync time="236.326"/>
+so1-i4 i1-ging2-dong2-i3 veh1-gai1-pua3 
+<Sync time="237.877"/>
+liau1-gai1-zin2-ziann3 e2(e3) si1-vong5-quan2-in1 
+<Sync time="239.846"/>
+vin2-si2-sin2-vun5 hun2-lim5-bor4-dor2 
+<Sync time="241.705"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="242.33406599999995" endTime="258.69758599999994">
+<Sync time="242.33406599999995"/>
+ziam2-dui4 lam2(lan2)
+<Event desc="lam2" type="lexical" extent="previous"/>
+-dau5-sin4-qi3-hiong1 
+<Sync time="244.041"/>
+qo3-diau2-lang2-mia2 e2 si1-in1 
+<Sync time="245.754"/>
+gau4-zit1-ma4 gik1(gi2)
+<Event desc="zit1" type="lexical" extent="begin"/>
+-guan1-giok2 iah1-gorh1-si3 vu3-sa4-sa3 
+<Sync time="248.223"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="248.538"/>
+iah1-m3-gorh1 gik1
+<Event desc="zit1" type="lexical" extent="previous"/>
+-guan1-giok2 biau1-si3-gong1 
+<Sync time="250.37"/>
+de3-qo3-mia5 si1-zia4 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="252.27"/>
+zin2-u3-kor1-ling5 si3-pua4-benn2-si1-vong5 
+<Sync time="254.317"/>
+ga2-siok2-ma3-gong1 zit1-le2-si1-zia4
+<Sync time="256.157"/>
+kah1(kak1)-sit2(sit3) si3-u3 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="258.140"/>
+lai2(e2)-benn3-si4 
+</Turn>
+<Turn speaker="spk19" startTime="258.69758599999994" endTime="269.09766799999994">
+<Sync time="258.69758599999994"/>
+lam2-dau5-qo3-e2-lang5 diong4-dok2-si1-vong5 
+<Sync time="260.423"/>
+zi3(zit3)-binn2-guan1-ze4-giok2 
+<Sync time="261.471"/>
+i1-ging2-rin2(lin3)-ui2(ui5)-gong1 m3-si3-por4-siong2-hong1 
+<Sync time="263.431"/>
+ma3-m3-si3 ia1-qua2-e2 siann1-mih1-dok3-cau4 so1-in1-ki4-e3 
+<Sync time="265.994"/>
+si1-zia4-e3-zing2-hing5 huat1-i1 lin3-ui3-gong1 
+<Sync time="267.714"/>
+he1-si3 zing4-siong5-e2-hen3-siong2 
+</Turn>
+<Turn speaker="spk19" startTime="269.09766799999994" endTime="280.562">
+<Sync time="269.09766799999994"/>
+dan3-si3 gau4-zit1-zun2 ah1-m3-zai2-iann1(ann1)
+<Event desc="zit1" type="lexical" extent="end"/>
+ quan2-in1-si3-siannh2 
+<Sync time="271.687"/>
+giam1-hong1 lin3-ui3-gong1 
+<Sync time="272.826"/>
+huat1-i1-di3-an4-huat2 gut1-lor3-gang1 liau1-au2 
+<Sync time="274.825"/>
+ziah1-gai1-pua3 guan2-cat2 
+<Sync time="276.309"/>
+an4-si1-zia4 e2-qua3-guan1 lai2-tui2-cik2 
+<Sync time="278.371"/>
+giam1-hong1 m3-si3-zin2-dong2-i3 
+<Sync time="279.727"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="280.562" endTime="288.7378209999999">
+<Sync time="280.562"/>
+zit3-binn2-guan1-ze4-giok2 biau1-si3-gong1 
+<Sync time="281.962"/>
+si1-zia4 lim5-sen3-sinn3 in2-dau1 
+<Sync time="283.313"/>
+si3-siong3-u3-kor1-ling5 zi4-ziap1-diorh3 dok3-so3-e2-so1-zai2 
+<Sync time="285.594"/>
+ma3-vor2-tuann3-cut3-ki3 
+<Sync time="286.812"/>
+dok3-vut3-kor1-zuan2-ga1 u3-dong2-i4 zit1-le2-gong1-huat2 
+</Turn>
+<Turn speaker="spk19" startTime="288.7378209999999" endTime="308.1379729999998">
+<Sync time="288.7378209999999"/>
+de3-qo3-e2-si1-zia4 su1-dat3-hai4 si4-e3-quan3-in1 
+<Sync time="291.225"/>
+zit3-binn2-guan1-ze4-giok2 lin3-ui3-gong1 kor1-ling5 dor3-si3 pua4-binn2 
+<Sync time="293.709"/>
+gah1-gi2-ta1 si4-e2-lang5 
+<Sync time="294.987"/>
+si1-vong5-e2-si2-gan1 ing4-gai2(gai1) si3-du1-a1-hor4 
+<Sync time="296.956"/>
+ga2-siok2 ma3-biau1-si3-gong1 
+<Sync time="298.284"/>
+si1-zia4 bun1-sin1 dor3-bat1-u3 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="300.862"/>
+dan3-si3 giam1-ging3 ma3-si3-gang3-kuan1 veh1-diau2-za1 
+<Sync time="303.299"/>
+kuann4-gong1 dau4-de3-si3 siann1-meh1-quan3(quan2)-in1 
+<Sync time="305.408"/>
+vin2-si2-sin2-vun5 lam2-dau5 bor4-dor2 
+<Sync time="307.314"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="308.1379729999998" endTime="325.3781079999998">
+<Sync time="308.1379729999998"/>
+gor2-hiong5-e2-ging4-hong1 lin2-giam4 
+<Sync time="309.599"/>
+zit3-le2-kia2-cia1 vor2-di4 an2-zuan2-vor2 e2 lam2-zu4 
+<Sync time="311.974"/>
+zit1-le2-lam2-zu4 e3-ciu4 gorh1-bak3-zit3-de4-bo3 
+<Sync time="314.536"/>
+ging4-hong1 ga3-bo3 qiu4-kui1 zit3-kuann3 
+<Sync time="316.458"/>
+lai3-vin2 ging4-ren5 cang4-u3-nng3-bau1 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="318.865"/>
+sui2-ren5 ze4 e2 lan2
+<Event desc="lam2" type="lexical" extent="instantaneous"/>
+-zu4 e3-ma1-mah2 guann4-lai3 
+<Sync time="320.705"/>
+te4-hau3-senn1 giu2-zing5 
+<Sync time="322.065"/>
+zue4-au2 lam2-zu4 iah1-si3 ho3-ging4-hong1 i2-huat2-sang4-ban2 
+<Sync time="324.769"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="325.3781079999998" endTime="334.73818099999977">
+<Sync time="325.3781079999998"/>
+vor2-di4-an2-zuan2-vor2 e2 za2-bo2-lang5 
+<Sync time="326.705"/>
+ho3-ging4-hong1 za2-lorh3-lai3 
+<Sync time="327.83"/>
+siunn3-ve3-gau4 i2-ziann4-ciu4 bau2-
+<Event desc="ja" type="language" extent="instantaneous"/>
+
+<Sync time="329.645"/>
+lai3-vin2 cang4-dok3-pin4 
+<Sync time="330.633"/>
+ging4-ren5 ho3-ging4-hong1 kuann4-pua4-ka2-ciu4 
+<Sync time="332.563"/>
+dong2-diunn5 ciau2-dor3 nng3-bau2 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="334.73818099999977" endTime="340.4582249999998">
+<Sync time="334.73818099999977"/>
+za2-bo2-lang5 e2 lau3-vu4 sui2-gau4-ui2 
+<Sync time="336.313"/>
+dih1-ging4(ging1)-hong1 huat1-hen3 za2-bo2-lang5 e2-ciu4 u3-ziam2-kang1-e2-si5 
+<Sync time="338.846"/>
+lau3-ma1-mah2 gorh1-te4-i2 gong1-beh3-cat2 
+</Turn>
+<Turn speaker="spk20" startTime="340.4582249999998" endTime="346.89827599999984">
+<Sync time="340.4582249999998"/>
+m3-gorh1 cia2
+<Event desc="ciau2 " type="lexical" extent="instantaneous"/>
+-dor3-dok3-pin4 za2-bo1-lang5 ve3-dang4-ben3-gai4 
+<Sync time="342.832"/>
+lau3-ma1-mah2 gorh1-te4-hau3-senn1-kun1-giu5 
+<Sync time="345.035"/>
+len3-ging1-cat2 ma3-kuann4-ve3-lorh2-ki3 
+</Turn>
+<Turn speaker="spk20" startTime="346.89827599999984" endTime="358.61836799999986">
+<Sync time="346.89827599999984"/>
+ging1-hong1-huat1-hen2 
+<Sync time="347.832"/>
+ze1-le2 senn4-dan5 e2-hiam3-huan2 
+<Sync time="348.905"/>
+u3-dok3-pin4 zen2-kor1 
+<Sync time="349.770"/>
+i1-ging2 hong5-liah3-zin2-ze3-bai4 
+<Sync time="351.176"/>
+lau3-ma1-mah2 gorh1-kor1(ko1)-kor4(ko4) ai2-giu3-ging4(ging1)-hong1 
+<Sync time="353.072"/>
+m3-gorh1 siong3-ve1-a4 dong2-ren5 iah1-si3 i2-sang3-huat1-ban2 
+<Sync time="355.509"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="355.92"/>
+vin2-si2-sin2-vun5 gor2-hiong2-ci2 bor4-dor2 
+<Sync time="357.826"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="358.61836799999986" endTime="377.7654699999999">
+<Sync time="358.61836799999986"/>
+di2(di3)-e1-dai2-dang1 
+<Sync time="359.315"/>
+zang5-tuan2-cut1-liau1 u3-dai2-uan2-o2-hing5
+<Event desc="him5" type="lexical" extent="instantaneous"/>
+
+<Sync time="361.398"/>
+vor2-sior1-sin1
+<Event desc="sim1" type="lexical" extent="instantaneous"/>
+ ho3-hue1-cia1 long3-diorh3 i4-qua2 
+<Sync time="363.914"/>
+ho3-lang2-gior4-zue4 o2-hing5
+<Event desc="him5" type="lexical" extent="instantaneous"/>
+ ma1-mah2 e3-pok1-su2 
+<Sync time="366.714"/>
+ng2-vi1-hiong1 zai1-ki4 guann1-gau4-hen3-diunn5 
+<Sync time="369.06"/>
+lai2-zin4(zing4)
+<Event desc="zin4" type="lexical" extent="previous"/>
+-hing2 zit1-le2 so2-soh2(sok2) 
+<Sync time="370.585"/>
+kuat2(kuat1)-ding2 zang5-tut2(tut1) cut2(cut1)-hen2-e2 kak2(kak1)-sit2(sit3) dor3(dior3)-si3 dai2-uan2-o2-hing5
+<Event desc="him5" type="lexical" extent="previous"/>
+
+<Sync time="374.085"/>
+dan3-si3 gam1-zin2-ziann4 u3-ho3 hue1-cia1-long3-diorh3 
+<Sync time="376.554"/>
+gorh1-ai4 ge4-siok2(siok3)-diau2-za1 
+</Turn>
+<Turn speaker="spk19" startTime="377.7654699999999" endTime="388.1785989999999">
+<Sync time="377.7654699999999"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="380.224"/>
+kan2-diorh3 zuan2-vun2-ciau3(ciau2)-cue3 dai2-uan2-o2-him5 e3-gau1-a4 
+<Sync time="382.989"/>
+di3-leh1 kor1-ling5 si3-o2-him5 hong5-long3-diorh3 e2-ti4-gi2-lo2 hu4-gin2 
+<Sync time="386.033"/>
+si4-ge3 pinn3-diorh3 kor1-qi5 e2-ki4-vi2 
+</Turn>
+<Turn speaker="spk19" startTime="388.1785989999999" endTime="398.218678">
+<Sync time="388.1785989999999"/>
+zin2-gin4 zit1-ziah1-gau1-a4 diorh3-ze3(ze2)-lorh3-lai3 
+<Sync time="389.967"/>
+ga3-dak3-ge2-gong1 i2-i1-ging2 cue3-diorh3 o2-him5 lau3(lau5)-lorh3-lai3 e2 dai3-ben2 
+<Sync time="393.108"/>
+kor1-siorh2 ziah1-e3(e2)-zing4-vut1 
+<Sync time="394.389"/>
+dui4-li3 ciau2-cue3-o2-him5 e2-siong3-sin1-e2-he3-lorh1 
+<Sync time="396.742"/>
+gan1-na1 vor2-siann1-bang2-zo2 
+</Turn>
+<Turn speaker="spk19" startTime="398.218678" endTime="407.09874700000006">
+<Sync time="398.218678"/>
+zi1-e3-dang4 zing4-sik2(sit2) ce2-zap2-e2-am4-mi5 de3-it1-ben3-huat1-sing2 
+<Sync time="400.508"/>
+dai2-uan2-o2-him5 cut1-hen3-di3-benn2-de2 e2 gi4-lok1 
+<Sync time="402.93"/>
+dau4-de4 si3-m3-si3 u3-huat1-sing2 cia2-eh2 
+<Sync time="404.852"/>
+ma3-vor2-huat1-do2 kak1-ding2 
+<Sync time="406.211"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="407.09874700000006" endTime="419.647">
+<Sync time="407.09874700000006"/>
+bor1-iok3-rin2-su2 biau1-si3 dai2-uan2-o2-him5 
+<Sync time="408.976"/>
+dui4-di3-rin2-lui2 u3-gai4-sim1 
+<Sync time="410.235"/>
+vok3-zen5 o2-him5 e3-hing2-zong1 m3-zai2-di3-dorh1
+<Sync time="412.667"/>
+so1-i4 te3-cinn1-vin2-ziong3 ga1-su1 na3-u3-huat1-gen4 o2-him5 e2 zong2-iann4 
+<Sync time="415.433"/>
+diorh3-guann1-gin4 bor4-ging3-cu1-li4 
+<Sync time="417.011"/>
+vin2-si2-sin2-vun5 zong2-hap3(hap2)-bor4-dor2 
+<Sync time="418.742"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="419.647" endTime="439.0989970000001">
+<Sync time="419.647"/>
+lai2-kuann4(kuann3) gok1-dor2-keh2(ke4)-un2 bak1-gor2-suann3 
+<Sync time="422.055"/>
+ging4-zing1 si3-lu1-lai5-lu1-dua2-lor3 
+<Sync time="423.870"/>
+ui3-diorh3-veh1-ciunn1-sing2-li4 
+<Sync time="425.276"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+和欣客運
+<Event desc="en" type="language" extent="end"/>
+ *(tui2-cit1-liau1) ge4-siok2
+<Event desc="siau3 " type="lexical" extent="instantaneous"/>
+ kah1-siok2-e2-zeh1-le2 sann2-bai5-ze3-cia1 
+<Sync time="429.823"/>
+dai2-bak2-zi4-gor2-hiong5 
+<Sync time="431.276"/>
+piau4-ge2
+<Event desc="pior4-ge3" type="lexical" extent="instantaneous"/>
+ siong3-ge2 lai2-gau4 sann2-ba4-gau1-zap3-gau1-ko1 
+<Sync time="434.26"/>
+ling3-qua2(qua3) 
+<Event desc="zh" type="language" extent="begin"/>
+國光統聯
+<Event desc="zh" type="language" extent="end"/>
+ zia4(ziah1)-*(e2)-qiap3-zia4 
+<Sync time="436.461"/>
+ma3-si3-gang3-kuan4 gang4-ge3
+<Sync time="437.701"/>
+lai2-iu2-tai3 siau2-hui4-zia4 
+</Turn>
+<Turn speaker="spk19" startTime="439.0989970000001" endTime="463.8591910000002">
+<Sync time="439.0989970000001"/>
+i1-zing5 long1-gong1-si3 tau2-ding1-cng1 
+<Sync time="440.758"/>
+hiang1-siu2-e2 hor2-hing1-ke4-un2 
+<Sync time="442.138"/>
+zit1-ma4 ma3-kai1-si1 deh1(le1)-biann4-ge3-lo3 
+<Sync time="443.79"/>
+an4-hior4-luah2-kai2-si4 u3-sann2-bai5-i1-a1-ui2-e2 
+<Sync time="446.948"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="449.494"/>
+gui2-ki3 iong3-niu3-e2 kah1-zun4-la3 
+<Sync time="450.932"/>
+sin1-e1-i1-a4 kuah2(kua4)-do2 si3 qo3-zap3-qo3-gong2-hun1 
+<Sync time="453.526"/>
+gah1-gu3-sik2 e3 nng3-bai2-i1-a4 
+<Sync time="455.215"/>
+si3-ca2-zap3-gong2-hun2-kuah2 
+<Sync time="456.745"/>
+na3-ka1 ca2-but1-dor2 ma3-si3-giam1 nng3-bue3-qua2 
+<Sync time="459.45"/>
+so1-zai2-ue2(ueh2) ge4-zinn5-diorh3-siok2 
+<Sync time="461.419"/>
+li3-hong1-si2-gan1 sann2-ba4-gau1-zap3-gau1-ko1 
+</Turn>
+<Turn speaker="spk19" startTime="463.8591910000002" endTime="472.17219100000017">
+<Sync time="463.8591910000002"/>
+ge3(ge4)-siau3-ca2-vor2-qua3-zue2 
+<Sync time="465.155"/>
+dan3-si3 nng3-bai2-i1-a4-e3 kah1-su4-si2 
+<Sync time="467.108"/>
+veh1-ze3 sin2-sik2 i1-a4-e3 ca2-but1-dor2 long2-si3 kah1-siau4-len3-e2 
+<Sync time="470.218"/>
+qiap2-zia4-ma3-gong1 ze1-si3 ci3-diunn5 e3-ging2-ing5 
+</Turn>
+<Turn speaker="spk19" startTime="472.17219100000017" endTime="490.21233200000023">
+<Sync time="472.17219100000017"/>
+kuann4-dor3 hor2-him1-ke4-un2 veh2-lai2-ciunn1-sing2-li4 
+<Sync time="474.655"/>
+tong1-len5 gah1-gok1-gong1 
+<Sync time="475.717"/>
+ma3-dor3-ai4-lorh3-ge3 
+<Sync time="476.853"/>
+bun1-lai5 li3-hong2-si2-gan1 
+<Sync time="478.109"/>
+bak1-gor1 si3-si4-ba4-sann1 
+<Sync time="479.547"/>
+zit1-ma4 long1-lorh3-gah1 sann2-ba4-gau1-zat3-gau4 
+<Sync time="481.722"/>
+dan3-si3 mui1-zit3-ging2 gong2-si1 
+<Sync time="483.110"/>
+iu2-tai3-si2-gan1 si3-vor2-gang3-kuan4 
+<Sync time="485.031"/>
+veh1-ze3-cia1-e2-lang5 dor3-ai4 sing2-mng3-ho2-cing2-cor4 
+<Sync time="487.406"/>
+vin2-si2-sin2-vun5 dai3-bak2-bor4-dor2 
+<Sync time="489.453"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="490.21233200000023" endTime="506.69246100000015">
+<Sync time="490.21233200000023"/>
+siu3-diorh4(dior3) di3(di2)
+<Event desc="ge3" type="lexical" extent="previous"/>
+-ki4-ah2
+<Event desc="ap2" type="lexical" extent="previous"/>
+ e3-ing1-hiong4 
+<Sync time="491.697"/>
+gin2-na1-lit2 zuan2-dai2-uan5 tinn2-ki3-vor2-un1-ding2
+<Sync time="494.384"/>
+ki4-siong3-giok2 biau1-si3-gong1 
+<Sync time="495.771"/>
+u3-bo3-hun2 e2-de3-ku1 e3-lorh3-dua3-ho2 
+<Sync time="497.99"/>
+ling3-qua3 guan2-dor4 dang2-bak1-binn5 
+<Sync time="500.19"/>
+zang5 cim2-ia2 u3-zit3-le3 di2
+<Event desc="ge3" type="lexical" extent="previous"/>
+-ki4-ap2 cut2(cut1)-hen2 
+<Sync time="502.565"/>
+gor2(go2)-gi4 gin2-na1-lit2 ah3-si3 mi2-a1-zai3 
+<Sync time="504.174"/>
+zit1-le2-ki4-ap2 u3-kor1-ling5 *(e3)binn4-zor4-hong2-tai1 
+</Turn>
+<Turn speaker="spk19" startTime="506.69246100000015" endTime="527.5326240000002">
+<Sync time="506.69246100000015"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="509.279"/>
+dai3-bak2-zia1 za1-ki4 tinn1-ding4-e2-hun5 si3 but1-li1-a1-ze2(zue2) 
+<Sync time="511.842"/>
+dan3-si3 ma3-si3 e3-dang4 kuann4-dor3-tinn1 
+<Sync time="513.78"/>
+ki4-un1 dong2-len5 zin2-guan5 
+<Sync time="515.373"/>
+ki4-siong3-giok2 gong1 du2-liau1-lam2-bo2 
+<Sync time="517.116"/>
+dang2-bo2 e3-ge2-giam1 lorh3-zit3-gua1-ho2 *(e3)
+<Sync time="518.909"/>
+kah1-liang5-i1-qua2 diong2-bo2-i1-bak2 
+<Sync time="521.004"/>
+lit2-si3-e2-gor2-un1 long1-gorh1-u3 sann2-zat3-si4-do2 
+<Sync time="523.426"/>
+dan3-si3 gue4-dau4 au2 e3-lorh3-sai2-bak1-ho2
+<Sync time="525.681"/>
+u3-zit3-gua1-so1-zai2 ma3-si3 e3-lorh3-dua3-ho2 
+</Turn>
+<Turn speaker="spk19" startTime="527.5326240000002" endTime="543.7036240000001">
+<Sync time="527.5326240000002"/>
+zit1-gui1-gang1 dai2-uan5 e3-tinn2-ki3 long1-vor2-un1-ding2 
+<Sync time="529.635"/>
+zu1(zu2)-iau3-dor3-si3 in2-ui3 
+<Sync time="530.899"/>
+binn1-a1 e3-ge3-ki4-ap2 e2-ing1-hiong4 
+<Sync time="532.477"/>
+dan3-si3 ai4-zu4-i3 e3-dor3-si3-gong1 
+<Sync time="534.011"/>
+di3-guan2-dor4 e3 dang2-bak1-bing5-e3-hai1-vin2 
+<Sync time="536.089"/>
+bai4-it1-am3 hing2-sing5 zit3-le2 let3-dai4-sing3 ge3-ki4-ap2 
+<Sync time="538.808"/>
+siong3-gin4 bai4-li2 dor3-*(u3)-ben4-zue4 kin2-do2-hong2-tai1 e3-gi2-hue2 
+<Sync time="541.918"/>
+ma3-u3-kor1-ling5 e3 lu1-lai5-lu1-giong5 
+</Turn>
+<Turn speaker="spk19" startTime="543.7036240000001" endTime="554.5648640000001">
+<Sync time="543.7036240000001"/>
+ki4-siong3-giok2 gior4-dak3-ge2(e2) mai4-gin1-diunn1 
+<Sync time="545.715"/>
+in2-ui3 dor3-sng4-gong1 u3-iann1 ben4-zue4-hong2-tai1 
+<Sync time="547.793"/>
+ma3-dor3-ai4 bai4-lak2 le1-bai3 
+<Sync time="549.222"/>
+ziah1-e3-zai2-iann1 gong1 si3-m3-si3 e3-ing1-hiong1 lan1-dai2-uan5 
+<Sync time="551.612"/>
+vin2-si2-sin2-vun5 dai2(dai3)-bak2-bor4-dor2
+<Sync time="553.94"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="554.5648640000001" endTime="572.565005">
+<Sync time="554.5648640000001"/>
+dai2-uan2 zue4-gin2 tinn2-ki3 si3-zin2-ruah2 
+<Sync time="556.487"/>
+di2(di3)-e1-au2-ziu1 ma3-si3-siu3-diorh3 ret3-long3 e3-ing1-hiong4 
+<Sync time="559.081"/>
+ze1-gui1-gang1 un2-do2 lai2-gau4 si4-zat3-do2 
+<Sync time="561.471"/>
+ling3-qua3 it1-hiong3 gan1-na1 si3-hue1-lo5 
+<Sync time="563.521"/>
+gang3-kuan4-e2 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="565.24"/>
+zang5 siong3-guan5-e2-ki4-un1 si3 lai2-gau4 si4-zat3-sann2-do2
+<Sync time="568.693"/>
+qi2-ciann1 sua3-lorh3-lai3 nng3-gang1 
+<Sync time="570.228"/>
+un2-do2 kor1-ling5 e3-pua4 si4-zat3-qo3-do2 
+</Turn>
+<Turn speaker="spk20" startTime="572.565005" endTime="586.885117">
+<Sync time="572.565005"/>
+sit3-zai2 u3-gau4-ruah2 
+<Sync time="573.743"/>
+hui2-ziu1-dai3-liok2 e2 sior1-ki3 cue2-hiong4-au2-ziu1
+<Sync time="576.267"/>
+zat3-it1-hor2 
+<Event desc="zh" type="language" extent="begin"/>
+義大利
+<Event desc="zh" type="language" extent="end"/>
+ siu1-do1 lor2-ma4 e3-un2-do2 
+<Sync time="578.241"/>
+i1-ging2 sann2-zap3-be4-do2 
+<Sync time="579.397"/>
+tinn2-ki3 sip2-gorh1-ruah2 
+<Sync time="580.757"/>
+li3-ciann1 gorh1-vor2 tang2-a1 za2(za3)-rit2 
+<Sync time="582.288"/>
+zin2-ze3-iu2-keh2 dong4-ve3-diau5 
+<Sync time="583.866"/>
+long2-giann2-lai2 pun4-zuann5-zui1-di5 binn1-a1 
+<Sync time="585.569"/>
+siunn3-veh1-cing2-liang5 zit3-le3 
+</Turn>
+<Turn speaker="spk20" startTime="586.885117" endTime="605.9252660000001">
+<Sync time="586.885117"/>
+lor2-ma4 u3-lak3-e2-siann2-ci2 
+<Sync time="588.095"/>
+gor2-un1 ciau2-gue4-si4-zap3-do2 
+<Sync time="589.411"/>
+hong5 let3-zor(zorh1) ang2-sik2 ging4-gai3 
+<Sync time="590.817"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+義大利
+<Event desc="zh" type="language" extent="end"/>
+ ki4-siong3-giok2 gong1 
+<Sync time="592.317"/>
+zit1-ziong1-gor2-un1 gorh1-e3-ui2-ci5 zit3-le1-bai3 
+<Sync time="594.442"/>
+ling3-qua3 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="595.544"/>
+ma3-u3-gau4-ruah2 
+<Sync time="596.433"/>
+un2-do2-si3 sann2-zap3-be4-do2 
+<Sync time="597.886"/>
+ge2-a1-tau5 e3-dang4-kuann4-diorh3-zui1-cia1 
+<Sync time="599.445"/>
+ho3-vin2-ziong3 sui2-si5 bo1-ciong2-zui1-hun1 
+<Sync time="601.273"/>
+sin3(sim3)-zi4 gorh1-u3-vin2-ziong3 ga3-so1-ci2-e2-gau1-a4 
+<Sync time="603.461"/>
+liah3-rip3-ki1(vi1) zui1-di2-a1-de4 
+<Sync time="604.629"/>
+it1-dit3(di3)-ga3-i2 pua4-zui4 
+</Turn>
+<Turn speaker="spk20" startTime="605.9252660000001" endTime="637.409">
+<Sync time="605.9252660000001"/>
+du2-lau1 au2-ziu1 
+<Sync time="606.76"/>
+ho2-lang2-gior4-zue4-hue1-lo5-e2 sin2-kiong1 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="608.963"/>
+zat3-it1-hor2 siong3-guan5-e2-un2-do2 si4-zap3-sann2-do2 
+<Sync time="611.322"/>
+gin2-ni5 ruah3-tinn1 gau4-zit1-ma4 
+<Sync time="612.769"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+吐魯番
+<Event desc="zh" type="language" extent="end"/>
+ i1-ging2-u3-sann2-zap3-gang1 
+<Sync time="614.613"/>
+long1-ciau2-gue4-si4-zap3-do2 
+<Sync time="616.048"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="616.897"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="619.934"/>
+vin2-ziong3-ruah3-gah1-liah3-gong5 
+<Sync time="621.217"/>
+m3-gorh1 dong2-de2 dng2-diorh3-si5 e2 zui1-gor4 
+<Sync time="622.832"/>
+ciunn3-bor2-dor5 si3 lu1-ruah2 lu1-dinn1 
+<Sync time="624.598"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+吐魯番
+<Event desc="zh" type="language" extent="end"/>
+ ki4-siong3-giok2 i1-ging2-huat1-bo3 gam2-a1-sik2 ging1-gai3 
+<Sync time="627.27"/>
+go1-ge3 vi3-lai5 gui1-gang1 gang3-kuan4-e3-zin2-ruah2
+<Sync time="629.725"/>
+li3-ciann1 zap3-sann2-hor2 zap3-si4-gang1 
+<Sync time="631.166"/>
+zeh1-nng3-gang1 e3-un2-do2 
+<Sync time="632.256"/>
+sin3-zi4 e3-gau4 si4-zap3-qo3-do2 
+<Sync time="634.208"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="634.91"/>
+vin2-si2-sin2-vun5 zong2-hap3-bor4-dor2 
+<Sync time="636.66"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="637.409" endTime="654.1256440000002">
+<Sync time="637.409"/>
+dai2-uan5 zit1-gui1-gang1 
+<Sync time="638.5655220000001"/>
+dor3-*(e3) zit1-le2 e3-bo1-le3 diann3-diann3 lorh3-dua3-ho2 
+<Sync time="640.891"/>
+zor3-sing5 zin2-ze3(zue3)-de3-ku1 e3-zik1(zit1)
+<Event desc="zik1" type="lexical" extent="previous"/>
+-zui4 
+<Sync time="643.129"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="643.452"/>
+zue4-gin2 di2(di3)-e1-diong2-gok2 ma3-si3 gang3-kuan4-oh2 
+<Sync time="645.53"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="646.676"/>
+gah1-gang2-so1 lam2(lan2)
+<Event desc="lam2" type="lexical" extent="previous"/>
+-giann1 
+<Sync time="647.831"/>
+di2(di3)-e1 zang5-e3-bo1 diorh3-in2-ui3 dua3-ho2 
+<Sync time="649.849"/>
+lo3-vin2 dua3-en2
+<Event desc="im2" type="lexical" extent="instantaneous"/>
+-zui4 
+<Sync time="651.474"/>
+m3-na3-si3 cia1-painn4-ki3 gau2-tong1 ma3-si3 luan3-cau2-cau1 
+</Turn>
+<Turn speaker="spk20" startTime="654.1256440000002" endTime="697.7259850000003">
+<Sync time="654.1256440000002"/>
+ruah3-tinn1-gau3-lo3 
+<Sync time="655.053"/>
+dak3-ni5 long1-u2-e2 gue4-dau3-lui2-zun2-ho2 
+<Sync time="656.735"/>
+gin2-ni5 ma3-vor2-giam4 
+<Sync time="657.828"/>
+zat3-it1-hor2 e3-bo1 sann2-diam1-buann3 
+<Sync time="659.406"/>
+kai2-si1-lorh3-ho2 lorh3-sann2-diam1-zing1 
+<Sync time="661.234"/>
+hap3-bui5-e2-lo2 zuan2-bo2 long2-im2-zui4 
+<Sync time="663.438"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="664.135"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="675.651"/>
+go2-niu2-a4 vor2-go4-hing2-siong2 dit3-ziap2 liau2-zui4 
+<Sync time="677.698"/>
+in2-ui3 gah1-zit1-le2 i1-ging2 im2-gah1-giau2-cia1-e2-lang5 bi4-kit3-lai3 
+<Sync time="680.245"/>
+siong3-ge1 sun1-sit2 zit3-sing2
+<Event desc="siang2 " type="lexical" extent="instantaneous"/>
+ guan2-da4-e5 
+<Sync time="682.323"/>
+i1-ging2-si3 zin2-hor1-un2 
+<Sync time="683.967"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="684.57"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="692.377"/>
+dua3-lo2 long1-si3-zui4 
+<Sync time="693.404"/>
+cim2-do2 bing2-gun1(gin1) qo3-zap3-gong2-hun1 
+<Sync time="695.107"/>
+dong2-giok2 si3 gui2-ki3 kui2-bai2-zui1-kang1 lai3-bai2-zui4 
+</Turn>
+<Turn speaker="spk20" startTime="697.7259850000003" endTime="710.6860860000004">
+<Sync time="697.7259850000003"/>
+dua3-ho2 zor4(zor3)-sing2(sing5)-im2-zui4 ho3-gau2-tong1 pa4-gat2 
+<Sync time="700.341"/>
+li3-ciann1 ui2-hiap2-tong2-kin5-vin2-ziong3 e3 iah1-gorh1-u3-zit1-le2 
+<Sync time="703.123"/>
+vor2-m3-diorh2 m3-zai2 siann1-mih1-si2-zun2 e3-dor4-lorh3-lai3 
+<Sync time="705.701"/>
+lam2-giann1-zit1-zun2 gue4-dau3-liau1-au2 e3 lui2-zun2-ho2 
+<Sync time="707.983"/>
+dong2-diunn5 dor3-ho3 zit3-zang2 dua3-ciu2 dor3-di3-to2-ka1 
+</Turn>
+<Turn speaker="spk20" startTime="710.6860860000004" endTime="721.3261700000005">
+<Sync time="710.6860860000004"/>
+siong2-guan1-bo3-mng5 zing1-li1-hen3-diunn5 e2-si2-zun2 huat1-hen2 
+<Sync time="712.89"/>
+quan3-lai5 dua3-ciu2 e2 ciu3-gin1 i1-ging2-nua2-ki3 
+<Sync time="715.198"/>
+so1-i4 ziah1-e3 dih1-zit3-diunn2 gue4-dau3-lui2-zun3-ho2 
+<Sync time="717.24"/>
+liau1-au2 gui2-e2 dor4-ki3
+<Sync time="718.469"/>
+vin2-si2-sin2-vun5 zong3(zong2)-hap3-bor4-dor2 
+<Sync time="720.422"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="721.3261700000005" endTime="740.2063180000005">
+<Sync time="721.3261700000005"/>
+ziam2-dui4 de3-it1-gai3 bak1-bak1-gi2(gi1) le2-cik2 
+<Sync time="723.437"/>
+sin2-cing1 hun2-huat2-e3-zing2-qi2 
+<Sync time="725.057"/>
+gin2-na1-lit2 dai3-bak1-ci3-diunn4 hor1-liong2-bin1
+<Sync time="727.089"/>
+cut1-vin2-hue3-sit1-le3(le4) 
+<Sync time="728.227"/>
+qi2-ciann1 i2-gorh1-suan2-bo3 
+<Sync time="729.467"/>
+u3-diong2-sin1 hun2-huat2-e3-gi2-hue2 
+<Sync time="731.435"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="732.822"/>
+ling3-qua1(qua2) u3-ten2-ding1 go4-hiong1 e3 sin2-bak1-ci2 
+<Sync time="735.322"/>
+bing2-ke1 lau3-lang5 si3 zuan2-gok2 siong3-ze2 
+<Sync time="737.5"/>
+ui3-siann1-mih2 e3-an1-ne1 leh3 
+<Sync time="738.502"/>
+sior1-dan4-sin2-vun5 lan1-zor4-hue1 lai2-liau1-gai4 
+</Turn>
+<Turn speaker="spk18" startTime="740.2063180000005" endTime="754.4064290000006">
+<Sync time="740.2063180000005"/>
+zue4-gin2 tinn2-ki3 un1-ding2 
+<Sync time="741.653"/>
+suan4-tau5 san1-liong2 zing2-ga1 
+<Sync time="743.387"/>
+qi2-ciann1 ma1-cai1-siu1-liau1 zin2-zue2 
+<Sync time="745.465"/>
+in2-cu4 suan4-tau5 e2 ge3-siau3 dua3-lorh3-ge3 
+<Sync time="747.932"/>
+di2(di3)-e1 bak1-bo2 ci3-diunn5 
+<Sync time="749.154"/>
+zit3-gin2 suan4-tau5 lai2-gau4 ca2-but1-dor2 qo3-zap3-ko1 
+<Sync time="751.701"/>
+gah1-gu3-ni5 bi4-kit3-lai3 
+<Sync time="752.753"/>
+ge4-siau3 ca2-but1-dor2 giam1-zit3-buann3 
+</Turn>
+<Turn speaker="spk19" startTime="754.4064290000006" endTime="769.6436740000006">
+<Sync time="754.4064290000006"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="757.136"/>
+kat1-ziah1-ni2-a1 dua3-tng2-si5 e2-suan4-tau5 
+<Sync time="759.183"/>
+tau2-ge1 li1-iong2-e2-si5 i2-long1-vue3-ciu4-nng4
+<Sync time="761.793"/>
+in2-ui3 zue4-gin2 suan4-tau5 e2-ge4-siau3 lorh3-buah1 
+<Sync time="764.324"/>
+zit3-gin1 ven1-gah1 qo3-zap3-ko1 
+<Sync time="765.917"/>
+iah3-vor2(vok2)-guai4 zit3-gua1 ga2-ding3-zu1-hu2 
+<Sync time="767.542"/>
+vue3(ve1)-diorh3-suan4-tau5 long1-ma3 zin2-dai3-hong1 
+</Turn>
+<Turn speaker="spk19" startTime="769.6436740000006" endTime="772.2206670000007">
+<Sync time="769.6436740000006"/>
+lorh3-ziah1-ni2-a1-zue2 len3-qiap3-zia4 long1-gam1-siu2-diorh3 lor3 
+</Turn>
+<Turn speaker="spk19" startTime="772.2206670000007" endTime="787.1007830000008">
+<Sync time="772.2206670000007"/>
+tinn2-ki3-hor4 suan4-tau5-e2-san1-liong2 dua3-dua3-e2-zing2 ga1 
+<Sync time="774.87"/>
+ho3-suan4-tau5 e2 ge4-siau3 dua3-lak2 
+<Sync time="776.693"/>
+san1-de2 zit3-gin1 i1-ging2 lak1-gau4 zap3-it1-ko1 
+<Sync time="778.74"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="779.447"/>
+u3-zit3-gua1 suan4-long5 gong1
+<Sync time="780.775"/>
+an1-ne1 len3-in2-e2 sing2-bun4 do3(dor3)-vor2-gau3 
+<Sync time="782.791"/>
+in2-bai4-tok1-zing4-hu4 diorh3-ai4 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="784.807"/>
+vin2-si3-si2-vun5 zong2-hap3(hap2)-bor4-dor3 
+<Sync time="786.182"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="787.1007830000008" endTime="804.1809170000008">
+<Sync time="787.1007830000008"/>
+ling3-qua3-lai2-kuann4 gin2-zior1 
+<Sync time="788.424"/>
+gam1-zin2-ziann4 lorh3-ge3 lorh3-gah1-cun2 nng3-ko1 ma1 
+<Sync time="790.94"/>
+lan1-e2-gi4-zia4 sit3-de3 zau1-ki1-bing2
+<Event desc="bin2" type="lexical" extent="previous"/>
+-dong1 gor2-ciu3-hiong1 
+<Sync time="794.221"/>
+gin2-na1-lit2 san1-de2-e2-ge4-siau3 
+<Sync time="795.957"/>
+zit3-gong2-gin1 ca2-but1-dor2 e3-dang4 ve3-gah1 si4-ko1-zi4-zat3(zak3)
+<Event desc="zap3" type="lexical" extent="previous"/>
+-ko1 
+<Sync time="799.191"/>
+long2-vin5 gah1-diong2-buan2
+<Event desc="buann2" type="noise" extent="instantaneous"/>
+-siong1 long1-gong1 
+<Sync time="801.425"/>
+gin2-zior1 ve3-gah1 cun2-nng3-ko1 
+<Sync time="803.019"/>
+ze1-si3 vor2-kor1-ling5 e2-dai3-zi3 
+</Turn>
+<Turn speaker="spk19" startTime="804.1809170000008" endTime="813.7009910000006">
+<Sync time="804.1809170000008"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="806.146"/>
+vin3(bin2)-dong1 gor2-ciu2 diong2-buann5 siong1 
+<Sync time="807.929"/>
+gah1-zing4-gin2-zior1 e2 lang5 vue1-vue2 *(e2)hang2-kau4 
+<Sync time="810.008"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="810.491"/>
+in2-zing3-e2-gin2-zior1 
+<Sync time="811.466"/>
+long1-dor3-ai4 zai4-lai2-zia1 gah1-lang2-huah2 
+<Sync time="813.107"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="813.7009910000006" endTime="818.224">
+<Sync time="813.7009910000006"/>
+diong2-buann5-ma3-gong1 
+<Sync time="814.558"/>
+lai3-siau1-e3 san1-de2-ge4-siau3 ma3-u3-kah1-ki4 a3 
+<Sync time="816.993"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk21" startTime="818.224" endTime="824.362">
+<Sync time="818.224"/>
+zin4-vor2-nng3-ko1 e1-a4 
+<Sync time="819.62"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="821.815"/>
+ciunn3-ze1 dor3-long1 zit3-gin1 zap3-ko1 a1-a2(enn2) 
+</Turn>
+<Turn speaker="spk19" startTime="824.362" endTime="836.0211660000007">
+<Sync time="824.362"/>
+pin1-zit2-guat1-ding3-ge4-siau3 
+<Sync time="826.471"/>
+diong2-buann5-ga3-gui2-ging1 e2-gin2-zior1 
+<Sync time="828.517"/>
+gua4-ho2 zit3-bi3-zit3-bi5 
+<Sync time="829.923"/>
+de1-e1-siunn2-a4 gorh1-zai4-vue2-cut3-ki3 
+<Sync time="831.876"/>
+zit3-gun1 nng3-ko2-qin5 dau4-de3-si3 siann4(siang4)-tan3-ki3 
+<Sync time="834.361"/>
+diong2-buann5 ma3-hua4-uan2-ong4 
+</Turn>
+<Turn speaker="spk19" startTime="836.0211660000007" endTime="843.5412250000008">
+<Sync time="836.0211660000007"/>
+gin2-zior1-e3-ge4-siau3 zit1-ma4 u3-kah1-qia5 
+<Sync time="838.345"/>
+long2-vin5 e3-sim2-het2 vue3-ge2-liau4 e3 
+<Sync time="840.376"/>
+vin2-si2-sin2-vun5 bin2-dong1 bor4-dor2 
+<Sync time="842.414"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="843.5412250000008" endTime="861.1413630000009">
+<Sync time="843.5412250000008"/>
+ma3-si3-in2-ui3 gin2-zior1-gah1-vok3-gue1 
+<Sync time="845.064"/>
+dua3-lorh3-ge3 long2-ui1-hue2 ho3-lang2 ding4-gah1 zin2-ci2-can4
+<Event desc="cam4" type="lexical" extent="instantaneous"/>
+
+<Sync time="848.048"/>
+na2-iann5(iann2) lit3
+<Event desc="lip3" type="lexical" extent="instantaneous"/>
+-ui4 guann1-gin1 gai1-sueh2 
+<Sync time="850.016"/>
+ze1-zui1-gor4 e3-ge3-siau3 
+<Sync time="851.131"/>
+si3-vor2-lak3-gah1 ziah1-ni2-a1 li2-po4 
+<Sync time="852.881"/>
+iah1-m3-gorh1 vin2-zin4-dong4 lit3-ui4-gong1 
+<Sync time="854.904"/>
+gin2-ni5 gin2-zior1 pue2-huat2-e2-ge4-siau3 
+<Sync time="857.061"/>
+zat3-it1-ko1 long1-vor5 
+<Sync time="858.42"/>
+long2-ving5
+<Event desc="vin5" type="lexical" extent="instantaneous"/>
+ tan4-vor2-sing2-bun4 
+<Sync time="859.722"/>
+na4-u3-kor1-ling5 cior4(cior3)-e3-cut2-lai3 
+</Turn>
+<Turn speaker="spk19" startTime="861.1413630000009" endTime="883.9015410000009">
+<Sync time="861.1413630000009"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="861.736"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="863.943"/>
+gok1-vin2-dong1-tuan5 e2 gi4-zia1-sik2 
+<Sync time="865.526"/>
+dor3-gan1-na1 gor1-zi1-a1-dann3-gang3-kuan4 
+<Sync time="867.26"/>
+zue4-gin2 kah1-lorh3-ge3 *(e2) gin2-zior1-vok3-gue1 
+<Sync time="869.796"/>
+gok1-vin2-dong4 e2-lip3-ui4 kit1-ci3-diunn5-vue4 
+<Sync time="871.466"/>
+zit3-hang3 zit3-hang2 sia1-ho2-cing2-cor4 
+<Sync time="873.129"/>
+gin2-zior1 zit3-gun1 siong3-vor5 ma3-dor3-ai4 zat3-lak3-ko1 
+<Sync time="875.566"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="875.722"/>
+vok3-gue1 zit3-gun1 u3-si4-qo3-zat3-ko1 
+<Sync time="877.621"/>
+dor3-si3-veh1-zing4-ving5 gong1 
+<Sync time="878.912"/>
+gor1-zi1-a4 ge3-siau3 m3-si3 hiah1-ni3-vai4 
+<Sync time="880.74"/>
+dan3-si3 vin2-zing4-dong4-e2-lit3
+<Event desc="lip3" type="lexical" extent="instantaneous"/>
+-ui4 
+<Sync time="882.427"/>
+u3-kuann4-dor3 gi2-diong1-e2-vun3-due5 
+</Turn>
+<Turn speaker="spk19" startTime="883.9015410000009" endTime="896.120">
+<Sync time="883.9015410000009"/>
+long1(long2)-ui1-hue2 e2-gong1-gor3
+<Sync time="885.239"/>
+gin2-zior1 san1-de2-ge4-siau3 
+<Sync time="886.504"/>
+gin2-ni5 zit3-gong2-gun1 zap3-ko2-gau4 
+<Sync time="888.176"/>
+dan3-si3 gan2-na2 zing4-gin2-zior1 e3-bun1-zinn5 
+<Sync time="890.259"/>
+dor3-ai4 zat3-li3-ko2-qua2 
+<Sync time="891.282"/>
+gun2-bun4-dor2-vor3-gau3 
+<Sync time="892.43"/>
+siong3-siunn3-ki3-e3 dor3-si3-gong1 
+<Sync time="893.686"/>
+long1(long2)-ui1(ui4)-hue2-gong1 vin2-zin4-dong4 e2-lip3-ui4 si3-zing4-keh2 
+</Turn>
+<Turn speaker="spk19" startTime="896.120" endTime="906.593">
+<Sync time="896.120"/>
+long1(long2)-ui1-hue2 zu1-ui4 dui4-vin2-zin4-dong4 lip3-ui4 lorh3-zen4-tiap2 
+<Sync time="898.749"/>
+gong1-veh1-ben3-lun2 
+<Sync time="899.684"/>
+vin2-zin4-dong4 lip3-ui4 u3-ziap1-siu2 
+<Sync time="901.412"/>
+long2-qiap2 zing4-cik2 dai3-zen3 veh1-kai2-si4 a3 
+<Sync time="903.475"/>
+vin2-si2-sin2-vun5 dai3-bak2-bor4-dor2 
+<Sync time="905.866"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="906.593" endTime="923.8497980000006">
+<Sync time="906.593"/>
+ziam2-dui4-zit1-le2 vin2-zin4-dong4 
+<Sync time="908.03"/>
+but1-hun1-ku1 mia3-duann1 e3 zing2-qi2 
+<Sync time="909.672"/>
+lip3-ui4 ong2-hing4-lan5
+<Event desc="lam5" type="lexical" extent="previous"/>
+ zit3-qi5 
+<Sync time="911.425"/>
+de3-gi3-mia5 e2 
+<Event desc="zh" type="language" extent="begin"/>
+柯建銘
+<Event desc="zh" type="language" extent="end"/>
+ vor2-sik1-rim2(rin2)
+<Event desc="rim2" type="lexical" extent="previous"/>
+ 
+<Sync time="913.503"/>
+ng4-vang3 mi2-a1-zai3 diong2-zit1-hue2 e3-dang4-cu1-li4 
+<Sync time="916.378"/>
+ma3-ho2-iok3-gong1 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="918.125"/>
+e3-dang4-zu1-dong3 hong4-ki3 te3-mia5 
+<Sync time="920.14"/>
+dan3-si3 
+<Event desc="zh" type="language" extent="begin"/>
+柯建銘
+<Event desc="zh" type="language" extent="end"/>
+ gong1 
+<Sync time="921.386"/>
+i2-huan2-ing5 dong1-diong2-iong1 lai2-ga2-diau2-za1 
+</Turn>
+<Turn speaker="spk19" startTime="923.8497980000006" endTime="931.2036370000008">
+<Sync time="923.8497980000006"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="926.402"/>
+ong2-hing3-lam5 iong3-bin1-dann1 dann2-nng3-ka2-siunn2-a4 
+<Sync time="928.693"/>
+lai2-dong1-diong2-iong1 gong1-ze1-si3 gua2-gen4-vin5 e2-zu2-liau2 
+</Turn>
+<Turn speaker="spk19" startTime="931.2036370000008" endTime="934.6141010000008">
+<Sync time="931.2036370000008"/>
+ham2-ki1-dong1-diong2-iong1 giam1-gi4 
+<Sync time="932.724"/>
+hi2-vang3-gua2-gen4-ving5 ga2-gi3 ce1-ce4-e3
+</Turn>
+<Turn speaker="spk19" startTime="934.6141010000008" endTime="946.312">
+<Sync time="934.6141010000008"/>
+gua2-gen4-ving5 gong1-i2 vor2-vun3-de5 
+<Sync time="936.13"/>
+vin2-zin4-dong4 diong2-zit1-hue2 i1-ging2 sing2-an3 
+<Sync time="938.552"/>
+bai4-sann1 dor4-e3-tor1-lun3 ong2-hing3-lam5 e3 giam1-gi1-an3 
+<Sync time="941.474"/>
+but1-hun2-ku1 e3-dai3-zi3 kor1-ling5(ling2) vor2-ziah1-gin1-get1-sok2 
+<Sync time="943.803"/>
+vin2-si2-sin2-vun5 zong2-hap3-bor4-dor2 
+<Sync time="945.596"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="946.312" endTime="964.623">
+<Sync time="946.312"/>
+ge4-siok2-lai2-guan2-sin1
+<Event desc="sim1" type="lexical" extent="instantaneous"/>
+
+<Sync time="947.231"/>
+de3-it1-gai3 bak1-bak1-gi1 len2-cik2 
+<Sync time="948.924"/>
+sing2
+<Event desc="sin2" type="noise" extent="instantaneous"/>
+-cing4-hun2-huat2(huah2)
+<Event desc="huat2" type="lexical" extent="previous"/>
+ zor3-sing5 
+<Sync time="950.696"/>
+gor2-hun1 di2-giu3 e2 hen3-siong2 
+<Sync time="952.231"/>
+in1-ki1 zin2-dua2-e2-zing2-qi2 
+<Sync time="953.762"/>
+gin2-na1-lit2 dai2-bak1-ci3-diunn4 ho1-liong2-bin1 
+<Sync time="956.043"/>
+cut1-vin2 lai2-hue3-sit1-le4 
+<Sync time="957.34"/>
+qi2-ciann1 i2-gorh1-suan2-bo3 
+<Sync time="958.652"/>
+ai4-te3-giong1 nng3-cing1-nng3-ba4-e5 
+<Sync time="960.622"/>
+gong2-lik2
+<Event desc="lip2" type="lexical" extent="instantaneous"/>
+ gor2-diong2-zit2 e3-kueh2 
+<Sync time="962.559"/>
+ho3-hak3-sing1 e3-dang4 diong3-sin1 lai3-hun4
+<Event desc="hun2" type="lexical" extent="instantaneous"/>
+-huat2 
+</Turn>
+<Turn speaker="spk19" startTime="964.623" endTime="972.480">
+<Sync time="964.623"/>
+dai3-bak1-ci3-diunn4 ho1-ling2(liong2)-bin1 zit1-le2-si2-zun2 ziah1-cut1-lai2 hue3-sit1-le4 
+<Sync time="967.621"/>
+dui4-hun2-so3 u3-gau3 dan3-si3 hun2-huat1-do3(dor3) kah1-vai4-e2-hak3-hau2 
+<Sync time="970.534"/>
+ho3-in2 e3-dang4 diong3-sin1 hun2-huat2 
+</Turn>
+<Turn speaker="spk19" startTime="972.480" endTime="992.4532210000007">
+<Sync time="972.480"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="973.069"/>
+zit1-bai4 *(e2)dai3-bak1-ci2 gau4-iok3-giok2 ziong2-kuan1 lin3-ding2 
+<Sync time="975.647"/>
+kor1-sing1 ma3-lin3-ui3(ui5)-gong1 
+<Sync time="976.835"/>
+e3-dang4 hun2-huat1-do3(dor3) kah1-hor4-e2-hak3-hau2 
+<Sync time="978.538"/>
+e3-dang4-di3 cit1-qe3-zap3-qo2 gah1-zat3-lak2 nng3-gang1 
+<Sync time="980.719"/>
+ziunn3-vang2-bor4-mia5 
+<Sync time="981.922"/>
+gorh1-dng1-ki1 quan2-gok1-diong1 cam2-ga2 diong2-sin1 hun2-huat2 
+<Sync time="984.828"/>
+siong3-gin4 zat3-gau1-lit2 dor3-hong4-bng4 
+<Sync time="986.765"/>
+zit3-le2-lang5 e3-dang4 ging1-nng3-ging2 hak3-hau2 
+<Sync time="988.953"/>
+dor3-sng4-gong1 bai2-vor5 
+<Sync time="990.406"/>
+ma3-e3-dang4 dng1-ki1 quan2-lai5 e3-gor2-diong1 tak3-ceh2 
+</Turn>
+<Turn speaker="spk19" startTime="992.4532210000007" endTime="1009.3733530000006">
+<Sync time="992.4532210000007"/>
+nng3-cing2-qua3-e2-keh2 lai3-de4 
+<Sync time="993.916"/>
+gor2-diong1 si3-zit3-cing1 lak3-ba4-e5 
+<Sync time="995.681"/>
+na3-si3-ziau4 vin2-zin4-dong4 qi3-quan5-e3-go1(go2)-ge3 
+<Sync time="997.962"/>
+u3-ca2-but1-dor2 si4-cing2-e3-hak3-sing1 
+<Sync time="999.728"/>
+e3-dang4-cam2-ga1 an1-ne1 gun2-bun4 dor2-vor3-gau4-bun1 
+<Sync time="1002.369"/>
+li3-ciann1 zing2-sann2-zi4-quan2 si3 so4-liong2-iu1-han2 
+<Sync time="1005.181"/>
+dor4-si3 diong2-zat2 gah1-vue1-zat2 e3-hak3-hau2 e3-kah1-ze2 
+<Sync time="1007.574"/>
+hok1-liong2-bin1 ma3-si3 gong1 zing4-cik2 vor2-m3-diorh2 
+</Turn>
+<Turn speaker="spk19" startTime="1009.3733530000006" endTime="1023.4134630000008">
+<Sync time="1009.3733530000006"/>
+dai3-bak1-ci2 zing4-hu4 
+<Sync time="1010.110"/>
+vor2-an4-sng4 gong1 veh1-ting2-ban3 bak1-bak1-gi1 
+<Sync time="1012.547"/>
+dan3-si3 zing4-cik2 bing2-lai2 bing1-ki3 
+<Sync time="1014.609"/>
+hi2-sing2-diorh3(dor3) sia3-hue2 hi2-sing2-diorh(dor3) kor1-sing1 
+<Sync time="1016.984"/>
+ding3(ding2)-sin1 hun2-huat2 zit3-gu4-ue2 
+<Sync time="1018.705"/>
+gam1-dor4 u2-iann1 e3-*(dang4)-gai1-guat2 
+<Sync time="1020.393"/>
+vin2-si2-sin2-vun5 dai2-bak2-bor4-dor2 
+<Sync time="1022.564"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1023.4134630000008" endTime="1036.5735660000007">
+<Sync time="1023.4134630000008"/>
+zang5 ziong2-hua3 e3-bo1 zit3-diunn2-dua3-ho2 
+<Sync time="1025.538"/>
+zor3-sing5 ziong2-den3-gok1-diong1 zit3-le2(le5) hau3
+<Event desc="hak3" type="lexical" extent="instantaneous"/>
+-sing1 sit1-ziong1
+<Event desc="zong1" type="lexical" extent="instantaneous"/>
+
+<Sync time="1028.827"/>
+zit1-le2 hak3-sing1 in2-ui3 kia3-ka2-da3-cia1 
+<Sync time="1030.898"/>
+cut1-ki1-cue3-tong2
+<Event desc="dong2 " type="lexical" extent="instantaneous"/>
+-orh2 
+<Sync time="1032.133"/>
+vor2-zu1-i3 siak1-lik3
+<Event desc="lip3" type="lexical" extent="instantaneous"/>
+-ki1-zui1-gau1 
+<Sync time="1034.054"/>
+ho3-zui4-ciong1-zau3 zit1-ma4 long1-cue3-vor3-lang5 
+</Turn>
+<Turn speaker="spk19" startTime="1036.5735660000007" endTime="1043.9736240000007">
+<Sync time="1036.5735660000007"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1038.085"/>
+ging1-siau1 cut1-dong3-zin2-zue3-lang5 
+<Sync time="1039.585"/>
+an4-bai3-zui1-gau1-hia1 it1-dit3-cue2-lorh3-ki3 
+<Sync time="1041.388"/>
+veh1-cue3 sit1-zong1 e3-hak3-sing1 
+<Sync time="1042.632"/>
+hak3-hau2-e2- 
+<Event desc="zh" type="language" extent="begin"/>
+老師
+<Event desc="zh" type="language" extent="end"/>
+ ma3-u3-lai5 
+</Turn>
+<Turn speaker="spk19" startTime="1043.9736240000007" endTime="1063.4937760000007">
+<Sync time="1043.9736240000007"/>
+hak3-sing1 e2-si3-dua3-lang5 gorh1-kah1-diorh3-gip2 
+<Sync time="1045.862"/>
+di3-e1-ke2-a1-de4 it1-dit3-ce2 
+<Sync time="1047.337"/>
+hi2-vang3-e3-dang4 ce3-diorh3(dor3) siann1-mih1-mih3-giann2 
+<Sync time="1049.056"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1052.602"/>
+ciau2-siong1 e3-gam4-si3-ki3 u3-hip1-diorh3(dor3) zit1-le2 sinn4-li4-e3-hak3-sing1 
+<Sync time="1055.508"/>
+i2-gah1-dong2-orh2 bun1-lai5 long1-veh1 
+<Sync time="1056.988"/>
+kit1-in2-dau1 binn1-a1 hia1 cue3-bing2-iu4 
+<Sync time="1058.898"/>
+buann4-lo2 kit1-ciau2-siong1-hia1(*) vue1-bing1 
+<Sync time="1060.535"/>
+siunn3-vue3-gau4 gong1 li3-kui2 ciau2-siong1 sat1(sua4) dor3-an1-ne1 bua3-lorh1(lor5)-gau2-de4 
+</Turn>
+<Turn speaker="spk19" startTime="1063.4937760000007" endTime="1080.694">
+<Sync time="1063.4937760000007"/>
+zit1-le2-qin1-na4 si3-go2-giann4 
+<Sync time="1064.964"/>
+u3-zit3-le3 dua3-zi4 u3-zit3-le3-sior1-ve2 
+<Sync time="1066.574"/>
+po1-tong2-si5 si3-dua3-lang5 dor3-u3-gau2-dai4-gong1 lorh3-ho2 
+<Sync time="1069.184"/>
+dor4-m3-tang2 giann2-hit1-diau2-lo2 dng4-lai3 
+<Sync time="1070.886"/>
+in2-ui3 it1-ding3-e3-im2-zui4 e3-ziann2-hui2-hiam4 
+<Sync time="1072.917"/>
+siunn3-vue3-gau4 vor2-zu4-i3 dor3-huat1-sing2-dai3-zi3 
+<Sync time="1075.164"/>
+gau4-vok3-zen5-ui2-zi4 si3-ah1-ce3-vor4(vor2)-lang5 
+<Sync time="1077.633"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1078.097"/>
+vin2-si2-sin2-vun5 ziong2-hua3-bor4-dor2 
+<Sync time="1079.889"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1080.694" endTime="1102.483">
+<Sync time="1080.694"/>
+dai2-diong2-ci2 hong2-quan2-ku1 
+<Sync time="1082.008"/>
+u3-zit3-le3 ging2-ze4-zong4-hong4 vor2-hor4-e3 dan5-sen3-sinn3
+<Sync time="1084.383"/>
+in2-ui3 a2-ma4-gue4-sin1 ga3-gong2-si1 zior4-zap3-van3-ko1 
+<Sync time="1087.345"/>
+veh1-lai2-ban3-hior3-su2 
+<Sync time="1088.626"/>
+vor2-siunn3-gau4 kit1-ban3-dai3-zi3-e3-si5 
+<Sync time="1090.501"/>
+in2-ui3 qu2-pue2-zua4 pua4-kang1 
+<Sync time="1092.354"/>
+zit1-zap3-van3-ko1 suah1-lai2-vor5-ki3 
+<Sync time="1093.979"/>
+quan2-ging4 diau4-gan4
+<Event desc="gam4" type="lexical" extent="instantaneous"/>
+-si3-ki3 huat1-hen2 
+<Sync time="1095.968"/>
+kor1-ling5 si3 ho3-zit3-le3 hu3-lin2-lang5 kior4-zau4 
+<Sync time="1098.046"/>
+ma2-ho2-iok2 zit1-le2 hu3-lin2-lang5 
+<Sync time="1099.515"/>
+guann1-gin1-hainn2-zinn5 
+<Sync time="1100.781"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="1102.483" endTime="1118.4942060000008">
+<Sync time="1102.483"/>
+dan5-sen3-sinn3 kia2-o2-dor1-vai4 
+<Sync time="1103.661"/>
+ki1-hong2-quan5 ho3-zing4-su3-vut3-so4 
+<Sync time="1105.255"/>
+in2-ui3 i2-e2-a2-ma4 ong1-sing1 veh1-ki1-ban3-dai3-zi3 
+<Sync time="1107.63"/>
+siann4(siang4)-zai2-iann1 zua1-lok1-a4 u3-pua4-kang1 
+<Sync time="1109.365"/>
+zap3-van3-ko1 dor3-an1-ne1 lak3-di3-to2-ka1 
+<Sync time="1111.162"/>
+ging2-gue4-ca2-but1-dor2 qo3-hun2-zing1 
+<Sync time="1112.85"/>
+zit3-le2 dai3-iok1-a4 si4-zap3-hue3 
+<Sync time="1114.152"/>
+cing3-na2-sik2 
+<Event desc="zh" type="language" extent="begin"/>
+背心
+<Event desc="zh" type="language" extent="end"/>
+ gah1-dng2-ko3 e2 hu3-rin(rin2)-lang5 
+<Sync time="1116.355"/>
+dor3-an1-ne1 sun3-ciu4 ga3-zinn5 kiorh2-ki3 
+</Turn>
+<Turn speaker="spk20" startTime="1118.4942060000008" endTime="1131.534308000001">
+<Sync time="1118.4942060000008"/>
+ze1-zap3-van3-ko1 si3-zior4-lai2 
+<Sync time="1119.787"/>
+veh1-cu1-li1 a2-ma4-hior2-su2 e2 siong2(song2)-zong3-hui4-iong2 
+<Sync time="1121.998"/>
+bing2-si5 zor4-suan4-gang1 e2 dan5-sen3-sinn3 
+<Sync time="1123.702"/>
+pang4-gen4-zinn5 si3-diorh3-gip2 gorh1-gan2-ko4 
+<Sync time="1125.827"/>
+ging4(ging1)-hong1-gong1 kior4-diorh3-zinn5 e2-vin2-ziong3 
+<Sync time="1127.73"/>
+dor3-ai4 te3-ki1-han5 
+<Sync time="1128.671"/>
+na3-vor5 kor1-ling5 e3 in2-cu4 lai2-huan3-huat2 
+<Sync time="1131.078"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="1131.534308000001" endTime="1144.1052690000008">
+<Sync time="1131.534308000001"/>
+in2-ui3 pang4-gen3-e2-zap3-van3-ko1 iah1-ve3-cue2-dng3-lai3 
+<Sync time="1133.516"/>
+dan3-sen3-sinn3 e3 a2-ma4 iu2-gorh1 ziong2-veh1-cut1-suann1 
+<Sync time="1135.579"/>
+ging1-hong1 i1-ging2 hiong4-siong2-guan1-dan2-ui2 sin2-cing1-giu4-zo2 
+<Sync time="1138.22"/>
+hi2-vang3-uan2-sing5 dan5-sen3-sinn3 
+<Sync time="1139.704"/>
+dui4-a2-ma4 zue4-au2 e2-hau4-sim1 
+<Sync time="1141.532"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1141.914"/>
+vin2-si2-sin2-vun5 dai2-diong1-bor4-dor2 
+<Sync time="1143.664"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1144.1052690000008" endTime="1160.8945380000011">
+<Sync time="1144.1052690000008"/>
+ling3-qua3 dai3-bak1-ci2 u3-zit3-le2 li3(li4)-sen3-sinn3 cut1-vin2 dau2-so3
+<Sync time="1147.358"/>
+i2-ki1-ciau2-siong1 gau2-van3-qua3-ko1 
+<Sync time="1149.49"/>
+sin4-iong3-kah2(kah3) e2 ka1-hui3 
+<Sync time="1150.818"/>
+in2-hor5(hong5) in2-hang5-le2 ging4-ren5 uan2-zuan2-vor2(vor5)-siu1(siu2)-diorh3
+<Sync time="1153.803"/>
+i2-dng1(dng4)-ki1-ciau2-siong1 huan1-ing3 
+<Sync time="1155.351"/>
+dan3-si3 ciau2-siong1 ging4-ren5 uan2-zuan2 vor2-veh1-sing2-rin2 
+<Sync time="1157.851"/>
+ze4-li4-sen3-sinn3 ki4-gah1 cue3-qi3-quan5 lai2-dau3(dau4)-sann2-gang2 
+</Turn>
+<Turn speaker="spk19" startTime="1160.8945380000011" endTime="1174.342">
+<Sync time="1160.8945380000011"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1164.178"/>
+ben3-li3-siong2-diam3 e3-dang4-lap3-zinn5 
+<Sync time="1165.718"/>
+vor2-lun3-si3 ting2-cia2-hui3 den3-ue3-zinn5 
+<Sync time="1167.812"/>
+ah3-si3-gong1 sin4-iong3-kah2 e2-siau4-duann1 long1-e3-dang4-lap2 
+<Sync time="1170.187"/>
+dan3-si3 zit3-le2 li4-sen3-sinn3
+<Sync time="1171.515"/>
+lap3-van3-qua3-ko1 e2 sin4-iong3-ka4-e2-zinn5 
+<Sync time="1173.173"/>
+qin2-hang5 gong1-in2 vor2-siu1-diorh3 
+</Turn>
+<Turn speaker="spk19" startTime="1174.342" endTime="1189.6773880000007">
+<Sync time="1174.342"/>
+kit1-ce3-ciau2-siong1 ma3-vor2-siann1-mih1 get1-gor4 
+<Sync time="1176.342"/>
+li4-sen3-sinn4 zin2-siu3-ki3 
+<Sync time="1177.873"/>
+ga3-i1-zing5 lap3-ki3-e2-siau4-duann1 long1-bing4-cut3-lai3 
+<Sync time="1180.28"/>
+bi1-dui3 ziah1-zai2-iann1(ann1)-gong1 
+<Sync time="1181.827"/>
+tong1-it1-ciau2-siong1 siu2-hui3-e2-zok1-qiap2 zin2-luan2 
+<Sync time="1184.202"/>
+li3-ciann1 veh1-diau4-gam4-si3-ki3 ue3-vin2 lai2-kuann3 
+<Sync time="1186.811"/>
+ciau2-siong1-gong1 in2-gan2-na2 nng3-le1-bai3 e3-hun2-nia5 vor2-huat1-do2 
+</Turn>
+<Turn speaker="spk19" startTime="1189.6773880000007" endTime="1205.0775090000009">
+<Sync time="1189.6773880000007"/>
+li4-sen3-sinn3 gah1-qiap3-zia4 zit1-ma4-si3 zit3-lang5 gong1-zit3-kuan4 
+<Sync time="1192.576"/>
+vok3-zen5 dor3-si3 ai4-iong3-huat1-lut2 gai1-guat2 
+<Sync time="1194.529"/>
+dan3-si3 siau2-bor1-guann1 gong1 
+<Sync time="1196.208"/>
+ciau2-siong1 lap3-zinn5 long1-e3-kui2-siu2-gi3 
+<Sync time="1198.286"/>
+siu2-gi3 dak3-e2 dor3-ai4 siu2-ho2-hor4 
+<Sync time="1200.223"/>
+kah1-vue3-ki1 ziah3-kui1 
+<Sync time="1201.524"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1201.956"/>
+vin2-si2-sin2-vun5 dai3-bak2-bor4-dor2 
+<Sync time="1204.27"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1205.0775090000009" endTime="1222.557645000001">
+<Sync time="1205.0775090000009"/>
+ui3-sing2-su4 di2(di3)-e1-zang5 gong2-bor3
+<Sync time="1206.592"/>
+dai2-uan5 lau1-hua3 e2 de3-do5 
+<Sync time="1208.327"/>
+u3-ten2-ding1 go3
+<Event desc="go4" type="lexical" extent="instantaneous"/>
+-hiong1 cing2-ho2(hor2) e2-zit1-le2 sin2-bak1-ci2 
+<Sync time="1211.347"/>
+bing2-ke1 lau3-lang5 si3-zuan2-gok2 siong3-zue2-e2 
+<Sync time="1214.191"/>
+zuan2-ku1 qo3-cing1 nng3-ba4-si4-zap3(zat3)
+<Event desc="zap3" type="lexical" extent="previous"/>
+-si4-lang5 
+<Sync time="1216.547"/>
+lak3-zat3-qo3-hue3 i1-siong2-e2 
+<Sync time="1217.945"/>
+diorh3-u3 zit3-cing1 sann2-ba4 qo3-zat3-cit2(cit1)-e2-lang5 
+<Sync time="1220.173"/>
+lau3-dua3-lang5 ca2-but1-dor2 u3-nng3-siann3(siann2)-qo2 
+</Turn>
+<Turn speaker="spk20" startTime="1222.557645000001" endTime="1230.4377070000007">
+<Sync time="1222.557645000001"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1224.331"/>
+zai1-ki4 e2 bing2-ke1-lau3-ge1 iu2-keh2 ve3-zior4 
+<Sync time="1226.534"/>
+m3-gorh1 kuann4-zit3-e3-a1 dong2-de3-lang5
+<Sync time="1228.299"/>
+dua3-bo3-hun2 long1-si3 dau3
+<Event desc="lau3" type="lexical" extent="instantaneous"/>
+-hue1-a4 
+</Turn>
+<Turn speaker="spk20" startTime="1230.4377070000007" endTime="1238.477770000001">
+<Sync time="1230.4377070000007"/>
+sann2-e2-ni2-gi4 ge1
+<Event desc="ga1" type="lexical" extent="instantaneous"/>
+-kit3-lai3 dit1-veh1 nng3-ba4-qo3-zap3-hue3 *(e3)
+<Sync time="1232.663"/>
+a2-gong1 a2-ma4 ze3-lih1 lo3-binn1 e3-i1-a1-ding4 kai2-gang4 
+<Sync time="1235.444"/>
+ling3-qua2 gam1-a1-diam3 e2-tau2-ge1 ma3-i1-ging2 ve3-zior1-hue2 
+<Sync time="1237.926"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="1238.477770000001" endTime="1255.0891050000012">
+<Sync time="1238.477770000001"/>
+ue3-sing2-su4 tong1-ge3 
+<Sync time="1239.682"/>
+sin2-bak1-ci2 e3 bing2-ke1 
+<Sync time="1240.747"/>
+si3-zuan2-gok2 lau3-lang5-bi1-le2 siong3-guan5 e2 hiong2-din3-ci3-ku1 
+<Sync time="1243.591"/>
+zit1-gui1-ni2-lai5 
+<Sync time="1244.669"/>
+bing2-ke1 zin2-ze3-lang5 buann2-zau4 lang5-lu1-lai5-lu1-zior4 
+<Sync time="1247.262"/>
+dan3-si3 lau3-dua3-lang5 e2 bi1-le2 lu1-lai5 lu1-guan5 
+<Sync time="1249.762"/>
+ui3-sann2-ni2-zing5 kai2-si4 
+<Sync time="1251.2"/>
+bing2-ke1 e3-lau3-lang5 rin2-kau4 bi1-le2 
+<Sync time="1253.169"/>
+dor3-ziam4 dong2-de2 si4-hun1-zi2-it2 
+</Turn>
+<Turn speaker="spk20" startTime="1255.0891050000012" endTime="1267.601">
+<Sync time="1255.0891050000012"/>
+dor4-sng4 u3 ten2-ding1 hong2-ging4 
+<Sync time="1256.876"/>
+dan3-si3 vor2-gang2-zok1-gi2-hue2 
+<Sync time="1258.216"/>
+iah1-si3 vor2-huat1-do2 zo1-dong3 siau4-len2-lang5 li3-kui1 
+<Sync time="1260.485"/>
+ze1-ma3-kuann4-e3-cut1 dai2-uan5 sia3-hue2 
+<Sync time="1262.187"/>
+gor2-ling2-hua3 e2-vun3-de5 i1-ging2 zin2-qiam2-diong2 
+<Sync time="1264.656"/>
+vin2-si2-sin2-vun5 dai2-bak2-bor4-dor2 
+<Sync time="1266.828"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1267.601" endTime="1281.3693110000015">
+<Sync time="1267.601"/>
+ling3-qua3 ma3-veh1-lai2-guan2-sim1 
+<Sync time="1268.911"/>
+ui3-sing2-su4 tui2-dong3-zit1-le2 zuan2-vin5 giam1-bui5 
+<Sync time="1271.536"/>
+buann4-ni5 i1-lai5 i1-ging2 u3 qi3-zat3-qi3-van3-lang5 cam2-ga1 
+<Sync time="1274.646"/>
+ca2-but1-dor2 giam1-liau4 zit3-ba4-dun3 
+<Sync time="1276.552"/>
+siunn3-veh1-binn4 kah1-san4 du3-liau4 un3-dong2 
+<Sync time="1278.49"/>
+ziah1-kah1-zior4 i1-qua2 
+<Sync time="1279.653"/>
+u3-kun4-hor4 ma3-zin2-diong3-iau2
+<Event desc="iau3" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="1281.3693110000015" endTime="1308.7490660000014">
+<Sync time="1281.3693110000015"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1283.125"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1284.141"/>
+ga3-gue4-ki3 dua3-
+<Event desc="en" type="language" extent="begin"/>
+size
+<Event desc="en" type="language" extent="end"/>
+ sann5-ko3 long1-zong1-tng4-diau2 
+<Sync time="1286.922"/>
+zia4(ziah1)-e2-giam1-dang2 e2-lam2-lu4 
+<Sync time="1288.485"/>
+i1-ging2 hue2-hok3 zu3-sin3 
+<Sync time="1290.141"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1291.672"/>
+ri3-gau1-hue3 e2 qo2-sior1-zia4 
+<Sync time="1293.11"/>
+giam1-bui5-zin4-zing5 lak3-zap3-sann2-gong2-gin1 
+<Sync time="1294.797"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1295.34"/>
+lak3-gor4-queh2 giam1-cit1-gong2-gin1 
+<Sync time="1296.887"/>
+ior1-ui4 sann2-zap3-ior1 giam1-gau4 ri3-qo3-ior1 
+<Sync time="1299.075"/>
+ing1-gue3 ziah3-siann1-mih1 giam1-bui2-can1 long1-gorh1 dua3-ko1 kit3-lai3 
+<Sync time="1301.857"/>
+au3-lai5 i2-dak3-gang2 un3-dong2 
+<Sync time="1303.399"/>
+gai1-diau3 siong3-ai4-lim1 e3 zin2-zu2-ling2-de5 
+<Sync time="1305.806"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1306.377"/>
+dann1 zit1-ma4 e3-dang4 gorh1-cing3-diorh3 sui1-sui4 e3 sann2-a1-ko3 
+</Turn>
+<Turn speaker="spk19" startTime="1308.7490660000014" endTime="1326.3092030000014">
+<Sync time="1308.7490660000014"/>
+sann2-zap3-hue3-e2-a2-hun1 
+<Sync time="1310.027"/>
+giam1-bui5-zin4-zing5 be4-zat3(a3)-cit1-gong2-gin1 
+<Sync time="1311.855"/>
+kor4-diorh3 kuai4-zau4 nng3-gor4-queh2 san1-gau1-gong2-gin1 
+<Sync time="1314.59"/>
+dan3-si3 giam1-bui5 siong3-giann2l-e1 but1-liong5-e2-sip3-guan3 
+<Sync time="1316.7"/>
+vi1-gok2 siong3-sin1 e2-qen1-giu3 zi1-cut1 
+<Sync time="1318.091"/>
+zit3-gang1 kun4-si4-diam1-zing1 e2 lang5 
+<Sync time="1319.455"/>
+bi1-zit3-gang1 kun4-gau1-diam1-zing1-e3-lang5
+<Sync time="1321.143"/>
+zit3-gang1 diorh3-ai4 ge2-ziah3 sann2-ba4-kah2 e2 ret3-liong2 
+<Sync time="1323.565"/>
+so1-i4 ri3-zap3-gang1 lorh3(lorh2)-lai3 
+<Sync time="1324.924"/>
+diorh3-e3-zing2-ga2 zit3-gong2-gin1 
+</Turn>
+<Turn speaker="spk19" startTime="1326.3092030000014" endTime="1338.184">
+<Sync time="1326.3092030000014"/>
+ui3-sing2-su4 e3-giam1-dang3-ge4-ue2 
+<Sync time="1327.762"/>
+ri3-zap3-ri3-van3-lang5 hiang1-ing3 buann4-ni2-lai2 
+<Sync time="1329.762"/>
+zip3-te4 giam1-liau1 zit3-ba4-dong3 
+<Sync time="1331.214"/>
+sing2-gong1 e2 an4-le2 ga3-dak3-ge2-gong1 
+<Sync time="1332.885"/>
+zi1-iau4-u3-i4-zi4-lat1 
+<Sync time="1334.151"/>
+it1-ding3-u3-huat1-do2 giam1-bui5 
+<Sync time="1335.323"/>
+vin2-si3-sin2-vun5 zong3(zong2)-hap3(hap2)-bor4-dor2 
+<Sync time="1337.292"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1338.184" endTime="1349.1582400000013">
+<Sync time="1338.184"/>
+qi2-lan5 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1339.37"/>
+kui2-vo2 ziah1-sann2-gang1 
+<Sync time="1340.403"/>
+diorh3-tuan2-cut1 u3-ciau2-gue4 be3-ba4-e2-iu2-keh2 
+<Sync time="1342.676"/>
+dih1-sng1-zui4 e2 si2-zun2 ho2-gua4-siong1 
+<Sync time="1344.598"/>
+si3-siann1-mih1-quan2-in1 le3 
+<Sync time="1345.833"/>
+sior1-dan4 sin2-vun5 dng1(dng4)-lai2(ai2)-guan2-sim1(sin1)
+<Event desc="sim1" type="lexical" extent="previous"/>
+ 
+<Sync time="1347.536"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1349.1582400000013" endTime="1363.1658900000014">
+<Sync time="1349.1582400000013"/>
+deh1(di3)-*(e1)-gor2-hiong5 u3-zit3-le3 zat3-qi3-hue3 e3-za2-bo1
+<Event desc="bo2" type="lexical" extent="instantaneous"/>
+-qin1-na4 
+<Sync time="1351.684"/>
+in2-ui3 cin2-qia2
+<Event desc="cim2-ia2" type="lexical" extent="instantaneous"/>
+ gorh1-dih1(di3) *(e1)qua3-kau4 lua3-lua3-sor5 
+<Sync time="1353.95"/>
+ho3-ging4-cat2 cua3-dng1-ki1 pai4-cut1-so4 
+<Sync time="1355.778"/>
+dan3-si3 ging4-cat2-huat1-hen2 
+<Sync time="1357.2"/>
+zit1-le2 qin1-na4 e3-ka2-ziah1-piann1 
+<Sync time="1358.357"/>
+ging4-ren5 ho3-lang2 pa4-gah1 o2-cinn1 qing3(ring3)
+<Event desc="qing3" type="lexical" extent="previous"/>
+-hueh2 
+<Sync time="1360.606"/>
+huai2-qi5 kor1-ling5 si3 zor2-qu3-diorh3 ga2-ding5-bo3
+<Event desc="bok3" type="lexical" extent="instantaneous"/>
+-lik2 
+</Turn>
+<Turn speaker="spk19" startTime="1363.1658900000014" endTime="1379.5262400000017">
+<Sync time="1363.1658900000014"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1365.334"/>
+buann4-mi5-nng3-diam1-qua2 
+<Sync time="1366.416"/>
+zat3(zap3)-ri3-hue3-e3-za2-bo2-qin1-na4 
+<Sync time="1367.458"/>
+di2-leh1-qua3-vin2 lua3-lua3-sor5 
+<Sync time="1368.708"/>
+ho3-ging4-cat2 cua3-dng3(dng1)-lai3(ai2) ging1(ging4)-cat2(cat1)-giok1 
+<Sync time="1370.536"/>
+ging4-hong1 huat1-gen4 i2-e2-ka2-ziah1(zat1)
+<Event desc="ziah1" type="lexical" extent="previous"/>
+-piann1 
+<Sync time="1372.032"/>
+long1-si3 hong5-sut2-gue3 e2 hun2-riah2 
+<Sync time="1373.798"/>
+sit3-zai2 ziann2-kiong1-bo3 
+<Sync time="1374.845"/>
+ging2-gue4 ging4-hong1 e2 diau2-za1 liau1-au2 
+<Sync time="1376.835"/>
+ze1 he3-ciu4-e3 ging4-ren5 diorh3-si3 i2-e3 cin2-senn2-lau3-vu4 
+</Turn>
+<Turn speaker="spk19" startTime="1379.5262400000017" endTime="1391.183383000002">
+<Sync time="1379.5262400000017"/>
+zit1(zit2)-le2-za2-bo2-qin1-na4 lai2-zu3-diong2-gok2 
+<Sync time="1380.906"/>
+buann4-ni2-zing5 lai2-dai2-uan5 
+<Sync time="1381.869"/>
+dau2-kor4 ge3-lai3 dai2-uan5 e2 lau3-vu4 
+<Sync time="1383.584"/>
+suah1-in2-ui3 vue3-sik1-ing4 dai2-uan5 e2 kuan2-ging4 
+<Sync time="1385.522"/>
+dak3-gang1 diorh2 li3-ga1-cut1-zau4 
+<Sync time="1387.257"/>
+so1-i4 ma2-ma1 de3-it1-ben4 ki4-gah1 si3 ga4-si3 zit1-le2-qin1-na4 
+<Sync time="1390.272"/>
+he3-ciu4-siunn2-dang2 
+</Turn>
+<Turn speaker="spk19" startTime="1391.183383000002" endTime="1402.564">
+<Sync time="1391.183383000002"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1391.827"/>
+ze1-si3 qua3-zik2 dan2-cin2-vu1-cin1 e3-sim2-sng1 a3(la3) 
+<Sync time="1394.522"/>
+za1-vo1-qin1-a4 e3-ma2-ma1 
+<Sync time="1395.814"/>
+dak3-gang1 di3(dit3)-leh1-ci3-diunn5 ve3-si2-gue1 
+<Sync time="1397.772"/>
+diorh3-ai4-gorh1 ziau4-go4 ziah1-e1-qin1-na4 
+<Sync time="1399.35"/>
+dan3-si3 qin1-na4 gorh1-m3-tiann2-ue2 
+<Sync time="1401.147"/>
+i2-sit3-zai2 ziann2-vor2-nai2 
+</Turn>
+<Turn speaker="spk19" startTime="1402.564" endTime="1412.465">
+<Sync time="1402.564"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1403.386"/>
+qin1-na4 di3-diong2-gok2 e2 lau3-be2 
+<Sync time="1404.653"/>
+zit1-ma4-ga3-i2 dan4-lai2 di3-dai2-uan5 e2 lau3-vu4 
+<Sync time="1406.731"/>
+qin1-na4 veh1-sik1-ing4 an1-ne1 e3-kuan2-ging4 
+<Sync time="1408.387"/>
+m3-si3-gong1 iong3-pa4(pah2)-e3 diorh3-e3-dang4 gai1-guat2 
+<Sync time="1410.387"/>
+vin2-si3-sin2-vun5 zong3(zong2)-hap3(hap2)-bor4-dor2 
+<Sync time="1411.684"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1412.465" endTime="1424.9036470000021">
+<Sync time="1412.465"/>
+lai2-kuann3 qi2-lan5 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1414.069"/>
+kui2-vo3-ziah1-sann2-gang1 diorh3 
+<Sync time="1415.251"/>
+tuan2-cut1 ciau2-gue4 be4-ba4-e3-iu2-keh2 
+<Sync time="1417.16"/>
+di2(di3)-e1 sng1-zui4-e2-si2-zun2 ho2-gua4-siong1 
+<Sync time="1419.129"/>
+zu1-ban3-dan2-ui2 biau1-si3-gong1 
+<Sync time="1420.647"/>
+i2-e3-ga2-giong5 hong2-ho2-e3-cok1-si1 
+<Sync time="1422.709"/>
+ho3-iu2-keh2 sng1-gah1-huann2-hi4 gorh1-an2-zuan5 
+</Turn>
+<Turn speaker="spk19" startTime="1424.9036470000021" endTime="1438.903757000002">
+<Sync time="1424.9036470000021"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+<Sync time="1429.044"/>
+an4-deh1(zeh1)-cu2-liu2-long5 vin3-ding4 
+<Sync time="1430.667"/>
+lu1-lorh3-lai3-e3-dua3-lang5 qin1-na4 long1-zin2 huann2-hi4-
+<Sync time="1432.917"/>
+tong2(tong3)-lorh1(lor5)-zui1-de4 ho3-li1-tau4-sim2-liang5 
+<Sync time="1434.808"/>
+vok3-guai4 zit1-le2 so1-zai2 
+<Sync time="1436.23"/>
+si3-zit1-bai4 *(e2) dong2-uan1-zet2 lai3-de4 dak3-e2 siong3-ai4-sng4-e3 
+</Turn>
+<Turn speaker="spk19" startTime="1438.903757000002" endTime="1463.8341840000023">
+<Sync time="1438.903757000002"/>
+hor1-sng4 vong1-hor1-sng4 ma3-dor3-ai4 zu4-i4 an2-zuan5 
+<Sync time="1441.214"/>
+kai2-vo2 sann2-gang1 u3-bue4-ba4-qua3-lang5 diorh3-siong1 
+<Sync time="1443.632"/>
+dua3-bo3-hun2 long1-si3 ka2-tau3-u1 e2-so1-zai2 ki1-ce3-diorh3 
+<Sync time="1446.116"/>
+i2-ho3-lin2-quan5 ziann3-vor3-ing5 
+<Sync time="1447.475"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1449.825"/>
+zu1-ban3-dan2-ui2 u3-huat1-hen3 zit1-le2 dai3-zi3 
+<Sync time="1451.653"/>
+in2-ui3-diorh3-siong1-e2-lang5 long1-si3-di3 
+<Sync time="1453.229"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+ zia1 
+<Sync time="1455.624"/>
+quan2-in1-dor3-si3-gong1 ng2-sik2 e2 ciu3-ling1 
+<Sync time="1458.034"/>
+vor2-ga3 am2-vun2-to5 e3-gi2-zor2 hia1 long1-bau2-diau5-le3
+<Sync time="1461.008"/>
+so1-i4-gong1 lang2-keh2 e3-ki1-ho3 sue1-ziorh2-a4 e3-so1-zai2 lu3-diorh3 
+</Turn>
+<Turn speaker="spk19" startTime="1463.8341840000023" endTime="1478.1142960000022">
+<Sync time="1463.8341840000023"/>
+zit1-ma4 i1-ging2 sing2-an2 o2-sik2 e2 ka2-da3-zu2-a4 
+<Sync time="1466.852"/>
+ma3-pai4-giu4-sing2-quan5 sun2-lor5 
+<Sync time="1468.836"/>
+zu1-ban3-dan2-ui2 biau1-si3-gong1 
+<Sync time="1470.007"/>
+e3-ciann1 ciunn1-siong1 tau4-mi5 lai2-guann1-sit2 
+<Sync time="1472.117"/>
+ga3-zit1-le2 so1-zai2 cu1-li1-ho2-hor4 
+<Sync time="1473.992"/>
+ho3-lang3-keh2 kah1-an2-zuan5 
+<Sync time="1475.23"/>
+vin2-si2-sin2-vun5 qi2-lan5 bor4-dor2 
+<Sync time="1477.37"/>
+
+<Event desc="silence" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1478.1142960000022" endTime="1489.1543820000022">
+<Sync time="1478.1142960000022"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+ 
+<Sync time="1478.785"/>
+zang5 tuan2-cut1 kong2-diong1 i4-qua2 
+<Sync time="1480.714"/>
+zit1-zia4- 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1482.198"/>
+sior1-keh2-gi1 di3-e1-kong2-diong1 
+<Sync time="1483.589"/>
+hu2-len2-gang1 qen5-zin4 ki1-hue4 
+<Sync time="1485.386"/>
+zit1-le2 i4-qua2 zor3-sing5 zi4-zior4 qo3-e3-lang5 si1-vong5 
+<Sync time="1487.98"/>
+sann2-zah3
+<Event desc="zap3" type="lexical" extent="instantaneous"/>
+-qua3-lang5 siu3-siong1 
+</Turn>
+<Turn speaker="spk18" startTime="1489.1543820000022" endTime="1530.3947050000022">
+<Sync time="1489.1543820000022"/>
+zit1-le2 hue2-ling2-gi1 cut1-dai3-zi3 liau1-au2 
+<Sync time="1491.042"/>
+siau2-hong2-cia1 guann1-gin4 lai3-giu4-quan5 
+<Sync time="1493.339"/>
+vin2-ziong3 ma3-zau1-lai2-kuann3 
+<Sync time="1494.817"/>
+zit1-zia4 sior1-hui2-gi1 quan2-bun4 
+<Sync time="1496.664"/>
+di3-veh1-ui4 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1498.211"/>
+zen2-ong1 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1499.698"/>
+dan3-si3 suah1-lai2 huat1-sing2 i4-qua2 
+<Sync time="1501.464"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+ 
+<Sync time="1503.476"/>
+du2-liau4-biau1-si3-gong1 
+<Sync time="1504.56"/>
+zit1-kuan4 it1-giu4 qo3-cit1-ni5 set1-ge3 e2 lau3-hui2-gi1 
+<Sync time="1507.216"/>
+za4-diorh3 vor2-ing4-gai2 su1-iong2-a2 
+<Sync time="1508.982"/>
+i2-ma3-iau2-giu5 veh1-lai2 giam1-tor4 gau2-tong2 an1-zuan5 
+<Sync time="1512.201"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1513.997"/>
+sann1(san1)
+<Event desc="sam2" type="lexical" extent="previous"/>
+-it1-it2 dang3-lit3-bun4 dua3-de2-dang2 
+<Sync time="1515.892"/>
+dai2-uan2-vin2-ziong3 guan2-ho3-rit3-bun4-zai2-ku1 
+<Sync time="1518.001"/>
+qo3-zat3-cit1-it2
+<Event desc="ik2" type="lexical" extent="instantaneous"/>
+ e3-dang4-gong1-si3 zuan2-se4-gai3 siong3-zue2-e2 
+<Sync time="1520.969"/>
+lit3-bun4-
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1522.057"/>
+
+<Event desc="zh" type="language" extent="instantaneous"/>
+ 
+<Sync time="1523.05"/>
+e2-zok1-zia4 
+<Sync time="1523.713"/>
+zang5-det3-bet3-lai2-gau4-dai2-uan5 
+<Sync time="1525.182"/>
+ai4-iong3 dai2-uan5 e2 rin2-zing5-hong2-to4 
+<Sync time="1527.339"/>
+zor4 ue3-do5 e2-bue2-ging4 
+<Sync time="1528.6"/>
+biau1-da3
+<Event desc="dap3" type="lexical" extent="instantaneous"/>
+ dui4-dai3-uan5 e2 gan1-sia2 
+<Event desc="gam1-sia2" type="lexical" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk19" startTime="1530.3947050000022" endTime="1564.3549710000023">
+<Sync time="1530.3947050000022"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1532.865"/>
+ui4-siong3-san2-gi2-diunn5 cut1-guan1-e1-si3 
+<Sync time="1535.039"/>
+rit3-bun4 rin2-ki3 ang2-a1-do5 
+<Sync time="1536.632"/>
+dior4-hi5 gong2-rit3-gi3 e2 zok1-zia4 
+<Sync time="1538.32"/>
+bat1-gen3-gen3-it2 gah1 san2-di5 sip3-sam1 
+<Sync time="1540.679"/>
+zit1-ben3 lai2-dai2-uan5 
+<Sync time="1541.813"/>
+si3-veh1-lai2 ui3-ang2-a1-do5 cu1-ging4 e3 
+<Sync time="1543.804"/>
+ma3-si3 veh1-lai2 biau1-dat3 dui4-dai2-uan5 e2 gam1-sia2 
+<Sync time="1546.023"/>
+nng3-e2-lang5 zit3-cut1-gi2-diunn5 liau1-au2 
+<Sync time="1547.784"/>
+diorh3-guann2 lorh1(lue5)-ki1(*)-gau4-gor2-iong5
+<Event desc="hiong5" type="lexical" extent="instantaneous"/>
+
+<Sync time="1549.269"/>
+lai2-gau4 dong2-de2 hi2-ci2 
+<Sync time="1550.985"/>
+veh1-lai2-kuann4 gor2-hiong5(iong5)
+<Event desc="hiong5" type="lexical" extent="previous"/>
+ hai1-hik2 
+<Sync time="1552.486"/>
+dau4-de4 diann3-diann3-liah3-diorh3 siann1-mih1-kuan4-e3-hi2-a4 
+<Sync time="1554.922"/>
+ziah1-e3-dang4 ziann2-zue4 suah3-lorh3-lai3 ang2-a1-do5 e2 de2-zai5 
+<Sync time="1557.469"/>
+sin3-zi1 te3-cut1-diorh3 ga2-gi3 cong4-zok2 e3(e2) ang2-a1-do5 
+<Sync time="1559.828"/>
+gah1-gor2-iong5 e3-siau4-len2-qin1-na4 kai2-gang4 
+<Sync time="1561.921"/>
+veh1-lai2 cim2-rip3 liau1-gai1-dai2-uan5 
+</Turn>
+<Turn speaker="spk19" startTime="1564.3549710000023" endTime="1581.8180940000022">
+<Sync time="1564.3549710000023"/>
+nng3-e2-lang5 e3 ting2-liu2-gau4 zap3-si3 
+<Sync time="1565.771"/>
+veh1-lai2 liau1-gai1 dai2-uan5 e3 hong2-to1-vin2-zing5 
+<Sync time="1567.708"/>
+bi1-gau4-di3 rit3-bun4 e3 guann2-hong1 
+<Sync time="1569.396"/>
+in2-ui3 gah1-dai2-uan5 vor2-bang2-gau1 e2 li1-iu5 
+<Sync time="1571.265"/>
+di3(dit3)-leh1 sam2-it1-it1(it2) de2-dang2 e2 gok1-ze3 gam1-sia3-ham5 diong2-gan1 lau3-diau3-dai2-uan5 
+<Sync time="1575.312"/>
+rit3-bun4 vin2-ziong3 dui4-diorh3(dit3) dai2-uan5 e2 gam1-sia2 
+<Sync time="1577.359"/>
+kuann3-kit3-lai3 diorh3-kah1(gah1)-dai3-hong1-lor3 
+<Sync time="1579.125"/>
+vin2-si2(si3)-sin2-vun5 zong2-hap3(hap2)-bor4-dor2 
+<Sync time="1580.828"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk18" startTime="1581.8180940000022" endTime="1594.795209000002">
+<Sync time="1581.8180940000022"/>
+dua4-di3-dai2-uan5 sit3-zai2-si3 zin2-hing3-hok2 
+<Sync time="1583.609"/>
+in2-ui3 zuan2-se4-gai3 e2 liau3-li4 long1-ziah3-e3-diorh2 
+<Sync time="1586.109"/>
+u3-zit3-ging1 
+<Event desc="zh" type="language" extent="begin"/>
+以色列
+<Event desc="zh" type="language" extent="end"/>
+ can2-tiann1 
+<Sync time="1587.797"/>
+si3 
+<Event desc="zh" type="language" extent="begin"/>
+加拿大
+<Event desc="zh" type="language" extent="end"/>
+ e2-tau2-ge1 gah1-i2 
+<Event desc="zh" type="language" extent="begin"/>
+以色列
+<Event desc="zh" type="language" extent="end"/>
+ e2-bing2-iu4 dau3-din2-kui1(kue1)
+<Event desc="kui1" type="lexical" extent="previous"/>
+-e1 
+<Sync time="1591.313"/>
+zit1-le2 cai4-sik2 si3 zin2-tuan2-tong4 
+<Sync time="1592.926"/>
+ma3-zin2-u3-dik3-sik2 lan1-lai2-kuann4-mai2 
+</Turn>
+<Turn speaker="spk20" startTime="1594.795209000002" endTime="1612.591527000002">
+<Sync time="1594.795209000002"/>
+cam2-diorh3-cang2-tau5 en2-sui1 dau2-a4 
+<Sync time="1596.589"/>
+ah1-gorh1-u3-zit3-gua1 pang2-liau2-e2 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1598.467"/>
+deh1-zit3-ba4-cit1-zap3-do2 un2-do2 iu2-diann4 lai3-de4-lai2-zinn3 
+<Sync time="1600.92"/>
+te2-kiai3-liau1-au2 ai4-ga2 de4-ho2-binn1-binn4 
+<Sync time="1603.154"/>
+kng4-lor4-i1-ging2 hang2-gah1 pang2-pang2-lor2-lor1 e2-biann1-pue5 lai3-de4 
+<Sync time="1606.138"/>
+gorh1-ai4 cam2-dam3-bor2-a1 cinn2-cai3 dau2-a1-mi2 
+<Sync time="1608.185"/>
+sinn2-gue3-e3-gue2-a4 ah1-gorh1-u3 mua2-a1-ziunn3 
+<Sync time="1610.122"/>
+ze1-dor3-si3 siong3-gai4 cut1-mia5 e2 diong2-dang2-liau3-li4 
+</Turn>
+<Turn speaker="spk20" startTime="1612.591527000002" endTime="1617.7515680000022">
+<Sync time="1612.591527000002"/>
+ziong3-tam2(ta2)-a1(ma1)-dorh2(doh2) gah1-gue2-a4 ga2-cet1-ho2 zit3-de4-zit3-de3 
+<Sync time="1614.677"/>
+suah4-ziap2 gorh1-ai4-cam2-dan3-bor2-a1 dinn2-cai3(cai4)-gin1(gin2) 
+<Sync time="1616.538"/>
+ah1-gorh1-u3 sinn2-gue3-e3 gam2-a1 e3
+</Turn>
+<Turn speaker="spk20" startTime="1617.7515680000022" endTime="1621.907068000002">
+<Sync time="1617.7515680000022"/>
+sior1-la3-la3-e3 liau1-au2 
+<Sync time="1618.669"/>
+zit1-buann4(buann5) sik1-zui4 zin2-hong2-hu3 e2- 
+<Event desc="zh" type="language" extent="instantaneous"/>
+
+<Sync time="1620.257"/>
+*(i2-e2) ziunn4-liau2 dong2-ren5 ma3-zin2-diong3-iau3
+</Turn>
+<Turn speaker="spk20" startTime="1621.907068000002" endTime="1629.5071280000018">
+<Sync time="1621.907068000002"/>
+tau2-ge1-gah1-i2-e3 i1-sit2(sik1)-e2-bing2-iu4 
+<Sync time="1623.556"/>
+in2-ui3 zin2-ga4-i4-dai2-uan5 so1-i1 di3-zia1-kui2-diam3 
+<Sync time="1625.609"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1626.246"/>
+tuan2-tong4 e3-hor1-kau1-vi2 
+<Sync time="1627.389"/>
+ho3-dak3-ge2 long1-or2 lor4 
+<Sync time="1628.577"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk20" startTime="1629.5071280000018" endTime="1638.667200000002">
+<Sync time="1629.5071280000018"/>
+zue4-au2 gorh1-u3 siong3-gai4 dik3-su5 e2 diam1-sim1 gah1-in1-liau2 
+<Sync time="1631.889"/>
+ziah1(ziah2)-gue3-e2-lang2-keh2 long1-or2-lor4 
+<Sync time="1633.561"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1634.318"/>
+vin2-si2-sin2-vun5 dai2-bak2-bor4-dor2 
+<Sync time="1635.967"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1636.795"/>
+sin2-vun5 zue4-au2 lai2-guan2-sim2(sin2)
+<Event desc="sim2" type="lexical" extent="previous"/>
+ un2-do2 
+</Turn>
+<Turn speaker="spk18" startTime="1638.667200000002" endTime="1683.8275530000017">
+<Sync time="1638.667200000002"/>
+bak1-bo2-de3-ku1 qi3-zap3-be3-do2 
+<Sync time="1640.213"/>
+zi4-sann2-zat3-si4-do2 
+<Sync time="1641.51"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1644.724"/>
+diong2-bo2(bo3)-de3-ku1 qi3-zat3-lak3-do2 zi4-sann2-zat3-si3-do2 
+<Sync time="1647.849"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1653.02"/>
+lam2(lan2)
+<Event desc="lam2" type="lexical" extent="previous"/>
+-bo2-de3-ku1 qi3-zat3-cit1-do2 
+<Sync time="1655.02"/>
+zi4-sann2-zat3-sann2-do2 
+<Sync time="1656.504"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1661.581"/>
+dang2-bo3-de3-ku1 qi3-zat3-lak3-do2 zi4-sann2-zat3-si4-do2 
+<Sync time="1664.94"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1668.875"/>
+gim1-mng5 ma1-zo4 qua3-dor4-de3-ku1 
+<Sync time="1670.782"/>
+qi3-zat3-cit1-do2 zi4-sann2-zat3-qi3-do2 
+<Sync time="1672.938"/>
+
+<Event desc="music" type="noise" extent="instantaneous"/>
+
+<Sync time="1674.64"/>
+dua3-len2-ving5 zit3-len5 zit3-gai4-e2 
+<Sync time="1676.087"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+全壘打
+<Event desc="zh" type="language" extent="end"/>
+ bi1-sai3 gin2-na1-lit2 kai2-si4-lo3 
+<Sync time="1678.243"/>
+iang5-gi1 
+<Event desc="zh" type="language" extent="begin"/>
+洋基
+<Event desc="zh" type="language" extent="end"/>
+ si3-dit1-diorh4 zue4-au2-e2-guan2-gun1 
+<Sync time="1680.868"/>
+gim2(*)-mng5(*)
+<Event desc="sin2-vun5" type="lexical" extent="instantaneous"/>
+-zue4-au2 cua3-lin1-lai2-kuann4-mai2 
+<Sync time="1682.143"/>
+ma3-gam1-sia3-li4-e3-siu2-kuann3 lan1-zai4-hue2 
+</Turn>
+<Turn speaker="spk22" startTime="1683.8275530000017" endTime="1915.466">
+<Sync time="1683.8275530000017"/>
+gok2-ui2 guan2-ziong4-bing2-iu4 
+<Sync time="1684.997"/>
+dak3-e2-bing2-an1 dak3-e2-hor4 
+<Sync time="1686.872"/>
+qua1-si3-dan2-liong2-zi3 
+<Sync time="1688.372"/>
+dai2-uan5-sin2-se4-gi4 vun2-gau4-gi2-gim2-hue2 dang1-su3-diunn4(dionn4) 
+<Sync time="1691.325"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1691.962"/>
+gin2-na1-rit1 qua1-veh1-gong4 e2 de2-vak1-si3 
+<Sync time="1693.853"/>
+gong2-dau5-vin2-zu4 
+<Sync time="1695.493"/>
+gah1-zu1-guan5 zai3-vin5 
+<Sync time="1696.865"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1697.99"/>
+si3-zen3 gong2-dau5-vin2-zu4 
+<Sync time="1699.568"/>
+lok3-sit1 zu1-guan5 zai3-vin5 
+<Sync time="1701.303"/>
+si3-dai2-uan5 sin2-se4-gi4 vun2-gau4-gi2-gim2-hue2 
+<Sync time="1703.928"/>
+dui4-ri3-kong3 it1-ri3-ni5 
+<Sync time="1705.565"/>
+vin2-zu4-zin4-bo3-dong4 zong1-tong4-hau3-suan1-rin5 
+<Sync time="1708.284"/>
+zing4-cik2-gen4-qen5 
+<Sync time="1709.83"/>
+so1-te2-cut2 e2 de3-cit1-hang2 
+<Sync time="1711.314"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1711.755"/>
+iah3-si3 zue4-au2-zit3-hang2 
+<Sync time="1713.177"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1714.105"/>
+gong2-vin2-dau2-pior3 
+<Sync time="1715.143"/>
+si3-lok3-sit1 zu1-guan5-zai3-vin5 e2 vin2-zu1-li3-ki3 
+<Sync time="1718.002"/>
+iah3-si3 dai2-uan2-rin2-vin5 guat1-ding3 dai2-uan2(uan5) gok1-ga1-zen2-do5 
+<Sync time="1721.424"/>
+gai1-guat1 gok1-ga1 sia3-hue2 diong3-dua2 zing2-qi2 
+<Sync time="1724.814"/>
+but1-kor1 hik3-kuat2 e3 vin2-zu1-gi2-ze3 
+<Sync time="1727.174"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1728.208"/>
+hue2-go4 ri3-kong3-kong4-si4-ni5 
+<Sync time="1730.17"/>
+gau4-ri3-kong3-kong4-bat1-ni5 
+<Sync time="1731.983"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1732.45"/>
+lak3-ben4 zuan2-gok1-sing3 gong2-giong3-zing4-cik2 e2-gong2-dau5 
+<Sync time="1735.622"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1736.282"/>
+siu3-gau4 zing4-dong4-ok1-do5
+<Event desc="dau3" type="lexical" extent="previous"/>
+ e2 ing1-hiong4 
+<Sync time="1738.436"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1738.999"/>
+gu3-nia4(ni2)-*(a4) gong2-dau2-pior3 e2 bue2-gat(gap2) ciu1-duann2 
+<Sync time="1742.528"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1743.214"/>
+ga2-siong3 
+<Sync time="1743.808"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1745.044"/>
+gue4 tong2-gue4 gor2-mng2-kam4 
+<Sync time="1747.2"/>
+e3-zit1-le2-han3(han2)-ze3 ri3-ve3-*(ve3)-dang4-gue4-guan1 
+<Sync time="1749.685"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1750.124"/>
+zor3-sing2 gong2-dau2-an3 
+<Sync time="1751.448"/>
+zuan2-bo2 cor4-bai2 
+<Sync time="1752.948"/>
+qiam2-diong2-niu1-kiok2 
+<Sync time="1754.558"/>
+dai2-uan2-vin2-i3 e2 biau1-dat2 
+<Sync time="1756.042"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1756.695"/>
+ri3-kong3-kong4-gau1-ni5 i1-lai5 
+<Sync time="1758.523"/>
+iu2-vin2-zin4-dong4 gah1 dai2-len2-dong4 
+<Sync time="1761.492"/>
+ziam2-dui4 
+<Event desc="en" type="language" extent="begin"/>
+ECFA
+<Event desc="en" type="language" extent="end"/>
+ zing4-cik2 
+<Sync time="1763.238"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1763.744"/>
+sen2-hau2
+<Event desc="au2" type="lexical" extent="instantaneous"/>
+ so1-hun2-bet3 te2-cut2-e3 gong2-dau5 te2-an3 
+<Sync time="1767.237"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1767.687"/>
+in2-ui3 zing4-di3-lat1 e2 gai4-rip1 
+<Sync time="1769.587"/>
+su4-dor3(do2) siu3-gau4 gong2-vin2-dau2-pior3 
+<Sync time="1772.451"/>
+sim1-qi3-ui1-quan2-hue2 
+<Sync time="1773.713"/>
+zap3-qua3-e2 ui1-quan5 dau2-pior3-bok1-hue5 
+<Sync time="1776.413"/>
+it1-zai3 tut3-hen4 
+<Sync time="1778.267"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1778.624"/>
+hen3-hing5 
+<Sync time="1779.245"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1779.729"/>
+ziau1-rang4(lang4)-gong2-dau2-huat2 
+<Sync time="1781.198"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1781.782"/>
+si3-dai2-uan5 sit3-zen2 gong2-dau5 vin2-zu4 
+<Sync time="1784.045"/>
+zue4-dai2 ziong2-qai2-su3-sit2 
+<Sync time="1786.357"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1787.431"/>
+ga1-su1 ziau1-rang1(lang4) gong2-dau2-huat2 vor2-siu2-zing3 
+<Sync time="1789.931"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1790.412"/>
+gong2-dau5 mng2-kam4 vor2-zor4 diau2-zing4 
+<Sync time="1792.457"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1792.897"/>
+dit3-ziap1-vin2-zu4 e2 gi2-ze3 
+<Sync time="1794.491"/>
+ge4-siok2 siu3-gau4 han2-ze3 
+<Sync time="1795.96"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1796.344"/>
+rin2-vin5 vor2-huat1-do2 
+<Sync time="1797.923"/>
+ging2-iu2-gong2-dau5 
+<Sync time="1799.392"/>
+iu2-hau3-biau1-dat3-i4-gen3 
+<Sync time="1801.079"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1802.372"/>
+ui3-liau4 zin2-ziann3 sit3-zen2 zu1-guan5 zai3-vin5 
+<Sync time="1804.965"/>
+cim2-hua3 gip3-diong1 go3 dai2-uan5 e3 vin2-zu4 
+<Sync time="1807.902"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1808.456"/>
+ziau1-rang1(lang4)-sik2 gong2-dau3-huat2 
+<Sync time="1810.127"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1810.624"/>
+bit1-su2 ga3-i2 bor1-zing3 
+<Sync time="1812.202"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1812.537"/>
+hap3-li1-hua3 
+<Sync time="1813.263"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1813.989"/>
+but1-kor1-tua1-en5 
+<Sync time="1814.958"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1815.734"/>
+dui4-u3 hui2-siong2-diong3-iau3 
+<Sync time="1817.234"/>
+u3-gor2-do2 sia3-hue3-zing2-qi3-sing3 e2 vun3-de5 
+<Sync time="1820.234"/>
+le3-ru5 si3-m3-si3 ing4-gai2 hue4-du5 
+<Sync time="1823.075"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1823.418"/>
+hut3-ling5-huat1-den4 
+<Sync time="1824.668"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1825.682"/>
+gen4-lip1 
+<Sync time="1826.118"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1826.743"/>
+hui2-hut1-ga2-hng5 
+<Sync time="1828.305"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1828.735"/>
+gong2-vin2-dau2-pior3 hen1-ren5-si3 zue4-sik1-dong3 
+<Sync time="1831.237"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1831.769"/>
+zue4-vin2-zu4 e3 gai1-guat1-hong2-sik2 
+<Sync time="1833.885"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1834.635"/>
+ze3 gong2-vin2-dau2-pior3 zi2-zing5 
+<Sync time="1836.281"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1836.651"/>
+vor2-lun3 zi2-ci5 
+<Sync time="1837.649"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1838.177"/>
+hik3-huan1-dui3 
+<Sync time="1839.114"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1839.774"/>
+hut3-ling3(ling2)-zing4-cik2-e2-lang5 
+<Sync time="1840.953"/>
+dor3-ing4-gai2 e3-dang4-zai3 li1-sing3 
+<Sync time="1843.546"/>
+su2-ben2-e3-diong2-ue3-diong1 
+<Sync time="1844.941"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1845.473"/>
+ziam2-dui4 hut3-ling5 gang2-qiap1 
+<Sync time="1846.859"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1847.367"/>
+zai3-dai2-uan5 e2 huat1-den4 ging2-qiam2 
+<Sync time="1849.249"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1849.693"/>
+zin4-hing2 bit1-iau3 e2 ben3-lun2 gah1-tam4-tor1-au2 
+<Sync time="1852.474"/>
+zai4-gau2-iu2 rin2-vin5 zor4-zue4-au2 e2 guat1-ding2 
+<Sync time="1854.888"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1856.177"/>
+zit1-le2 ting2-su2 
+<Sync time="1857.224"/>
+zue4-e3-dang4 ling2-gu4 
+<Sync time="1859.302"/>
+lan1(lan4)-gok1-lang5 dui4-*(u2) hui1(hui2)-hut1-ga2-hng5 e2 giong3-sik2 
+<Sync time="1863.13"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1864.041"/>
+zong4-zi3 
+<Sync time="1864.587"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1865.014"/>
+gong2-vin2-dau2-pior3 zai3-vin2-zu4-gok1-ga1 
+<Sync time="1867.639"/>
+si3-hui2-siong5 bing2-siong5 e2 dai3-zi3 
+<Sync time="1869.807"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1870.415"/>
+si3-rin2-vin5 cam2-u4-gok1-zing3 
+<Sync time="1871.871"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1872.514"/>
+zue4-e3-dang4 dit3-ziap2(ziap1)-biau1-dap3
+<Event desc="dat3" type="lexical" extent="previous"/>
+
+<Sync time="1874.061"/>
+vin2-i3-e2 vin2-zu4-ting2-su2 
+<Sync time="1875.781"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1876.647"/>
+zit3-bo3 gen3-zuan5 e2 gong2-vin2 dau2-pior4-huat2 
+<Sync time="1878.531"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1879.151"/>
+zai3-u1 ciok1-zin3 
+<Sync time="1880.272"/>
+rin2-vin5 iu1-hok2(hau2) cam2-zing3 
+<Sync time="1882.061"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1882.411"/>
+ri2-m3-si3 zo1-qai3 dit3-ziap1-vin2-i3 e2 gang2-gu2 
+<Sync time="1884.891"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1886.378"/>
+lan1-hi2-vang2 
+<Sync time="1887.441"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1887.86"/>
+gong2-vin2-dau2-pior3 e3-dang4-zai3-dai2-uan5 
+<Sync time="1889.954"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1890.373"/>
+ging4 ge4-siok2 sing2-gin1 huat1-den4 
+<Sync time="1893.051"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1893.737"/>
+dak3-e2 e3-dang4 din2-siorh2 
+<Sync time="1895.039"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1895.611"/>
+gong2-vin2-dau2-pior3 e2 guan2-li2 
+<Sync time="1897.124"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1897.801"/>
+i1-sin2-sing3-e2 gong2-dau2-pior3 
+<Sync time="1899.542"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1900.308"/>
+cim2-hua3 
+<Sync time="1901.157"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1901.658"/>
+dai2-uan5 e2-vin2-zu4 
+<Sync time="1902.604"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1903.106"/>
+giong1-go3 dai2-uan5 e2 vin2-zu4 
+<Sync time="1904.821"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1905.244"/>
+lok3-sit1 zu1-guan5 zai3-vin5 
+<Sync time="1906.981"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1907.689"/>
+den1-hen3 dai2-uan2-rin2-vin5 
+<Sync time="1909.223"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1909.659"/>
+veh1-dong2-ga1-zor4-zu4 
+<Sync time="1911.284"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1911.616"/>
+e3-i4-zi3 gah1-lik3-liong2 
+<Sync time="1912.997"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+<Sync time="1913.98"/>
+dor2-sia3-dak3-e2 
+<Sync time="1914.644"/>
+
+<Event desc="empty" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

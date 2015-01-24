@@ -58,9 +58,6 @@ if __name__ == '__main__':
 		_網仔 = 詞物件網仔()
 		_變調 = 閩南語變調()
 		for line in f:
-# 			if '環-境' not in line:
-# 				continue
-# 			print(line)
 			try:
 				句物件 = _分析器.轉做句物件(line.strip())
 				for 詞物件 in _網仔.網出詞物件(句物件):
@@ -84,9 +81,7 @@ if __name__ == '__main__':
 # 	with gzip.open(辭典一對一, 'rt') as f:
 # 		檔案加入字典(f, 字典)
 # 	with gzip.open(斷字典, 'wb') as f:
-# 		pickle.dump(字典, f,
-# 				protocol=pickle.HIGHEST_PROTOCOL)
-
+# 		pickle.dump(字典, f,protocol=pickle.HIGHEST_PROTOCOL)
 #		--------------------將新的辭典加入在底下------------------------
 	辭典 = 型音辭典(4)
 	with gzip.open(辭典一對一, 'rt') as f:
@@ -108,5 +103,4 @@ if __name__ == '__main__':
 	with open('對齊平行閩南語資料', 'rt') as f:
 		檔案加入辭典(f, 辭典)
 	with gzip.open(斷詞典, 'wb') as f:
-		pickle.dump(辭典, f,
-				protocol=pickle.HIGHEST_PROTOCOL)
+		pickle.dump(辭典, f,protocol=pickle.HIGHEST_PROTOCOL)

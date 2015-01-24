@@ -1,9 +1,9 @@
 import re
-import string
-openfile=open("Trans_Combine002-110519dancor-1(校).trs.txt","r")
-
+inputfile='Trans_Combine002-110519dancor-1(校).trs.txt'#檔案來源(含路徑)
+outputfile='../補全漢全羅/新建字典combine003.txt'#輸出作為字典的檔案(含路徑)
 
 if __name__ == '__main__':
+    openfile=open(inputfile,"r")
     result = list()  
     for line in openfile.readlines():                          #依次读取每行  
         line = line.strip()                             #去掉每行头尾空白  
@@ -43,7 +43,7 @@ if __name__ == '__main__':
                 try:
                     p=sentance.index(word_u)
                     strW=word_u.replace('', '-')
-                    pingin+=str(strW.strip('-')+'|')
+                    pingin+=str(strW.strip('-')+'｜')
                     for i, c in enumerate(word_u):
                         #print(phone[p+i])
                         pingin+=str(phone[p+i]+'-')
@@ -55,5 +55,6 @@ if __name__ == '__main__':
             #result.append(sentance+"|"+spell)#保存  
     result.sort()#排序结果  
     print(result)
-    open('新建字典02.txt', 'w').write('%s' % '\n'.join(result))
-    
+    open(outputfile, 'w').write('%s' % '\n'.join(result))#寫入字典
+    openfile.close()#關閉檔案
+    outputfile.close()#關閉檔案

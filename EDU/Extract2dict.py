@@ -1,6 +1,6 @@
 import re
 import string
-openfile=open("Trans_Combine001dancorok(校).trs01.txt","r")
+openfile=open("Trans_Combine002-110519dancor-1(校).trs.txt","r")
 
 
 if __name__ == '__main__':
@@ -52,12 +52,8 @@ if __name__ == '__main__':
                 except:
                     pingin= ''
                 
-                
-           
-            
             #result.append(sentance+"|"+spell)#保存  
     result.sort()#排序结果  
     print(result)
-    open('新建字典.txt', 'w').write('%s' % '\n'.join(result))
-    
+    open('新建字典02.txt', 'w').write('%s' % '\n'.join(result))
     

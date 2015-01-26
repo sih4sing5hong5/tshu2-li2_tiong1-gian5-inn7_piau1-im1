@@ -43,7 +43,7 @@ if __name__ == '__main__':
                 try:
                     p=sentance.index(word_u)
                     strW=word_u.replace('', '-')
-                    pingin+=str(strW.strip('-')+'｜')
+                    pingin+=str(strW.strip('-')+'｜')#*****注意此標記
                     for i, c in enumerate(word_u):
                         #print(phone[p+i])
                         pingin+=str(phone[p+i]+'-')
@@ -57,4 +57,3 @@ if __name__ == '__main__':
     print(result)
     open(outputfile, 'w').write('%s' % '\n'.join(result))#寫入字典
     openfile.close()#關閉檔案
-    outputfile.close()#關閉檔案

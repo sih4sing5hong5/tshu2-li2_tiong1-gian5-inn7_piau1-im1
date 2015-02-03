@@ -1,6 +1,5 @@
 import re
 import difflib
-import chardet
 
 def strip_str(sentance):#去掉標點符號只剩中文
     sentance= re.sub(u'\（.*\）','',sentance)#拆掉(裏面的字)
@@ -12,7 +11,7 @@ def cal_differ(str1,str2):
     return d
 
 if __name__ == '__main__':
-    openfile=open('Trans_Combine003-0424-2-1.trs.txt','rt')
+    openfile=open('Trans03_Combine002-110519(dancor)-1.trs.txt','rt')
     writefile=open('結果.txt',"wt")
     
     rate=0

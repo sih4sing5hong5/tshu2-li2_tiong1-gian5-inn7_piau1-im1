@@ -38,7 +38,7 @@ if __name__ == '__main__':
 	合成語料檔名 = os.path.join(這馬目錄, '合成語料')
 	合成語料檔案 = open(合成語料檔名, 'w')
 	for 檔名 in sorted(os.listdir(".")):
-		if 檔名.endswith("Combine002-110519(dancor)-1.trs"):
+		if 檔名.endswith("Combine014.trs"):
 			print(檔名)
 			檔案 = open(資料 + 檔名)
 			全部語料 = 檔案.read()
@@ -53,7 +53,8 @@ if __name__ == '__main__':
 # 			print(臺羅堆[:10])
 			轉做HTS標仔.建立(臺羅堆)
 			漢羅 = 全漢全羅.建立(臺羅堆)
-			結果檔案= open(資料 + "Trans03_"+檔名+".txt","wt")#寫入結果檔案
+			結果檔案= open(資料 + "Trans005/Trans_"+檔名+".txt","wt")#寫入結果檔案
+			
 			for 結果 in 漢羅:
 				print('原句：', 結果[1], '/', 結果[2],)
 				結果檔案.write('原句：'+結果[1]+'/'+結果[2]+'\n')

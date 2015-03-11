@@ -15,11 +15,13 @@ from 臺灣言語工具.解析整理.詞物件網仔 import 詞物件網仔
 斷詞典 = os.path.join(這馬所在, '本調變調詞典.pickle.gz')
 斷字語言語料 = os.path.join(這馬所在, '斷字例句.txt')
 斷詞語言語料 = os.path.join(這馬所在, '斷詞例句.txt')
+例句總整理=os.path.join(這馬所在, '訓練用斷詞例句總.txt')
 
 #ngram-count -order 3 -interpolate -wbdiscount -unk -text 斷字例句.txt -lm 斷字例句.lm
 #ngram-count -order 3 -interpolate -wbdiscount -text 斷詞例句.txt -text 斷詞新聞句.txt -lm 斷詞例句.lm
-#/home/joseyarashio/文件/srilm-1.7.1/bin/i686-m64/ngram-count -order 3 -interpolate -wbdiscount  -text 斷詞例句.txt -text 附錄句一對一斷詞.txt -text 01.華臺校對有例句.txt -text 01.典藏校對有例句.txt -lm 斷詞例句.lm
-#/home/joseyarashio/文件/srilm-1.7.1/bin/i686-m64/ngram-count -order 3 -interpolate -wbdiscount  -text 斷詞例句.txt -text 01.華臺校對有例句.txt -text 新建例句013.txt -text 01.典藏校對有例句.txt -lm 斷詞例句.lm
+#/home/joseyarashio/文件/srilm-1.7.1/bin/i686-m64/ngram-count -order 3 -interpolate -wbdiscount -text 新建例句013.txt -text 斷詞例句.txt -text 05.華臺校對有例句.txt -text 05.典藏校對有例句.txt -lm 斷詞例句.lm
+#/home/joseyarashio/文件/srilm-1.7.1/bin/i686-m64/ngram-count -order 3 -interpolate -wbdiscount  -text 斷詞例句.txt -text 05.華臺校對有例句.txt -text 新建例句.txt -text 新建例句.txt -text 新建例句.txt -text 新建例句.txt -text 新建例句.txt -text 新建例句.txt -text 新建例句.txt -text 新建例句.txt -text 新建例句.txt -text 新建例句.txt  -text 05.典藏校對有例句.txt -lm 斷詞例句3.lm
+#/home/joseyarashio/文件/srilm-1.7.1/bin/i686-m64/ngram-count -order 3 -interpolate -wbdiscount -text 新建例句.txt -lm 斷詞例句5.lm
 斷字語言模型 = os.path.join(這馬所在, '斷字例句.lm')
 斷詞語言模型 = os.path.join(這馬所在, '斷詞例句.lm')
 
@@ -89,19 +91,21 @@ if __name__ == '__main__':
 		檔案加入辭典(f, 辭典)
 	with open(斷詞語言語料, 'rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('05.典藏校對有例句.txt', 'rt') as f:
+	with open(例句總整理, 'rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('台華詞典一對一.txt', 'rt') as f:
+	with open('05.典藏校對有例句.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('05.華臺校對有例句.txt', 'rt') as f:
+	with open('台華詞典一對一.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('新建字典combine001.txt', 'rt') as f:
+	with open('05.華臺校對有例句.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('新建字典combine002.txt', 'rt') as f:
+	with open('新建字典combine001.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('附錄句一對一斷詞.txt', 'rt') as f:
+	with open('新建字典combine002.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('斷詞新聞句.txt', 'rt') as f:
+	with open('附錄句一對一斷詞.txt','rt') as f:
+		檔案加入辭典(f, 辭典)
+	with open('斷詞新聞句.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
 	with open('對齊平行閩南語資料', 'rt') as f:
 		檔案加入辭典(f, 辭典)

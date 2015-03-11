@@ -40,8 +40,8 @@ class EDU做例句:
         
 if __name__ == '__main__':
     EDU做例句=EDU做例句()
-    EDU做例句.Inputfile_path='Trans03_Combine002-110519(dancor)-1.trs.txt'
-    EDU做例句.Outputfile_path='../補全漢全羅/新建例句003.txt'
+    EDU做例句.Inputfile_path='Trans004/Trans_Combine010.trs.txt'
+    EDU做例句.Outputfile_path='../補全漢全羅/新建例句/新建例句010txt'
     EDU新建例句檔=open(EDU做例句.Outputfile_path,'wt')
     
     openfile=open(EDU做例句.Inputfile_path,"r")

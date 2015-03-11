@@ -11,7 +11,7 @@ def cal_differ(str1,str2):
     return d
 
 if __name__ == '__main__':
-    openfile=open('Trans03_Combine002-110519(dancor)-1.trs.txt','rt')
+    openfile=open('Trans005/Trans_Combine009.trs.txt','rt')
     writefile=open('結果.txt',"wt")
     
     rate=0

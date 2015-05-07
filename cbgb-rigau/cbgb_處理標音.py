@@ -31,14 +31,14 @@ if __name__ == '__main__':
 	建立物件 = 第四步建立句物件()
 	轉做HTS標仔 = 上尾轉做HTS標仔()
 	全漢全羅 = 臆全漢全羅()
-	資料 = "../cbgb-rigau/"
+	資料 = "../ALen&Tea-rigau/"
 	
 	os.chdir(資料)
 	這馬目錄 = os.path.dirname(os.path.abspath(__file__))
 	合成語料檔名 = os.path.join(這馬目錄, '合成語料')
 	合成語料檔案 = open(合成語料檔名, 'w')
 	for 檔名 in sorted(os.listdir(".")):
-		if 檔名.endswith("20121027_Neighbor-20140416-20140731-20140803.trs"):
+		if 檔名.endswith("20131201_edit_ALan&Tea-20141028-20141228-20140211.trs"):
 			print(檔名)
 			檔案 = open(資料 + 檔名)
 			全部語料 = 檔案.read()

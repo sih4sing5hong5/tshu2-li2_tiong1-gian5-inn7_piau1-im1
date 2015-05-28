@@ -31,14 +31,14 @@ if __name__ == '__main__':
 	建立物件 = 第四步建立句物件()
 	轉做HTS標仔 = 上尾轉做HTS標仔()
 	全漢全羅 = 臆全漢全羅()
-	資料 = "../ALen&Tea-rigau/"
+	資料 = "../cbgb-rigau/"
 	
 	os.chdir(資料)
 	這馬目錄 = os.path.dirname(os.path.abspath(__file__))
 	合成語料檔名 = os.path.join(這馬目錄, '合成語料')
 	合成語料檔案 = open(合成語料檔名, 'w')
 	for 檔名 in sorted(os.listdir(".")):
-		if 檔名.endswith("20131201_edit_ALan&Tea-20141028-20141228-20140211.trs"):
+		if 檔名.endswith("Neighbor001-new.trs"):
 			print(檔名)
 			檔案 = open(資料 + 檔名)
 			全部語料 = 檔案.read()
@@ -53,7 +53,7 @@ if __name__ == '__main__':
 # 			print(臺羅堆[:10])
 			轉做HTS標仔.建立(臺羅堆)
 			漢羅 = 全漢全羅.建立(臺羅堆)
-			結果檔案= open(資料 + "Trans/Trans03_"+檔名+".txt","wt")#寫入結果檔案
+			結果檔案= open(資料 + "Trans/Trans04_"+檔名+".txt","wt")#寫入結果檔案
 			for 結果 in 漢羅:
 				print('原句：', 結果[1], '/', 結果[2],)
 				結果檔案.write('原句：'+結果[1]+'/'+結果[2]+'\n')
@@ -65,7 +65,7 @@ if __name__ == '__main__':
 				print('校正：', 結果[3], '/', 結果[2],)																					#沒有檢字數對齊
 				結果檔案.write('校正：'+結果[3]+'/'+結果[2]+'\n\n')													#沒有檢字數對齊
 				print()
-			break
+			
 			'''
 			for 原文, 整理, 臺羅 in zip(無外語, 整理堆, 臺羅堆):
 				整理編號, 通用漢羅, 通用全羅 = 整理
@@ -76,3 +76,4 @@ if __name__ == '__main__':
 			print(len(臺羅堆))
 			'''
 			結果檔案.close()
+			break

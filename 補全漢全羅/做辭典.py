@@ -15,7 +15,7 @@ from 臺灣言語工具.解析整理.詞物件網仔 import 詞物件網仔
 斷詞典 = os.path.join(這馬所在, '本調變調詞典.pickle.gz')
 斷字語言語料 = os.path.join(這馬所在, '斷字例句.txt')
 斷詞語言語料 = os.path.join(這馬所在, '斷詞例句.txt')
-例句總整理=os.path.join(這馬所在, '訓練用斷詞例句總.txt')
+例句總整理=os.path.join(這馬所在, '訓練用斷詞例句總2.txt')
 
 #ngram-count -order 3 -interpolate -wbdiscount -unk -text 斷字例句.txt -lm 斷字例句.lm
 #ngram-count -order 3 -interpolate -wbdiscount -text 斷詞例句.txt -text 斷詞新聞句.txt -lm 斷詞例句.lm

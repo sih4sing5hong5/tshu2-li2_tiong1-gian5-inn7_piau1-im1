@@ -1,7 +1,7 @@
 if __name__ == '__main__':
     filename='Trans_Neighbor001-new.trs.txt'
     file = open(filename, 'r')#此檔案為正確答案的檔案
-    writefile=open('ah的句子.txt',"wt")
+    writefile=open('ah_Neighbor001-new.trs.txt',"wt")
     
     result=list()
     result.append(filename)

@@ -4,6 +4,7 @@ from 臺灣言語工具.解析整理.物件譀鏡 import 物件譀鏡
 from 臺灣言語工具.解析整理.轉物件音家私 import 轉物件音家私
 from 臺灣言語工具.音標系統.閩南語.教會羅馬字音標 import 教會羅馬字音標
 from 臺灣言語工具.解析整理.文章粗胚 import 文章粗胚
+
 inputfile='完整校正檔案.txt'#檔案來源(含路徑)
 outputfile='../補全漢全羅/cbgb字典.txt'#輸出作為字典的檔案(含路徑)
 
@@ -27,8 +28,8 @@ if __name__ == '__main__':
         if ( len(sentance) and len(spell)):#有$$才抓出捱做
             sentance=re.sub(r'\（.*\）','',sentance)#拆掉(裏面的字)
             sentance= re.sub("[A-Za-z0-9\[\『\』\`\~\!\﹐\@\-\#\$\^\&\？\，\*\(\)\。\「\」\=\ ；\|\{\}\'\:\;\'\,\…\─\[\]\.\<\>\/\?\~\、\！\@\#\\\&\*\%]", "", sentance).strip()
-            #print(sentance)
-            #print(spell)
+            print(sentance)
+            print(spell)
             try:
                 tool分析器=拆文分析器()
                 set=tool分析器.產生對齊組(sentance,spell)
@@ -36,7 +37,7 @@ if __name__ == '__main__':
             except:
                 continue
             #print(line)
-            print(mirror.看分詞(set))
+            #print(mirror.看分詞(set))
             #print('=================================================================================================')
             '''
             for i in phraseStr:#在此把$當中的文字拆開,分為必要與不必要部份
@@ -73,6 +74,6 @@ if __name__ == '__main__':
             result.append(mirror.看分詞(set))#保存  
             
     result.sort()#排序结果  
-    print(result)
+    #print(result)
     open(outputfile, 'w').write('%s' % '\n'.join(result))#寫入字典
     openfile.close()#關閉檔案

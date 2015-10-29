@@ -15,4 +15,4 @@ for turn in tree.findall('.//Turn'):
             continue
         else:
             sync.tail=''
-tree.write('ah例句_'+openfile,encoding="UTF-8",xml_declaration=True)
+tree.write('ah_'+openfile,encoding="UTF-8",xml_declaration=True)

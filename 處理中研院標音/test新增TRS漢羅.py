@@ -63,7 +63,7 @@ class TRS加漢羅:
                                 event.tail=pinying原始+'/'+sentance結果漢羅#將原本的句換成整理後的
         #write to .trs file below///////////////////////////////////////////////
         #write to .trs file below///////////////////////////////////////////////
-        tree.write(path+'Finish_'+openfile,encoding="UTF-8",xml_declaration=True)#寫回TRS檔
+        tree.write(path+'實驗_'+openfile,encoding="UTF-8",xml_declaration=True)#寫回TRS檔
         return tree
     
     def sentance去標點符號(self,sentance):

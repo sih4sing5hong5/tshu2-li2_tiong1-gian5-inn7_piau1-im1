@@ -115,8 +115,8 @@ if __name__ == '__main__':
 		檔案加入辭典(f, 辭典)
 	with open(例句總整理, 'rt') as f:
 		檔案加入辭典(f, 辭典)
-	#with open('05.典藏校對有例句.txt','rt') as f:
-		#檔案加入辭典(f, 辭典)
+	with open('05.典藏校對有例句.txt','rt') as f:
+		檔案加入辭典(f, 辭典)
 	with open('cbgb字典.txt','rt') as f:
 		檔案加入辭典_不變調(f, 辭典)
 	with open('台華詞典一對一.txt','rt') as f:

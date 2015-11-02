@@ -18,12 +18,12 @@ if __name__ == '__main__':
 	os.chdir(路徑)
 	
 	for 檔名 in sorted(os.listdir(".")):
-		if 檔名.endswith(".trs"):
+		if 檔名.endswith("Neighbor004.trs"):
 			檔案 = open(路徑+檔名)
 			全部語料 = 檔案.read()
 			檔案.close()
 			print('已讀取：',檔名)
-			結果檔名= "Trans_"+檔名+".txt"
+			結果檔名= "實驗_"+檔名+".txt"
 			結果檔案= open(路徑+結果資料夾 + 結果檔名,"wt")#寫入結果檔案
 			
 			無外語 = 共外語處理掉.擲掉外語佮空逝(全部語料)

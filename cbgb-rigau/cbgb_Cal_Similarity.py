@@ -15,10 +15,10 @@ def cal_differ(str1,str2):
 
 if __name__ == '__main__':
     file1name='Trans/Trans03_Neighbor001(高SIR校正).txt'
-    file2name='Trans/Trans05_Neighbor001-new.trs.txt'
+    file2name='Trans/Trans_Neighbor002.trs.txt'
     file1 = open(file1name, 'r')#此檔案為正確答案的檔案
     file2 = open(file2name, 'r')#欲比較的檔案
-    writefile=open('Trans/比對結果3.txt',"wt")
+    writefile=open('Trans/比對結果2.txt',"wt")
     
     result=list()
     result2=list()

@@ -36,7 +36,7 @@ if __name__ == '__main__':
 	合成語料檔名 = os.path.join(這馬目錄, '合成語料')
 	合成語料檔案 = open(合成語料檔名, 'w')
 	for 檔名 in sorted(os.listdir(".")):
-		if 檔名.endswith("Neighbor001-new.trs"):
+		if 檔名.endswith("Neighbor001.trs"):
 			print(檔名)
 			檔案 = open(資料 + 檔名)
 			全部語料 = 檔案.read()
@@ -50,7 +50,7 @@ if __name__ == '__main__':
 			臺羅堆 = 建立物件.建立(整理堆)
 # 			print(臺羅堆[:10])
 			漢羅 = 全漢全羅.建立(臺羅堆)
-			結果檔案= open(資料 + "Trans/Trans04_"+檔名+".txt","wt")#寫入結果檔案
+			結果檔案= open(資料 + "Trans/實驗03_"+檔名+".txt","wt")#寫入結果檔案
 			for 結果 in 漢羅:
 				print('原句：', 結果[1], '/', 結果[2],)
 				結果檔案.write('原句：'+結果[1]+'/'+結果[2]+'\n')

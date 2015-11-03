@@ -4,6 +4,7 @@ import fileinput
 from aptdaemon.logger import ColoredFormatter
 from pprint import pprint
 from xml.etree import ElementTree as ET
+from collections import Counter
 
 def strip_str(sentance):#去掉標點符號只剩中文
     sentance= re.sub(u'\（.*\）','',sentance)#拆掉(裏面的字)
@@ -64,11 +65,11 @@ if __name__ == '__main__':
     d = difflib.Differ()
     writefile=open('gau_files/test比對結果.txt',"wt")
     
-    file1_org=strip_TRS_org('gau_files/實驗10_Neighbor004.trs')
-    file2_org=strip_TRS_org('gau_files/Answer_Neighbor004.trs')
+    file1_org=strip_TRS_org('Finish_Neighbor002(錦堂).trs')
+    file2_org=strip_TRS_org('gau_files/Answer_Neighbor002.trs')
     
-    file1=strip_TRS2arrat('/','gau_files/實驗10_Neighbor004.trs')
-    file2=strip_TRS2arrat('/','gau_files/Answer_Neighbor004.trs')
+    file1=strip_TRS2arrat('/','Finish_Neighbor002(錦堂).trs')
+    file2=strip_TRS2arrat('/','gau_files/Answer_Neighbor002.trs')
  
     print('******************全篇統計在檔案最下方**************************', file=writefile)
     for idx, val in enumerate(file2):
@@ -100,7 +101,7 @@ if __name__ == '__main__':
                         list_diff2.append(x)
                         diff2+=x
                         #print(diff2, file=writefile)
-                print(diff1)
+                #print(diff1)
                 print(diff1, file=writefile)
                 result.append(str(diff1))
                 print(diff2, file=writefile)
@@ -123,15 +124,21 @@ if __name__ == '__main__':
     print('********************************************', file=writefile)
     
     #print(result2)
-    print(list_diff1)
-    print(list_diff2)
-    
+    #print(list_diff1)
+    #print(list_diff2)
+    '''
     myset = set(list_diff1)  #myset是另外一個列表，裡面的內容是mylist裡面的無重複 項
     
     for item in myset:
         print("the %d has found %d" ,(item,list_diff1.count(item)))
-    
-    
+        '''
+    count=Counter(list_diff2)
+    sum_count=sum(Counter(list_diff2).values())
+    print('Total',sum_count,'in',count)
+    for x in sorted(count):
+        print(x,"{:.2%}".format(count[x]/sum_count))
+        
+        
     result=result+result2
     result.sort()
     result2.sort()

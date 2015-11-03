@@ -3,6 +3,7 @@ import difflib
 import fileinput
 from aptdaemon.logger import ColoredFormatter
 from pprint import pprint
+from collections import Counter
 
 def strip_str(sentance):#去掉標點符號只剩中文
     sentance= re.sub(u'\（.*\）','',sentance)#拆掉(裏面的字)
@@ -15,13 +16,15 @@ def cal_differ(str1,str2):
 
 if __name__ == '__main__':
     file1name='Trans/Trans03_Neighbor001(高SIR校正).txt'
-    file2name='Trans/Trans_Neighbor002.trs.txt'
+    file2name='Trans/Trans04_Neighbor001-new.trs.txt'
     file1 = open(file1name, 'r')#此檔案為正確答案的檔案
     file2 = open(file2name, 'r')#欲比較的檔案
-    writefile=open('Trans/比對結果2.txt',"wt")
+    writefile=open('Trans/比對結果4.txt',"wt")
     
     result=list()
     result2=list()
+    list_diff1=list()
+    list_diff2=list()
     result.append(file1name)
     result.append(file2name)
     
@@ -47,6 +50,7 @@ if __name__ == '__main__':
             diff1=str()
             diff2=str()
             
+            
             #result.append(sentance1+'/'+sentance2)
             if(cal_differ(sentance1,sentance2)!=1):
                 num_diff_sentance+=1
@@ -61,11 +65,13 @@ if __name__ == '__main__':
                     if '-' in x :
                         diff_line1=x
                         diff1+=x
+                        list_diff1.append(x)
                         #print(diff1)
                         
                     if '+' in x:
                         diff_line2=x
                         diff2+=x
+                        list_diff2.append(x)
                         #print(diff2)
                 
                 #print(result2)
@@ -97,6 +103,15 @@ if __name__ == '__main__':
     result.append('average rate='+str(rate/num_word))
     print('********************************************')
     result.append('********************************************')
+    
+    count=Counter(list_diff1)
+    sum_count=sum(Counter(list_diff1).values())
+    print('Total',sum_count,'in',count)
+    for x in sorted(count):
+        print(x,"{:.2%}".format(count[x]/sum_count))
+    
+    
+    
     result2.sort()
     print(result2)
     result=result+result2

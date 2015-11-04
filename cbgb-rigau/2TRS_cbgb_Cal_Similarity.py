@@ -65,10 +65,10 @@ if __name__ == '__main__':
     d = difflib.Differ()
     writefile=open('gau_files/test比對結果.txt',"wt")
     
-    file1_org=strip_TRS_org('Finish_Neighbor002(錦堂).trs')
+    file1_org=strip_TRS_org('gau_files/實驗_Neighbor002.trs')
     file2_org=strip_TRS_org('gau_files/Answer_Neighbor002.trs')
     
-    file1=strip_TRS2arrat('/','Finish_Neighbor002(錦堂).trs')
+    file1=strip_TRS2arrat('/','gau_files/實驗_Neighbor002.trs')
     file2=strip_TRS2arrat('/','gau_files/Answer_Neighbor002.trs')
  
     print('******************全篇統計在檔案最下方**************************', file=writefile)

@@ -18,7 +18,7 @@ if __name__ == '__main__':
 	os.chdir(路徑)
 	
 	for 檔名 in sorted(os.listdir(".")):
-		if 檔名.endswith("Neighbor004.trs"):
+		if 檔名.endswith("Neighbor002.trs"):
 			檔案 = open(路徑+檔名)
 			全部語料 = 檔案.read()
 			檔案.close()

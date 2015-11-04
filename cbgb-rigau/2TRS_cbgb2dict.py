@@ -7,8 +7,8 @@ from 臺灣言語工具.解析整理.文章粗胚 import 文章粗胚
 from xml.etree import ElementTree as ET
 
 
-inputfile='gau_files/Finish_Neighbor002_gau.trs'#檔案來源(含路徑)
-outputfile='../補全漢全羅/cbgb002字典.txt'#輸出作為字典的檔案(含路徑)
+inputfile='gau_files/4dic_Neighbor004.trs'#檔案來源(含路徑)
+outputfile='../補全漢全羅/台羅本調cbgb004字典.txt'#輸出作為字典的檔案(含路徑)
 
 tool分析器=拆文分析器()
 mirror=物件譀鏡()

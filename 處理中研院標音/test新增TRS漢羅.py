@@ -33,10 +33,10 @@ class TRS加漢羅:
                             list_去標點符號的結果漢羅=sentance結果漢羅.split('xxx7')
                             for idx,pinying_list_原句 in enumerate(list_去標點符號的原句拼音):
                                 if pinying_list_原句 == pinying :
-                                    sync.tail=pinying原始+'/'+list_去標點符號的結果漢羅[idx]+'/'+sentance結果拼音
+                                    sync.tail=pinying原始+'/'+list_去標點符號的結果漢羅[idx]#+'/'+sentance結果拼音
                         else:
                             if sentance去標點符號的原句拼音 == pinying:
-                                sync.tail=pinying原始+'/'+sentance結果漢羅+'/'+sentance結果拼音#將原本的句換成整理後的
+                                sync.tail=pinying原始+'/'+sentance結果漢羅#+'/'+sentance結果拼音#將原本的句換成整理後的
                 #as///////////////////////////////////////////////
             for event in turn.findall('.//Event'):#///////////////////////Event tag 底下
                 _openresult=open(path+result檔案,'rt')
@@ -57,13 +57,13 @@ class TRS加漢羅:
                             list_去標點符號的結果漢羅=sentance結果漢羅.split('xxx7')
                             for idx,pinying_list_原句 in enumerate(list_去標點符號的原句拼音):
                                 if pinying_list_原句 == pinying:
-                                    event.tail=pinying原始+'/'+list_去標點符號的結果漢羅[idx]+'/'+sentance結果拼音
+                                    event.tail=pinying原始+'/'+list_去標點符號的結果漢羅[idx]#+'/'+sentance結果拼音
                         else:
                             if sentance去標點符號的原句拼音 == pinying:
-                                event.tail=pinying原始+'/'+sentance結果漢羅+'/'+sentance結果拼音#將原本的句換成整理後的
+                                event.tail=pinying原始+'/'+sentance結果漢羅#+'/'+sentance結果拼音#將原本的句換成整理後的
         #write to .trs file below///////////////////////////////////////////////
         #write to .trs file below///////////////////////////////////////////////
-        tree.write(path+'實驗_'+openfile,encoding="UTF-8",xml_declaration=True)#寫回TRS檔
+        tree.write(path+'本調實驗_'+openfile,encoding="UTF-8",xml_declaration=True)#寫回TRS檔
         return tree
     
     def sentance去標點符號(self,sentance):

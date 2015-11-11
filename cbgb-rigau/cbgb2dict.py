@@ -6,7 +6,7 @@ from 臺灣言語工具.音標系統.閩南語.教會羅馬字音標 import 教�
 from 臺灣言語工具.解析整理.文章粗胚 import 文章粗胚
 
 inputfile='重做本調詞典/重新製作校正檔案_NEIGHBOR_004(含本調).txt'#檔案來源(含路徑)
-outputfile='../補全漢全羅/台本cbgb004字典.txt'#輸出作為字典的檔案(含路徑)
+outputfile='../補全漢全羅/台本cbgb006字典.txt'#輸出作為字典的檔案(含路徑)
 
 if __name__ == '__main__':
     openfile=open(inputfile,"r")

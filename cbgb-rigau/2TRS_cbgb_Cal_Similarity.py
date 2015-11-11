@@ -63,12 +63,12 @@ if __name__ == '__main__':
     num_sentance=0
     num_diff_sentance=0
     d = difflib.Differ()
-    writefile=open('gau_files/test比對結果.txt',"wt")
+    writefile=open('gau_files/比對結果.txt',"wt")
     
-    file1_org=strip_TRS_org('gau_files/實驗_Neighbor002.trs')
+    file1_org=strip_TRS_org('gau_files/本調實驗105_Neighbor002.trs')
     file2_org=strip_TRS_org('gau_files/Answer_Neighbor002.trs')
     
-    file1=strip_TRS2arrat('/','gau_files/實驗_Neighbor002.trs')
+    file1=strip_TRS2arrat('/','gau_files/本調實驗105_Neighbor002.trs')
     file2=strip_TRS2arrat('/','gau_files/Answer_Neighbor002.trs')
  
     print('******************全篇統計在檔案最下方**************************', file=writefile)
@@ -113,8 +113,20 @@ if __name__ == '__main__':
             average_len=(len(sentance1)+len(sentance2))/2
             num_word+=average_len
             rate+=cal_differ(sentance1,sentance2)*average_len
-            
         
+    result=result+result2
+    result.sort()
+    result2.sort()
+    writefile.write('%s' % '\n'.join(result2))
+    print('\n*****************************************************', file=writefile)
+    print('\n***********************錯譯字統計************************', file=writefile)
+    count=Counter(list_diff2)
+    sum_count=sum(Counter(list_diff2).values())
+    
+    for x in sorted(count):
+        print(x,"{:.2%}".format(count[x]/sum_count), file=writefile)
+    print('Total',sum_count,'in',count, file=writefile)
+    
     print('********************************************', file=writefile)
     print('total_sentance=',num_sentance, file=writefile)
     print('num_diff_sentance=',num_diff_sentance, file=writefile)
@@ -122,27 +134,6 @@ if __name__ == '__main__':
     print('total_rate=',rate, file=writefile)
     print('全篇正確率=',rate/num_word, file=writefile)
     print('********************************************', file=writefile)
-    
-    #print(result2)
-    #print(list_diff1)
-    #print(list_diff2)
-    '''
-    myset = set(list_diff1)  #myset是另外一個列表，裡面的內容是mylist裡面的無重複 項
-    
-    for item in myset:
-        print("the %d has found %d" ,(item,list_diff1.count(item)))
-        '''
-    count=Counter(list_diff2)
-    sum_count=sum(Counter(list_diff2).values())
-    print('Total',sum_count,'in',count)
-    for x in sorted(count):
-        print(x,"{:.2%}".format(count[x]/sum_count))
-        
-        
-    result=result+result2
-    result.sort()
-    result2.sort()
-    writefile.write('%s' % '\n'.join(result2))
     '''
     result2.sort()
     print(result2)

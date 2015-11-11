@@ -16,7 +16,7 @@ def cal_differ(str1,str2):
 
 if __name__ == '__main__':
     file1name='Trans/Trans03_Neighbor001(高SIR校正).txt'
-    file2name='Trans/Trans04_Neighbor001-new.trs.txt'
+    file2name='Trans/實驗1033_Neighbor001-new.trs.txt'
     file1 = open(file1name, 'r')#此檔案為正確答案的檔案
     file2 = open(file2name, 'r')#欲比較的檔案
     writefile=open('Trans/比對結果4.txt',"wt")
@@ -89,6 +89,16 @@ if __name__ == '__main__':
         #line1 = line1.split('：')[1]
         if not line1 and not line2:
             break
+    
+    count=Counter(list_diff1)
+    sum_count=sum(Counter(list_diff1).values())
+    
+    for x in sorted(count):
+        print(x,"{:.2%}".format(count[x]/sum_count))
+    print('Total',sum_count,'in',count)
+    
+    
+
     print('********************************************')
     result.append('********************************************')
     print('total_sentance=',num_sentance)
@@ -104,16 +114,8 @@ if __name__ == '__main__':
     print('********************************************')
     result.append('********************************************')
     
-    count=Counter(list_diff1)
-    sum_count=sum(Counter(list_diff1).values())
-    print('Total',sum_count,'in',count)
-    for x in sorted(count):
-        print(x,"{:.2%}".format(count[x]/sum_count))
-    
-    
-    
     result2.sort()
-    print(result2)
+    #print(result2)
     result=result+result2
     writefile.write('%s' % '\n'.join(result))
     

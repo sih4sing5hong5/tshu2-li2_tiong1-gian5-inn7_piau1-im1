@@ -26,7 +26,6 @@ from 臺灣言語工具.解析整理.詞物件網仔 import 詞物件網仔
 斷詞語言模型 = os.path.join(這馬所在, '斷詞例句.lm')
 
 if __name__ == '__main__':
-	# 「｜" 丈-姆｜tiunn7-m2 」｜" 就｜to7 是｜si7 阮｜guan2 某｜boo2 的｜e5 老-母｜lau7-bu2 。｜.
 	def 檔案加入字典(檔案, 辭典):
 		_分析器 = 拆文分析器()
 		_篩仔 = 字物件篩仔()
@@ -104,9 +103,9 @@ if __name__ == '__main__':
 			
 # 	字典 = 型音辭典(1)
 # 	with gzip.open(辭典一對一, 'rt') as f:
-# 		檔案加入字典(f, 字典)
+#	 檔案加入字典(f, 字典)
 # 	with gzip.open(斷字典, 'wb') as f:
-# 		pickle.dump(字典, f,protocol=pickle.HIGHEST_PROTOCOL)
+# 	 pickle.dump(字典, f,protocol=pickle.HIGHEST_PROTOCOL)
 #		--------------------將新的辭典加入在底下------------------------
 	辭典 = 型音辭典(4)
 	with gzip.open(辭典一對一, 'rt') as f:
@@ -117,14 +116,12 @@ if __name__ == '__main__':
 		檔案加入辭典(f, 辭典)
 	with open('05.典藏校對有例句.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('cbgb001字典.txt','rt') as f:
+	#with open('台本cbgb001字典.txt','rt') as f:
+		#檔案加入辭典(f, 辭典)
+	with open('台本cbgb002字典.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
-		
-	with open('cbgb002字典.txt','rt') as f:
-		檔案加入辭典_不變調(f, 辭典)
-	with open('cbgb004字典.txt','rt') as f:
-		檔案加入辭典_不變調(f, 辭典)
-		
+	with open('台本cbgb004字典.txt','rt') as f:
+		檔案加入辭典(f, 辭典)
 	with open('台華詞典一對一.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
 	with open('05.華臺校對有例句.txt','rt') as f:

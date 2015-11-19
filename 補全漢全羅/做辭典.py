@@ -100,12 +100,13 @@ if __name__ == '__main__':
 					辭典.加詞(詞物件)
 			except:
 				pass
-			
-# 	字典 = 型音辭典(1)
-# 	with gzip.open(辭典一對一, 'rt') as f:
-#	 檔案加入字典(f, 字典)
-# 	with gzip.open(斷字典, 'wb') as f:
-# 	 pickle.dump(字典, f,protocol=pickle.HIGHEST_PROTOCOL)
+#		--------------------將新的字典加入在底下------------------------			
+	#字典 = 型音辭典(1)
+	#with gzip.open(辭典一對一, 'rt') as f:
+		#檔案加入字典(f, 字典)
+	#with gzip.open(斷字典, 'wb') as f:
+		#pickle.dump(字典, f,
+				#protocol=pickle.HIGHEST_PROTOCOL)
 #		--------------------將新的辭典加入在底下------------------------
 	辭典 = 型音辭典(4)
 	with gzip.open(辭典一對一, 'rt') as f:
@@ -120,7 +121,7 @@ if __name__ == '__main__':
 		#檔案加入辭典(f, 辭典)
 	with open('台本cbgb002字典.txt','rt') as f:
 		檔案加入辭典(f, 辭典)
-	with open('台本cbgb004字典.txt','rt') as f:
+	with open('台本cbgb004字典1113(校).txt','rt') as f:
 		檔案加入辭典(f, 辭典)
 	with open('台華詞典一對一.txt','rt') as f:
 		檔案加入辭典(f, 辭典)

@@ -1,0 +1,4624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="20130420_Neighbor" scribe="user2" version="25" version_date="151113">
+<Speakers>
+<Speaker accent="" check="no" dialect="native" id="spk1" name="口白" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk2" name="李仔哥" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk3" name="唐美雲" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk4" name="A.D1" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk5" name="陳雨鑫" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk6" name="A.D2" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk7" name="A.D3" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk8" name="A.D4" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk9" name="A.D.5" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk10" name="A.D.6" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk11" name="A.D.7" scope="local"/>
+</Speakers>
+<Episode>
+<Section endTime="3599.855" startTime="0" type="report">
+<Turn endTime="29.943" startTime="0">
+<Sync time="0"/>
+
+<Event desc="zh" extent="instantaneous" type="language"/>
+
+<Sync time="3.344"/>
+li3-giu4 cit1-sam1 kong4-su3 kong4-giu4
+//二─九 七-三 空-四 空-九
+<Sync time="6.157"/>
+li3-giu4 cit1-sam1 kong4-su3 kong4-giu4
+//二─九 七-三 空-四 空-九
+<Sync time="9.095"/>
+siong3-sik1-hap3 li1 e2 hui4-tng2-gi1
+//上 適-合 你 的 血-糖 機
+<Sync time="11.321"/>
+lik3-sik2 hor2-bing5 guan2-sim1 li3
+//綠─色 和-平 關-心 你
+<Sync time="13.954"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+</Turn>
+<Turn endTime="86.786" speaker="spk1" startTime="29.943">
+<Sync time="29.943"/>
+zong4-le3 dua3-dun3-suann1,
+//壯-麗 大-屯-山
+<Sync time="31.537"/>
+bue2-puann3 dior3 kin2-kuai3 
+//陪-伴 著 輕-快
+<Sync time="33.349"/>
+lau2-hiong4 dai3-hai4 e3 dam3-zui1-hor5
+//流-向 大 海 的 淡-水-河
+<Sync time="36.476"/>
+lik3-sik2 hor2-bing5 dai2-uan5 vun2-hua3 gong1-bor4 den3-dai5
+//綠-色 和-平 台-灣 文-化 廣-播 電-台
+<Sync time="40.882"/>
+gah1 lan4 dau4-din2 ui3 dai2-uan5 pa4-biann3
+//佮 咱 鬥-陣 為 台-灣 拍-拚
+<Sync time="44.163"/>
+
+<Event desc="music" extent="instantaneous" type="noise"/>
+
+</Turn>
+<Turn endTime="120.628" speaker="spk1" startTime="86.786">
+<Sync time="86.786"/>
+cu4-binn2-ge4-biah2 u3 go1-za1-vi2 ma3-u3 hen3-dai3-vi2
+//厝-邊-隔-壁 有 古-早-味 嘛-有 現-代 味
+<Sync time="90.473"/>
+li1-a1-gor1 zu1-ci5
+//李-仔-哥 主-持
+<Sync time="92.006"/>
+
+<Event desc="music" extent="instantaneous" type="noise"/>
+
+</Turn>
+<Turn endTime="1632.19" speaker="spk2" startTime="120.628">
+<Sync time="120.628"/>
+lan1 e3 zet1-vok2 lan1 lai2 ga2 kai2-si4
+//咱 的 節-目 咱 來 共 開-始
+<Sync time="122.421"/>
+gin2-na1-rit2 lai2-gong1 ziah1-e2 hit1-kuan1 hit1-lor3 gai1-zong1 la3 heh1
+//今─仔─日 來-講 遮─個 彼-款 彼-號 改-裝 啦 heh
+<Sync time="125.655"/>
+ah1 in2-ui3 na3 gai1-zong1 zit1-le2 hang2-qiap2 e2 si2-zun2
+//阿 因-為 若 改─裝 這-個 行-業 的 時-陣
+<Sync time="128.504"/>
+
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="128.972"/>
+ca2-but1-dor2 sann2-ba4 lak3-zap3 qo3-hang5 ah3
+//差-不-多 三-百 六-十 五 行 矣
+<Sync time="131.796"/>
+mui1-zit3-hang5 long1-zong1 u3 lang2 ki1 ga3 gai1-zong1 la3
+//每 一-行 攏-總 有 人 去 共 改-裝 啦
+<Sync time="134.421"/>
+ah1 na3 gong1 kah1 hor1-tiann1 si3 gong1 gai1-zong1 la3
+//阿 若 講 較 好-聽 是 講 改-裝 啦
+<Sync time="136.939"/>
+ah1 na3-veh1 gong1 gorh1-kah1 iu4-siu3 e3 dor3-si3 gong1 honnh2 zin4-bo2 la3
+//阿 若 欲 講 閣─較 幼─秀 咧 就-是 講 乎 進-步 啦
+<Sync time="139.975"/>
+ah2 cin2-ciunn3 gong1,cia1 lai2 gong4,
+//阿 親-像 講 車 來 講
+<Sync time="142.007"/>
+ah3 cia1 e2 si2-zun2 honnh2
+//阿 車 的 時-陣 乎
+<Sync time="143.257"/>
+ah2 u3-lang5 honnh2,
+//阿 有-人 乎
+<Sync time="144.131"/>
+dor3 hit1-le2 siau4-len5 e2 hing4-cu4 gong1-veh1 
+//就 彼-號 少-年 的 興-趣 講 欲
+<Sync time="145.568"/>
+gai1-cia1 loh3 u2-e2-vor5-e2 loh3
+//改─車 loh 有-的-無-的 loh
+<Sync time="147.183"/>
+ah1 zit1-ma4 na3 u3 tan3&lt;Event desc="tan4" extent="previous" type="lexical"/&gt; sior3&lt;Event desc="sior1" extent="previous" type="lexical"/&gt;-kua1-zinn5
+//阿 這-馬 若 有 趁 小─可 錢
+<Sync time="149.174"/>
+ah1 dor3 zit1-le2 cia1,ah1 sior1 ga2 vi1-hua3 zit3-le3,
+//阿 就 這-個 車，阿 小 共 美-化 一─下
+<Sync time="151.547"/>
+sior1 ga2 vi1-iong5 zit3-le3
+//小 共 美-容 一─下
+<Sync time="153.098"/>
+an1-ni1 cia1 na3 sui4,
+//按-呢 車 若 媠
+<Sync time="155.254"/>
+ah1 cia1 na3 kah1 suann4-diau5 
+//阿 車 若 較 線-條
+<Sync time="157.188"/>
+suann4-hing5 na3-kah1 sen2-zin3 zit3-le3
+//線-形 若 較 先-進 一─下
+<Sync time="158.83"/>
+ah1 sai1 cut1-mng5 e3 si2-zun2 honnh, ah1 dor3 kah1 e3 pann2
+//阿 駛 出-門 的 時-陣 乎 阿 就 較 會 奅
+<Sync time="161.62"/>
+ah1 zit1-ma4 sai1 cut1-mng5 na3 kah1 pann2 e2 si2-zun2 honnh2
+//阿 這-馬 駛 出-門 若 較 奅 的 時-陣 乎
+<Sync time="163.823"/>
+ge4-biah2 gorh1 ze3 zit3-ko2 it1-liok3-a4 honnh2
+//隔-壁 閣 坐 一-箍 一-六-仔 乎
+<Sync time="165.863"/>
+an1-ne1 dor3 lin2-sing1 it1-dai3-hiong1-siu2
+//按-呢 就 人-生 一─大─享-受
+<Sync time="168.002"/>
+
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="168.377"/>
+so1-i1 di3 zit1-le2 hen3-dai3-hua3 e2 sia3-hue2 e2 si2-zun2
+//所-以 佇 這-個 現-代-化 的 社-會 的 時-陣
+<Sync time="171.542"/>
+oh2 zit3-gua1 sin1 e2 ving2-su5 dor3 zau4 cut3-lai3 ah3 neh2
+//哦 一-寡 新 的 名-詞 就 走 出-來 啦 呢
+<Sync time="174.007"/>
+si3-gong1 honnh2, cia2-zin4
+//是 講 乎 車─震
+<Sync time="174.983"/>
+qonn1 cia1 lai3-vin2 gorh1 e3 de2-dang2 oh3
+//qonn 車 內-面 閣 會 地─動 喔
+<Sync time="176.821"/>
+ah1 si3 an1-nua4
+//阿 是 按-怎
+<Sync time="177.595"/>
+ah1 si3 ku2-siong4 vai4 loh2
+//阿 是 ku-siong 䆀 loh
+<Sync time="178.717"/>
+ah1 vor5 cia1 lai3-vin2 e3 de2-dang2 la3
+//抑 無 車 內-面 會 地 動 啦
+<Sync time="180.205"/>
+ah1 dann1 lan1 dor3 gong1 gah1 zia1 ui2-zi4
+//阿 今 咱 就 講 佮 遮 為-止
+<Sync time="182.153"/>
+ah1 cia1 lai3-vin2 e3 de2-dang2
+//阿 車 內-面 會 地 動
+<Sync time="183.351"/>
+ah2 ze1 li1 dor3-ai4 ki1-mng3 hit1-le2 tiau3-hen5-a2
+//阿 這 你 就 愛 去 問 彼-號 兆─玄─仔
+<Sync time="185.441"/>
+
+<Event desc="laugh" extent="instantaneous" type="noise"/>
+
+<Sync time="186.11"/>
+eh2,cia1 kuann4 an1-na1 sai4 
+//欸 車 看 按-怎 駛
+<Sync time="187.547"/>
+ah1,ziah1 sai1-ki1 ling1-zui1-kenn1 e2 si2-zun2
+//阿 才 駛 去 冷-水-坑 的 時-陣
+<Sync time="189.507"/>
+be4-gia2 kah1-u3 gau4-lat2 ah2
+//爬-崎 較 有 夠─力 阿
+<Sync time="190.862"/>
+huah2 he1 li1 dor3 ki1 mng2 i2, he1 m3-mo1 lai2 mng3 qua4
+//喝 彼 你 就 去 問 伊， 彼 毋─好 來 問 我
+<Sync time="193.425"/>
+ah1 li1 na3 gong1,u2-e3 u2 e2 tak3-ce4-lang5
+//阿 你 若 講 有─的 有─的 讀-冊-人
+<Sync time="196.271"/>
+u3 e2 tak3-ce4-lang5 e3 si2-zun2 honnh2
+//有 的 讀-冊-人 的 時-陣 乎
+<Sync time="197.857"/>
+i2 ma3 e3 ki1 gang5 gai1-zong1 neh2
+//伊 嘛 會 去 仝 改-裝 呢
+<Sync time="199.189"/>
+i2 dor3 gai1-siannh2,gai1 honnh1
+//伊 就 改 啥， 改 乎
+<Sync time="201.245"/>
+kah1-za4 hiah1 e2 si2-gu3 ah3
+//較-早 遐 的 詩-句 阿
+<Sync time="202.821"/>
+ah1 i2 dor3 ki1 ga2 sior1 ga2 siu2-gai4 zit3-le3
+//阿 伊 就 去 共 稍 共 修-改 一─下
+<Sync time="204.892"/>
+ah1 vo1 zit3-le2 bo3-hun2 ah1 sior1 ga2 gai4 zit3-le3 
+//阿 某 一─個 部-份 阿 稍 共 改 一─下
+<Sync time="206.965"/>
+ah1 gai1 zit3-le2 honnh2, kah1 pue4-hap3 dior3 i2 e2 i4-su3
+//阿 改 一─個 乎, 較 配-合 著 伊 的 意-思
+<Sync time="209.897"/>
+ah1 u3-dang2-si2, siau4-len2-a4 
+//阿 有-當-時 少─年─仔
+<Sync time="212.241"/>
+di3 hit1-le2 den3-nau4 ding1-tau5 e2 vang3-zam2 ding1-tau5
+//佇 彼-個 電-腦 頂-頭 的 網-站 頂-頭
+<Sync time="214.706"/>
+honnh2, ah1 u3-dang2-si2 dor3 an1-ne1 honnh2
+//乎， 阿 有-當-時 就 按-呢 乎
+<Sync time="216.082"/>
+ah1 sior1 ben2 zit3-gua1 u2-e2-vor5-e2
+//阿 小 編 一-寡 有-的-無-的
+<Sync time="217.851"/>
+ah1 ga3 li1 a2-giu4─a3 siau2-ken4 zit3-le3
+//阿 共 你 阿─九─仔 消-遣 一─下
+<Sync time="219.612"/>
+ah1 ze1 ma3-si3 siok3-i2 
+//阿 這 嘛-是 屬-於
+<Sync time="220.686"/>
+gai1-zong1 e2 hit1-le2 huan3-ui5 lai3-vin2 la3
+//改-裝 的 彼-號 範-圍 內-面 啦
+<Sync time="223.431"/>
+ah1 so1-i1 honnh2, li1 veh1 gong1 i2 gai1-zong1 ah3 hor4
+//阿 所-以 乎, 你 欲 講 伊 改-裝 也 好
+<Sync time="226.277"/>
+veh1-gong1 i2 si3 u3 leh1 zin4-bo2 ah3 hor4
+//欲 講 伊 是 有 咧 進-步 也 好
+<Sync time="228.171"/>
+oh2 ga3 li1 gong4,sui2 go1-lang5 e2 i3 la3
+//哦 共 你 講， 隨 個-人 的 意 啦
+<Sync time="230.5"/>
+ah1 li1 cin2-ciunn3 gong1,
+//阿 你 親-像 講 
+<Sync time="231.858"/>
+zit1-ma4 zit3-le2 gui4-zet2 cun2-zet2 e2 si2-zun2 honnh3
+//這-馬 這─個 季-節 春-節 的 時-陣 乎
+<Sync time="234.293"/>
+siann1-meh1 leh1 cing2-ving5 si2-zet2 u1 hun2-hun1
+//啥-物 咧 清-明 時 節 雨 紛-紛
+<Sync time="236.908"/>
+ah3 na4-u3-iann4,u2-dang2-si2 cing2-ving5 si2-zet2, hong1─vi2-vi1 ah2
+//阿 那─有-影， 有─當-時 清-明 時─節 風─微─微 阿
+<Sync time="240.393"/>
+
+<Event desc="laugh" extent="instantaneous" type="noise"/>
+
+<Sync time="241.144"/>
+ah1 sua3-lor3-ki3 honnh2, he1 guan2-gong2 de3-ku1 ling1-gi2-gi1 ah2
+//阿 紲─落-去 乎， 彼 觀-光 地-區 冷-吱-吱 阿
+<Sync time="244.606"/>
+ah1 li1 ho2 na3-gorh1 lor2 lor3-ki3
+//阿 你 雨 若 閣 落 落-去
+<Sync time="246.302"/>
+ah1 hong1 gorh1 cue1-lor3 guann2-gah1─veh1─si4 
+//阿 風 閣 吹─落 寒─佮─欲─死
+<Sync time="247.869"/>
+ah3 si3 siann1-mih1 lang5 veh1-ki1 guan2-gong2-de3-ku1 ah2
+//阿 是 啥-物 人 欲 去 觀-光 地-區 阿
+<Sync time="250.082"/>
+ah1 zior4-mng2 ziu1-ga1 hor2-cu3 iu4
+//阿 借-問 酒-家 何-處 有
+<Sync time="251.863"/>
+eh2 ah1 zit1-gu3 an1-ne1 gam1-diorh2
+//欸 阿 這-句 按-呢 敢─著
+<Sync time="254.082"/>
+eh1 zit1-ma4 ma3-si3 iah1 u3-dang2-si2 gong1 
+//欸 這-馬 嘛-是 抑 有-當-時 講
+<Sync time="255.675"/>
+zior4-mng3 ia3-diam3 hor2-cu3 iu4
+//借-問 夜─店 何-處 有
+<Sync time="257.617"/>
+an1-ni1 m3 ziah1-u3 i4-su3 honnh2
+//按-呢 毋 才─有 意-思 乎
+<Sync time="259.584"/>
+ah1 u3-dang2-si2 veh1-gorh1 ga2 gai4,
+//阿 有-當-時 欲 閣 共 改
+<Sync time="260.647"/>
+gorh1 sior1 ga2 gai4 zit3-le3 gong1 honnh2
+//閣 稍 共 改 一─咧 講 乎
+<Sync time="262.481"/>
+ah1 zior4-mng3 tam2-guann1 hor2-cu3 iu4,honnh2 honnh3 honnh3
+//阿 借-問 貪-官 何-處 有， honnh-honnh-honnh
+<Sync time="266.368"/>
+ah1 qi3-quan5 iau2-zi4 ci3-zing4-hu4
+//阿 議─員 遙─指 市-政-府
+<Sync time="268.75"/>
+
+<Event desc="laugh" extent="instantaneous" type="noise"/>
+
+<Sync time="269.495"/>
+ah1 ze1 ma3-si3 u3 konn1-ling5 ah3 m3-si3 vor2 konn1-ling5 e3
+//阿 這 嘛-是 有 可-能 阿 毋-是 無 可-能 欸
+<Sync time="271.71"/>
+ah1 cin2-ciunn3 gong1, eh2 hit1-le2 hit1-tong4 e2 guan2-he2 la3
+//阿 親-像 講， 欸 彼-個 血-統 的 關-係 啦
+<Sync time="276.659"/>
+li1 dor3 gah1─lang2 vor2-gang3 het1-me2 a4
+//你 就 佮─人 無-共 血─脈 矣
+<Sync time="279.22"/>
+ah1 li1 lor2 het1-me2 gah1-lang2 vor2-gang2 e2 si2-zun2
+//阿 你 就 血─脈 佮─人 無-仝 的 時-陣
+<Sync time="281.561"/>
+ben4-zor4-gong1 honnh2,
+//變-做 講 乎
+<Sync time="282.405"/>
+he1 li1 zit1-lor2 gah1 lang2 dor3 vor2-gang3 zing4 e3,hannh2
+//彼 你 這-號 佮 人 就 無-仝 種 的，hannh
+<Sync time="285.072"/>
+ah1 li1 gah1-lang2 vor2-gang3-zing4 e3 li1 ze1 dor2,hennh2
+//阿 你 佮─人 無-仝─種 會 你 這 就 歇
+<Sync time="288.037"/>
+gorh1 sua3-lor3-ki3, ziong2-gi2-vue4 li1 dor3-si3 lo2-zai2-a1 mia2
+//閣 紲 落-去， 終-其-尾 你 就-是 奴-才-仔 命
+<Sync time="291.479"/>
+au3-lit3-a4 si1 si1 dor3-iu4 vor2 si1 bin2-dor2
+//後-日─仔 死 死 道-友 無-死 貧-道
+<Sync time="293.811"/>
+cuan4-si4 long1 si1 lin1-zia1, li1 ga2 kuann4 kong4-it1-su3 eh3 honnh2
+//串 死 攏 死 恁-遮， 你 共 看 空─一─四 的 乎
+<Sync time="296.737"/>
+ah1 hit1-le2 siann1-mih1 lu5 e2,
+//阿 彼-個 啥-物 如 的
+<Sync time="298.05"/>
+ah1 hit1-le2 siann1-mih1 dor4-bun4-sor3 e3
+//阿 彼-個 啥-物 倒─糞-埽 的
+<Sync time="299.469"/>
+ah1 hit1-le2 siann1-mih1 king1 e1
+//阿 彼-個 啥-物 卿 的
+<Sync time="300.499"/>
+he1 gah1-vue4 a3 ziong2-gi2-vue4 gam1 m3-si3 an1-ne1
+//彼 佮 尾 仔 終-其-尾 敢 毋-是 按-呢
+<Sync time="302.659"/>
+ah1 m3-gu1 e3, hit1-le2 ing2-hua3-hu4-gui3 
+//阿 毋-閣 會 彼-個 榮─華─富-貴
+<Sync time="305.591"/>
+sit3-zai2 si3 ziok1 painn1-ki1 ga2 gi3-zuat2 e2 la3
+//實-在 是 足 歹 去 共 拒-絕 的 啦
+<Sync time="308.662"/>
+iu2-gi2 si3 ko2-ko1 hennh2, zit1-le2 qin2-niu4 ah3
+//尤-其 是 箍─箍 hennh, 這─個 銀-兩 阿
+<Sync time="311.242"/>
+sit3-zai2 si3 zin2-painn1 gi3-zuat2
+//實-在 是 真-歹 拒-絕
+<Sync time="313.124"/>
+li1 ga2 siunn3 ho2 cing2-cor4 la3
+//你 共 想 予 清-楚 啦
+<Sync time="314.521"/>
+
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="315.036"/>
+an1-ne1 biann4-senn2-biann4-si4, honnh2
+//按-呢 拼─生─拼─死， 乎
+<Sync time="316.923"/>
+ah1 u3-dang2-si2 an1-ne1,gan2-ko1 gui2-gang1
+//阿 有-當-時 按-呢 艱-苦 規-工
+<Sync time="319.299"/>
+ah1 so1 tan3 zit3-le3,
+//阿 所 趁 一─下
+<Sync time="320.549"/>
+ca2-but1-dor2 ah1 na3-u3 zit3-cing2-ko1 ze1 sng4 zin2-zan4 ah3 neh2
+//差-不-多 阿 若-有 一-千-箍 這 算 真-讚 啦 呢
+<Sync time="323.222"/>
+ah1 li1 dor3 u2 e5 cin2-ciunn3-gong1 ki1 lo3-binn1
+//阿 你 就 有 的 親 像-講 去 路-邊
+<Sync time="325.309"/>
+ah1 te3 zit3-de4 ziau2-bai2-a4 dam4-hia1 kia2
+//阿 提 一-塊 招─牌-仔 店 遐 徛
+<Sync time="327.564"/>
+zit3-diam1-zing1 zit1-ma4 ah3 u3 gau1-zap2 e2, ah3 u3 be4-zap2 e2
+//一-點-鐘 這-馬 也─有 九─十 的 也─有 八─十 的
+<Sync time="330.943"/>
+ah1 si3 kau4 ben3-dong2 zinn5 liau4 honnh2
+//阿 是 扣 便-當 錢 了 乎
+<Sync time="332.537"/>
+ah1 na3 huat2 e2 si2-zun2,uan2-na2 huat1 ba4-gui1-ko1 la3
+//阿 若 發 的 時-陣， 原─若 發 百-幾 箍 啦
+<Sync time="334.775"/>
+ah3 ze1 hit1-kuan1 hit1-lor3 kai2-zinn5 e2 lang5,
+//阿 這 彼-款 彼-號 開-錢 的 人
+<Sync time="336.325"/>
+lan1 ma3-ai4 ga3-lang2 liong3-gai4 ah2
+//咱 嘛 愛 共-人 諒-解 阿
+<Sync time="337.668"/>
+ah1 zit1 lai3-vin2 honnh2,
+//阿 這 內-面 乎
+<Sync time="338.636"/>
+ai4 gorh1 ben3-dong2 zinn5 ah2
+//愛 閣 便-當 錢 阿
+<Sync time="339.991"/>
+ah1 he1-lor2 tau2-ge1 cut2 e3 ah2
+//阿 彼─號 頭-家 出 的 阿
+<Sync time="341.508"/>
+ah1 so1-i4 sit3-ze4-siong2 nia4-dior3 e3 
+//阿 所-以 實-際-上 領─著 的
+<Sync time="343.023"/>
+ca2-but1-dor2 ah1 be4-zap2 zi4 gau1-zap2 diong2-gan1 la3
+//差-不-多 阿 八─十 至 九─十 中-間 啦
+<Sync time="345.044"/>
+
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="345.342"/>
+ah1 hut1 gui2-gang1 neh2,hong1-cue1 lit2-pak2 neh2
+//阿 hut 規-工 呢 風─吹 日─曝 呢
+<Sync time="347.46"/>
+ah1 u3-dang2-si2 kah1 vor2-gah1 ziunn3-cing2-ko1 la3
+//阿 有-當-時 較 無 佮 上 千-箍 啦
+<Sync time="350.038"/>
+ah1 li1 gong1, ah1 hiong2-hiong5 
+//阿 你 講 阿 雄-雄
+<Sync time="351.45"/>
+ah lang2 veh1 du2 zit3-e3 ah1 zit3-ba4-van2 lai2 ho2 li2
+//ah 人 欲 du 一─個─仔 一-百-萬 來 予 你
+<Sync time="354.18"/>
+veh1 hiong2-hiong5 du2 zit3-e3─a1 
+//欲 雄-雄 du 一─個─仔
+<Sync time="355.073"/>
+sann2-cing2-van2 lai2 ho2 li2, hoh2
+//三 千-萬 來 予 你， hoh
+<Sync time="356.667"/>
+zia4-sa1 hia4-sa1 it1-sam1 li3-sam1 sam2-sam1 li3-sam1,heh2
+//遮 捎 遐 捎 一─三 二─三 三-三 二─三, heh
+<Sync time="359.577"/>
+he1 zin2-hor4 e3 dai3-zi3 ah2,
+//彼 真-好 的 代-誌 阿
+<Sync time="360.823"/>
+siann1-mih1 lang5 vor2 siunn3 he1 
+//啥-物 人 無 想 彼
+<Sync time="362.26"/>
+diorh2-vor3
+//著─無
+<Sync time="362.893"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="363.388"/>
+ah1 li1 na3-gong1, te3 ho3 qua2, ah1 qua1 ziah2 lor3-ki3
+//阿 你 若-講，提 予 我， 阿 我 食 落-去
+<Sync time="365.981"/>
+qua1 bo2-lor3-ki3,
+//我 哺─落-去
+<Sync time="366.794"/>
+ah1 gorh1 e3 siau2-hua3,siann1-mih1 lang5 vor2-ai3 ah3
+//阿 閣 會 消-化 啥-物 人 無-愛 阿
+<Sync time="369.246"/>
+ah1 na3 vor5-ai3 ziah1-si3 qen4-tau5, honnh2
+//抑 若 無─愛 才 是 癮-頭，乎
+<Sync time="371.113"/>
+na1 ciunn3-gong1 honnh2
+//若 像-講 乎
+<Sync time="371.907"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="373.204"/>
+ni2-go1 hue2-siunn2 it1-ge2 cin1 la3
+//尼-姑 和-尚 一-家 親 啦
+<Sync time="375.36"/>
+ah1 hong3-hun1 sam4-bo2 giann2-dau4-din2 la3, hannh2
+//阿 黃-昏 散-步 行 鬥-陣 阿， hannh
+<Sync time="378.421"/>
+annh2,am4-si5 gang3-cng5 gorh1 hor1 lor3-vin5 a3
+//annh, 暗-時 仝-床 閣 好 落-眠 阿
+<Sync time="381.196"/>
+tinn1-gng1 za1-kor3 gorh1 vor2 zing2-sin5 a3
+//天─光 早─課 閣 無 精-神 也
+<Sync time="383.385"/>
+ah1 u3-dang2-si2 zit1-kuan1 zing2-hing5 e2 si2-zun2 honnh2
+//阿 有-當-時 這-款 情-形 的 時-陣 乎
+<Sync time="386.0"/>
+ni2-go1 hue2-siunn2 it1-ge3 cin1,eh2 painn1-se3 honnh2
+//尼-姑 和-尚 一─家─親，會 歹-勢 乎
+<Sync time="387.795"/>
+qua1 zit1-ma4 m3-si3 leh1 pinn4-siunn4 gong1,
+//我 這-馬 毋-是 咧 片-相 講
+<Sync time="389.326"/>
+zit1 nng3─e2 gak1-sik2
+//這 兩─個 角-色
+<Sync time="389.97"/>
+qua1 si3 zior4 zit1-e2 ving2-su5 lai2 ing2 honnh2
+//我 是 借 這-個 名-詞 來 用 乎
+<Sync time="392.205"/>
+ah1 li1 gong1 ni2-go2 hue2-siunn2 it1-ge2─cin1, hng4
+//阿 你 講 尼-姑 和-尚 一-家-親, hng
+<Sync time="394.834"/>
+ah1 li1 ziah1-e2 han2-zi2-a4 ah1 li1 lor3 ki1 ga2 kuan2-gui3
+//阿 你 遮─個 番-薯-仔 阿 你 就 去 佮 權─貴
+<Sync time="397.588"/>
+ah1 dam4-hia1 honnh2, gor2-lai2 gor2-ki3 honnh2 ＊＊
+//阿 店 遐 乎， 高 來 哥 去 乎
+<Sync time="400.123"/>
+ah1 hong3-hun1 sam4-bo2 giann2 dau4-din2
+//阿 黃-昏 散-步 行 鬥-陣
+<Sync time="402.021"/>
+ah1 u3-dang2-si2 na3 gong1 dai3-zi3,
+//阿 有-當-時 若 講 代-誌
+<Sync time="403.338"/>
+ah1 lin1 dor3 ai4 gap1 zor4-hue4, honnh2＊＊＊
+//阿 恁 就 愛 合 做-伙 乎
+<Sync time="404.932"/>
+ah1 u3-dang2-si2 honnh2,
+//阿 有-當-時 乎
+<Sync time="406.036"/>
+gorh1 zior2-ki1 gah1 bi4-vit2 e2 so1-zai2
+//閣 招─去 較 秘─密 的 所-在
+<Sync time="407.59"/>
+zior2 e1 gah1 ban3-gong2-sik2,
+//招 的 佮 辦-公-室
+<Sync time="408.59"/>
+ah1 dam4-hia1 (da1) bi1-ciu1-ue3-dor1
+//阿 店 遐 (焦) 比-手─畫-刀
+<Sync time="410.353"/>
+dam4-hia1 kan2-lai2-kan2-ki3,honnh2
+//店 遐 牽-來 牽-去 乎
+<Sync time="411.967"/>
+ah1 zit1-diau5 lit2-lai3 veh1 an1-na1 cong3
+//阿 這-條 入─來 欲 按-怎 創
+<Sync time="413.479"/>
+ah1 hit1-diau5 lit2-lai3 veh1 an1-na1 cong2
+//阿 彼-條 入─來 欲 按-怎 創
+<Sync time="415.041"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="415.635"/>
+ah1 dong2-len5 ah3,ban3-gah1 zing4-su2 e2 si2-zun2 honnh2
+//阿 當─然 阿 辦 佮 正-事 的 時-陣 乎
+<Sync time="418.211"/>
+li1 na3 lior3─ah1 zit3-sut1-la1 so1-zai2 bun2 ve3-binn5
+//你 若 略─仔 一─屑─仔 所-在 分 袂─平
+<Sync time="420.851"/>
+ah1 li1 na3 biak2-cuai3 li1 dor3 gai2-si4 ah3
+//阿 你 若 煏─出'來 你 就 該-死 阿
+<Sync time="422.238"/>
+ah1 zit1-ma4 biak2-cuai3 gai2-si4 e2 si2-zun2, eh2
+//阿 這-馬 煏─出'來 該-死 的 時-陣，欸
+<Sync time="424.787"/>
+zong2-giann4-lin5 vi4-di3 au3-biah2 la3
+//藏─鏡─人 覕-佇 後-壁 啦
+<Sync time="426.804"/>
+si1 si1 dor3-iu4 vor2-si1 bin2-dor2 la3
+//死 死 道-友 無-死 貧-道 啦
+<Sync time="428.663"/>
+dong2-len5 si4 si3 si4 dor3 si1 dior3 lin1-zia1
+//當─然 死 是 死 就 死 著 恁-遮
+<Sync time="431.143"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="431.502"/>
+ah1 ze1 dai2-uan2-lang5 
+//阿 這 台-灣-人
+<Sync time="433.008"/>
+u2-dang2-si2 zin2-ze2 zin2-ze2 ah1-gorh1 kuann4-ve3 cing2-cor4
+//有 當-時 真-濟 真-濟 阿-閣 看 袂 清-楚
+<Sync time="435.986"/>
+ah1 kuann4-ve3 cing2-cor4 lor2 zok1 gan1-dan1 e3 a3
+//阿 看 袂 清-楚 就 足 簡-單 的 也
+<Sync time="437.889"/>
+in2-ui3 leh3, i2 dor2 hen3-si5 e2 li3-ik2
+//因-為 咧， 伊 就 現-時 的 利-益
+<Sync time="440.824"/>
+i2 i1-ging2 iong1-iu4 ah3,
+//伊 已-經 擁-有 阿
+<Sync time="442.418"/>
+ah1 i1 but1-si5 long1-zong1 u3 ling2-zui4 tang2-hor1 suk2, honnh2
+//阿 伊 不-時 攏-總 有 奶-水 通-好 suk，乎
+<Sync time="445.603"/>
+ah1 i2 m3-zai2-iann1 gong1 honnh2
+//阿 伊 毋-知-影 講 乎
+<Sync time="446.939"/>
+li1 su4 lang2 zit3-cui4 ling2-zui4 honnh2
+//你 suh 人 一-喙 奶-水 乎
+<Sync time="448.776"/>
+lin1-dau1 au3-vue1-mng2 a4 ki1-hong5 
+//恁-兜 後-尾-門 仔 去-予'人
+<Sync time="450.173"/>
+du4
+<Event desc="dor4" type="lexical" extent="previous"/>
+ nng3-cia1 e2 bun4-sor3
+//倒 兩 車 的 糞-埽
+<Sync time="451.591"/>
+i2 long1 ve3-hiau1 veh1 ki1 sng4 ze1
+//伊 攏 袂-曉 欲 去 算 這
+<Sync time="452.896"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="453.275"/>
+ah1 na3 ve3-hiau1 veh1-ki1 sng4-ze1 e2 si2-zun2,
+//阿 若 袂-曉 欲 去 算 這 的 時-陣
+<Sync time="454.963"/>
+ziong2-gi2-vue4 honnh2
+//終-其-尾 乎
+<Sync time="455.828"/>
+li1 dor3 an1-ne1 hai3-liu1-liu4
+//你 就 按-呢 害-溜-溜
+<Sync time="457.149"/>
+so1-i1, di3 kah1-za4 lang2 dui4-dior3 dai2-uan2-lang5
+//所-以 佇 較-早 人 對-著 台-灣-人
+<Sync time="460.147"/>
+long1-u3 zit3-ziong4 e2 ping2-qu4,
+//攏-有 一-種 的 評-語
+<Sync time="462.026"/>
+zit1-ziong4 e2 ping2-lun2 dor3-si3 gong1
+//這-種 的 評-論 就-是 講
+<Sync time="464.021"/>
+dai2-uan2-lang5 ai4-zinn5, ai4 zor4-guann1, giann2-si4
+//台-灣-人 愛-錢 愛 做-官 驚-死
+<Sync time="470.315"/>
+gorh1-lai5 iah1-gorh1 u2 neh2, hor1-pen3
+//閣 來 抑-閣 有 呢， 好─騙
+<Sync time="472.978"/>
+
+<Event desc="empty" extent="instantaneous" type="noise"/>
+
+<Sync time="474.338"/>
+painn1-ga3, ah1 u3 painn1-ga3 vor3
+//歹-教，阿 有 歹-教 無
+<Sync time="476.492"/>
+u3-iann4, u3-dang2-si2 honnh2, e3 gam1-gak1 ziok1 painn1-ga3
+//有-影， 有-當-時 乎，會 感-覺 足 歹-教
+<Sync time="478.854"/>
+dor3 ga3 i2 gong1 honnh2,
+//就 共 伊 講 乎
+<Sync time="479.822"/>
+ah1 hit1-lor2 dong4 
+//阿 彼-號 黨
+<Sync time="480.533"/>
+li1 dor3 m3-mo1 ki1 suan1-ho2 i2 honnh2
+//你 就 毋-好 去 選 予 伊 乎
+<Sync time="481.874"/>
+ah1 sen2 gong4 lor2 gong1 ve3-tong1
+//阿 先 講 就 講 袂-通
+<Sync time="483.497"/>
+ah1 di2-liau1 gong1 i2 veh1 si4 ah3
+//阿 除-了 講 伊 欲 死 阿
+<Sync time="485.349"/>
+ah2 ah1 i1-ging2 honnh2, dor2 ga2 du3-gah1 i2 e2 am3-a1-gun4 ah3
+//阿 阿 已-經 乎 刀 共 拄 佮 伊 的 頷-仔-頸 阿
+<Sync time="488.22"/>
+i2 ziah1-leh1 hua4 giu4-lang5, i2 ziah1-leh1 hua4 giu4-mia2
+//伊 才─咧 喝 救-人 伊 才─咧 喝 救-命
+<Sync time="490.642"/>
+ah1 he1 long1 ve3-hu3 ah3, he1 long1 siunn2-van2 la3
+//阿 彼 攏 袂-赴 矣， 彼 攏 傷-慢 啦
+<Sync time="492.839"/>
+ze1 bun1-lai5 dor3-si3 an1-ne1
+//這 本-來 就-是 按-呢
+<Sync time="495.152"/>
+ah1 zit1-ma4 gorh1 ga2 kan2 dor4-dng3-lai3, gong1 honnh2
+//阿 這-馬 閣 共 牽 倒 轉 來, 講 乎
+<Sync time="497.886"/>
+zit1-le2 gai1-zong1 e2 si2-zun2,
+//這-個 改-裝 的 時-陣
+<Sync time="499.698"/>
+ah1 na3 siok3-qi1-ue2 gong1
+//阿 若 俗-語-話 講
+<Sync time="501.783"/>
+zit1-le2 zin4-bo2 dor3 diorh2 la3
+//這─個 進-步 就 著 啦
+<Sync time="503.784"/>
+ah1 dong2-len5 siann1-mih1 dai3-zi3 
+//阿 當─然 啥-物 代-誌
+<Sync time="505.377"/>
+long1-zong1 u3 gai1-sen2 e2 kong2-gan1
+//攏-總 有 改-善 的 空-間
+<Sync time="507.198"/>
+li1 kor1-bi1 gong1,li1 siau4-len2─na4
+//你 可-比 講， 你 少-年-仔
+<Sync time="509.276"/>
+ah1 u3-dang2-si2 honnh2,
+//阿 有-當-時 乎
+<Sync time="510.479"/>
+eh2 siau4-len2─na4 zin2-ze3 long1-ai4 sng1-cia1
+//欸 少-年─仔 真-濟 攏-愛 耍─車
+<Sync time="512.837"/>
+ah1 siau4-len2-na4 ai4 sng1-cia1 gah1 zit1-le2 sia3-hue2 
+//阿 少-年─仔 愛 耍─車 佮 這-個 社-會
+<Sync time="515.543"/>
+gah1 zit1-le2 gok1-ga1 e3 zing4-cik2 
+//佮 這-個 國-家 的 政-策
+<Sync time="517.293"/>
+ge2-giam4 long1-u3 guan2-he2
+//加-減 攏-有 關-係
+<Sync time="518.878"/>
+in2-ui3 leh3,i2 dor2 sin2-sui4 nia4 lai3
+//因-為 咧 伊 就 薪-水 領 來
+<Sync time="522.574"/>
+ah1 ca2-but1-dor2 kai2-siau1 i1-qua2, eh2
+//阿 差-不-多 開-銷 以-外，欸
+<Sync time="525.11"/>
+ah1 na3 hor1-un2 e2 gong1 iah1-gorh1 u3 cun1 sior3-kua3
+//阿 若 好-運 的 講 抑-閣 有 賰 小─可
+<Sync time="527.797"/>
+ah1 na3 painn1-un2 e2 gong1 ing1-uan4 dor2 an1-ne1 honnh2
+//阿 若 歹-運 的 講 永-遠 都 按-呢 乎
+<Sync time="530.328"/>
+but1-si2 dor2 ai4 te3 hit1-diunn2 so4
+<Event desc="sok1" type="lexical" extent="previous"/>
+-ga2 ka4-pinn3
+//不-時 都 愛 提 彼-張 塑─膠 卡-片
+<Sync time="532.598"/>
+ki1 ga3 qin2-hang5 hia1 sior1 ga2 sior1 ziu2-zuan4 zit3-le3
+//去 共 銀-行 遐 稍 共 稍 周-轉 一─下
+<Sync time="535.278"/>
+dan1 ga4 nia1 sin2-sui4 e2 si2-zun2,ziah1 guann1-gin1 lai2-hing5
+//等 佮 領 薪-水 的 時-陣 才 趕-緊 來 還
+<Sync time="537.898"/>
+ze1 si3 iah1 sng4-zor4 gong1 ve3-vai4
+//這 是 抑 算-做 講 袂-䆀
+<Sync time="539.678"/>
+ah1 u3 e2 gin2-bun4 dor2 an1-ni1 honnh2, ve3-hiau1 siunn2
+//阿 有 的 根-本 都 按-呢 乎， 袂-曉 想
+<Sync time="542.174"/>
+ah1 so1-i1 honnh2,heh2 
+//阿 所-以 乎，heh
+<Sync time="544.175"/>
+gor1 e1 qua3-kau4 leh1 lau2, ah1 zui4 e3 ziah1 lai3-vin2 leh1 dih2
+//膏 的 外-口 咧 流，阿 水 的 才 內-面 咧 滴
+<Sync time="546.833"/>
+ah1 nia1 zit3-e3-a1 iu1-han2 e2 siu2-lip2,hennh2
+//阿 領 一─個─仔 有-限 的 收─入，hennh
+<Sync time="549.118"/>
+ah1 qua3-vin2 e2 kai2-siau1 gorh1 hiah1-ni3 dua2
+//阿 外-面 的 開-銷 閣 遐-呢 大
+<Sync time="551.149"/>
+ziong2-gi2-vue4 dor3 gui2-sim1 long1 ga2 dor4-lor3 
+//終-其-尾 就 規-心 攏 共 倒-落
+<Sync time="553.542"/>
+bang4 ho3 qin2-hang5 ki1 tua1
+//放 予 銀-行 去 拖
+<Sync time="554.89"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="555.296"/>
+ah1 na3─si3 qin2-hang5 tua2 liau1-au2 
+//阿 若─是 銀-行 拖 了-後
+<Sync time="556.858"/>
+qin2-hang5 gorh1 liok1-gah1 lin1-dau1
+//銀-行 閣 liok-佮 恁-兜
+<Sync time="558.208"/>
+ziah1 ho3 be3-vu4 lai2 ga3 li1 cit1 ka2-cng1,lai2 ga3 li1 lam1-vue4
+//才 予 爸-母 來 共 你 拭 尻-川， 來 共 你 攬─尾
+<Sync time="560.877"/>
+ah1 ze1 long1-zong4 u2 hainn2
+//阿 這 攏-總 有 害
+<Sync time="561.974"/>
+ah1 zit1-ma4 gorh1 ga2 ko2 dor4 dng3-lai3
+//阿 這-馬 閣 共 箍 倒 轉 來
+<Sync time="563.504"/>
+u3 e2 zit1-ma4 siau4-len5 e2,
+//有 的 這-馬 少-年 的
+<Sync time="565.223"/>
+vo4 na3 cua2 a3 m3-gann1 sinn1
+//某 若 娶 也 毋-敢 生
+<Sync time="567.722"/>
+ah1 u3─e2 gin2-bun4 dor3 u3 ni1
+<Event desc="lu1" type="lexical" extent="previous"/>
+-bing2-iu4
+//阿 有 的 根-本 就 有 女─朋─友
+<Sync time="569.503"/>
+gau2-lai2 gau2-ki3 a3 m3-gann1 get2
+//交─來 交─去 也 毋-敢 結
+<Sync time="570.981"/>
+honnh2, ah1 dan1-gah1 gong1 ah1 na3 bat1-do4 dua2-kiai3 honnh2
+//乎，阿 等 佮 講 阿 若 腹-肚 大-去'來 乎
+<Sync time="573.654"/>
+ah1 gai2-dong2 ui3-dior3 qin1-na4 hong3-zu4-sing2-hun1
+//阿 該-當 為-著 囡-仔 奉─子─成─婚
+<Sync time="576.434"/>
+hit1-le2 si2-zun2 ai4 get2 ziah1 lai2 get2 la3
+//彼-號 時-陣 愛 結 才 來 結 啦
+<Sync time="578.117"/>
+ah1 ze1 long1 u3 i2 e2 kor1-liong5
+//阿 這 攏 有 伊 的 考─量
+<Sync time="580.176"/>
+ah1 i2 e2 siunn3-huat2 dor3-si3 gong1 honnh2
+//阿 伊 的 想-法 就-是 講 乎
+<Sync time="581.864"/>
+gin2-bun4 qua1 e2 siu2-lip2 
+//根-本 我 的 收─入
+<Sync time="583.069"/>
+dor2 vor2-huat1-do2 ho2 hit1-kuan1 hit1-lor2
+//就 無-法-度 予 彼-款 彼-號
+<Sync time="584.539"/>
+ki1 ci3 zit3-le2 giann4, li1 veh1 gior4 qua1 an1-nua1 sinn1
+//去 飼 一-個 囝， 你 欲 叫 我 按-怎 生
+<Sync time="586.496"/>
+ah1 sit3-zai3 gong4 kit3-lai3 uan2-na1 u3 dor3-li4 la3
+//阿 實-在 講 起-來 原─若 有 道-理 啦
+<Sync time="588.487"/>
+eh2, hen3-dai2 zit1-dai3-lang5 honnh2
+//欸， 現-代 這-代 人 乎
+<Sync time="590.196"/>
+long1 zor4 zor3 zit3-gua1 ziah1-e2 u3-sui1 vor2-guann2 e2 dai3-zi3 ah3
+//攏 做 做 一-寡 遮─個 有 媠 無-汗 的 代-誌 阿
+<Sync time="593.379"/>
+lau2-lau5 zit3-gua1 hut3-zu1-sai4 honnh2,
+//留─留 一-寡 核-子─屎 乎
+<Sync time="594.895"/>
+veh1 ho3 ziah1-e2 giann1-sun1
+//欲 予 遮─個 囝-孫
+<Sync time="596.353"/>
+ze1 uan2-na3 zin2-ziann4 iau1-siu3-gut2 la3
+//這 原-若 真-正 夭-壽-骨 啦
+<Sync time="598.281"/>
+ah1 li1 gah1 vue1-a4 li1 dor2 si4-ka1 liong4-dit2 honnh2
+//阿 你 佮 尾-仔 你 就 四-跤 liong-直 乎
+<Sync time="600.093"/>
+ah1 gng2-ki1 hit1-kuan1 hit1-lor2 e2, gng2-ki1 lo2-a1-de4 ah2
+//阿 扛 起 彼-款 彼-號 的，扛─去 爐-仔─底 阿
+<Sync time="602.836"/>
+zit3-cing1 nng3-ba4 do2 ga3 li1 sior2-sior1 e3
+//一-千 兩-百 度 共 你 燒-燒 欸
+<Sync time="604.39"/>
+ah1 li1 dor2 lip3-dam4 zit3-le2 ang1-a4 li1 sua2-go4 a3 leh2
+//阿 你 就 入─店 這─個 甕─仔 你 煞─股 矣 呢
+<Sync time="606.788"/>
+ah1 lin1 ziah1-e2 giann1-sun1 i1-au2 honnh2
+//阿 恁 遮─個 囝-孫 以-後 乎
+<Sync time="608.343"/>
+zit3-gang1 gah1 am3 veh1 cut1-mng5 
+//一-工 佮 暗 欲 出-門
+<Sync time="609.406"/>
+dor3 aih1-iorh3 hia1 ve3-sai1 ki3
+//就 唉─唷 遐 袂-使 去
+<Sync time="610.963"/>
+an1-na1 gong4,in2-ui3 hia1 honnh2
+//按-怎 講 因-為 遐 乎
+<Sync time="612.789"/>
+hok3-sia3-din5 siunn2-ze2,
+//輻─射─塵 傷-濟
+<Sync time="614.164"/>
+aih1-iorh3 hit1-de4 do4
+<Event desc="dor4" type="lexical" extent="previous"/>
+ hia1 ve3-sai1 ki3
+//唉─唷 彼-塊 島 遐 袂-使 去
+<Sync time="616.058"/>
+in2-ui2 hit1-de4 do4
+<Event desc="dor4" type="lexical" extent="previous"/>
+ e2 lang5 honnh2,
+//因-為 彼-塊 島 的 人 乎
+<Sync time="617.12"/>
+dua3-bo3-hun2 long1 leh1 dior3 qam5
+//大-部-份 攏 咧 著 癌
+<Sync time="618.439"/>
+ah1 so1-i1 honnh2,
+//阿 所-以 乎
+<Sync time="619.377"/>
+ma3 ki1-ho3 hok3-sia3-suann3 
+//嘛 去 予 輻─射─線
+<Sync time="620.515"/>
+ki1 ga3 li1 sau3-dior3 e2 si2-zun2 honnh2
+//去 共 你 掃 著 的 時-陣 乎
+<Sync time="622.104"/>
+ah1-ni1 qua1 ma3 dor3 ai4 dior3─qam5 sua1-vue4
+//阿─爾 我 嘛 就 愛 著─癌 煞─尾
+<Sync time="623.706"/>
+ah1 dai2-uan5 e3-e2 ah2 nia5 neh2
+//阿 台-灣 窄─窄 的 爾'爾 呢
+<Sync time="625.457"/>
+ah1 li1 na3 veh1-gorh1 vu1 ze1 e2 si2-zun2 mh3
+//阿 你 若 欲 閣 舞 這 的 時-陣 mh
+<Sync time="627.512"/>
+gah1 vue4-a3 li1 e2 giann1-sun1 si3 veh1 zau1 e1 dah2 cang3
+//佮 尾-仔 你 的 囝-孫 是 欲 走 去 陀 藏
+<Sync time="629.499"/>
+ah2 zit1-ma4 vun3-de5 dor3 cut1 lih3 zia1
+//阿 這-馬 問-題 就 出 佇 遮
+<Sync time="631.576"/>
+ah1 li1 gong1 ziah1─e2 dai2-uan2-lang5 an1-na1 painn1-ga3
+//阿 你 講 遮─個 台-灣-人 按-怎 歹─教
+<Sync time="635.155"/>
+u2-dang2-si2 dui4-dior3 zit1-ziong4 e2 dai3-zi3,
+//有─當-時 對-著 這-種 的 代-誌
+<Sync time="637.264"/>
+i2 gong4─e3 sui2 ve3-gi3─lih3
+//伊 講─的 隨 袂-記─得
+<Sync time="639.43"/>
+gan1-na1 lau3-dua3-lang5 gang3-kuan4,
+//敢-若 老-大-人 仝-款
+<Sync time="640.959"/>
+gan1-na1 lau3-hue4-lang5 gang3-kuan4
+//敢-若 老─歲─人 仝-款
+<Sync time="642.063"/>
+sui2-gong4 sui2 ve3─gi3-lih3,
+//隨-講 隨 袂─記─得
+<Sync time="643.219"/>
+ah2 ah1 cuan4-cuan3 long1 veh1 gong1 gue4-ki3
+//阿 阿 串-串 攏 欲 講 過-去
+<Sync time="645.031"/>
+oh2,ah1 gue4-ki3 i2 an1-nua4 du1 an1-nua4
+//哦，阿 過-去 伊 按-怎 拄 按-怎
+<Sync time="646.713"/>
+gue4-ki3 i2 an1-nua1 ciann2-iann2 du1 an1-na1 ciann2
+//過-去 伊 按-怎 晟-颺 拄 按-怎 晟
+<Sync time="648.865"/>
+he1 na3 zing4-ging2 gong1 honnh2
+//彼 若 正-經 講 乎
+<Sync time="650.366"/>
+he1 den3-ciunn4 ki1 ho3 li1 biang2-ki2,ah2-si3 
+//彼 電 廠 去 予 你 biang-去，也─是
+<Sync time="652.128"/>
+de2-dang2 ga3 li1 ior2 zit3-e3 a1
+//地 動 共 你 搖 一─下─仔
+<Sync time="653.542"/>
+bia4-pang2 ki1 ho2 bit1 zit3-pang2,
+//壁─縫 去 予 bit 一-縫
+<Sync time="655.261"/>
+an1-ni1 hok3-sia3-suann3 zau4 cut3-lai3
+//按-呢 輻─射─線 走 出-來
+<Sync time="657.078"/>
+ah1 li1 dai2-uan2-lang5,
+//抑 你 台-灣-人
+<Sync time="657.735"/>
+qua1 ciann1 mng2 li3 e3,li1 veh1 zau1 i1 dah2
+//我 請 問 你 欸 你 欲 走 伊 坨
+<Sync time="659.487"/>
+so1-i1 honnh2, m3-mo1 denn4 kong2-kong1
+//所-以 乎， 毋─好 瞪 悾-悾
+<Sync time="661.285"/>
+na3-u3 si2 gi2-hue2 e2 si2-zun2 honnh2,
+//若-有 是 機-會 的 時-陣 乎
+<Sync time="662.878"/>
+ziong3 zit1-kuan1 dai3-zi3
+//將 這-款 代-誌
+<Sync time="664.722"/>
+ai4 ga2 ga4 ho3 si3-se3 
+//愛 共 教 予 序-細
+<Sync time="666.222"/>
+zai2-iann4,ho3 si3-se3 ki1 liau1-gai4
+//知-影 予 序-細 去 了-解
+<Sync time="668.441"/>
+gong1 hut3-ling5 huat1-den2 zing4-ging2 vor2-iann4
+//講 核-能 發-電 正-經 無-影
+<Sync time="671.565"/>
+zing4-ging2 vor2-iann1 gong1,
+//正-經 無-影 講
+<Sync time="672.503"/>
+sing2-bun4 zin2-sing4, ve3-sai4 ve3-sai1 an1-ne1 gong4
+//成-本 真-省，袂-使 袂-使 按-呢 講
+<Sync time="675.838"/>
+in2-ui3 li1 hit1-le2 hut3-zu1-sai4 
+//因-為 你 彼-個 核-子─屎
+<Sync time="677.401"/>
+ziong2-lai5 li1 veh1 cu1-li1 zit1-le2
+//將-來 你 欲 處-理 這-個
+<Sync time="679.303"/>
+ze1 si3 kan3 zit3-diau5 ziok1 dua3-diau5 
+//這 是 看 一-條 足 大-條
+<Sync time="681.091"/>
+ziok1─dng5 ziok1-gu4 e2 ziok1-dng5─uan4 e3 hit1-le2 vue1-liu1 la3
+//足─長 足-久 的 足─長─遠─的 彼-號 尾-溜 啦
+<Sync time="684.409"/>
+ah1 gue4-ki3 vi1-gok1-a4 leh1 iau1-siu3-gut2 la3
+//阿 過-去 美─國-仔 咧 夭-壽-骨 啦
+<Sync time="686.315"/>
+vi1-gok1-a4 leh1 vu1 zit1-lor2 cut1-tau5 e2 si2-zun2
+//美─國-仔 咧 舞 這-號 出-頭 的 時-陣
+<Sync time="688.05"/>
+gah1 vue1-a4 i2 he1 hut3-zu1-sai4 honnh2,
+//佮 尾-仔 伊 彼 核-子─屎 乎
+<Sync time="689.394"/>
+gang5 sa2-ki1 hit1-kuan1 hit1-lor2 e2
+//仝 捎-去 彼-款 彼-號 的
+<Sync time="692.199"/>
+gang5 sa2-e1 hai1-de4, zuainn5 ga2 piann1 lor3-ki3 ah3
+//佮'人 捎'去 海-底， 自'按'呢 共 piann 落-去 矣
+<Sync time="694.117"/>
+ah1 piann2-piann1-lor3 
+//阿 piann-piann 落
+<Sync time="694.742"/>
+an1-ne1 sng4 gai1-guat1 zit3-le2 dai3-zi3 ah3
+//按-呢 算 解-決 這─個 代-誌 矣
+<Sync time="696.223"/>
+ah1 in2-ui3 hia1─e2 hai4 cim1 ah2
+//阿 因-為 遐-個 海 深 阿
+<Sync time="697.775"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="698.775"/>
+sai1 hai1-de4 ah1 ga2 dor4-diau2,
+//捎'去 海-底 阿 共 倒-掉
+<Sync time="700.111"/>
+cau4
+<Event desc="ca2-but1-dor2" extent="previous" type="lexical"/>
+ nng3-cing2 nng3-cing2-vi4 e2 cim1 ah2
+//差'不'多 兩-千 兩-千 米 的 深 阿
+<Sync time="702.607"/>
+ah1 zuainn5 ga2 dor4-dor3 lor3,
+//阿 自'按'呢 共 倒-倒 落
+<Sync time="703.482"/>
+ah1 gah1 vue4-a4 ki1-hong5 huat1-gak2 dior3 ah2
+//阿 佮 尾 仔 去─予'人 發-覺 著 矣
+<Sync time="705.108"/>
+so1-i4 liam3 bun1-sin1 huat1-ving2 cong4-zor2 
+//所-以 連 本-身 發-明 創-造
+<Sync time="708.87"/>
+ze4-zok1 hut3-ling5-huat1-den2 e2 vi1-gok2
+//製-作 核-能─發-電 的 美-國
+<Sync time="711.319"/>
+i2 ga2-li3 hut3-zu1-sai4 honnh2
+//伊 家─己 核-子─屎 乎
+<Sync time="712.626"/>
+i2 leh1 cu1-li4 i2 dor2 cu1-li1 gah1 pong3-gong2 da3-dau4＊＊＊＊
+//伊 咧 處-理 伊 就 處-理 佮 膀-胱 踏-斗
+<Sync time="714.85"/>
+gorh1 gong1 li1 dai2-uan5 honnh2
+//閣 講 你 台-灣 乎
+<Sync time="716.353"/>
+ah1 so1-i1 dai2-uan2-lang5 an1-na1 painn1-ga3,
+//阿 所-以 台-灣-人 按-怎 歹─教
+<Sync time="718.234"/>
+dor3 si3 zit1-hang2 leh1 painn1 ga3
+//就 是 這-項 咧 歹─教
+<Sync time="719.665"/>
+i2 m3 zai2-iann1 gong1 hit1-le2 li3-hai3 guan2-he2 ah2
+//伊 毋 知-影 講 彼─個 利-害 關-係 阿
+<Sync time="721.674"/>
+ah1 li1 na3 gin1-na1-lit2 gong1 qa1-suk2 huat1-den2 ma3-hor4 la3
+//阿 你 若 今─仔─日 講 qa-suh 發-電 嘛 好 啦
+<Sync time="724.153"/>
+ah1 diong3-iu5 huat1-den2 ma3-hor4 la3
+//阿 重-油 發-電 嘛 好 啦
+<Sync time="726.157"/>
+ah1 mui1-tuann3 huat1-den2 ma3-hor4
+//阿 媒─碳 發-電 嘛 好
+<Sync time="727.548"/>
+ah1 mui2-tuann3 huat1-den2 dor2 o2-o1 o2-en1 cing4-cing3 e3
+//阿 媒─碳 發-電 就 烏-烏 烏-煙 熗-熗 欸
+<Sync time="729.901"/>
+o2-en1 hit1-le2 o2-en2-tun5 
+//烏-煙 彼-個 烏-煙-黗
+<Sync time="731.388"/>
+ma3 ting1-a1 gorh1-ga2 siu1 dng3-lai3 neh2
+//嘛 聽-候 閣─共 收 轉 來 呢
+<Sync time="732.93"/>
+ah1 o2-en2-tng5
+<Event desc="tun5" type="lexical" extent="previous"/>
+ ga2 siu1 dng3-lai5 e2 si2-zun2 honnh2
+//阿 烏-煙-黗 共 收 轉─來 的 時-陣 乎
+<Sync time="734.939"/>
+eh2, he1 ma3 vor2 gong1 gong1 u3-dok2 ah1 siann2-mih2─hue3
+//欸， 彼 嘛 無 講 講 有─毒 阿 啥─物─貨
+<Sync time="737.995"/>
+ah1 li1 he1 hut3-zu1-sai4,li1 ai4 van3-ni5 giu1-uan4
+//阿 你 彼 核-子─屎 你 愛 萬-年 久-遠
+<Sync time="740.217"/>
+gorh1 an1-ne1 tua1 leh1 li1 veh1 lau2 ho3 giann1-sun1
+//閣 按-呢 拖 咧 你 欲 留 予 囝-孫
+<Sync time="741.865"/>
+he1 kak1-kak1─sit3-sit2 m3-si3 zin2-hor4 e2 hor1 tau2-lo2 la3
+//彼 確-確─實─實 毋-是 真-好 的 好 頭-路 啦
+<Sync time="745.13"/>
+ah1 dai2-uan2-lang5 leh1 painn1-ga3 dor3 si3 gong1
+//阿 台-灣-人 咧 歹─教 就 是 講
+<Sync time="746.933"/>
+zit1-le2 konn1-ling5 vor2-lang5 ki1 ga2 gong4,
+//這-個 可-能 無-人 去 共 講
+<Sync time="748.495"/>
+vor2 lang2 ga2 ga3 so1 li1
+<Event desc="i1" type="lexical" extent="previous"/>
+ hut1 ve3 cing2-cor4
+//無 人 共 教 所-以 hut 袂 清-楚
+<Sync time="750.492"/>
+ah1 iah1-gorh1 zit3-hang2 dor3 si3 gong1 honnh2
+//阿 抑-閣 一-項 就 是 講 乎
+<Sync time="752.147"/>
+tau2-kak2 gan1-dan1 la2,
+//頭-殼 簡-單 啦
+<Sync time="753.148"/>
+ah1 lor2 ki1 ho3 dai3-den2 ga2 kiong1-hat2
+//阿 就 去 予 台-電 共 恐-嚇
+<Sync time="755.213"/>
+oh2,hut3-ling5 na3 vor2 ki4 honnh2,
+//哦 核-能 若 無 起 乎
+<Sync time="757.188"/>
+ah1 he1 den3-hue1-zinn5 e3 ki1-ge3
+//阿 彼 電-火 錢 會 起-價
+<Sync time="758.548"/>
+ah1 ki1-ge3 lor3 ki1-ge4 ah1 dann1 si3 an1-nua4
+//阿 起-價 就 起-價 阿 今 是 按-怎
+<Sync time="760.53"/>
+hng2, ah1 dai2-uan2-lang5 honnh2,
+//hng, 阿 台-灣-人 乎
+<Sync time="761.874"/>
+ah1 ki1 hong5 ga2 sen4-cui4-pue4 sen4 m3-zai1
+//阿 去 予'人 共 搧-喙-䫌 搧 毋-知
+<Sync time="763.822"/>
+zit1-ma4 ki4-iu5 zit3-lip2 giu1-nqo4 e3 \\這─馬 汽─油 一─立 九─五 的
+<Sync time="765.459"/>
+ca5 sann2-zap3-qo3 ko1 hit1-le2 ka2-da2-a4 la5
+//差'不'多 三-十─五 箍 彼-個 跤─踏-仔 啦
+<Sync time="767.196"/>
+ah1 dai2-uan2-lang5 e2 siu2-lip1 qua3-ze2
+//阿 台-灣-人 的 收-入 偌-濟
+<Sync time="769.198"/>
+ah1 ki1 ve1 zit3-lip3 iu5, ve1 sann2-zap3─qo3 ko1
+//阿 去 買 一-立 油， 買 三-十─五 箍
+<Sync time="771.686"/>
+ah1 gan2-na2 zit1-gang1─gah1─am3 
+//阿 干-焦 一-工─佮─暗
+<Sync time="773.09"/>
+zing4-hu4 long1 dam4-hia1 ga2 li1 pen3
+//政-府 攏 店─遐 共 你 騙
+<Sync time="774.744"/>
+honnh2, long1 pen4 zia1-e2 qong3-vin2 e2
+//乎，攏 騙 遮-的 戇-面 的
+<Sync time="776.365"/>
+hoh1,dai2-uan5 e2 ki4-iu5 zin2-siok2
+//hoh， 台-灣 的 汽-油 真─俗
+<Sync time="778.549"/>
+m5, dai2-uan5 e2 ki4-iu5 zin2-siok2,li1 ve3-sai1 an1-ni1 gong4
+//m, 台-灣 的 汽-油 真-俗， 你 袂-使 按-呢 講
+<Sync time="782.265"/>
+dai2-uan2-lang5 leh1 sai1-cia1,
+//台-灣-人 咧 駛─車
+<Sync time="783.64"/>
+heh1 hit1-le2 zit3-gua1 sue4-gim1 ah2
+//彼 彼-號 一-寡 稅-金 阿
+<Sync time="786.182"/>
+long1 zong1 due4 cia1 leh1, due4 cia1 oh2,
+//攏 總 綴 車 咧， 綴 車 喔
+<Sync time="788.744"/>
+vor2 due4 iu5 ah3, ze1 dor3 vor2 hap3-li4 ah2
+//無 綴 油 阿， 這 就 無 合-理 矣
+<Sync time="791.198"/>
+ah1 li1 gong1 li1 ve1 zit3-dai2 cia1,ah1 qua1 lor2 song4
+//阿 你 講 你 買 一-台 車 阿 我 羅 爽
+<Sync time="793.98"/>
+ah1 ve1 zit3-dai2 cia1 e2 si2-zun2,
+//阿 買 一-台 車 的 時-陣
+<Sync time="795.355"/>
+di2-liau1 li1 mua4
+<Event desc="mai4" type="lexical" extent="previous"/>
+ gua4-bai5 la3
+//除-了 你 莫 掛-牌 啦
+<Sync time="797.268"/>
+li1 bai5 na3 gua3-lor3-ki3 e2 si2-zun2
+//你 牌 若 掛 落-去 的 時-陣
+<Sync time="799.356"/>
+li1 hit1-dai2 cia1 li1 long1-zong1 
+//你 彼-台 車 你 攏-總
+<Sync time="800.456"/>
+ga2 siu2-dam4 lin1-dau1,long1 vor2 sai1 cut1-mng5
+//共 收─店 恁-兜 攏 無 駛 出-門
+<Sync time="802.696"/>
+ziau4-gong4 dor3-li1-siong2 gong4,
+//照-講 道-理─上 講
+<Sync time="804.236"/>
+zit1-le2 dai3-ki3 
+//這-個 大-氣
+<Sync time="805.45"/>
+qua4 vor2 ki1 ga3 li1 u1-liam4 dior3 ah3
+//我 無 去 共 你 污─染 著 阿
+<Sync time="807.277"/>
+honnh2,ah1 so1-i1 qua4 zit1-bo3-hun2 e2 hui4-iong2,
+//乎， 阿 所-以 我 這-部-份 的 費-用
+<Sync time="811.651"/>
+qua1 e3 sai1 ven1 zi2-cut2 lah2
+//我 會 使 免 支-出 啦
+<Sync time="812.872"/>
+ah1 m3-gu1 li1 di3 dai2-uan5 lai2-gong4,
+//阿 毋-閣 你 佇 台-灣 來-講
+<Sync time="814.65"/>
+he1 ziu3 hit1-le2 set1
+//彼 就 彼-個 設
+<Sync time="816.552"/>
+set1-ding2 e2 hit1-le2 huat1 e2 zing2-sin5 dor3 si3 gong1
+//設-定 的 彼-個 法 的 精-神 就 是 講
+<Sync time="819.122"/>
+ah1 li1 cia1 ve4 lor3 bai5 gua3-lor3,
+//阿 你 車 欲 落 牌 掛-落
+<Sync time="820.66"/>
+qua1 dor3-si3 veh1 ga3 li1 kior4 bai2-ziau4-sue3
+//我 就-是 欲 共 你 抾 牌-照 稅
+<Sync time="822.151"/>
+qua1 dor3-si3 veh1 ga3 li1 kior4 lin2-liau3-hui3
+//我 就-是 欲 共 你 抾 燃─料─費
+<Sync time="823.75"/>
+an1-ni1 vor2 dor3-li4 la3
+//按-呢 無 道-理 啦
+<Sync time="824.891"/>
+ah1 li1 na3-u3 cia1 cut1-mng5,
+//阿 你 若-有 車 出-門
+<Sync time="826.437"/>
+ah1 li1 cia1 u3 leh1 sior2 ki4-iu5 honnh2
+//阿 你 車 有 咧 燒 汽-油 乎
+<Sync time="828.418"/>
+ah1 li1 len2-liau3-sue3 gang5 kiorh2,
+//阿 你 燃-料─稅 仝 抾
+<Sync time="829.702"/>
+an1-ne1 m3─ziah1 u3─li4 ah2,honnh2
+//按-呢 毋─才 有─理 阿 乎
+<Sync time="831.231"/>
+ah1 so1-i1 honnh2, eh2 zing4-hu4 long1 pen3
+//阿 所-以 乎，eh, 政-府 攏 騙
+<Sync time="833.346"/>
+long1 pen4 ziah1-e2 dai2-uan2 qong2-a4
+//攏 騙 遮─個 台-灣 戇─仔
+<Sync time="834.529"/>
+vor5 la3,dai2-uan2 e2 ki4-iu5 ziok1-siok2 la3
+//無 啦， 台-灣 的 汽-油 足 俗 啦
+<Sync time="836.457"/>
+na4-u3-iann1 siok2 la3, ve3-sai1 a1-ni1 gong4 honnh2
+//哪 有-影 俗 啦， 袂-使 按-爾 講 乎
+<Sync time="839.722"/>
+an1 zit1-ma4 dai2-uan2-lang5 ai4 zor4-guann1
+//安 這-馬 台-灣-人 愛 做-官
+<Sync time="843.689"/>
+u3-iann4, li1 ki1 ga2 kuann3
+//有-影 你 去 共 看
+<Sync time="845.484"/>
+kuann4 zit3-gua1 hiah1-e2 biak1-kang1 e1 hia1-e2 lang5
+//看 一-寡 遐─個 煏-空 的 遐-個 人
+<Sync time="847.373"/>
+oh2, dua3-tau2-binn2 zit3-le2 dai4-dang2 neh2 
+//哦 大─頭-病 這─個 帶─重 呢
+<Sync time="849.502"/>
+ziann2-ai4 zor4-guann1
+//誠-愛 做-官
+<Sync time="850.463"/>
+ah1 kak1-kak1-sit3-sit2 di3 gok1-vin2-dong4 e2 zing4-te4 zi2 ha2 
+//阿 確─確-實─實 佇 國-民-黨 的 政─體 之 下
+<Sync time="854.2"/>
+zor4-guann1 u3 zen2-do5 vor3
+//做-官 有 前-途 無
+<Sync time="855.739"/>
+zor4-guann1 u3-dang2-si2 ziok1-u3 zen2-do5 neh2
+//做-官 有-當-時 足 有 前-途 呢
+<Sync time="858.271"/>
+in2-ui2 he1 ting1-a1 ho2-hong1─huan3-u4 ah2
+//因-為 彼 聽-候 呼-風─喚-雨 阿
+<Sync time="860.911"/>
+li1 ga2 kuann3, annh2 li1 ga2 kuann4 hia1─e1 hit1-kuan1 
+//你 共 看， annh 你 共 看 遐─個 彼-款
+<Sync time="863.24"/>
+hit1-lor2 e2 ding1-zit3-dai2
+//彼-號 的 頂─一-代
+<Sync time="864.606"/>
+a2-ba1 leh1 zor4-guann1 lai2 gah1 de3-li3 dai2,
+//阿-爸 咧 做-官 來 佮 第─二─代
+<Sync time="866.856"/>
+long1-zong1 u3 huat1-do2 ga2 di4-im3 dior3 ah3
+//攏-總 有 法-度 共 致-蔭 著 矣
+<Sync time="869.328"/>
+ah1 ziah1 ma3 u3 huat1-do2 ga2 di4-im3 dior3,
+//阿 才 嘛 有 法-度 共 致-蔭 著
+<Sync time="870.855"/>
+li1 dor3 zai2-iann4
+//你 就 知-影
+<Sync time="872.006"/>
+dik3-kuan5 oh2, qua3 hor1 ing2 leh3 oh3
+//特-權 喔，偌 好 用 咧 喔
+<Sync time="874.745"/>
+gok1-ui2 li1 si3 vor2 ki1 hiong1-siu2 dior3
+//各-位 你 是 無 去 享-受 著
+<Sync time="876.806"/>
+li1 （gin2） na3-gong1 u3 zit3-gang1 ki1 ho3 li1 hiong1-siu2 dior3
+//你 （今） 若-講 有 一-工 去 予 你 享-受 著
+<Sync time="879.616"/>
+li1 uan2-na1 ziok1-song4 song1-uainn2-uainn1 neh2
+//你 原─若 足─爽 爽─歪─歪 呢
+<Sync time="881.496"/>
+an1-na1 gong4,kak1-kak1 sit3-sit2 hor1-ing2
+//按-怎 講 確-確─實─實 好-用
+<Sync time="883.606"/>
+li1 mai4-gong1 siannh2 la3,cut1-gok2 dor3 hor4 la3
+//你 莫-講 啥 啦， 出-國 就 好 啦
+<Sync time="885.898"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="886.992"/>
+li1 na3 u3 dik3-kuan5 honn1 honnh2,
+//你 若 有 特-權 乎 乎
+<Sync time="888.68"/>
+an4 gong2-vu3-mng5 uat2 leh3 lip2-i3
+//按 公-務─門 越─咧 入─去
+<Sync time="890.957"/>
+hai1-guan1 du1-dior3 li4 gorh1 ga3 li1 giann2-le4, hennh2
+//海-關 拄-著 你 閣 共 你 行-禮 hennh
+<Sync time="893.535"/>
+ah1 gorh1 ho3-ziau3 te3 cut1-lai2 ga2 na2 zit3-le3
+//阿 閣 護-照 提 出-來 共 na-一─下
+<Sync time="895.502"/>
+ah1 lor3 den3-nau4 sior1 lu3 zit3-le3 
+//阿 就 電-腦 稍 lu 一─下
+<Sync time="896.752"/>
+an1-ni1 dor3 ho3 li1 cut2-li3 ah3,honnh2
+//按-呢 就 予 你 出-去 矣 乎
+<Sync time="898.673"/>
+ah1 gorh1 sua3-lor3-ki3 
+//阿 閣 紲 落-去
+<Sync time="899.993"/>
+li1 na3 veh1 dng3-lai3,
+//你 若 欲 轉─來
+<Sync time="901.025"/>
+ah1 gorh1 an4 gong2-vu3-mng5 cut2-lai3
+//阿 閣 按 公-務 門 出-來
+<Sync time="902.547"/>
+ah3 ven1 gah1 lang2 bai2-let2, honnh2
+//阿 免 佮 人 排─列，乎
+<Sync time="904.666"/>
+ah1 li1 na3-u3 dik3-kuan5 e2 si2-zun2,honnh2
+//抑 你 若-有 特-權 的 時-陣， 乎
+<Sync time="906.46"/>
+qua3-hor1-se3 leh3,an1-nua1 gong1 hor1-se3
+//外 好-勢 咧， 按-怎 講 好-勢
+<Sync time="908.46"/>
+li1 di3 veh1 ze3 hui2-gi1 e2 si2-zun2 la3,hah1 hah2
+//你 佇 欲 坐 飛-機 的 時-陣 啦， 哈 哈
+<Sync time="911.817"/>
+li1 
+<Event desc="en" type="language" extent="begin"/>
+ check-in
+<Event desc="en" type="language" extent="end"/>
+ leh1 bor4-do5
+<Event desc="dor3" type="lexical" extent="previous"/>
+ e2 si2-zun2 honnh2
+//你 check-in 咧 報─到 的 時-陣 乎
+<Sync time="914.278"/>
+hang2-kong2 gong2-si1 i2 dor3 ga3 li1 diu2-di5 ah2 la3
+//航-空 公-司 伊 就 共 你 diu-di 矣 啦
+<Sync time="917.294"/>
+li1 e2 hing2-li4 za4 gui1-giann2,
+//你 的 行-李 za 幾-件
+<Sync time="918.763"/>
+bat3-lang5 e2 hing2-li4 sing2 lip2-lor3
+//別-人 的 行-李 先 入─落
+<Sync time="920.679"/>
+li1 e2 hing2-li4 zue4-au2 kah1 lip2-lor3,
+//你 的 行-李 最-後 kah 入─落
+<Sync time="922.679"/>
+an1-ni1 u3 siann1-mih1 hor1-cu3
+//按-呢 有 啥-物 好-處
+<Sync time="924.359"/>
+an1-ni1 dng4-lai2 gah1 tor2-hng2 gi2-diunn5 e2 si2-zun2 honnh2
+//按-呢 轉-來 佮 桃-園 機-場 的 時-陣 乎
+<Sync time="926.799"/>
+hennh2, bat1-do1 mng5 na3 zit3-le3 pa4-kui1 le3 oh2
+//hennh, 腹-肚 門 若 一─咧 拍-開 咧 喔
+<Sync time="928.914"/>
+he1 ginn4-vin2 li1 e2 hing2-li4 dor3 pu2 li3 lang1-vin2 ah2 la3
+//彼 見-面 你 的 行-李 就 浮 佇 籠─面 矣 啦
+<Sync time="931.171"/>
+ai4 tua1 leh1 lor2-lai3 honnh2,
+//噯 拖 咧 落 來 乎
+<Sync time="932.296"/>
+ah1 li1 zit1-ma4 cut2-lih3 liau1-au2 honnh2
+//阿 你 這-馬 出─去 了-後 乎
+<Sync time="933.743"/>
+eh2, sui2 gue4 gong2-vu3-mng5 e2 si2-zun2,
+//欸 隨 過 公-務 門 的 時-陣
+<Sync time="935.724"/>
+li1 e2 hing2-li4 dor3 i1-ging2 ga3 li1 qor5 cut3-lai3 ah3
+//你 的 行-李 就 已-經 共 你 qor 出-來 矣
+<Sync time="937.777"/>
+guann2-leh2 li1 dor3 ting1-a1 zau4 a3 la3
+//guann-咧 你 就 聽-候 走 矣 啦
+<Sync time="939.623"/>
+gok1-ui2,ze1 gior4-zor4 siann2,ze1 gior4-zor4 dik3-kuan5
+//各-位 這 叫-做 啥， 這 叫-做 特-權
+<Sync time="942.915"/>
+ah1 u3 hor1-ing2 vor3,u3 song4 vor3,dong2-len5
+//阿 有 好-用 無 有─爽 無， 當─然
+<Sync time="945.541"/>
+dik3-kuan5 na3 e3-hiau1 ing2,
+//特-權 若 會-曉 用
+<Sync time="946.791"/>
+ziok1 hor1-ing2,ah1 dong2-len5 la3
+//足 好-用，阿 當─然 啦
+<Sync time="948.515"/>
+na3-u3 dik3-kuan5 e2 si2-zun2,
+//若-有 特-權 的 時-陣
+<Sync time="949.765"/>
+it1-ding3 ziann2-song4 ah2,gam1 m3-si2
+//一-定 誠-爽 阿， 敢 毋-是
+<Sync time="952.476"/>
+ah1 li1 zit-ma4 hiong2-hiong5 veh1 cut1-mng5 ah2 la3
+//抑 你 這─馬 雄-雄 欲 出-門 矣 啦 
+<Sync time="955.586"/>
+
+<Event desc="empty" extent="instantaneous" type="noise"/>
+
+<Sync time="957.118"/>
+ah1 in2-ui3 li1 u3 dik3-kuan5 ah2,
+//阿 因-為 你 有 特-權 阿
+<Sync time="958.327"/>
+ah1 li1 zit1-ma4 zau1-lai2 ki1 gah1 dai3-bak1 cia2-tau5
+//阿 你 這-馬 走-來 去 佮 台-北 車-頭
+<Sync time="960.62"/>
+honnh2, ah1 na3-u3 dik3-kuan5 e2 lang5,
+//乎， 阿 若-有 特-權 的 人
+<Sync time="962.14"/>
+li1 ki1 gah1 dai3-bak1 cia2 lue3
+//你 去 佮 台-北 車 內
+<Sync time="963.647"/>
+dit3-ziap2 veh1 be4-kit1-lih1 hue1-cia1 lai5 ah2
+//直-接 欲 趴─去─咧 火-車 來 矣
+<Sync time="965.466"/>
+li1 dit3-ziap2 veh1 be4-kit1-lih1 ze2 ah2,
+//你 直-接 欲 趴─去─咧 坐 矣
+<Sync time="966.765"/>
+hoh2 ah1 li1 gong1 veh1 lai1 hua2-len5 cit1-tor5
+//謼 阿 你 講 欲 來 花-蓮 cit-迌
+<Sync time="969.23"/>
+ah1 veh1-lai2 ze3 zit1-le2 
+//阿 欲 來 坐 這-個
+<Sync time="970.605"/>
+hue1-cia1 honnh2,hue1-cia1 kah1-gin4
+//火-車 乎 火-車 較 緊
+<Sync time="972.605"/>
+ah1 hue1-cia1 veh1 ze3 siann2,
+//阿 火-車 欲 坐 啥
+<Sync time="973.574"/>
+ve3-sai1 ze3 gi1-gong1 e1 he1 liau1 si2-gan1 honnh2
+//袂-使 坐 莒 光 的 彼 了 時-間 乎
+<Sync time="975.924"/>
+cia2-siunn1 gorh1 gu2,
+//車-廂 閣 舊
+<Sync time="976.948"/>
+ah1 zit1-ma4 lai2-ze3 ze5 a1 tai4-lo1-gok2
+//阿 這-馬 來-坐 一'個─ 仔 太-魯-閣
+<Sync time="979.753"/>
+zit1-ziong1 hit1-kuan1 hit1-lor2 e2 hue1-cia1 hngh2
+//這-種 彼-款 彼-號 的 火-車 哼
+<Sync time="982.674"/>
+ah1 ze1 sok1-do2 gorh1-gin4, ah1 ze3 liau4 gorh1 hor1-ze2
+//阿 這 速-度 閣 緊， 阿 坐 了 閣 好 坐
+<Sync time="985.03"/>
+ah1 ve1-pior3 hiah1 gan1-dan1 oh2,
+//阿 買-票 遐 簡-單 喔
+<Sync time="986.405"/>
+vor5 ah3 ah1 so1-i4 honnh2
+//無 矣 阿 所-以 乎
+<Sync time="988.358"/>
+sui2-len5 dai2-tih2 e3 gam1-gann1 ga3 li1 gong1
+//雖-然 臺-鐵 的 敢─敢 共 你 講
+<Sync time="990.636"/>
+li1 veh1 ze2 e2 zit1-bang2 cia1,
+//你 欲 坐 的 這-班 車
+<Sync time="992.06"/>
+pior3 long1-zong1 ve3-uan5 ah3
+//票 攏-總 賣-完 阿？？？？
+<Sync time="994.082"/>
+heh2,i2 i2-quan5 li1 veh1 ze3 zit1-bang2 
+//嘿 伊 依-原 你 欲 坐 這-班
+<Sync time="996.175"/>
+i2 ma3-si3 ho3 li1 kit1-lih1 ze2
+//伊 嘛-是 予 你 起─去 坐
+<Sync time="997.588"/>
+gah1 vue4 ah2 ben4-zor4 siann2,
+//佮 尾 阿 變-做 啥
+<Sync time="998.682"/>
+ben4-zor4 gong1 cia2-diunn4 e2 ui2 ai4 niu3 li1 ze2 ah2
+//變-做 講 車-長 的 位 愛 讓 你 坐 矣
+<Sync time="1000.958"/>
+
+<Event desc="laugh" extent="instantaneous" type="noise"/>
+
+<Sync time="1002.177"/>
+ah1 ze1 siann2, ze1 gior1-zor4 dik3-kuan5,
+//阿 這 啥， 這 叫─做 特-權
+<Sync time="1004.181"/>
+dik3-kuan5 u3 song4 vor3, honnh2
+//特-權 有 爽 無， 乎
+<Sync time="1005.661"/>
+ziok-song4 ziok1-song4 ziok1 hor1-ing2, honnh2
+//足─爽 足─爽 足 好-用， 乎
+<Sync time="1008.603"/>
+ah1 li1 gong1
+//阿 你 講
+<Sync time="1009.318"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="1010.24"/>
+li1 e2 dai3-bak1 hua2-len5 zit1 diong2-gan1
+//你 的 台-北 花-蓮 這 中-間
+<Sync time="1013.172"/>
+ah1 li1 zit1-ma4 hua2-len2-lang5 
+//阿 你 這-馬 花─蓮-人
+<Sync time="1014.578"/>
+but1-si2 leh1 kong4-qi2 gong1
+//不-時 咧 抗-議 講
+<Sync time="1016.367"/>
+ah1 qun1 veh1 ve1 zit3-diunn2 cia2-pior3,
+//阿 阮 欲 買 一-張 車-票
+<Sync time="1018.109"/>
+an1-ni1 hiah1-ni3-a1 kun4-lan5,honnh2
+//按-呢 遐-呢-仔 困-難 乎
+<Sync time="1021.866"/>
+ziok1 painn1-ve4 e3, ah1 iang2-sann1-tok1-si3
+//足 歹-買 的， 阿 央-三-託-四
+<Sync time="1024.364"/>
+ah1 u3-dang2-si2 gorh1 ve1 vor2 cia2-pior3
+//阿 有-當-時 閣 買 無 車-票
+<Sync time="1026.293"/>
+ah1 kak1-kak1-sit3-sit2 cia2-pior3 u3-iann1 piann1-ve4
+//阿 確-確-實-實 車-票 有-影 歹-買
+<Sync time="1029.406"/>
+ah1 m3-gu1 cia2-pior3 painn1-ve4 e2 si2-zun2,
+//阿 毋-閣 車-票 歹-買 的 時-陣
+<Sync time="1031.343"/>
+li1 ki1 ga2 kuann4 ziah1-e2 zor4-guann1 e2
+//你 去 共 看 遮─個 做-官 的
+<Sync time="1033.009"/>
+i2 dor2 vor2-siann1 lin3-zin2 leh1 ban3 dai3-zi3 ah3
+//伊 就 無-啥 認-真 咧 辦 代-誌 阿
+<Sync time="1036.012"/>
+ah1 hiong2-hiong5 ga3 li1 zin4 zit3-gua1 cia2-siunn1
+//阿 雄-雄 共 你 進 一-寡 車-廂
+<Sync time="1038.544"/>
+ah3-u3 ze1 cia2-siunn1 lip3-lai2 gah1 dai2-uan5 gong1 
+//啦 有 這 車-廂 入-來 佮 台-灣 講
+<Sync time="1040.356"/>
+dor3 ai4 gorh1 gong4 quat3-dai5
+//就 愛 閣 槓 月-台
+<Sync time="1041.703"/>
+honnh2,he1 ah3 siann1-mih1 pu2-iu1-ma3 
+//乎 彼 阿 啥-物
+<Event desc="zh" extent="instantaneous" type="language"/>
+普悠瑪
+<Sync time="1043.413"/>
+he4 ai4 gorh1 gong4 quat3-dai5, ah1 se4-gan1
+//彼 愛 閣 槓 月-台， 阿 世-間
+<Sync time="1045.686"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="1047.295"/>
+tai1-tor1 na4-u3 ziah1-ni3 ham3 e2 dai3-zi3, ＊＊＊
+//體-討 那-有 遮-呢 ham-的 代-誌
+<Sync time="1049.913"/>
+ah1 cuan4-cuan3 long1 cut1-di3 gok1-vin2-dong4 sin1-siong2
+//阿 串-串 攏 出-佇 國-民-黨 身─上
+<Sync time="1052.489"/>
+ah1 in2-ui3 zit1 lai3-vin2 dor3 si3 u3 lang2 leh1 
+//阿 因-為 這 內-面 就 是 有 人 咧
+<Sync time="1054.177"/>
+binn4-gui1-binn4-guai3 mah3
+//變-鬼─變─怪 嘛
+<Sync time="1055.196"/>
+ah1 ze1 lai3-vin2 dor3 si3 di3 a1-ni1
+//阿 這 內-面 就 是 佇 按-爾
+<Sync time="1056.466"/>
+cin4-cin1-cai1-cai4 ham2-ham2-ho2-ho5 ah3
+//清─清─彩-彩 含-含 糊-糊 啦
+<Sync time="1058.405"/>
+ah1 li1 zit1-ma4 ki1 ga2 siunn2,gang3-kuan4 e3
+//阿 你 這-馬 去 共 想 仝-款 的
+<Sync time="1061.125"/>
+zit3-dai2-cia1 an4 bak2 sai1 gah1 lam5,
+//一-台 車 案 北 駛 佮 南
+<Sync time="1063.457"/>
+ah1 lam5 gorh1 sai1 gah1 dang1
+//阿 南 閣 駛 佮 東
+<Sync time="1064.858"/>
+ah1 dang1 gorh1 sai1 lai2 bak2, an1-ni1 honnh2 
+//阿 東 閣 駛 來 北 按-呢 乎
+<Sync time="1066.497"/>
+dai2-uan2 do4
+<Event desc="dor4" extent="previous" type="lexical"/>
+ zit1-le2 si4-ko2-len4-dng4
+//台-灣 島 這─個 四-箍-輾-轉
+<Sync time="1068.826"/>
+long1-zong1 u3 hue1-cia1 dit1 leh1 qor2
+//攏-總 有 火-車 佇-咧 qor
+<Sync time="1070.555"/>
+ah1 gam1-gong1 hit1-le2 quat3-dai5 
+//阿 敢-講 彼-個 月-台
+<Sync time="1072.569"/>
+u3 da1 gui1-e2 cia2-zam2 e2 hit1-le2 quat3-dai5 
+//有 佗 幾-個 車-站 的 彼-個 月-台
+<Sync time="1074.662"/>
+bi1-gau4-de3 kah1 dik3-su1
+//比─較-地 較 特─殊
+<Sync time="1075.844"/>
+qua1 siunn2 ma3-si3 long1 gui2-geh2 long1 gang3-kuan4 e3, hennh2
+//我 想 嘛-是 攏 規-格 攏 仝-款 的， 歇
+<Sync time="1078.477"/>
+ah1 na3-si3 gong1 bi1-gau4-de3 
+//阿 若-是 講 比─較-地
+<Sync time="1079.874"/>
+kah1 dik3-su1 gong1,let3-cia1 vor2-huat1-do2 gue3
+//較 特─殊 講 列-車 無-法-度 過
+<Sync time="1081.793"/>
+dor3-ai4 gong4 quat3-dai5, hennh2 
+//就 愛 槓 月-台, hennh
+<Sync time="1082.918"/>
+ah1 ze1 dor3-si3 ai4 kai2-si1 u3 vun3-de5 ah2
+//阿 這 就-是 愛 開-始 有 問-題 矣
+<Sync time="1085.362"/>
+ah1 m3-gu1 leh3 ah1 dor2 vor2-lang2 veh1 ki1 diau2-za1
+//阿 毋-閣 咧 阿 都 無-人 欲 去 調-查
+<Sync time="1087.904"/>
+
+<Event desc="laugh" extent="instantaneous" type="noise"/>
+
+<Sync time="1088.441"/>
+vor2-lang2 veh1 ki1 ca5,ah1 ze1 si3 an1-nua4
+//無-人 欲 去 查, 阿 這 是 按-怎
+<Sync time="1090.533"/>
+ze1 ma3-si3 u3 dik3-kuan5 lai3-vin2 
+//這 嘛-是 有 特-權 內-面
+<Sync time="1091.845"/>
+dam4-hia1 leh1 zok1-guai3 ah2, gam1 m3-si2
+//店-遐 咧 作-怪 矣, 敢 毋-是
+<Sync time="1093.79"/>
+oh3 ah1 li1 zit1-ma4 gorh1 ga2 gong1,
+//喔 阿 你 這-馬 閣 共 講
+<Sync time="1095.095"/>
+ziah1-e2 zor4-guann1 e1, ah1 ho3
+//遮─個 做-官 的， 阿 予
+<Sync time="1097.391"/>
+dua4-di3 dang2-bo2 hiah1 e2 lang5,
+//蹛-佇 東-部 遐 的 人
+<Sync time="1098.657"/>
+veh1 ze3 zit3-le2-a1 hue1-cia1 an1-ni1
+//欲 坐 一─下-仔 火-車 按-呢
+<Sync time="1100.61"/>
+zin2-vor2 gan1-dan1 ziah1-u3 huat1-do2 ze3-dior3 hue1-cia1
+//真-無 簡-單 才-有 法-度 坐-著 火-車
+<Sync time="1103.194"/>
+ah1 ve1-dior3 zit3-diunn2 cia2-pior3,
+//阿 買-著 一-張 車-票
+<Sync time="1104.392"/>
+ai4-gorh1 kai2-zinn1 neh2
+//愛 閣 開-錢 呢
+<Sync time="1105.394"/>
+m3-si3 ti4-lo3-giok2 sang3 li3 e3,
+//毋-是 鐵-路─局 送 你 的
+<Sync time="1106.831"/>
+ah1 gan1-na1 ki1 kior4-dior3 hit1-kuan1 hit1-lor2
+//阿 敢-若 去 抾-著 彼-款 彼-號
+<Sync time="1108.547"/>
+de3-it1 dik3-ziong4 hit1-kuan1 hit1-lor2 
+//第-一 特-種 彼-款 彼-號
+<Sync time="1109.83"/>
+dui4-ziong4 (e2 guan1) e2 ziong1-guan3
+//對─獎 (的 關) 的 獎-券
+<Sync time="1111.774"/>
+ah1 ze1 dor2-si3 an1-nua4,
+//阿 這 就-是 按-怎
+<Sync time="1113.017"/>
+ze1 ma3-si3 eh2 gang3-kuan4, eh2 u3 dik3-kuan5 (dam4-hann1)
+//這 嘛-是 欸 仝-款， 欸 有 特-權 (店 hann)
+<Sync time="1116.311"/>
+dam4-lai3-vin2 dit1-leh1 zok1-guai3,
+//店 內-面 佇─咧 作-怪
+<Sync time="1117.592"/>
+ah1 m3-gu1 na1 hiong1-siu3 dik3-kuan5 e2 lang5
+//阿 毋-閣 哪 享-受 特-權 的 人
+<Sync time="1119.353"/>
+li1 gior4 i2 veh1 bang3,ngh2 ziann2 biann3 leh3 oh1
+//你 叫 伊 欲 放, ngh 誠 拚 咧 喔
+<Sync time="1121.471"/>
+ah1 li1 cin2-ciunn3 gong1,na3 but1-si2 leh1 zau1 hua2-len5
+//阿 你 親-像 講 若 不-時 咧 走 花-蓮
+<Sync time="1123.905"/>
+ah2-si3 gong1 honnh2,
+//猶-是 講 乎
+<Sync time="1125.004"/>
+u3 ki1 hua2-len5 zor4-bing1 e2 ziah1-e2 cing2-len2 bing2-iu4
+//有 去 花-蓮 做-兵 的 遮─個 青-年 朋-友
+<Sync time="1126.974"/>
+u3-dang2-si2 i2 ma3 ki4-sin2-lo1-mia2 neh2,
+//有-當-時 伊 嘛 氣-身-惱-命 呢
+<Sync time="1128.911"/>
+an1-nua1 gong4 neh2
+//按-怎 講 呢
+<Sync time="1130.184"/>
+zit1-ma4 na3 veh1 dng4-lai5 bo3-dui2,
+//這-馬 若 欲 轉-來 部-隊
+<Sync time="1131.872"/>
+ah1 na3 veh1 ve1 zeh3-e3 a1 cia2-pior3， ve1 vor5
+//阿 若 欲 買 一─下─仔 車-票， 買 無
+<Sync time="1134.389"/>
+ah1 zit1-ma4 na3 it1-dan3 ho2 be4-kit1-lih1 cia2-ding4
+//阿 這-馬 若 一-旦 予 趴─去─哩 車-頂
+<Sync time="1136.429"/>
+i2 gong1 hng5,
+//伊 講 hng
+<Sync time="1137.179"/>
+ah2 gui2-bang2 leh3-cia1 long1-zong1 o2-mi4-do3-hut2 e2 la3
+//阿 規─班 列─車 攏-總 阿-彌─陀─佛 的 啦
+<Sync time="1140.405"/>
+hannh2, ah1 li1 na3 o2-mi4-do3-hut2 e2 lang5 hiah1-ze2,
+//hannh, 阿 你 若 阿-彌─陀─佛 的 人 遐-濟
+<Sync time="1142.804"/>
+ah1 li1 dai2-tih2
+//抑 你 臺-鐵
+<Sync time="1143.438"/>
+qua1 zit1-ma4 vor2-veh1 pue2-ping2 o2-mi4-do3-hut2 e2 an1-na4 la3
+//我 這-馬 無 欲 批-評 阿-彌─陀─佛 的 按-怎 啦
+<Sync time="1145.525"/>
+ah1 li1 dai2-tih2 li1 ing2-gai1 (liu5), li1 lor2 
+//抑 你 臺-鐵 你 應-該 (流), 你 就
+<Sync time="1147.244"/>
+ki1 gah1 o2-mi4-do3-hut2 e2 honnh2
+//去 佮 阿-彌─陀─佛 的 乎
+<Sync time="1148.529"/>
+hia4 hua2-len2-bang1 e1,li1 gah1 i2 gong1 ho2 hor1-se3
+//遐 花─蓮─幫 的， 你 佮 伊 講 予 好-勢
+<Sync time="1150.682"/>
+gong1 ah2 ah1 vor5 lin1 ze1 honnh2,
+//講 阿， 阿 無 恁 這 乎
+<Sync time="1152.484"/>
+tuan2-te4 hing2-dong2 la3
+//團-體 行-動 啦
+<Sync time="1153.614"/>
+qua1 dik3-bet3 ui3 lin4 kui2 zuan2-cia1 la3,honnh2
+//我 特-別 為 恁 開 專 車 啦， 乎
+<Sync time="1156.256"/>
+ah1 kuann4 veh1 an1-nua4 honnh2,
+//阿 看 欲 按-怎 乎
+<Sync time="1157.334"/>
+ah1 mai4 gah1 ziah1─e1 hit1-kuan1 hit1─lor2 it1-buann1 e2 li1-keh2 honnh2
+//阿 莫 佮 遮─個 彼-款 彼─號 一-般 的 旅-客 乎
+<Sync time="1159.411"/>
+dam4-hia1 lam3-lam2 zor4-hue4 la3
+//店─遐 濫-濫 做-伙 啦
+<Sync time="1160.743"/>
+ah1 vor5 ah1 go4-ding2 e2 cia2-bang1 honnh2,
+//抑 無 阿 固-定 的 車-班 乎
+<Sync time="1162.304"/>
+ah1 dor2 ui2 long1 ki1 ho3 lin1 vau2-ki3 ah3
+//阿 就 位 攏 去 予 恁 卯─去 阿
+<Sync time="1164.169"/>
+ah1 lin1 ziah1 o2-mi4-do3-hut3 bang1 e1 
+//阿 恁 遮 阿-彌─陀-佛 幫 的
+<Sync time="1165.627"/>
+ga2 ziam3-ki3 liau1-au2
+//共 佔─去 了-後
+<Sync time="1166.576"/>
+gorh1 li1-hing2-sia2 ah1 gorh1 vau2-ki3,
+//閣 旅-行-社 也─閣 卯─去
+<Sync time="1168.596"/>
+ah1 ven1-gong4 hua2-len2-lang5 ma3 veh1 ze3 ze3-a1 hit1-kuan1 
+//阿 免-講 花─蓮-人 嘛 欲 坐 一'下─仔 彼-款
+<Sync time="1170.803"/>
+hit1-lor2 hue1-cia1 veh1 kit1-lai2 dai3-bak2,
+//彼-號 火-車 欲 起-來 台-北
+<Sync time="1172.252"/>
+eh3 ven1-gong4 ma4 bi1 ding2-ten1 kah1 lan5
+//eh 免-講 嘛 比 登-天 較 難
+<Sync time="1173.856"/>
+zeh1-e2 vun3-de5 dor3 cut1-di3 zia1,
+//這─個 問-題 就 出-佇 遮
+<Sync time="1175.357"/>
+ah1 zit1-ma4 gorh1 ga2 kan2 dor4-dngh2-lai3
+//阿 這-馬 閣 共 牽 倒─轉─來
+<Sync time="1177.661"/>
+gong1 dai2-uan2-lang5 giann2-si4 
+//講 台-灣-人 驚-死
+<Sync time="1181.036"/>
+painn1-ga3 hor1-pen3,honnh2
+//歹─教 好─騙 乎
+<Sync time="1183.879"/>
+ah1 cin2-ciunn3 gong1,
+//阿 親-像 講
+<Sync time="1184.692"/>
+ziah1-e2 dai3-zi3 honnh2,gong1 ze3 hue1-cia1 dor3-hor4
+//遮─個 代-誌 乎 講 坐 火-車 就-好
+<Sync time="1187.535"/>
+ah1 ze1 u3 hor1-pen3 vor3, (i2 dor2 i2) i2 dor2 gam1-gak1 gong1
+//阿 這 有 好-騙 無， (伊 就 以) 伊 就 感-覺 講
+<Sync time="1191.209"/>
+ngh2, ah1 ze1 dor2 vor2-iau4-vor2-gin4 ah2,
+//ngh, 阿 這 就 無-要-無-緊 阿
+<Sync time="1192.927"/>
+ah1 qua1 ah3 m3-si3 dak3-gang2 leh1 ze3 hue1-cia1 e3 ah3
+//阿 我 也 毋-是 逐-工 咧 坐 火-車 的 啦
+<Sync time="1195.124"/>
+ah1 m3-gu1 leh3,zing4-ging2 na3 ho3 li1 ga2-li3 du4-dior3 e2 si2-zun2
+//阿 毋-閣 咧， 正-經 若 予 你 家─己 拄─著 的 時-陣
+<Sync time="1198.304"/>
+li1 ziah1 lai2 dam4-hia1 leh1 ki4-sin2-lo1-mia2,dam4-hia1 leh1 au4-nau4
+//你 才 來 店─遐 咧 氣-身-惱-命 店─遐 咧 懊-惱
+<Sync time="1200.91"/>
+ah1 li1 ma3 ve3-siunn3 gong1,
+//阿 你 嘛 袂 想 講
+<Sync time="1202.429"/>
+hngh3,ah1 ze1 honnh2 ah1 vor5 aih1 dak3-ge2 na3-u3 giong3-sik2
+//hngh，阿 這 乎 抑 無 aih8 逐-家 若-有 共-識
+<Sync time="1205.216"/>
+hngh2,ah1 lai2 gah1 hit1-lor2 lai2-gah1 i2 qia2 zeh3-e3 a1 nqe3-gor1\\ hng, 阿 來 共 彼-號 來 共 伊 qia 一─下─仔 月─篙
+<Sync time="1207.986"/>
+lai5 gah1 dai2-tih2 lai2 gah1 hiu1 zit3-le3 honnh2
+//來 佮 臺-鐵 來 佮 hiu 一─下 乎
+<Sync time="1209.801"/>
+ah1 u3-dang2-si2 kor4 zit3-gua1 de3-hng2-guann1,
+//阿 有-當-時 靠 一-寡 地-方-官
+<Sync time="1211.645"/>
+dam4-hia1 leh1 gah1 dai2-tih2
+//店 遐 咧 佮 臺-鐵
+<Sync time="1212.831"/>
+an1-ne1 gah1 gau2-tong2-bo3-diunn4 hua4 zit3-le3 a1 dua3-se4-siann1 leh3
+//按-呢 佮 交-通 部-長 喝 一─下-仔 大-細-聲 咧
+<Sync time="1215.29"/>
+ah1 ze1 hua4 dua3-se4-siann1 u3 hau3-gor4 ah1 vor2 hau3-gor4
+//阿 這 喝 大-細-聲 有 效-果 抑 無 效-果
+<Sync time="1217.798"/>
+ziu3 dai2-tih2 ziu3 gau2-tong2-bo3-diunn4 lai2-gong4 gong1
+//就 臺-鐵 就 交-通 部-長 來-講 講
+<Sync time="1220.441"/>
+li1 si3 leh1 ga3 qua1 lau4-kui3 si3 leh1 ga3 qua1 sia4 vin3-zu4
+//你 是 咧 共 我 落-氣 是 咧 佮 我 瀉 面-子
+<Sync time="1222.826"/>
+ah1 na3 ziu3 i2 de3-hng2-guann1 bun1-sin1,ze1 leh1 hua4-siannh2 neh2
+//阿 若 就 伊 地-方-官 本-身, 這 咧 喝 啥 呢
+<Sync time="1225.4"/>
+ze1 leh1 hua4 suan1-pior3, hoh1 hoh2
+//這 咧 喝 選-票, 謼 謼
+<Sync time="1227.414"/>
+in2-ui3 leh3, ze1 ah1 huah2 lor3-ki3 e2 si2-zun2 honnh2
+//因-為 咧, 這 阿 喝 落-去 的 時-陣 乎
+<Sync time="1229.674"/>
+heh2, dng4 ho2 i2 e2 lang5 
+//嘿, dng 予 伊 的 人
+<Sync time="1231.018"/>
+ah2-si3 gong1 vor2 dng4 ho2 i2 e2 lang5 e3 gam1-gak1 mh2
+//猶-是 講 無 dng 予 伊 的 人 會 感-覺 mh4
+<Sync time="1233.053"/>
+zit1-le2 lang5 honnh2,
+//這-個 人 乎
+<Sync time="1233.928"/>
+ngh2 ge2-ge2-giam1-giam4 u3 leh1 zor4 dai3-zi3
+//ngh4 加-加-減-減 有 咧 做 代-誌
+<Sync time="1235.978"/>
+ah1 gi2-si3 ah3, u2 e2 lang5 ziok1-qau2 po2 biau1-vin2 e2
+//阿 其-實 阿, 有 的 人 足-qau 鋪 表-面 的
+<Sync time="1238.757"/>
+honnh2, iu2-gi2 si3 ziah1-e2 gok1-vin2-dong1 guann1, hannh2
+//乎， 尤-其 是 遮─個 國-民-黨 官， hannh
+<Sync time="1241.861"/>
+ziok1-qau2 ga3 li1 po2 biau1-vin2 e3,
+//足-qau 共 你 鋪 表-面 的
+<Sync time="1243.268"/>
+so1-i4 honnh2 siok3-qi4 u3 zit3-gu4 ue2 la3
+//所-以 乎 俗-語 有 一-句 話 啦
+<Sync time="1245.033"/>
+i2 gong1 gok1-vin2-dong4 e2 guann1 honnh2,
+//伊 講 國-民-黨 的 官 乎
+<Sync time="1248.284"/>
+lau2-nua2 vor2 lau2-guann2 la3
+//流-瀾 無 流-汗 啦
+<Sync time="1250.697"/>
+dor2 kor4 zit3-gi2 cui3 ga3─li1 lang3 cui4-hue1 la3 honnh2
+//就 靠 一-支 喙 共-你 弄 喙-花 啦 乎
+<Sync time="1253.448"/>
+ah1 na3 gok1-vin2-dong4 e2 bing1 ah3,
+//阿 若 國-民-黨 的 兵 阿
+<Sync time="1255.385"/>
+si3 e3─ziah2 ve3 sior2-zing1 la3
+//是 會─食 袂 相-舂 啦
+<Sync time="1256.829"/>
+hannh3,ah1 zit1-ma4 hen3-zu1-si5 oh3
+//hannh， 阿 這-馬 現-此-時 喔
+<Sync time="1259.094"/>
+bak1-han5 honnh2 e2 guann1, bak1-han5 e3 tau2-lang5 
+//北-韓 乎 的 官， 北-韓 的 頭-人
+<Sync time="1261.75"/>
+uan2-na1 si3 an1-ne1 honnh2
+//原─若 是 按-呢 乎
+<Sync time="1262.806"/>
+lau2-nua2 vor2 lau2-guann2 la3,
+//流-瀾 無 流-汗 啦
+<Sync time="1264.313"/>
+zit3-gang1-gah1-am3 gong1 i2 veh1 pa4 vi1-gok2,
+//一-工-佮-暗 講 伊 欲 拍 美-國
+<Sync time="1266.212"/>
+i2 veh1 gah1 vi1-gok2 pah2
+//伊 欲 佮 美-國 拍
+<Sync time="1267.372"/>
+ah1 vi1-gok1-a4 si3 vor2-siann1 veh1 cap1-siau5 i3 la3
+//阿 美-國-仔 是 無-啥 欲 插-潲 伊 啦
+<Sync time="1269.482"/>
+ah1 zing2-ging2-gong4 honnh2,
+//阿 正-經-講 乎
+<Sync time="1270.607"/>
+eh2 i2 na3 veh1 pah2 honnh2
+//欸 伊 若 欲 拍 乎
+<Sync time="1271.568"/>
+i2 hit1-le2 lam2-han5 sior1 ga2 pah2 zit3-le3 honnh2
+//伊 彼-號 南-韓 小 共 拍 一-下 乎
+<Sync time="1273.207"/>
+dui4 dai2-uan5 ge2-ge2-giam1-giam4 u3 hor1-cu3 neh2
+//對 台-灣 加-加-減-減 有 好-處 呢
+<Sync time="1275.237"/>
+li1 zit1-ma4 na3 ga2 den2 lor3-ki3 liau1-au2 honnh2
+//你 這-馬 若 共 電 落-去 了-後 乎
+<Sync time="1277.456"/>
+lam2-han5 e2 zit3-gua1 hia1 e2 hit1-kuan1 hit1-lor2 
+//南-韓 的 一-寡 遐-個 彼-款 彼-號
+<Sync time="1279.266"/>
+gang2-diunn5 e2 ding3-duann1
+//工-場 的 訂-單
+<Sync time="1280.524"/>
+ge2-ge2-giam1-giam4 e3 zuan1 an4 dai2-uan5 lai5 la3
+//加-加-減-減 會 轉 按 台-灣 來 啦
+<Sync time="1282.662"/>
+so1-i1 honnh2,na3-veh1 pah2 lor3 tan4-za4 
+//所-以 乎 若 欲 拍 就 趁-早
+<Sync time="1284.443"/>
+liong3-za4 sior1 gah2 duann2-lor3 vua5-gin4
+//量-早，稍 共 彈─ 落 無'要-緊
+<Sync time="1286.857"/>
+m5 qua4 si3 an1-ne1 ah3
+//̂ 我 是 按-呢 阿
+<Sync time="1290.323"/>
+ziu3-su2 lun3-su2 la3, hor4 la3
+//就 事 論 事 啦， 好 啦
+<Sync time="1292.124"/>
+ah1 zit1-ma4 gong1 gah1 zia1 e2 si2-zun2 honnh2
+//阿 這-馬 講 佮 遮 的 時-陣 乎
+<Sync time="1293.935"/>
+eh2, painn1-ga3 hor1-pen3 honnh2, ah1 qen4 zor4-guann1
+//欸 歹-教 好-騙 乎, 阿 癮 做-官
+<Sync time="1298.106"/>
+ah1 si3 an1-na1 hor1-pen3,in2-ui3
+//阿 是 按-怎 好-騙 因-為
+<Sync time="1301.114"/>
+dai2-uan2-lang5 honnh2,
+//台-灣-人 乎
+<Sync time="1302.575"/>
+he1 vat3
+<Event desc="vak3" extent="previous" type="lexical"/>
+-ziu1 u3-dang2-si2 long1 vor2-ai4 ti1 ho2 gim1
+//彼 目─睭 有-當-時 攏 無-愛 褫 予 金
+<Sync time="1306.185"/>
+ah1 in2-ui3 vat3
+<Event desc="vak3" extent="previous" type="lexical"/>
+-ziu1 ti1-ve3-gim1 
+//阿 因-為 目-睭 褫 袂 金
+<Sync time="1308.877"/>
+dor3-si3 gah1 ai4-zinn5 u3 guan2-he2 honnh2
+//就-是 佮 愛-錢 有 關-係 乎
+<Sync time="1311.087"/>
+li1 ciunn3 di3 dai2-uan5 e2 lik3-su4,
+//你 像 佇 臺-灣 的 歷-史
+<Sync time="1313.44"/>
+he1 dai2-uan2-lang5 
+//彼 台-灣-人
+<Sync time="1314.53"/>
+lih1 hong5 lior5 lih1 hong5 tai5 e2 si2-zun2 honnh2
+//咧 予'人 lior 咧 予'人 刣 的 時-陣 乎
+<Sync time="1316.334"/>
+qua1 i4-su3 gong1 
+//我 意-思 講
+<Sync time="1317.075"/>
+i2 e2 ko4-de3-a4 lih1 hong5 lior5 lih1 hong5 tai5 e2 si2-zun2 honnh2
+//伊 的 褲-袋-仔 咧 予'人 lior 咧 予'人 刣 的 時-陣 乎
+<Sync time="1319.428"/>
+u2 gui1-lor3-ziong1 zing2-hing5,
+//有 幾-若 種 情-形
+<Sync time="1320.803"/>
+na3 kah1-u3 ni2-hue3 e2 lang5 i2 long1 zai2-iann4
+//若 較 有 年-歲 個 人 伊 攏 知-影
+<Sync time="1323.085"/>
+di3 go1-za1 si2-dai2 dai2-uan5 leh1 siau1 zit3-cut1 ci3-ziau1-a4
+//佇 古-早 時-代 台-灣 咧 痟 一-出 飼 鳥-仔
+<Sync time="1327.06"/>
+ho4,ah1 ci3-ziau1-a4 e2 si2-zun2 honnh2,
+//謼, 阿 飼-鳥-仔 的 時-陣 乎
+<Sync time="1329.185"/>
+he1 lor3 u3-lang2 kik1-i3 dam4-hia1 ca4 ca4 ca1 ca1 ca4
+//彼 就 有-人 刻-意 店 遐 炒 炒 炒 炒 炒
+<Sync time="1331.517"/>
+hoh2 ah1 ci3-ziau1-a4,
+//謼 阿 飼 鳥-仔
+<Sync time="1332.548"/>
+ah1 hen3-cu1-si5 ma3 si3 u3-lang2 leh1 ci3-ziau1-a4
+//阿 現-此-時 嘛 是 有-人 咧 飼 鳥-仔
+<Sync time="1335.486"/>
+ah1 m3-gu1 u2-lang2 leh1 ci3-ziau1-a4 e2 si2-zun2 
+//阿 毋-閣 有 人 咧 飼 鳥-仔 的 時-陣
+<Sync time="1337.218"/>
+he1-si3 u3 zit1-ma4 si3 u3 
+//彼-是 有 這-馬 是 有
+<Sync time="1338.593"/>
+go4-ding2 e2 hang2-zing5 leh1 ci3 ing2-gor1 honnh2
+//固-定 的 行-情 咧 飼 鸚-哥 乎
+<Sync time="1341.67"/>
+ah1 zit1-ma4 ma3 iah1-gorh1 u3-lang2 leh1 
+//阿 這-馬 嘛 抑-閣 有-人 咧
+<Sync time="1343.001"/>
+ci3 hit1-lor2 co2-siok2 e2 ziau1-a4
+//飼 彼-號 粗-俗 的 鳥-仔
+<Sync time="1345.113"/>
+ah1 ziah1-e2 to2
+<Event desc="co2" extent="previous" type="lexical"/>
+-siok2 e2 ziau1-a4 
+//阿 遮─個 粗-俗 的 鳥-仔
+<Sync time="1346.654"/>
+iu3-gorh1 kan2-len2 dior3 zit1-le2 hor1-pen3 e2 dik3-sik2
+//又-閣 牽-連 著 這─個 好─騙 的 特-色
+<Sync time="1350.08"/>
+in2-ui3 i2 ci3-ci2-e2 
+//因-為 伊 飼-飼-的
+<Sync time="1351.384"/>
+ziah1-e2 ziau1-a4 si3 veh1 cong4-siannh2 la3
+//遮─個 鳥-仔 是 欲 創-啥 啦
+<Sync time="1352.705"/>
+si3 veh1 ho3 ziah1-e2 hit1-kuan1 hit1-lor2 honnh2
+//是 欲 予 遮─個 彼-款 彼-號 乎
+<Sync time="1355.689"/>
+hit1-lor2 tau2-kak2 ve3 cing2-cor4 e2 lang5, veh1 ve2 i2
+//彼-號 頭-殼 袂 清-楚 的 人， 欲 賣 伊
+<Sync time="1359.344"/>
+ah1 zit1-ma4 ve2 i2 e2 si2-zun2 i2 zit1-ma4 ve4-ki3 liau1-au2 
+//阿 這-馬 賣 伊 的 時-陣 伊 這-馬 買-去 了-後
+<Sync time="1362.359"/>
+ziah1 ga2 bang4-bang3 ho2 bue2-bue1 cut1-lih1 ia1-qua2,
+//遮 共 放-放 予 飛-飛 出-去 野-外
+<Sync time="1365.362"/>
+ze1 gong1 gior4-zor4 hong4-sing1
+//這 講 叫-做 放-生
+<Sync time="1367.451"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="1368.826"/>
+ah1 gi2-sit2 ziah1-e2 hong4-sing1 e1 honnh2,
+//阿 其 實 遮─個 放-生-的 乎
+<Sync time="1370.205"/>
+he1 uan2-na2 si3 hor1-pen3
+//彼 原─若 是 好-騙
+<Sync time="1372.842"/>
+lai3-vin2 e2 zok3-gun5 e2 gi2-diong1 zi2 it2,
+//內-面 的 族-群 的 其-中 之 一
+<Sync time="1375.112"/>
+li3-ciann1 gorh1 ziam4 dai3-dor2-so3
+//而-且 閣 佔 大-多-數
+<Sync time="1377.17"/>
+li1 ga3 siunn3 ho2 cing2-cor4 la3,
+//你 共 想 予 清-楚 啦
+<Sync time="1378.638"/>
+m3-mo1 leh1 gah1 tiann2 siann1-mih1 uann1-gor2 huat1-su1 honnh2
+//毋─好 咧 佮 聽 啥-物 碗-糕 法-師 乎
+<Sync time="1380.854"/>
+gong1 dor3-ai4 hong4-sing1 oh2 li1 ziah1 u3 hor1-sim1 u3 hor1-bor3
+//講 就-愛 放-生 喔 你 才 有 好-心 有 好-報
+<Sync time="1383.615"/>
+mai3-la3, mai4 an1-ni1 la3, li1 zit1-ma4 gorh1 hong4-sing1 lor2-ki3 honnh2
+//莫 啦, 莫 按-呢 啦, 你 這-馬 閣 放-生 落-去 乎
+<Sync time="1386.454"/>
+li1 uan2-na1 hai3-si1 zit1-gua1 hit1-kuan1 hit1-lor2 senn4-mia2 la3
+//你 原-若 害-死 這-寡 彼-款 彼-號 生-命 啦
+<Sync time="1389.032"/>
+he1 ziau1-a4 lang2-ci2 e2 la3,
+//彼 鳥-仔 人 飼 的 啦
+<Sync time="1390.72"/>
+ci3-ci2 liau1-au2 li1 ga2 ve4-lai3 e2 si2-zun2
+//飼-飼 了-後 你 共 買-來 的 時-陣
+<Sync time="1393.461"/>
+li1 ga2 bang3-cut3-lih3,
+//你 共 放-出-去
+<Sync time="1394.223"/>
+hiah1-e2 ziau1-a4 ve3-hiau1 veh1 ki1 tor1-ziah2
+//遐-個 鳥-仔 袂-曉 欲 去 討-食
+<Sync time="1395.832"/>
+ziong2-gi2-vue4 ai4 si4 la3,
+//終-其-尾 愛 死 啦
+<Sync time="1397.082"/>
+ze1 de3-it1-ziong4 la3 honnh2
+//這 第-一-種 啦 乎
+<Sync time="1398.655"/>
+de3-li3-ziong1 vai1-cu3,
+//第-二-種 䆀-處
+<Sync time="1399.874"/>
+hiah1-e2 ziau1-a4 si3-m3-si3 bun1-to1-zing4 e3 
+//遐-個 鳥-仔 是-毋-是 本-土-種 的
+<Sync time="1402.044"/>
+hik3-ziah1 si3 qua3-lai5-zing4 e3
+//或-者 是 外-來-種 的
+<Sync time="1403.559"/>
+m3 zai2-iann4 la3,
+//毋 知-影 啦
+<Sync time="1404.528"/>
+ah1 ga1-su1 gong1 li1 zit1-ma4 
+//阿 假-使 講 你 這-馬
+<Sync time="1405.96"/>
+ci2 e2 ziau1-a4 ga2 bang3-cut3-lih3 honnh2
+//飼 的 鳥-仔 共 放-出-去 乎
+<Sync time="1407.653"/>
+gah1 gah1 zai3-lai5-zing4 e2 
+//佮 佮 在-來-種 的
+<Sync time="1409.043"/>
+dam4-hia1 gorh1 gau2-bue4 liau1-au2 honnh2
+//店 遐 閣 交-陪 了-後 乎
+<Sync time="1410.588"/>
+gorh1 ling3-qua3 hit1-lor2 
+//閣 另-外 彼-號
+<Sync time="1411.87"/>
+a2-ziu1 e2 a2 hit1-lor2 a2-ziong4 honnh2
+//亞-洲 的 鴨 彼-號 亞-種 乎
+<Sync time="1414.047"/>
+hit1-leh2 a2-zing4 honnh2,
+//彼-個 亞-種 乎
+<Sync time="1414.995"/>
+dor3 si3 gong1 de3-li3-dai2 dor3 diorh2 la3
+//就-是 講 第-二-代 就 著 啦
+<Sync time="1416.926"/>
+hit1-le1 cut2-lai3 e2 si2-zun2 
+//彼─個 出-來 的 時-陣
+<Sync time="1418.083"/>
+e3 ben4 an1-nua4 ma3 vor2-lang2 zai2-iann4 la3
+//會 變 按-怎 嘛 無-人 知-影 啦
+<Sync time="1420.255"/>
+ah2-si3 gong1 m3-du1-hor4 
+//猶-是 講 毋-拄-好
+<Sync time="1421.752"/>
+li1 ki1 a1 ni1 ve4 a3 ve4,
+//你 去 按-爾 買 阿 買
+<Sync time="1422.98"/>
+ki1 ve1-dior3 qua3-lai5-zing4 e3
+//去 買-著 外-來-種 的
+<Sync time="1424.134"/>
+ah1 qua3-lai5-zing4 e3 na3 kah1 painn4 e2 si2-zun2,
+//阿 外-來-種 的 若 較-歹 的 時-陣
+<Sync time="1426.153"/>
+ziah1-e2 bun1-to1-zing4 e3 
+//遮─個 本-土─種 的
+<Sync time="1427.246"/>
+long1-zong1 ki4 ho3 i2 de3-buann5,
+//攏-總 去 予 伊 地-盤
+<Sync time="1429.417"/>
+hit1-le2 sing2-zun5 e2 kuan2-ging4 
+//彼-個 生-存 的 環-境
+<Sync time="1431.26"/>
+long1-zong1 ki1 ho2 ziam3-ki3 e2 si2-zun2
+//攏-總 去 予 佔-去 的 時-陣
+<Sync time="1432.914"/>
+an1-ni1 bun1-to1-zing4 e3 (e3) zuainn5 si1-kiau4-kiau3
+//按-呢 本-土─種 會 （會） 自'按'呢 死-翹-翹
+<Sync time="1435.468"/>
+ah1 bun1-to1-zing4 e3 si4-kiau4-kiau3 e2 si2-zun2,
+//阿 本-土─種 會 死─翹-翹 的 時-陣
+<Sync time="1437.343"/>
+kuann4 li1 zor3-qet2 zor3 qua3-dang2 la3
+//看 你 造─孽 造 外-重 啦
+<Sync time="1438.856"/>
+li1 vor5-gong4 li1 leh1 hong4-sing1 oh3,
+//你 無 講 你 咧 放-生 喔
+<Sync time="1440.293"/>
+ah1 li1 hor1-sim1 u3 hor1-bor3
+//阿 你 好-心 有 好-報
+<Sync time="1441.793"/>
+ah3 vi3 bit1-len5 la3 vor2-it1-ding3 si3 an1-ni1 la3
+//阿 未 必-然 啦 無-一-定 是 按-呢 啦
+<Sync time="1444.199"/>
+so1-i1 honnh2, dai2-uan2-lang5 hor1-pen3 
+//所-以 乎 台-灣-人 好─騙
+<Sync time="1446.488"/>
+dor3-si3 zit1-le2 so1-zai2 leh1 hor1-pen3 la3
+//就-是 這-個 所-在 咧 好-騙 啦
+<Sync time="1448.219"/>
+ah1 li1 na3 e3-hiau1 pen4 dai2-uan2-lang5 lau1-sit3-gong4,
+//阿 你 若 會-曉 騙 台-灣-人 老-實-講
+<Sync time="1450.376"/>
+ziok1 gan1-dan1 honnh2
+//足 簡-單 乎
+<Sync time="1451.987"/>
+li1 dor3 ting4-hor1 an1-ni1 honnh2,van3-ni5 hu4-gui3 la3
+//你 就 聽─候 按-呢 乎 萬-年 富-貴 啦
+<Sync time="1454.4"/>
+ah1 na1 cin2-ciunn3 gong1 honnh2,
+//阿 那 親-像 講 乎
+<Sync time="1455.737"/>
+a2-giu4 a3 leh1 pen4 dai2-uan2-lang5 e2 suan1-pior3 gang3-kuan4 la3
+//阿-九-仔 咧 騙 台-灣-人 的 選-票 仝-款 啦
+<Sync time="1458.448"/>
+ah1 si5-gau3 honnh2,
+//阿 時-到 乎
+<Sync time="1459.26"/>
+ah1 zit1-ma4 leh1 gong1 honnh2 giu1-li2-giong3-sik2 la3
+//阿 這-馬 咧 講 乎 九-二-共-識 啦
+<Sync time="1461.608"/>
+an1-nua4 loh3, ah1 li1 na3 vor2 an1-ni1 honnh2,
+//按-怎 loh, 阿 你 若 無 按-呢 乎
+<Sync time="1463.76"/>
+li1 na3 vor2-ai4 lai2 i2-ci2 qua4 e2 si2-zun2
+//你 若 無-愛 來 維-持 我 的 時-陣
+<Sync time="1465.958"/>
+vor2-lai2 zi2-ci2 qua4 e2 si2-zun2 honnh2,
+//無-來 支-持 我 的 時-陣 乎
+<Sync time="1467.354"/>
+ah1 li1 e3 si1 gah1 ziok1 painn1-kuann3 li1 e3-u2-e2-vor5-e2****************************************************************************************
+//抑 你 會 死 佮 足 歹-看, 你 會 有-的-無-的
+<Sync time="1469.965"/>
+ah1 lior3-a1 ga3 li1 hannh2 zeh3-leh3, ah1 lor3 ki3 ah3
+//阿 略-仔 共 你 熁 一─下, 阿 就 去 啦
+<Sync time="1471.945"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="1472.308"/>
+ah1 (dior3) suan1-pior3 dor3 dng4 ho2 i2,
+//阿 (著) 選-票 就 dng 予 伊
+<Sync time="1473.652"/>
+ah1 zit1-ma4 dng4 ho2 i2 liau1-au2,ah1 li1 dor3 gai2-si3 ah3
+//阿 這-馬 dng 予 伊 了-後 阿 你 就 該-死 矣
+<Sync time="1475.565"/>
+an1-nua1 gong4, eh2 zit1-hang2 ah3 ki4 hit1-hang2 ah3 ki4
+//按-怎 講, 欸 這-項 也 起 彼-項 也 起
+<Sync time="1480.621"/>
+ah1 siann1-mih1 hue3 vor2-ki4,
+//阿 啥-物-貨 無-起
+<Sync time="1482.128"/>
+dor2 vor5 ah3 siunn3 ve3 cut2-lai3 ah3 ah1
+//都 無 阿， 想 袂 出-來 矣 阿
+<Sync time="1484.871"/>
+siann1-hue3 vor2-ki4 
+//啥-貨 無-去
+<Sync time="1485.996"/>
+li1 e2 sin2-sui4 vor2-ki4,m3-nia3 vor2-ki4 gorh1 sin2-sui4 e3 lak1-ge3
+//你 的 薪-水 無-起 毋-但 無-起 閣 薪-水 會 落-價
+<Sync time="1489.355"/>
+honnh2, ah1 zit1-ma4 ze1 dor3 si3 dua3-vun3-de5 lor3 cut1-lih3 zia1
+//乎， 阿 這-馬 這 就-是 大 問-題 落 出-佇 遮
+<Sync time="1492.216"/>
+hor4 lai5, ah1 lan1 sior1 hiorh2 zit3-le3 liam2-mi2 ziah1 gorh1 lai5 eh1
+//好 來， 阿 咱 小 歇 一─下 連-鞭 才─閣 來 欸
+<Sync time="1495.429"/>
+
+<Event desc="music" extent="instantaneous" type="noise"/>
+
+</Turn>
+<Turn endTime="1640.684" speaker="spk3" startTime="1632.19">
+<Sync time="1632.19"/>
+gok1-ui2 tiann2-ziong4 bing2-iu4 dak3-e2 hor4, qua1 si3 dong2-vi1-hun5
+//各-位 聽-眾 朋-友 逐-個 好, 我 是 唐─美-雲
+<Sync time="1635.307"/>
+lin1 zit1-ma4 so1 siu2-tiann1 e1 si3 lik3-sik2 hor2-ping5 gong1-bor4 den3-dai5
+//恁 這-馬 所 收─聽 的 是 綠-色 和-平 廣-播 電-台 
+<Sync time="1638.68"/>
+
+<Event desc="en" extent="begin" type="language"/>
+F-M
+<Event desc="en" extent="end" type="language"/>
+ giu1-cit2 diam1-sann1
+// FM 九 七 點 三
+</Turn>
+<Turn endTime="1688.938" speaker="spk4" startTime="1640.684">
+<Sync time="1640.684"/>
+a2-vuan4 a3 ah1 li1 e1 
+<Event desc="zh" extent="begin" type="language"/>
+小吃店
+<Event desc="zh" extent="end" type="language"/>
+ m3-si3 ziah1 du1-a1 zing1-li4 gue3
+// 阿─滿─仔 阿 你 的 小吃店 毋-是 才 拄-仔 整-理 過
+<Sync time="1643.962"/>
+ah1 nai4 gorh1 diong2-sin1 leh1 iu2-cat2 la3
+//阿 若'會 閣 重-新 咧 油-漆 啦
+<Sync time="1645.76"/>
+ah2 sua4-m3-zai2 zue4-gun2 zing4-hu4 u3 gui2-ding3 zit3-diau3 
+<Event desc="zh" type="language" extent="begin"/>
+室內空氣品質管理法
+<Event desc="zh" type="language" extent="end"/>
+
+//阿 煞─毋-知 最-近 政-府 有 規-定 一─條
+<Event desc="zh" extent="instantaneous" type="language"/>
+室內空氣品質管理法
+<Sync time="1649.925"/>
+e3 ziam2-dui4 gong2-giong3 diunn3-so4 lai3 zin4-hing5 giam1-za1
+//會 針-對 公-共─場─所 來 進-行 檢-查
+<Sync time="1652.664"/>
+na3 giam1-za1 vor2 gue3, gong1 u3 
+<Event desc="zh" type="language" extent="begin"/>
+甲醛含量
+<Event desc="zh" type="language" extent="end"/>
+ 
+//若 檢-查 無 過 講 有 甲醛含量 
+<Sync time="1655.196"/>
+ah2-si3 piann1-kun4 dor3 ai4 lai2 gai1-sen2,
+//猶 是 歹─菌 就 愛 來 改-善
+<Sync time="1657.133"/>
+na3-vor5 e3 ki1 hong5 huat3-zinn5 oh1
+//若-無 會 去 予'人 罰-錢 喔
+<Sync time="1658.712"/>
+vok3-guai3 oh3,qua1 kuann4 gui2-diau2-ge2-a4 long1 leh1 diong2-sin1 iu2-cat2 neh2
+//莫-怪 喔 我 看 規-條 街-仔 攏 咧 重-新 油-漆 呢
+<Sync time="1662.07"/>
+gai4-siau3 li1 ze1 
+<Event desc="zh" type="language" extent="begin"/>
+ 貝多力光觸媒水泥漆
+<Event desc="zh" type="language" extent="end"/>
+
+//介-紹 你 這
+<Event desc="zh" extent="instantaneous" type="language"/>
+貝多力光觸媒水泥漆
+<Sync time="1665.353"/>
+i2 u3 
+<Event desc="zh" type="language" extent="begin"/>
+奈米標章
+<Event desc="zh" type="language" extent="end"/>
+ gah3 
+<Event desc="zh" type="language" extent="begin"/>
+綠建材標章
+<Event desc="zh" type="language" extent="end"/>
+
+//伊 有
+<Event desc="zh" extent="instantaneous" type="language"/>
+奈米標章 佮 綠建材標章
+<Sync time="1667.776"/>
+siong3 diong3-iau3 e3 si3 gong1 honnh2, ze1 
+<Event desc="zh" type="language" extent="begin"/>
+光觸媒
+<Event desc="zh" type="language" extent="end"/>
+
+//上 重-要 的 是 講 乎 這
+<Event desc="zh" extent="instantaneous" type="language"/>
+光觸媒
+<Sync time="1669.997"/>
+m3-na3 e3 dang4 
+<Event desc="zh" extent="begin" type="language"/>
+分解甲醛
+<Event desc="zh" extent="end" type="language"/>
+ cau4-vi2
+//毋-但 會 當 分解甲醛 臭-味
+<Sync time="1672.212"/>
+iah1-gorh1 e3-dang4 
+<Event desc="zh" type="language" extent="begin"/>
+防霉抗菌
+<Event desc="zh" type="language" extent="end"/>
+
+//抑-閣 會-當
+<Event desc="zh" extent="instantaneous" type="language"/>
+防霉抗菌
+<Sync time="1674.004"/>
+an1-ne1 ui3-dior3 dak3-e5 e3 gen3-kong1 qua1 ma3 veh1 diong2-sin1 iu2-cat2
+//按-呢 為-著 逐-位 的 健-康 我 嘛 欲 重-新 油-漆
+<Sync time="1677.229"/>
+
+<Event desc="zh" type="language" extent="begin"/>
+水泥漆第一品牌貝多力0800552857 0800552857
+<Event desc="zh" type="language" extent="end"/>
+ //水泥漆第一品牌貝多力0800552857 0800552857
+<Sync time="1685.653"/>
+
+<Event desc="music" extent="instantaneous" type="noise"/>
+
+</Turn>
+<Turn endTime="1714.075" speaker="spk5" startTime="1688.938">
+<Sync time="1688.938"/>
+lik3-sik2 zi2-iu4 dak3-e2 hor4,qua1 si3 dan2-u1-kim1 
+<Event desc="zh" type="language" extent="begin"/>
+陳雨鑫
+<Event desc="zh" type="language" extent="end"/>
+
+//綠-色─之─友 逐-個 好 我 是 陳─雨─鑫
+<Event desc="zh" extent="instantaneous" type="language"/>
+陳雨鑫
+<Sync time="1691.376"/>
+bak1-dau5 dai3-bak2 ci3-lip1 
+<Event desc="zh" type="language" extent="begin"/>
+復興高中
+<Event desc="zh" type="language" extent="end"/>
+
+//北-投 台-北 市-立
+<Event desc="zh" extent="instantaneous" type="language"/>
+復興高中
+<Sync time="1694.142"/>
+gin1-ni5 lak3-zap3 ziu2-ni2-king3 
+//今-年 六-十 周-年-慶
+<Sync time="1695.736"/>
+di3 qo3-que3 zap3-beh2 bai4-lak1 zai1-ki4 veh1 lai2 gu1-hing2
+//佇 五─月 十-八 拜-六 早-起 欲 來 舉-行
+<Sync time="1698.568"/>
+iau2-ciann1 hau3-iu4 
+<Event desc="zh" type="language" extent="begin"/>
+蔣偉寧、盛竹如、陳明章、簡媜等回娘家共襄盛舉
+<Event desc="zh" type="language" extent="end"/>
+//邀-請 校-友
+<Event desc="zh" extent="instantaneous" type="language"/>
+蔣偉寧、盛竹如、陳明章、簡媜等回娘家共襄盛舉
+<Sync time="1705.436"/>
+hi2-vong3 mui1-zit3-gai3 
+//希-望 每-一-屆
+<Sync time="1706.717"/>
+so1-u2 e3 hau3-iu4, e3-dang4 dng4-lai2 cam2-ga1
+//所-有 的 校-友 會-當 轉-來 參-加
+<Sync time="1708.5"/>
+den3-ue2 len2-lok1 
+//電-話 聯-絡
+<Sync time="1709.563"/>
+ri3-bat2 giu1-it2 su4-it2 sam2-it2 zuan1 cit1-kong4-ri2 
+<Event desc="zh" type="language" extent="begin"/>
+秘書室
+<Event desc="zh" type="language" extent="end"/>
+
+//二-八 九-一 四-一 三-一 轉 七-空-二
+<Event desc="zh" extent="instantaneous" type="language"/>
+秘書室
+</Turn>
+<Turn endTime="1744.258" speaker="spk6" startTime="1714.075">
+<Sync time="1714.075"/>
+hen3-zu1-si5 oh3,
+//現-此-時 喔
+<Sync time="1715.106"/>
+dai1-uan2 e2 lang5 siang3-vor2-ing5 e2 ge2-si1 honnh2
+//台─灣 的 人 上 無-閒 的 家-私 乎
+<Sync time="1716.991"/>
+dor3-si3 zit3-gi2 cui3
+//就-是 一-支 喙
+<Sync time="1717.929"/>
+li1 ga2 kuann3 ah3-veh1 gong4 ah3-veh1 ziah2 
+//你 共 看 也 欲 講 也 欲 食
+<Sync time="1720.04"/>
+ah3-veh1 uan1 ah3-veh1 ca4
+//也 欲 冤 也 欲 吵
+<Sync time="1721.04"/>
+ah3-veh1 lim1 ah3-veh1 zim1 
+//也 欲 啉 也 欲 zim
+<Sync time="1722.002"/>
+ah3-veh1 hainn1 ah3 ma3 veh1 gainn1
+//也 欲 hainn 也 嘛 欲 gainn
+<Sync time="1723.459"/>
+diann3-diann3 vu1 gah1 zit3-gi2 cui3 honnh2, na1 dior3 hue1 sior1
+//定-定 舞 佮 一-支 喙 乎， 若 著 火 燒
+<Sync time="1725.649"/>
+da2-siap2 sit1-siann1 ah1 gorh1 qai3-qiorh2
+//焦─澀 失-聲 也─閣 qai-qiorh
+<Sync time="1727.967"/>
+na2-au5 veh1 go3, kui4-kau4 veh1 hor4
+//嚨-喉 欲 顧, 氣-口 欲 好
+<Sync time="1729.623"/>
+zi1-iau4 sui2-sin1 ziah3 suat1-ten2-gor4
+//只-要 隨-身 食 雪─天─果
+<Sync time="1731.864"/>
+suat1-ten2-gor4 iong3 lan1 e2 pue4-hong1, ah1 u3 lan1 e2 ki4-vi2
+//雪 天-果 用 咱 的 配─方, 阿 有 咱 的 氣-味
+<Sync time="1734.503"/>
+zin2-ziann4 ho3 lan1 
+<Event desc="zh" type="language" extent="begin"/>
+生津止渴
+<Event desc="zh" type="language" extent="end"/>
+
+//真-正 予 咱
+<Event desc="zh" extent="instantaneous" type="language"/>
+ 生津止渴
+<Sync time="1736.311"/>
+lun3-au5 zo3-ki3,
+//潤-喉─助─氣
+<Sync time="1737.092"/>
+ho3 lan1 dak3-ge2 kin2-sang2 a1 gong4 kin2-sang2 a1 ziah2
+//予 咱 逐-家 輕-鬆 仔 講 輕-鬆 仔 食
+<Sync time="1739.434"/>
+kin2-sang2 a1 huan1 kin2-sang2 a1 ca4,
+//輕-鬆 仔 冤 輕-鬆 仔 吵
+<Sync time="1740.747"/>
+kin2-sang2 a1 lim1 ma3 kin2-sang2 a1 zim1
+//輕-鬆 仔 啉 嘛 輕-鬆 仔 zim
+<Sync time="1742.271"/>
+suat1-ten2-gor4
+//雪─天-果
+</Turn>
+<Turn endTime="1809.383" speaker="spk7" startTime="1744.258">
+<Sync time="1744.258"/>
+bing2-iu4 ah3, li1 si3─m3─si3 ga4 zin2-ze3 lang5 gang3-kuan4
+//朋-友 阿 你 是─毋─是 共 真-濟 人 仝-款
+<Sync time="1747.211"/>
+ze1 leh2 dor3 ha4-hi3, dor4 leh3 kun4-ve3-ki3
+//坐 咧 就 哈-唏, 倒─咧 睏-袂-去
+<Sync time="1749.477"/>
+gen4-gong4 gong1 gue4-ki3, gong1-uan5 sui3 bang4 vue3-gi3
+//見 講 講 過-去, 講-完 隨 放 袂-記
+<Sync time="1752.039"/>
+lan1 rin2-sing1 u3 sann2-hun2 zi2-it2 e3 si2-gan1 
+//咱 人-生 有 三-分-之-一 的 時-間
+<Sync time="1754.177"/>
+long1 dit3-leh1 vun2-cng2-ding4
+//攏 佇─咧 眠─床-頂
+<Sync time="1755.507"/>
+so1-i1 suan1 zit3-le2 hor4 e2 zim1-tau5 hui2-siong5 e2 diong3-iau3
+//所-以 選 一─個 好 的 枕-頭 非-常 的 重-要
+<Sync time="1758.632"/>
+a2-king3-a3 ga3 li1 tui2-zen4 
+<Event desc="zh" type="language" extent="begin"/>
+自在檜木枕頭
+<Event desc="zh" type="language" extent="end"/>
+
+//阿─慶─仔 共 你 推-薦
+<Event desc="zh" extent="instantaneous" type="language"/>
+自在檜木枕頭
+<Sync time="1761.844"/>
+ho3 li1 dak3-gang1 hiang1-siu3 dai3-zu3-ren5 e2 hun2-dor2-zing1
+//予 你 逐-工 享-受 大-自-然 的 芬─多─精
+<Sync time="1764.618"/>
+gorh1-u3 
+<Event desc="zh" type="language" extent="begin"/>
+按摩穴道 
+<Event desc="zh" type="language" extent="end"/>
+ e 
+<Event desc="zh" type="language" extent="begin"/>
+功能
+<Event desc="zh" type="language" extent="end"/>
+
+//閣 有
+<Event desc="zh" extent="instantaneous" type="language"/>
+按摩穴道 e 功能
+<Sync time="1766.924"/>
+siong3-diong3-iau3 si3 ho3 li1 dak3-gang1 hor1 lor3-ving5
+//上-重-要 是 予 你 逐-工 好 落─眠
+<Sync time="1769.471"/>
+vu1-cin2-zet2 veh1 gau3 loh3,
+//母-親-節 欲 到 loh
+<Sync time="1770.768"/>
+sang4 zit3-liap1 ho2 ma2-ma1 biau1-dat3 li1 e2 hau4-sim1
+//送 一-粒 予 媽-媽 表-達 你 的 孝-心
+<Sync time="1773.346"/>
+lang2 leh1 gong1 
+//人 咧 講
+<Sync time="1774.127"/>
+si3-dua3-lang5 na3 hor1-lor3-vin5,si3-se3 ziah1-e2 an2-sim1
+//序-大-人 若 好 落-眠 序-細 才 會 安-心
+<Sync time="1777.143"/>
+quan2-ge3 qo3-cing1 nng3-ba4 ko1,
+//原-價 五-千 兩-百 箍
+<Sync time="1779.049"/>
+dik3-ge3 si4-cing1 lak3-ba4 ko1
+//特-價 四-千 六-百 箍
+<Sync time="1781.309"/>
+zu4-vun5 den3-ue2 
+//注-文 電-話
+<Sync time="1782.611"/>
+ri3-giu4 cit1-sam1 kong4-su3 kong4-giu4,
+//二-九 七-三 空-四 空-九
+<Sync time="1784.736"/>
+ri3-giu4 cit1-sam1 kong4-su3 kong4-giu4
+//二-九 七-三 空-四 空-九
+<Sync time="1787.183"/>
+biau1-dat3 hau4-sim1 ciann1 li1 sang4 ho3 ma2-ma1 
+<Event desc="ja" type="language" extent="begin"/>
+hi-no-ki
+<Event desc="ja" type="language" extent="end"/>
+ 
+<Event desc="zh" type="language" extent="begin"/>
+檜木枕頭
+<Event desc="zh" type="language" extent="end"/>
+
+//表-達 孝-心 請 你 送 予 媽-媽 hi-no-ki 
+<Event desc="zh" extent="instantaneous" type="language"/>
+檜木枕頭
+<Sync time="1793.698"/>
+
+<Event desc="music" extent="instantaneous" type="noise"/>
+
+</Turn>
+<Turn endTime="3448.484" speaker="spk2" startTime="1809.383">
+<Sync time="1809.383"/>
+ueh2, ho3, lai5 ah1 lan1 zit1-ma4 
+//喂 ho, 來 阿 咱 這-馬
+<Sync time="1811.008"/>
+im2-qak2 tiann2-suah2 lan1 gorh1 lai2 ga2 ge4-siok2 lor3-ki3 eh2
+//音-樂 聽 煞 咱 閣 來 共 繼-續 落-去 欸
+<Sync time="1813.457"/>
+gin2-na1 lan1 si3 an4 zit1-le2 gong1, hit1-le2 gai1-zong1 la3 honnh2
+//今─仔 咱 是 按 這─個 講 彼-個 改-裝 啦 乎
+<Sync time="1816.581"/>
+aih1 gai1-zong2 kai2-si1 gong4,
+//aih 改-裝 開-始 講
+<Sync time="1817.769"/>
+ah1 gong1 gah1 zit1-ma4 e2 hen3-si5 e2 siau4-len5 e2
+//阿 講 佮 這-馬 的 現-時 個 少-年 的
+<Sync time="1820.476"/>
+ah1 gorh1 gong1 gah1 ni2-hue3 kah1-zue2 e2
+//阿 閣 講 佮 年-歲 較 濟 的
+<Sync time="1822.367"/>
+ah1 siau4-len5 e2 gong4-kiai3 uan2-na3 si3 
+//阿 少-年 的 講─起'來 原-若 是
+<Sync time="1824.488"/>
+vi3-lai5 e2 zen2-do5 i2 e3 gam1-gak1 gong1 vong2-vong2-miau1
+<Event desc="viau1" extent="previous" type="lexical"/>
+-miau4
+<Event desc="viau4" extent="previous" type="lexical"/>
+ //未-來 的 前-途 伊 會 感-覺 講 茫-茫─渺─渺
+<Sync time="1826.792"/>
+in2-ui3 sin2-sui4 ah3 ve3 ki1-ge3 ah3,
+//因-為 薪-水 阿 袂 起-價 阿
+<Sync time="1828.542"/>
+ah1 sin2-sui4 ve3 ki1-ge3 e2 si2-zun2
+//阿 薪-水 袂 起-價 的 時-陣
+<Sync time="1830.185"/>
+zit1-hang2 ah3 ve3 zor3 lih3, hit1-hang2 ah3 ve3 zor3 lih3
+//這-項 也 袂 做 哩， 彼-項 啦 袂 做 哩
+<Sync time="1832.362"/>
+ah1 li1 gong2 zit1-ma4 e2 siau4-len5-e2 
+//阿 你 講 這-馬 的 少-年 的
+<Sync time="1833.979"/>
+veh1 kor4 sin2-sui1 sing2-uah2
+//欲 靠 薪-水 生─活
+<Sync time="1835.636"/>
+ah1 veh1-lai2 ve1 zit3-ging2 cu3,
+//阿 欲 來 買 一-間 厝
+<Sync time="1836.973"/>
+kak1-kak1-sit3-sit2 hui2-siong5 hui2-siong5 e2 kun4-lan5
+//確─確-實─實 非-常 非-常 的 困-難
+<Sync time="1839.412"/>
+
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="1839.728"/>
+ah1 li3-ciann1 zit1-ma4 hen3-zu1-si5 dai2-uan5 e2 cu4-ge3
+//阿 而-且 這-馬 現-此-時 台-灣 的 厝─價
+<Sync time="1842.112"/>
+ki1 ho3 ziah1-e2 zing4-hu4 vu1-gah1 cun4-cau4-but1-liu5 
+//去 予 遮─個 政-府 舞 佮 寸-草─不-留
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="1844.265"/>
+li1 e3 gam1-gak1 gong1 nai4 hiat1-ni3-a1 gi2-guai3 hannh2 
+//你 會 感-覺 講 若'會 遐─爾─仔 奇-怪 hannh
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="1847.42"/>
+ben4-zor4 gong1 ci3-lai2 e2 cu3 huan3-se4 kah1-siok2 honnh2
+//變-做 講 市-內 的 厝 凡-勢 較-俗 乎
+<Sync time="1850.23"/>
+di3 e1 diong2-lam2-bo2 ah2,
+//佇 咧 中-南-部 阿
+<Sync time="1851.48"/>
+ah1 ci3-gau1 e2 cu3 suah1 ben4-zor4 kah1 gui3
+//阿 市─郊 的 厝 煞 變-做 較 貴
+<Sync time="1853.682"/>
+u3-dang2-si2 e3 san1-sing2 zit3-gua1 
+//有-當-時 會 產-生 一-寡
+<Sync time="1855.282"/>
+ziah1-e2 zin2 gi2-guai3 e2 hen2-siong2
+//遮─個 真 奇-怪 的 現─象
+<Sync time="1857.323"/>
+ah1 u3-dang2-si2 li1 gah1 ga2 kuann4-gong1 honnh2 
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+\\阿 有─當─時 你 共 看 講 乎
+<Sync time="1859.198"/>
+eh1 zit1-le2 sia3-ku1 gin2-bun4 hit1-le2 
+//欸 這─個 社-區 根-本 彼-個
+<Sync time="1861.604"/>
+gong2-giong3-gau2-tong1 e2 hit1-le2 
+//公-共 交-通 的 彼-個
+<Sync time="1863.726"/>
+hit1-kuan1 hit1-lor2 gui2-ue2
+//彼-款 彼-號 規-劃
+<Sync time="1864.792"/>
+ah3 vor2 u3 zit3-le2 hing5 zau4-cut3-lai3,
+//阿 無 有 一─個 形 走─出-來
+<Sync time="1866.948"/>
+ah1 na4 cu4-ge3 gui4 gah1 hit1-lor3 hing5
+//阿 那 厝─價 貴 佮 彼-號 形
+<Sync time="1868.979"/>
+ah1 den2-dor4 gong1 honnh2,u3 e2 hit1-kuan1 hit1-lor2 e2 
+//阿 顛-倒 講 乎 有 的 彼-款 彼-號 的
+<Sync time="1871.323"/>
+cia3-bai2-a1 ka1 di3 set1-di3 lin1 dau1 e2 vin3-tau2-zing5
+//車─牌-仔 跤 佇 設-置 恁 兜 的 面-頭-前
+<Sync time="1874.059"/>
+ah1 veh1 gau2-tong1 ma3 hui2-siong2 hong2-ben2,
+//阿 欲 交-通 嘛 非-常 方-便
+<Sync time="1875.821"/>
+ah1 he1 cu4-ge3 sua4 an1-ni1 
+//阿 彼 厝─價 煞 按-呢
+<Sync time="1877.092"/>
+ah1 long1 qia5 ah3 long1 qia2 ve3 kit2-lai3,
+//阿 攏 夯 阿 攏 夯 袂 起─來
+<Sync time="1879.055"/>
+ah1 ze1 lor3 si3 zit3-ziong4 e2 guai4 hen3-siong2 
+//阿 這 就 是 一-種 的 怪 現-象
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="1881.491"/>
+ah1 ze1 gorh2 guai4 hen3-siong2 
+//阿 這 個 怪 現-象
+<Sync time="1882.818"/>
+ah2─si3 ca2-but1-dor2 dai2-uan5 ziah1 e3 huat1-sing1
+//猶─是 差-不-多 臺-灣 才 會 發-生
+<Sync time="1884.938"/>
+ah1 zit1-ma4 gorh1 ga2 kan2 dor4-dngh2-lai3 
+//阿 這-馬 閣 共 牽 倒─轉─來 
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="1886.482"/>
+gong1 zit1-ma4 e2 siau4-len5-e2 
+//講 這-馬 的 少-年 的
+<Sync time="1887.92"/>
+ui2-it2 u3 huat1-do2 dat3-sing4 e2 ga2-di3 e2 quan3-vong2 honnh2
+//唯-一 有 法-度 達─成 的 家-己 的 願-望 乎
+<Sync time="1891.246"/>
+eh2, cua3-vo4 e3 he1 dor2 
+//欸 娶-某 的 彼 就
+<Sync time="1893.058"/>
+he1-dor2 u3 cua2 gah1 vor2 cua2 honnh2
+//彼-都 有 娶 佮 無 娶 乎
+<Sync time="1895.148"/>
+eh1,ben4-zor4 gong1 ban3 zeh3-e2 ciu1-siok2 nia5 honnh2
+//欸， 變-做 講 辦 一─個 手─續 爾'爾 乎
+<Sync time="1897.214"/>
+ah1 gau2 u3 it1-liok3-a4 
+//阿 交 有 一-六─仔
+<Sync time="1898.237"/>
+gau2 u3 cit1-a4 zit1-le1 kah1 iau4-gin4
+//交 有 翅-仔 這─個 較 要-緊
+<Sync time="1899.651"/>
+ah1 zit1-ma4 dor3 si3 gong1,
+//阿 這-馬 就 是 講
+<Sync time="1900.812"/>
+ah1 ve1-cu3 ah1 ve1-cu3 he1 vok3-biau1 siunn2-gue4 iau2-uan4 a3
+//阿 買-厝 阿 買-厝 彼 目-標 傷-過 遙-遠 也
+<Sync time="1903.241"/>
+ah1 huan3-se4 gong1 honnh2,
+//阿 凡-勢 講 乎
+<Sync time="1904.678"/>
+ah1 be3-vu4 dor2 u3 veh1 lau2 zit3-ging2 a1 ho2 qua2
+//阿 爸-母 都 有 欲 留 一-間─仔 予 我
+<Sync time="1907.193"/>
+ah1 ze1 qua1 lor2 ah3 vor2 ziah1 pik1-zik2 ah3 vor2 ziah1 gip2
+//阿 這 我 就 阿 無 遮 逼─切 矣 無 遮─急
+<Sync time="1909.636"/>
+ah1 so1-i1 ze1 ma3 ting1-a1 
+//阿 所-以 這 嘛 聽-候
+<Sync time="1911.114"/>
+cin4-cin1-cai1-cai4 sior1-kua1 sior1 hau5 zit3-le3 
+//清─清─彩-彩 小-可 小 侯 一─下 
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="1914.043"/>
+ah1 zit1-ma4 siang3-gai4 iau4-gin4 dor3 si3 gong4,ngh2 
+//阿 這-馬 上-蓋 要-緊 就 是 講， ngh4
+<Sync time="1915.605"/>
+ah1 qua1 cut1-mng5 e2 si2-zun2 honnh2
+//阿 我 出-門 的 時-陣 乎
+<Sync time="1917.185"/>
+eh2, ah1 dor3 ai4 an1-ni1, ai4 u3 hong2-ben2 zit3-le3
+//欸， 阿 就 愛 按-呢 愛 有 方-便 一─下
+<Sync time="1920.533"/>
+siong3-ban1 ma3 ai3, ah3 si3 veh1 cit1-tor5 ma3 ai3
+//上-班 嘛 愛, 阿 是 欲 cit-迌 嘛 愛
+<Sync time="1922.437"/>
+ah1 vor5 lai2 ve1 zit3-dai2 a1 cia1,honnh2
+//阿 無 來 買 一-台─仔 車 乎
+<Sync time="1924.297"/>
+ah1 zit1-ma4 na3 an1 cia1 kan1 lor3-ki1 liau1-au2,
+//阿 這-馬 若 安 車 牽 落─去 了-後
+<Sync time="1926.676"/>
+eh2 ca3-but1-dor2 ah1 heh1
+//欸 差─不─多 阿 heh
+<Sync time="1928.405"/>
+zau1 vor2-qua3-gu4 lor3 gam1-m2,
+//走 無-偌-久 落 豈-m7
+<Sync time="1929.802"/>
+eh1 sing4-ling5 ai4 ga2 te3-sing1 zit3-le3 ah3
+//欸 性─能 愛 共 提─升 一─下 矣
+<Sync time="1931.678"/>
+ah1 so1-i1 dor3 lai2 gai1-cia1 zit1-le3 
+//阿 所-以 就 來 改─車 一─下
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="1933.428"/>
+ah1 na3 di3 gui1-ni2 zing5 e2 si2-zun2,
+//阿 若 佇 幾-年 前 的 時-陣
+<Sync time="1935.24"/>
+veh1 zor4 gai1-cia1 zit1-zing1 hang2-qiap2 e2 si5
+//欲 做 改─車 這-種 行-業 的 時
+<Sync time="1937.311"/>
+ging1-ki3 ve3-vai4 e2 si2-zun2, oh2 
+//景-氣 袂-䆀 的 時-陣 喔
+<Sync time="1938.922"/>
+ziah1 ma3 u3 leh1 gai1-cia1 hia1 ma3 u3 leh1 gai1-cai1
+//遮 嘛 有 咧 改─車 遐 嘛 有 咧 改─車
+<Sync time="1941.67"/>
+ah1 na3 lai2 gah1 zit1-ma4,
+//阿 若 來 佮 這-馬
+<Sync time="1942.889"/>
+zit1-gui1-ni2 lai3 li1 e3 gam1-gak1 gong1 mh2
+//這-幾-年 來 你 會 感-覺 講 mh4
+<Sync time="1944.856"/>
+ah1 gai1-cia1 so1-zai2 sua4 an1-ni1 honnh2,
+//阿 改─車 所-在 煞 按-呢 乎
+<Sync time="1946.777"/>
+he1 lu1-lai5 lu1 lu1-lai5 lu1 vor2 po1-pen3 eh3
+//彼 愈-來 愈 愈-來 愈 無 普-遍 eh
+<Sync time="1949.241"/>
+ah1 sua4 kah1-za1 leh1 gang5 gai1-cia1 
+//阿 煞 較─早 咧 仝 改─車
+<Sync time="1950.699"/>
+zit1-ma4 sua4 ah3 dor5 gorh1 giam2 ki4-cia1 vi1-iong5
+//這-馬 煞 也 就 閣 兼 汽-車 美-容
+<Sync time="1952.622"/>
+gorh1 giam2 ga3 li1 pa4-lah2,
+//閣 兼 共 你 拍-蠟
+<Sync time="1953.663"/>
+ah1 so1-i1 li1 lor3 gam1-gak1 gong1
+//阿 所-以 你 落 感-覺 講
+<Sync time="1954.92"/>
+eh2, ze1 uan2-na1 ging1-ki3 
+//欸 這 原─若 景-氣
+<Sync time="1957.482"/>
+gong1 veh1 hor4,uan2-na2 hor1 vor2 qua3-zue2 la3
+//講 欲 好 原─若 好 無 外-濟 啦
+<Sync time="1960.329"/>
+ah1 li1 zit1-ma4 na3-gong1 
+//阿 你 這-馬 若-講
+<Sync time="1962.748"/>
+di3 gue4-ki3 ma1-ing2-giu4 du1 ziah1 ziunn3-dai5 e2 si2-zun2
+//佇 過-去 馬-英-九 拄-才 就-台 的 時-陣
+<Sync time="1965.136"/>
+ua2-ah1 go1-pior3 lor3 ki1 zit3-le2 nng3-gang1 liau1-au2 ah1 lor3 
+//哇 阿, 股-票 就 起 一─個 兩-工 了-後 阿 就
+<Sync time="1967.543"/>
+kai2-si1 cu1-lor1-ki3 ah3 honnh1
+//開-始 趨-落-去 阿 乎
+<Sync time="1969.181"/>
+ah2 ma1-ing2-gu4 zit3-le2 ziunn3-dai5 ah1 
+//阿 馬-英-九 一-個 就-台 阿
+<Sync time="1971.118"/>
+go1-zai1 lor3 ma1-siong2 lai5
+//股-災 就 馬-上 來
+<Sync time="1972.604"/>
+ah1 zit1-ma4 lai2-gah1 zit1-ma4 
+//阿 這-馬 來 佮 這-馬
+<Sync time="1974.446"/>
+ma3 si3 gang3-kuan4,li1 ki1 ga2 kuann4 go1-ci2-a4
+//嘛 是 仝-款 你 去 共 看 股-市-仔
+<Sync time="1976.888"/>
+he1 ziunn3-ci2 kor1-i4 ve1-ve2 e2 go1-pior3 cing2-gui1 zing4
+//彼 上-市 可-以 買-賣 的 股-票 千-幾 種
+<Sync time="1979.741"/>
+ah1 zit3-gang1 gau2-ik1-qiah1 
+//阿 一-工 交-易-額
+<Sync time="1980.861"/>
+ziah1 an1-ne1, qo3-lak3 ba4 ik2 cit1-be4 ba4 ik2
+//才 按-呢, 五-六 百-億 七-八 百-億
+<Sync time="1983.076"/>
+ah1 gue4-ki3 an1-ni1 ziunn3-cing2-ik2 e2 si2-zun2 (nah2)
+//阿 過-去 按-呢 就-千-億 的 時-陣 (凹)
+<Sync time="1985.697"/>
+na4-u3 gong1 cing2-gui1-ging1 e2 go1-pior3 ting2-a1 ho3 li1 suan1-dik2
+//那-有 講 千-幾-間 的 股-票 聽-候 予 你 選-擇
+<Sync time="1988.435"/>
+ho3 li1 gong1 ging1-ki3 hor4-a3-si3-vai4 
+//予 你 講 景-氣 好-抑-是-䆀
+<Sync time="1990.763"/>
+li1 zit3-kuann3 kuann4 e3 cut2-lai3 honnh2
+//你 一-看 看 會 出-來 乎
+<Sync time="1992.903"/>
+ah1 li1 zit1-ma4 zit3-kuann3 kuann4 e2 cut2-lai3 lor3 gong1,
+//阿 你 這-馬 一-看 看 的 出-來 落 講
+<Sync time="1994.794"/>
+i2 e2 ging1-ki3 veh1 qua3-hor4
+//伊 的 景-氣 欲 外-好
+<Sync time="1996.227"/>
+i2 long1 pa4 diong2-gok1-bai5 
+//伊 攏 拍 中-國-牌
+<Sync time="1997.477"/>
+ging1-ki3 na4-u3 huat1-do2 gong1 qua3-hor4 
+//景-氣 爁-有 法-度 講 外-好
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="1999.373"/>
+ah1 iu2-gi2 diong2-gok2 hit1-ziong1 gok1-ga1 li1 cin2-ciunn3 gong1
+//阿 尤-其 中-國 彼-種 國-家 你 親-像 講
+<Sync time="2002.732"/>
+ziah1-e2 a2-giu4-a3 but1-si2 leh1 gong4 honnh2
+//遮─個 阿-九-仔 不-時 咧 講 乎
+<Sync time="2005.401"/>
+ah1 qua1 zit1-ma4 an1-ni1,hui2-gi1 honnh2,ah1 zit1-bing5 bue2 hit1-bing5
+//阿 我 這-馬 按-呢 飛-機 乎 阿 這-爿 飛 彼-爿
+<Sync time="2008.643"/>
+ho3 lin1 zia1 qua3 hong2-ben2 du1 qua3 hong2-ben2
+//予 恁 遮 外 方-便 拄 外 方-便
+<Sync time="2010.907"/>
+hong2-ben2 si3 hong2-ben2 la3,
+//方-便 是 方-便 啦
+<Sync time="2012.314"/>
+m3-gu1 leh2 he1 gok1-lai2 dai2-uan5 e2 ging1-ki3 ai4 hor4 ah2
+//毋-閣 咧 彼 國-內 臺-灣 的 景-氣 愛 好 阿
+<Sync time="2016.301"/>
+li1 gan2-na2 hong2-ben2 dor3 vor2-hau2 ah2,
+//你 干-焦 方-便 就 無-效 阿
+<Sync time="2017.696"/>
+li1 lu1 hong2-ben2 lu1 si4 ah2
+//你 愈 方-便 愈 死 矣
+<Sync time="2019.277"/>
+ah1 li1 gong1,sit3-ze4-siong2 eh2 gam1-gak1 gong1
+//阿 你 講 實-際-上 的 感-覺 講
+<Sync time="2022.219"/>
+eh2,ah1 qiap3-zik2 lor2 zin2-hor4 leh3,
+//欸 阿 業-績 就 真-好 咧
+<Sync time="2023.839"/>
+eh2 nai4 qin2-hang2 pok2-a4 lai3-vin2 
+//欸 若'會 銀-行 簿-仔 內-面
+<Sync time="2025.481"/>
+long1 vor2 gia4-gim1 long1 vor2 zun2-kuan4
+//攏 無 寄-金 攏 無 存-款
+<Sync time="2027.352"/>
+eh1 dai2-uan5 zit1-ma4 e2 
+//欸 臺-灣 這-馬 的
+<Sync time="2028.325"/>
+gok1-ko3 lor3 huat1-sing2 zeh1-lor3 vun3-de5 ah2
+//國-庫 就 發-生 這─號 問-題 阿
+<Sync time="2030.01"/>
+oh2 an1-ne1 qua3-siau1 qiap3-zik2 hiah1 hor4,
+//哦 按-呢 外-銷 業-績 遐 好
+<Sync time="2031.619"/>
+ah1 li1 leh1 hue4-dua2
+//阿 你 咧 火 大
+<Sync time="2032.697"/>
+ah1 dai2-uan5 ziap1-duann1 ah1 diong2-gok1 dai3-liok2 leh1 cut1-lue5
+<Event desc="hue3" extent="previous" type="lexical"/>
+ ah2
+//阿 台-灣 接-單 阿 中-國 大-陸 咧 出-貨 阿
+<Sync time="2035.597"/>
+ah1 li1 zit1-ma4 zinn4 lor2 vor2 zau1-an4 dai2-uan5 lai5 ah2
+//阿 你 這-馬 錢 就 無 走 按 台-灣 來 阿
+<Sync time="2037.686"/>
+zit1-ma4 vun3-de5 lor3 cut1-di3 zia1
+//這-馬 問-題 就 出-佇 遮
+<Sync time="2039.878"/>
+ah1 li1 zit1-ma4 vun3-de5 cut1-di3 zia1 honnh2
+//阿 你 這-馬 問-題 出-佇 遮 乎
+<Sync time="2041.503"/>
+zit3-ni5 gorh1 zit3-ni5 dit3-dit3 ok1-hua3,
+//一-年 閣 一-年 直-直 惡-化
+<Sync time="2042.996"/>
+ah1 dit3-dit3 pa4 diong2-gok1 bai5
+//阿 直-直 拍 中-國-牌
+<Sync time="2044.087"/>
+so1-i4 dai2-uan2-lang5 li1 m3-mo1 gorh1 
+//所-以 台-灣-人 你 毋─好 閣
+<Sync time="2046.511"/>
+ge4-siok3 gorh1 ho3 a2-giu4-a3 zing4-hu4 an1-ni1
+//繼-續 閣 予 阿─九─仔 政-府 按-呢
+<Sync time="2048.368"/>
+it1-dit3 ga3 li1 pen3 la3
+//一-直 共 你 騙 啦
+<Sync time="2049.696"/>
+ah1 li1 na3 ge4-siok2 gorh1 pen3-lor3-ki3 gah1 vue4-a3 honnh2
+//阿 你 若 繼-續 閣 騙 落-去 佮 尾-仔 乎
+<Sync time="2051.867"/>
+e3 huat1-sing2 zit3-ziong1 hit1-kuan1 hit1-lor2
+//會 發-生 一-種 彼-款 彼-號
+<Sync time="2054.395"/>
+lok3-gang4 de3-ku1 e2 zit3-gu4 hit1-kuan1 hit1-lor2 go1-za1-ue2
+//鹿-港 地-區 的 一-句 彼-款 彼-號 古-早-話
+<Sync time="2057.348"/>
+i2 gong1 hau3-sinn1 zor4 do3-ze3,
+//伊 講 後-生 做 度-晬
+<Sync time="2059.773"/>
+biann1-zinn5 iah1-ve3 hing5 la3
+//餅─錢 猶─未 還 啦
+<Sync time="2062.724"/>
+hau3-sinn1 zor4 do3-ze3 biann1-zinn5 iah1-ve3 hing5
+//後-生 做 度-晬 餅─錢 猶─未 還
+<Sync time="2065.343"/>
+dor3 si3 a1-ni1 veh1 cua3-vo4 e2 si2-zun2 
+//就 是 按-呢 欲 娶-某 的 時-陣
+<Sync time="2067.406"/>
+ai4 sang4 ping4-gim1 honnh2
+//愛 送 聘-金 乎
+<Sync time="2069.834"/>
+ai4 diann3 sin2-niu2-biann4, honnh2 ah1 dann1 get1-hun1 a1 honnh2
+//愛 定 新-娘─餅， 乎 阿 今 結─婚 矣 乎
+<Sync time="2074.724"/>
+ah1 lin1 vo4 a3 sinn1 a1,
+//阿 恁 某 也 生 矣
+<Sync time="2075.943"/>
+ah1 lin1 hau3-sinn1 a3 zor4 do3-ze3 
+//阿 恁 後-生 也 做 度-晬
+<Sync time="2078.067"/>
+ah1 cut1-si3 e2 mua1 zit3-ni5 e2 si2-zun2,
+//阿 出-世 的 滿 一-年 的 時-陣
+<Sync time="2081.426"/>
+eh2 he1 dor2 gior4-zor4 do3-ze3 honnh2
+//欸 彼 就 叫-做 度-晬 乎
+<Sync time="2083.827"/>
+ah1 si2-gan1 ma3 an1-ni1 tua2 zin2-gu4 ah3 honnh2
+//阿 時-間 嘛 按-呢 拖 真-久 矣 乎
+<Sync time="2086.679"/>
+ah1 gorh1 sua3-lor3-ki3 li1 dong2-gi2-si5
+//阿 閣 紲─落-去 你 當─其─時
+<Sync time="2090.485"/>
+cua3-vo4 ki1 diann3 sin2-niu2-biann4 e2 si2-zun2 oh2
+//娶-某 去 定 新-娘-餅 的 時-陣 喔
+<Sync time="2093.969"/>
+li1 hit1-le2 biann1-zinn5 iah1-ve3 hu4 cing2-cor4
+//你 彼-號 餅─錢 抑-袂 付 清-楚
+<Sync time="2096.252"/>
+zit1-ma4 ma1-ing2-giu4 e2 gok1-ko3 
+//這-馬 馬─英-九 的 國-庫
+<Sync time="2098.096"/>
+dor3-si3 cau4 vu1 gah1 cin2-ciunn3 an1-ni1
+//就-是 差'不'多 舞 佮 親-像 按-呢
+<Sync time="2100.149"/>
+ah1 zit1-ma4 vu1-gah1 an1-ne1 e2 si2-zun2 
+//阿 這-馬 舞 佮 按-呢 的 時-陣
+<Sync time="2101.597"/>
+kiam4-zinn5, kiam4-zinn5 veh1 an1-na4
+//欠-錢 欠-錢 欲 按-怎
+<Sync time="2103.026"/>
+kiam4-zinn5 gorh1 lai1 qin2-hang5 buann1, ah1 so1-i1 li1 zit3-le2
+//欠-錢 閣 來 銀-行 搬， 阿 所-以 你 這─個
+<Sync time="2106.561"/>
+zing4-hu4 e2 leh1 huann3 hue3-ge3 e2 lang5,
+//政-府 的 咧 huann 會-計 的 人
+<Sync time="2108.93"/>
+zing4-hu1 hue3-ge3
+//政-府 會-計
+<Sync time="2109.93"/>
+i2 si3 an1-na4 zing4-hu4 e2 hue3-ge4 ze4-do2 si3 an1-na4
+//伊 是 按-怎 政-府 的 會-計 制-度 是 按-怎
+<Sync time="2112.393"/>
+sing2 kuann4-gong1 ai4 kai2 qua3-ze2,
+//先 看-講 愛 開 偌-濟
+<Sync time="2114.003"/>
+ah1 ziah1 gorh1-lai5 te3-zinn5 lai5 honnh2
+//阿 才 閣 來 提-錢 來 乎
+<Sync time="2116.111"/>
+ah1 na3 su1-lin5 e2 hue3-ge3 
+//阿 若 私─人 的 會-計
+<Sync time="2117.861"/>
+e2 hit1-le2 guan2-liam2 e2 hue3-ge4 ze4-do3 si3 an1-na4
+//的 彼-個 觀-念 的 會-計 制-度 是 按-怎
+<Sync time="2120.824"/>
+sing2 kuann4-gong1 lan1 tan4 qua3-ze3-zinn5 lip2-lai3
+//先 看-講 咱 趁 偌-濟-錢 入─來
+<Sync time="2123.175"/>
+ziah1 gorh1-lai2 hu3-zik1 veh1 an1-na1 kai1 honnh2
+//才 閣 來 負-責 欲 按-怎 開 乎
+<Sync time="2125.219"/>
+ah1 zing4-hu4 e2 hue3-ge3 vor2-gang3-kuan4
+//阿 政-府 的 會-計 無-共-款
+<Sync time="2126.84"/>
+si3-gong1 ai4 sing2-ai4 kai2 qua3-ze2,
+//是 講 愛 先 愛 開 偌-濟
+<Sync time="2128.622"/>
+due4 au3-biah2 ziah1 gorh1-lai5 cue3-zinn5
+//綴 後-壁 才 閣 來 揣─錢
+<Sync time="2130.59"/>
+ah1 zit1-ma4 na3 leh1 cue3-zinn5 e2 si2-zun2 honnh2
+//阿 這-馬 若 咧 揣─錢 的 時-陣 乎
+<Sync time="2132.575"/>
+ai4 cue3 gah1 vor2-sia1-vor2-si3 honnh2 
+//愛 揣 佮 vor2-sia1-vor2-si3 乎
+<Sync time="2134.262"/>
+ah1 a3 vor2-ten2 vor2-liong5
+//阿 也 無─天─無─良
+<Sync time="2135.654"/>
+li1 zit1-ma4 na3 an1-ni1 u3 giam2-zit2 giam2 siann1-mih1 sior3-kuah2
+//你 這-馬 若 按-呢 有 兼-職 兼 啥-物 小─可
+<Sync time="2138.681"/>
+ah2-si3 an1-ni1 u3─zinn5 ki1 gia4 qin2-hang5 honnh2
+//猶─是 按-呢 有─錢 去 寄 銀-行 乎
+<Sync time="2141.518"/>
+painn1-se3 he1 li3-dai2-gen3-bor4 honnh2, ah1
+//歹-勢 彼 二─代─健-保 乎， 阿
+<Sync time="2143.911"/>
+gen3-bor1-hui3 gorh1 ga3 li1 sior1 ga3 li1 len4-zeh3
+//健 保-費 閣 共 你 小 共 你 撚-一'下
+<Sync time="2145.867"/>
+sior1 ga3 li1 cu4 zeh3, ah1 li1 ki1 king2 zit1-le1
+//小 共 你 取 一'下， 阿 你 去 筐 這-個
+<Sync time="2148.836"/>
+dua3-bui5 li1 ga2 dor4 ho2 diau2,
+//大-肥 你 共 倒 予 掉
+<Sync time="2150.336"/>
+ah1 kior4 ziau1-a1-sai1 lai2-leh1 ing4-bui5 
+//阿 抾 鳥-仔-屎 來 咧 壅-肥
+<Sync time="2152.992"/>
+ve3-hu4 cia2-bang1 la3 honnh2
+//袂-赴 車-班 啦 乎
+<Sync time="2154.687"/>
+ah1 li1 zit1-ma4 zit1-lor2 zing2-hing5,
+//阿 你 這-馬 這-號 情-形
+<Sync time="2156.242"/>
+lu1-lai5 lu1 ok1-zit2 tua2 lu1-gu4 e2 si2-zun2
+//愈-來 愈 惡-質 拖 愈 久 的 時-陣
+<Sync time="2159.182"/>
+it1-ding3 e3 du1-dior3 gong1 hau3-sinn1 zor4 do3-ze3,
+//一-定 會 拄-著 講 後-生 做 度-晬
+<Sync time="2161.682"/>
+ah1 biann1-zinn5 iah1-ve3 hing5 honnh2
+//阿 餅-錢 猶-未 還 乎
+<Sync time="2164.04"/>
+ah1 li1 lor2 go1-pior4 ci3-diunn5 na3 ho3 i2 an1-ne1 gau2-ik2 
+//阿 你 就 股-票 市-場 若 予 伊 按-呢 交-易
+<Sync time="2166.852"/>
+gorh1-kah1 hit1-lor2 e2 zit3-le3
+//閣 較 彼-號 的 一─下
+<Sync time="2168.275"/>
+gau2-ik2 ho2 i2 kah1 ua2 zit3-le3,
+//交-易 予 伊 較 活 一─下
+<Sync time="2170.744"/>
+ah1 he1 ing2-qiap3-qiah2 te3-gor1 e1 si3
+//阿 彼 營-業-額 提-高 的 時
+<Sync time="2172.542"/>
+li1 veh1 kior4 siann1 sue4-gim1,he1 vor2-siann1 kun4-lan5 la3
+//你 欲 抾 啥 稅-金 彼 無-啥 困-難 啦
+<Sync time="2175.478"/>
+iu2-gi2 si3 zor4 sing2-li4 zor4 ve1-ve2 e2 lang5,
+//尤-其 是 做 生-理 做 買-賣 的 人
+<Sync time="2177.822"/>
+na3-u3 tan4-zinn5 li1 ga2 kior4 gua1 sue4-gim1
+//若-有 趁-錢 你 共 抾 寡 稅-金
+<Sync time="2180.065"/>
+li1 gorh1-kah1 an1-nua1 gong4,
+//你 閣 較 按-怎 講
+<Sync time="2181.659"/>
+i2 dor2 na3 gorh1-kah1 ve3 song1-kuai3
+//伊 就 若 閣 較 袂 爽-快
+<Sync time="2183.439"/>
+i2 uan2-na2 si3 e3 ziong2-gi2-vue4 e3 ga3 li1 ziap1-siu2
+//伊 原─若 是 會 終-其-尾 會 共 你 接-受
+<Sync time="2185.603"/>
+in2-ui3 li1 u3 tan4-zinn5 ma3,
+//因-為 你 有 趁-錢 嘛
+<Sync time="2186.562"/>
+li1 u3 tan4-zinn5 lap3 sue4-gim1
+//你 有 趁-錢 納 稅-金
+<Sync time="2187.794"/>
+ze1-si3 hap3-zing5-hap3-li4 hap3-huat2 e2 dai3-zi3 ah3
+//這 是 合-情-合-理 合-法 的 代-誌 阿
+<Sync time="2190.263"/>
+ah1 so1-i4 li1 zit1-ma4 na3 an1-ne1 it1-dit3 ok1-hua3 lor4-ki3
+//阿 所-以 你 這-馬 若 按-呢 一-直 惡-化 落-去
+<Sync time="2193.135"/>
+eh2, hau3-sinn1 zor4 do3-ze3 biann1-zinn5 iah1-ve3 hing5
+//欸 後-生 做 度-晬 餅-錢 猶-未 還
+<Sync time="2195.939"/>
+oh2, ah1 li1 zit1-ma4 vor2-zinn5 ah2 m2,ah1 vor2-zinn5 lor3 kai2-si4
+//哦 阿 你 這-馬 無-錢 矣 毋, 阿 無-錢 就 開-始
+<Sync time="2199.124"/>
+zia1 ga3 li1 ue4, hia1 ga3 li1 ue4,
+//遮 共 你 挖, 遐 共 你 挖
+<Sync time="2200.811"/>
+ah1 li1 zai2-iann4 u3 e2 hia1 e2 lor2-bor4 honnh1
+//阿 你 知-影 有 的 遐-個 勞-保 乎
+<Sync time="2202.991"/>
+u3 huat1-do2 ting1-a1 nia1 te4-hiu2-gim1 e1 honnh2
+//有 法-度 聽-候 領 退-休-金 的 乎
+<Sync time="2205.246"/>
+ah1 i2 dor3 siunn3-lai2 siunn3-ki3 gong1,
+//阿 伊 就 想-來 想-去 講
+<Sync time="2206.902"/>
+mh2 ah1 li1 zing4-hu4 na3 an1-ni1 honnh2
+//mh4 阿 你 政-府 若 按-呢 乎
+<Sync time="2208.904"/>
+ah1 li1 liam3-mi2 na3 pua4-gong1 ki3 honnh2,
+//抑 你 連-鞭 若 破-功 去 乎
+<Sync time="2210.728"/>
+ah1 qua1 veh1 mui1-go1-queh1 ga3 li1 nia4
+//阿 我 欲 每-個-月 共 你 領
+<Sync time="2212.337"/>
+he1 ah3 ah3 sua4 si3 tau2-lo2,
+//彼 阿 阿 煞 是 頭-路
+<Sync time="2214.462"/>
+gui2-ki3 ah3 qua1 gui2-dong3 ga3 li1 nia1-nia4 dng3-lai3
+//規-氣 矣 我 規-檔 共 你 領-領 轉-來
+<Sync time="2217.314"/>
+ah1 kuann4 veh1 zor4 siannh2 ziah1 gorh1 gong4 honnh2
+//阿 看 欲 做 啥 才 閣 講 乎
+<Sync time="2219.97"/>
+so1-i1 zit1-ma4 e2 si2-zun2 e2 si2-zun2 e2 nia3-nia2
+//所-以 這-馬 的 時-陣 的 時-陣 的 爾-爾
+<Sync time="2222.975"/>
+li1 hia1 e2 hit1-kuan1 hit1-lor2 gi2-gim1 
+//你 遐-個 彼-款 彼-號 基-金
+<Sync time="2224.441"/>
+lu1-lai5 lu1-iunn5 lu1-zior4 lu1-lai5 lu1-niu5 lu1-zior4
+//愈-來 愈 烊 愈-少 愈-來 愈-量 愈-少
+<Sync time="2226.933"/>
+ah1 u3-dang2-si2 gorh1 ho3 be4-sinn3 gam1-gak1 gong1,
+//阿 有-當-時 閣 予 百-姓 感-覺 講
+<Sync time="2228.714"/>
+eh2 ziok1 gi2-guai3 neh2 heh2 gi2-guai3
+//欸 足 奇-怪 呢 彼 奇-怪
+<Sync time="2231.104"/>
+lan1 leh1 zor4 go1-pior3 honnh2, na4 long1 ve3 tan4-zinn5 ah3
+//咱 咧 做 股-票 乎 那 攏 袂 趁-錢 矣
+<Sync time="2234.14"/>
+long1-zong1 ki1 hong5 ga3-ga2 ki3, gi2-guai3
+//攏-總 去 予'人 咬-咬 去, 奇-怪
+<Sync time="2236.112"/>
+ah1 zing4-hu4 hia1 e2 gi2-gim1 leh1 zor4 go1-pior3
+//阿 政-府 遐-個 基-金 咧 做 股-票
+<Sync time="2237.818"/>
+ah1 gah1 in2 gok1-vin2-dong4 leh1 dau2-zu1 
+//阿 佮 in 國-民-黨 咧 投-資
+<Sync time="2239.424"/>
+hiah1 e2 zinn5 leh1 zor4 go1-pior3
+//遐-個 錢 咧 做 股-票
+<Sync time="2240.678"/>
+i2 gi2-guai3 i2 long1-zong1 e3 tan3
+//伊 奇-怪 伊 攏-總 會 趁
+<Sync time="2242.035"/>
+
+<Event desc="laugh" extent="instantaneous" type="noise"/>
+
+<Sync time="2242.613"/>
+ah1 vor5 lan1 lai5 due4 i2 ve4 oh3
+//抑 無 咱 來 綴 伊 買 喔
+<Sync time="2244.2"/>
+ngh3, li1 m3 dor3 kuann4 li1 ve1 u3 vor3,
+//ngh, 你 毋 就 看 你 買 有 無
+<Sync time="2245.45"/>
+ah1 li1 na3 ve1-u2 dak3-ge2 ma3 veh1 tan3
+//阿 你 若 買 有 逐-家 嘛 欲 趁
+<Sync time="2247.059"/>
+ah1 dan1 gah1 li1 ki1 ve4 e2 si2-zun2 uann3 i2 dor4-dor3 ho2 li2 honnh2
+//阿 等 佮 你 去 買 的 時-陣 換 伊 倒-倒 予 你 乎
+<Sync time="2249.508"/>
+uann3 uann3 si1 si1 dor3-iu4 vor2 si1 bin2-dor2 ah1 la3
+//換 換 死 死 道-友 無 死 貧-道 阿 啦
+<Sync time="2252.097"/>
+ah2 ze1 dor3 si3 an1-ni1 zit3-gang1 gah1 am3 
+//阿 這 就 是 按-呢 一-工-佮-暗
+<Sync time="2253.537"/>
+dam4-hia1 leh1 bua3-painn1-giau4 honnh2
+//店 遐 咧 跋-歹-筊 乎
+<Sync time="2255.319"/>
+ah1 li1 gong1 di3 gin2-na1-rit2 
+//阿 你 講 佇 今─仔─日
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="2259.299"/>
+zit1-le2 siau4-len5 e3,
+//一-個 少-年 的
+<Sync time="2260.424"/>
+ah1 i2 e2 sing2-uah2 ah1 du1-dior3 zit1-ziong4 e2 zing2-hing5
+//阿 伊─的 生-活 阿 拄-著 這-種 的 情-形
+<Sync time="2264.547"/>
+dor3 si3 gong1 i2 e2 siu2-rip1 
+//就 是 講 伊 的 收-入
+<Sync time="2266.078"/>
+gah1 i2 e2 zi2-cut2 ah1 vor2-sing2 bi1-lut2
+//佮 伊 的 支-出 阿 無-成 比-率
+<Sync time="2268.847"/>
+ah1 vor2-sing2 bi1-lut2 e2 si2-zun2,
+//阿 無-成 比─率 的 時-陣
+<Sync time="2270.315"/>
+i2 e3 gam1-gak1 gong1 zen2-do5 an1-nua4
+//伊 會 感-覺 講 前-途 按-怎
+<Sync time="2272.435"/>
+eh2, zen2-do5 vong2-vong2-miau1-miau4 ah2
+//欸 前-途 茫-茫-渺-渺 矣
+<Sync time="2274.686"/>
+ah1 zen2-do5 vong2-vong2-miau1-miau4 e2 si2-zun2,
+//阿 前-途 茫-茫-渺-渺 的 時-陣
+<Sync time="2276.717"/>
+gah1 vue3-a2 dor3 siunn3-kang2-siunn3-pang2 ah2
+//到 尾-仔 就 想-空-想-縫 押
+<Sync time="2278.654"/>
+ah1 siunn3-kang2-siunn3-pang2 e2 si2-zun2,
+//阿 想-空-想-縫 的 時-陣
+<Sync time="2280.623"/>
+eh2 na3-siunn3 u3 cut1-lo2 ah1 m3-lor3 hor4
+//欸 若-想 有 出-路 阿 毋-就 好
+<Sync time="2282.833"/>
+ah1 na3 siunn3-vor2 cut1-lo2 ah1 lor3
+//阿 若 想-無 出-路 阿 就
+<Sync time="2284.327"/>
+ki4-liau1-liau4 ah3 neh2
+//去-了-了 阿 呢
+<Sync time="2285.354"/>
+so1-i1 di3 zit1-ziong4 e2 ging2-ze3 e2 ki4-hun1,
+//所-以 佇 這-種 的 經-濟 的 氣-氛
+<Sync time="2288.823"/>
+zit1-ziong1 zing2-hing5 zi2-ha2
+//這-種 情-形 之-下
+<Sync time="2290.66"/>
+u2-e2 kah1 giu2 siong3-zin3 e2 zit3-gua1 siau4-len5 e2,e3 ben4 zor4 gong1
+//有-的 較 求 上-進 的 一-寡 少-年-的 會 變 做 講
+<Sync time="2294.462"/>
+ge2-ge2-giam1-giam4 e3 ve3-mia2 la3,
+//加-加-減-減 會 賣-命 啦
+<Sync time="2296.197"/>
+i2 dor2 uan2-na3 ceh2 tak3 kah1 ze2 ah2 
+//伊 就 原-若 冊 讀 較 濟 矣
+<Sync time="2298.447"/>
+ah1-vor5 cut1-gok2 oh3
+//抑-無 出-國 喔
+<Sync time="2299.638"/>
+cut1-gok2 lai2-ki1 zor4 hit1-kuan1 hit1-lor2 
+//出-國 來-去 做 彼-款 彼-號
+<Sync time="2301.228"/>
+dai2-uan5 lai5 e2 gor2-ding1 lor2-gang1 oh3 honnh2
+//台-灣 來 的 高-等 勞-工 喔 乎
+<Sync time="2303.481"/>
+ah1 lor3 siunn3-gong1 lai5 or4-ziu1 la3,
+//阿 落 想-講 來 澳-洲 啦
+<Sync time="2305.168"/>
+ah2-si3 lor5 dor1-ui2 la3 honnh2 
+//猶-是 羅 佗-位 啦 乎
+<Event desc="inhale" extent="instantaneous" type="noise"/>
+
+<Sync time="2307.024"/>
+ah1 u3 e2 siunn3-gong1, aih2-iah3 
+//阿 有 會 想-講, 噯-呀
+<Sync time="2309.056"/>
+ah1 dann1 gin2-na1-rit2 e2 dai2-uan5
+//阿 今-仔-日 的 台-灣
+<Sync time="2311.014"/>
+gong4-kiai3 ma3-si3 an1-ni1 ko1-len5 gorh1 giam2 bi2-ai1 la3
+//講-去'來 嘛-是 按-呢 苦-憐 閣 兼 悲-哀 啦
+<Sync time="2314.374"/>
+an1-na1 ko1-len5 giam2 bi2-ai1 leh2,
+//按-怎 苦-憐 兼 悲-哀 咧
+<Sync time="2316.065"/>
+dor2 na3-si3 lo2-nih2 zit3-gi2 den3-hue1-tiau2-a4 honnh2
+//就 若-是 路-nih 一-支 電-火-柱-仔 乎
+<Sync time="2319.644"/>
+ah1 ki1 lak1 zit3-diau2-a1 den3-suann3 lor2-lai3 honnh2
+//阿 去 落 一-條-仔 電-線 落-來 乎
+<Sync time="2321.773"/>
+ca2-but1-dor2 e3 pa2-dior3 ca2-but1-dor2 
+//差-不-多 會 拍-著 差-不-多
+<Sync time="2324.398"/>
+sann2-e2 sik1-su2 la3, ah1 zit3-le2 pok1-su2 la3
+//三-個 碩-士 啦, 阿 一-個 博-士 啦
+<Sync time="2327.928"/>
+
+<Event desc="laugh" extent="instantaneous" type="noise"/>
+
+<Sync time="2329.006"/>
+ah1 qo3-e2 dai3-hak3-sing1 la3, e3 ben4-zor4 an1-ne1 ki3
+//阿 五-個 大-學-生 啦, 會 變-做 按-呢 去
+<Sync time="2331.985"/>
+ah1 li1 na3 an1-ne1 e2 si2-zun2,
+//阿 你 若 按-呢 的 時-陣
+<Sync time="2333.391"/>
+dor3 gong1 ah1 ceh2 long1 tak3-tak3 hiah1-ze2
+//就 講 阿 冊 攏 讀-讀 遐-濟
+<Sync time="2335.571"/>
+ah1 long1-zong1 vor2 tau2-lo2,
+//阿 攏-總 無 頭-路
+<Sync time="2336.797"/>
+an1-ne1 gam1 m3-si3 
+//按-呢 敢 毋-是
+<Sync time="2337.963"/>
+gok1-ga1 lin2-lik2 hong2-vin2 e2 zit3-ziong4 e2 pa4-sng4-ki3 honnh2
+//國-家 人-力 方-面 的 一-種 的 拍-損-去 乎
+<Sync time="2341.28"/>
+ah1 ze1 gui2 ze1, ze1 gui2 zit3-diau2 dai3-zi3 la3
+//阿 這 歸 這, 這 歸 一-條 代-誌 啦
+<Sync time="2344.854"/>
+vun3-de5 dor3-si3 gong1, ziah1-e2 siau4-len5-e2 
+//問-題 就-是 講, 遮-個 少-年 的
+<Sync time="2347.292"/>
+i2 bit3-qiap2 liau1-au2 dor3-si3 ding1-i1 sit1-qiap2
+//伊 畢-業 了-後 就 是 等-於 失-業
+<Sync time="2351.032"/>
+ah1 ze1 dor3-si3 zin2-ziann3 hai3-liu1-liu4 e2 dai3-zi3
+//阿 這 就-是 真-正 害-溜-溜 的 代-誌
+<Sync time="2353.295"/>
+ah1 in2-ui3 leh3 dor3 gok1-lai2 e2 ziah1-e2 hit1-kuan1 hit1-lor2
+//阿 因-為 咧 就 國-內 的 遮─個 彼-款 彼-號
+<Sync time="2356.842"/>
+gong2-si1 hang2-hor2 u2-e2-vor5-e2, i2 dor2 vor2 kiam4-lang5 mah3
+//公-司 行-號 有-的-無-的, 伊 就 無 欠-人 嘛
+<Sync time="2360.831"/>
+ah1 i2 vor2 kiam4 lang5 si3 an1-na4, i2 lor2
+//阿 伊 無 欠-人 是 按-怎, 伊 就
+<Sync time="2363.097"/>
+
+<Event desc="empty" extent="instantaneous" type="noise"/>
+
+<Sync time="2364.894"/>
+ai4-zor4 i2 e2 kang2-kue3 
+//愛-做 伊-的 工-課
+<Sync time="2366.331"/>
+he1 ci3-diunn5 long1-zong1 kng4 di3 diong2-gok1-dai3-liok2 la3
+//彼 市-場 攏-總 囥 佇 中-國 大-陸 啦
+<Sync time="2368.975"/>
+ah1 ziah1-e2 hit1-kuan1 hit1-lor2 
+//阿 遮─個 彼-款 彼-號
+<Sync time="2370.084"/>
+su3-qiap3-zu4 i2 kiam4-siannh2 i2 kiam4-zinn5 la3
+//事-業-主 伊 欠-啥, 伊 欠-錢 啦
+<Sync time="2373.043"/>
+ah1 kiam4-zinn5 dor3-si3 lai2 dai2-uan5 ga3 li1 buann1 mah3
+//阿 欠-錢 就-是 來 臺-灣 共 你 搬 嘛
+<Sync time="2375.763"/>
+ah1 ma1-ing2-giu4 zing4-hu4 gorh1 buann4-vak3-kui2-keh2
+//阿 馬 英-九 政-府 閣 半-目-開-瞌
+<Sync time="2377.861"/>
+ah2 ah1 li1 veh1 buann1 li1 veh1 buann1,li1 lor3 lai2-buann1 honnh2
+//阿 阿 你 欲 搬 你 欲 搬, 你 就 來 搬 乎
+<Sync time="2380.419"/>
+ah1 qua1 dor3 gang3-kuan4 ah2,
+//阿 我 就 仝-款 阿
+<Sync time="2381.607"/>
+ah1 qua1 zing4-hu4 qua1 na3 kiam4-zinn5 
+//阿 我 政-府 我 若 欠-錢
+<Sync time="2382.914"/>
+qua1 ma3-si3 gorh1-lai5 qin2-hang5 buann1,
+//我 嘛-是 閣 來 銀-行 搬
+<Sync time="2384.289"/>
+hoh2 lai5 ah1 zit1-ma4 vun3-de5 lai5 loh3
+//謼 來 阿 這-馬 問-題 來 loh
+<Sync time="2386.34"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="2387.278"/>
+li1 zit3-le2 zing4-hu4 honnh2,li1 e2 gok1-ko3
+//你 這─個 政-府 乎 你 的 國-庫
+<Sync time="2391.769"/>
+li1 na3 ki1 qin2-hang5 buann2-zinn5 e2 si2-zun2
+//你 若 去 銀-行 搬 錢 的 時-陣
+<Sync time="2394.806"/>
+li1 u3 li1 hing2-zinn5 e2 ling2-lik2,
+//你 有 你 還-錢 的 能-力
+<Sync time="2397.278"/>
+lang2 na3 ga3 li1 ping2-gam3 gong1 
+//人 若 共 你 評-鑑 講
+<Event desc="en" extent="instantaneous" type="language"/>
+
+<Sync time="2399.613"/>
+li1 gin2-na1-rit2 honnh2, li1 dor2 
+//你 今-仔-日 乎， 你 就
+<Sync time="2401.707"/>
+u3 zit1-le2 ling2-lik2 ting1-a1 hing2-zinn5
+//有 這-個 能-力 聽-候 還-錢
+<Sync time="2403.545"/>
+an1-ni1 li1 zit1-le2 zing4-hu4 e2 
+//按-呢 你 這-個 政-府 的
+<Sync time="2405.576"/>
+zai2-vu2 e2 sin2-iong2 e3 ben4-zor4 gong1 ve3-vai4
+//財-務 的 信-用 會 變-做 講 袂-䆀
+<Sync time="2409.03"/>
+ah1 li1 na3 it1-dan3 gong1,gok1-ko3
+//阿 你 若 一-旦 講 國-庫
+<Sync time="2411.718"/>
+dit3-dit2 kiam4-zinn5 ah1 dit3-dit2 kiam4-zinn5 honnh2
+//直-直 欠-錢, 阿 直-直 欠-錢 乎
+<Sync time="2414.279"/>
+he1 ziah1-e2 lang5 honnh2,
+//彼 遮─個 人 乎
+<Sync time="2415.435"/>
+ziah1-e2 hit1-kuan1 hit1-lor2 e2 gok1-vin2-dong4 la3 
+//遮─個 彼-款 彼-號 的 國-民-黨 啦
+<Sync time="2418.04"/>
+cenn2-me2-dong4 la3
+//青-盲-黨 啦
+<Sync time="2418.859"/>
+in2 e3 gam1-gak1 gong1 eh1 ma1-ing2-giu1 zing4-hu4 oh2
+//in 會 感-覺 講, 欸 馬-英-九 政-府 喔
+<Sync time="2420.916"/>
+li1 veh1 gorh1-ki1 qin2-hang5 buann2-zinn5 
+//你 欲 閣 去 銀-行 搬-錢
+<Sync time="2422.546"/>
+hor4 hor4 hor4 li1 zit3-le2 zing4-hu4 honnh2
+//好 好 好, 你 一-個 政-府 乎
+<Sync time="2424.169"/>
+veh1-ki1 qin2-hang5 buann2-zinn5 e2 si2-zun2 honnh2, li1 ze4
+//欲 去 銀-行 搬-錢 的 時-陣 乎, 你 這'個
+<Sync time="2426.537"/>
+gok1-ga1 e2 zong1-siu2-lip2 e2 si2-zun2 honnh2,u3 ca2-but1-dor2 gui1-siann5
+//國-家 的 總-收-入 的 時-陣 乎， 有 差-不-多 幾-成
+<Sync time="2429.741"/>
+li1 e3-sai1 ki1 qin2-hang5 gorh1 ki1 hia1 buann2-zinn5
+//你 會-使 去 銀-行 閣 去 遐 搬-錢
+<Sync time="2432.309"/>
+ah1 li1 na3 zing4-ging2 gong4 
+//阿 你 若 正-經 講
+<Sync time="2433.434"/>
+ki1 qin2-hang5 buann2-zinn5 buann2 siunn2-ze2
+//去 銀-行 搬-錢 搬 傷-濟
+<Sync time="2435.357"/>
+li1 di3 se4-gai4-siong2 e2 hit1-kuan1 hit1-lor2 e2 e2 ging2-ze4 ci3-diunn5
+//你 佇 世-界-上 的 彼-款 彼-號 的 的 經-濟 市-場
+<Sync time="2438.985"/>
+lang2 dui4 li1 diong2-hua5-vin2-gok2 e2 gok1-ko3 
+//人 對 你 中-華-民-國 的 國-庫
+<Sync time="2441.329"/>
+e2 hit1-le2 ping2-gam3 ah3
+//的 彼-號 評-鑑 啦
+<Sync time="2443.725"/>
+hit1-le2 sin4-iong3-do2 li1 it1-ding2 e3 gang4-ge2
+//彼-號 信-用-度 你 一-定 會 降-低
+<Sync time="2446.652"/>
+ah1 li1 zit1-le2 sin4-iong3-do2 na3 gang4-ge2 ah1 li1 lor3 gai2-si4 ah3 la3
+//阿 你 這-個 信-用-度 若 降-低 阿 你 就 該-死 矣 啦
+<Sync time="2449.382"/>
+an1-na1 gong1 gai2-si4,
+//按-怎 講 該-死
+<Sync time="2450.475"/>
+qua3-gok1-lang5 veh1 lai2 lin1-zia1 dau2-zu1
+//外-國-人 欲 來 恁-遮 投-資
+<Sync time="2452.773"/>
+i2 ma3 giu1-kiai3,aih1-iorh3 
+//伊 嘛 kiu-去'來, 唉-唷
+<Sync time="2454.419"/>
+ah1 m3-du1-hor4 li1 zing4-hu4 na3-dor4-ki3 kuann4 veh1 an1-zuann4
+//阿 毋-拄-好 你 政-府 若 倒-去 看 欲 按-怎
+<Sync time="2456.863"/>
+ah1 zit1-le2 dor3-si3 vai1-zai5 leh1 vai1-zai5 di3 zia1
+//阿 這-個 就-是 䆀-才 咧 䆀-才 佇 遮
+<Sync time="2458.98"/>
+ah1 so1-i1 di3 dai2-uan2-lang5 ah3,
+//阿 所-以 佇 台-灣-人 矣
+<Sync time="2460.668"/>
+u3 u3 dang2-si2 gong1 gau1-guai3 ah1 hor1-pen3
+//有 有 當-時 講 狡-怪 阿 好─騙
+<Sync time="2463.619"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="2464.51"/>
+veh1 liau1-gai1 dior4 ziah1-e2 bo3-hun2 honnh2
+//欲 了-解 著 遮─個 部-份 乎
+<Sync time="2467.65"/>
+bit1-ging3 dai2-uan2-lang5 
+//畢-竟 台-灣-人
+<Sync time="2469.65"/>
+e3 liau1-gai1 zit1-ziong1 zing2-hing5 e2 lang5 vor2-ze2 la3
+//會 了-解 這-種 情-形 的 人 無-濟 啦
+<Sync time="2472.463"/>
+ah1 vor2-siunn3 veh1 ki1 ga2 liau1-gai4,
+//阿 無-想 欲 去 共 瞭-解
+<Sync time="2474.15"/>
+ah3 si3 ziam4 dua3-dor2-so3 la3
+//也 是 佔 大-多-數 啦
+<Sync time="2475.822"/>
+ah1 lor3 gam1-gak1 gong1 honnh2,
+//阿 就 感-覺 講 乎
+<Sync time="2476.712"/>
+ah1 zit1-ma4 suan1-gi4 na3 gau3 
+//阿 這-馬 選-舉 若 到
+<Sync time="2477.978"/>
+ah1 dor3 ai4 zi2-ci2 siann1-mih1 lang5
+//阿 就 愛 支-持 啥-物 人
+<Sync time="2479.186"/>
+ah1 zi2-ci2 siann1-mih1 lang5 u3 qua3-ze3 zinn5 tang2-hor1 teh2 honnh2
+//阿 支-持 啥-物 人 有 偌-濟 錢 通-好 提 乎
+<Sync time="2482.107"/>
+ah1 lor2 na3 suan1-gi4 gau3 honnh2,
+//阿 就 若 選-舉 到 乎
+<Sync time="2483.888"/>
+ah1 ze1 zit1-pior3 ai4 dng4 ho2 i2
+//阿 這 一 票 愛 dng 予 伊
+<Sync time="2485.903"/>
+ah1 veh1 dng4 ho2 i2 e2 guan2-in1, ziok1 gan1-dan1 neh2
+//阿 欲 dng 予 伊 的 原-因 足 簡-單 呢
+<Sync time="2488.717"/>
+oh2, qun1 siann1-mih1 lang5 ong1-sing1 e3,i2 u3 lai3 liam2-hiunn1
+//哦 阮 啥-物 人 往-生 欸, 伊 有 來 拈-香
+<Sync time="2492.665"/>
+lai2 liam2-hiunn1 e2 si2-zun2 honnh2,gorh1 dik3-bet3 honnh2
+//來 拈-香 的 時-陣 乎， 閣 特-別 乎
+<Sync time="2494.873"/>
+ui3 qun1 mo1-mih1-lang5 tak3 zit3-pinn2 ze4-vun5
+//對 阮 某-物-人 讀 一-篇 祭-文
+<Sync time="2496.889"/>
+kau4-iau1 ah3, hit1-pinn2 ze4-vun5 honnh2,
+//哭-枵 阿, 彼-篇 祭-文 乎
+<Sync time="2498.639"/>
+dor3 ca2-but1-dor2 li1 ga2 dong4-zor4 gong1
+//就 差-不-多 你 共 當-做 講
+<Sync time="2500.565"/>
+he1 lok3-im2-dua3 dit1-leh1 bang3 e3 an1-ne1 oh2
+//彼 錄-音-帶 佇 咧 放 的 按-呢 喔
+<Sync time="2502.377"/>
+lai2 lin1-dau1 gorh1 
+<Event desc="en" extent="begin" type="language"/>
+play
+<Event desc="en" extent="end" type="language"/>
+ zit3-gai4 an1-ni1 nia5 la3
+// 來 恁-兜 閣 play 一-改 按-呢 爾'爾 啦
+<Sync time="2504.487"/>
+ah1 m3-gu1 dai2-uan2-lang5 i2 e3 gam1-dong2,ah1 gorh1 sua3-lor3
+//阿 毋-閣 台-灣-人 伊 會 感-動 阿 閣 紲-落
+<Sync time="2507.371"/>
+u3-dang2-si2 e3 gam1-gak1 gong1 oh2,ah1 vo1-lang5 lai3 qun1-dau1 honnh1
+//有-當-時 會 感-覺 講 喔 阿 某-人 來 阮-兜 乎
+<Sync time="2510.131"/>
+ai1 ai1 hit1-kuan1 hit1-lor2 lai2 pau4-de5 e2 sin5 honnh2
+//哀 哀 彼-款 彼-號 來 泡-茶 的 時'陣 乎
+<Sync time="2512.152"/>
+oh2, hui2-siong5 cin2-cet2 
+//哦， 非-常 親-切
+<Sync time="2513.215"/>
+gorh1 ga3 li1 guann3 puann3-ciu4 lai5 hannh2
+//閣 共 你 捾 伴-手 來 hannh
+<Sync time="2515.26"/>
+ah1 so1-i1 zit1-pior3 ai4 dng4 ho2 i2,
+//阿 所-以 這-票 愛 dng 予 伊
+<Sync time="2516.979"/>
+an1-ne1 dor3 ki3 ah3,an1-ni1 dor3 ki3 ah3
+//按-呢 就 去 阿 按-呢 就 去 阿
+<Sync time="2519.63"/>
+an1-ni1 li1 zit1-pior3 dng4 ho2 li1 dor3 bak3-dior3 li4,
+//按-呢 你 一 票 dng 予 你 就 縛 著 你
+<Sync time="2521.666"/>
+bak3-dior3 li4 ki1 ho2 bak3 si4-ni5 la3
+//縛 著 你 去 予 縛 四-年 啦
+<Sync time="2523.55"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="2524.285"/>
+zun1-zor4 gong1 i2 guann3 puann3-ciu4 lai5 la3
+//準-做 講 伊 捾 伴-手 來 啦
+<Sync time="2526.104"/>
+ge4-dat2 nng3-cing2 ko1 la3, gong1 gah1 painn1-tiann1 e3
+//價-值 兩-千 箍 啦, 講 佮 歹-聽 會
+<Sync time="2528.78"/>
+he1 ki4-iu5 zit3-lip2 honnh2,heh2 
+//彼 汽-油 一-立 乎, heh
+<Sync time="2530.655"/>
+gah1 it1-buann1 e2 gok1-ze4-hang2-zing5 ah1 bi1-gau3 honnh2
+//佮 一-般 的 國-際 行-情 阿 比-較 乎
+<Sync time="2533.196"/>
+i2 zit3-lip2 siang3-zior4 dai2-uan2 ki4-iu5 
+//伊 一-立 上-少 台-灣 汽-油
+<Sync time="2535.092"/>
+gui4-lih1 cau5 nng3-ko2 buann3 zi4 sann2-ko1 la3
+//貴-佇 差'不'多 兩-箍 半 只 三-箍 啦
+<Sync time="2537.483"/>
+li1 ga2 kuann3 li1 nng3-cing2-ko1 lor3-ki1 bing2-gin1 e2 si2-zun2
+//你 共 看 你 兩-千-箍 落-去 平-均 的 時-陣
+<Sync time="2539.943"/>
+li1 e2 o2-do1-vai4 honnh2,eh1 ing2 e2 iu5 honnh2
+//你 的 o-do-vai 乎, 欸 用 的 油 乎
+<Sync time="2542.193"/>
+za4 lor3 an1-ne1 nng3-cing2-ko1 lai2-ga3 li1 bo1-tiap2 honnh2
+//早 就 按-呢 兩-千-箍 來 共 你 補-貼 乎
+<Sync time="2544.443"/>
+heh1 ge2 zi2-cut2 e2 ki4-iu2-zinn5 ah3,
+//彼 加 支-出 的 汽-油 錢 矣
+<Sync time="2546.504"/>
+nng3-cing2-ko1 za4-lor3 ing3-uan5 a2 la3
+//兩-千-箍 早 就 用-完 矣 啦
+<Sync time="2548.015"/>
+ah1 m3-gu1 dai2-uan2-lang5 kong2-kong1 ah1,
+//阿 毋-閣 台-灣-人 悾-悾 阿
+<Sync time="2549.633"/>
+i2 dor3 ve3-hiau1 siunn2 ah2
+//伊 就 袂-曉 想 阿
+<Sync time="2550.609"/>
+so1 u3-dang2-si2 hau3-sinn1 zor4 do3-ze3 
+//所 有-當-時 後-生 做 度-晬
+<Sync time="2552.328"/>
+biann1-zinn5 iah1-ve3 hing2 cing2-cor4
+//餅-錢 猶-未 還 清-楚
+<Sync time="2553.764"/>
+he1 e3 ge4-siok2 gorh1 ga3 li1 tua1 lor3-ki3,
+//彼 會 繼-續 閣 共 你 拖 落-去
+<Sync time="2555.484"/>
+ah1 ge4-siok2 gorh1 tua1 lor3-ki3 e2 si2-zun2 dong2-len5 la3
+//阿 繼-續 閣 拖 落-去 的 時-陣 當-然 啦
+<Sync time="2558.148"/>
+
+<Event desc="empty" extent="instantaneous" type="noise"/>
+
+<Sync time="2560.007"/>
+zing4-hu4 dor2 zit1-diam4 ga3 li1 ziah3-diann2 ah2,
+//政-府 就 這-點 共 你 食-定 阿
+<Sync time="2562.007"/>
+ah1 lor3 ga3 li1 kuann4-zor2 gong1 honnh2
+//阿 就 共 你 看-做 講 乎
+<Sync time="2563.287"/>
+ah1 li1 lor2 zit3-ko1 qen4-qen3,
+//阿 你 就 一-箍 癮-癮
+<Sync time="2564.442"/>
+ah1 li1 lor2 ziann2-hor1-pen3,
+//阿 你 就 誠-好-騙
+<Sync time="2565.692"/>
+ah1 li1 lor2 ziann2-hor1 ki2-hu2 honnh2
+//阿 你 就 誠-好 欺-負 乎
+<Sync time="2567.729"/>
+ah1 lin1 ziah1-e2 dai2-uan2-qong2-a4,
+//阿 恁 遮─個 台-灣-戇-仔
+<Sync time="2569.004"/>
+hennh2 ah1 qua1 lor2 pen4 zit3-gang1 sng4 zit3-gang1
+//hennh 阿 我 就 騙 一-工 算 一-工
+<Sync time="2571.262"/>
+ah1 ziong3-lai5 na3 ve3 ve3-dit1 du1-hor4,
+//阿 將-來 若 袂 袂-得 拄-好
+<Sync time="2573.66"/>
+ah1 na3 hut3-ling5 den3-ciunn4 ki1 ho2 biang2-i3
+//阿 若 核-能 電-廠 去 予 biang-去
+<Sync time="2576.043"/>
+ah1 lin1-be2 vi1-gok1-lang5,
+//阿 恁-爸 美-國-人
+<Sync time="2577.355"/>
+ah1 qua1 na3-si3 gong1 qua1 m3-si3 vi1-gok1-lang5
+//阿 我 若-是 講 我 毋-是 美-國-人
+<Sync time="2579.697"/>
+ah1-vor5 qun1 za5-giann4 ma3 vi1-gok1-lang5,
+//抑-無 阮 查'某 囝 嘛 美-國-人
+<Sync time="2581.291"/>
+qua1 ma3 ting1-a1 zau1-lai2 vi1-gok2 lai2-ki1 hia1 pia4-hiam4 honnh2
+//我 嘛 聽-候 走-來 美-國 來-去 遐 避-險 乎
+<Sync time="2584.485"/>
+ah1 na3-si3 m3 du1-hor4,dai2-uan5-ging2-ze3 bang1-i3
+//阿 若-是 毋 拄-好 台-灣 經-濟 崩-去
+<Sync time="2587.258"/>
+ah1 qua1 ma3 vor2-ca1 ah2,
+//阿 我 嘛 無-差 阿
+<Sync time="2588.416"/>
+heh2-dior3 ah1 lin1-be2 zong1-tong4 dor2 i1-ging2 lor3-lim2 ah2
+//嘿 著 阿 恁-爸 總-統 都 已-經 落-任 矣
+<Sync time="2591.587"/>
+hennh2 ah1 qua1 u3 qua3-ze2 du1 qua3-ze2,
+//hennh, 阿 我 有 偌-濟 拄 偌-濟
+<Sync time="2593.306"/>
+ah1 qua1 kor4 zia1 e1 honnh2
+//阿 我 靠 遮-個 乎
+<Sync time="2594.525"/>
+ah1 qua4 za4 lor3 ga2 uann3-zor4 vi1-gim1, qua1 ma3 song1-uainn2-uainn1
+//阿 我 早 就 共 換-做 美-金, 我 嘛 爽-歪-歪
+<Sync time="2597.235"/>
+ah1 so1-i4 u3-dang2-si2 dai2-uan2-lang5,
+//阿 所-以 有-當-時 台-灣-人
+<Sync time="2599.298"/>
+zin2-ziann4 ve3-hiau1 siunn2
+//真-正 袂-曉 想
+<Sync time="2601.526"/>
+an1-na1 gong1 zin2-ziann4 ve3-hiau1 siunn2,
+//按-怎 講 真-正 袂-曉 想
+<Sync time="2603.245"/>
+li1 gong1 a2-binn4-a3 qua3-vai4 du1 qua3-vai4
+//你 講 阿-扁-仔 偌-䆀 拄 偌-䆀
+<Sync time="2605.434"/>
+a2-binn4-a3 binn1-sor4-a3 qua3-vai4 
+//阿-扁-仔 扁-嫂-仔 偌-䆀
+<Sync time="2606.946"/>
+du1 qua3-vai4 qua3 ai4-zinn5 du1 qua3 ai4-zinn5
+//拄 偌-䆀 外 愛-錢 拄 外 愛-錢
+<Sync time="2608.73"/>
+li1 veh1 an1-ne1 ga2 gong4,
+//你 欲 按-呢 共 講
+<Sync time="2609.521"/>
+qua1 ma3 vor2 i4-gen3 la3, he1 li1-e2 zu3-iu5 la3
+//我 嘛 無 意-見 啦 彼 你-的 自-由 啦
+<Sync time="2611.574"/>
+ah1 m3-gu1 li1 na1 vuai5 ki1 si3 iong3-go3 liong3-go3 
+//阿 毋-閣 你 哪 勿'愛 去 是 用-go 另-外
+<Sync time="2614.21"/>
+zit3-le2 gak1-do2 ki1 ga2 siunn3 ho2 cing2-cor4
+//一─個 角-度 去 共 想 予 清-楚
+<Sync time="2616.134"/>
+gi2-guai3 ah3, kng4-lih3 gok1-qua2 e2 qin2-hang5 
+//奇-怪 啦, 囥-佇 國-外 的 銀-行
+<Sync time="2619.179"/>
+ah3-u3 kng4-lih3 sui3-su2 hia1-e2 qin2-hang5 hmh2
+//也-有 囥-佇 瑞-士 遐-個 銀-行 hmh4
+<Sync time="2622.419"/>
+ah1 gia4-gim1 di3 hit1-ziong1 qin2-hang5,
+//阿 寄-金 佇 彼-種 銀-行
+<Sync time="2624.523"/>
+ah1 kah1-za4 mui2-te4 gam1-si3 but1-si2 long1-leh1 gong4
+//阿 較-早 媒-體 敢-是 不-時 攏 咧 講
+<Sync time="2628.456"/>
+gong1 na3 kng4-lih3 gok1-qua2 honnh2,
+//講 若 囥-佇 國-外 乎
+<Sync time="2630.671"/>
+ah1 na3 kng4-lih3 hit1-ziong1 qin2-hang5 e2 si2-zun2 heh2
+//阿 若 囥-佇 彼-種 銀-行 的 時-陣 heh
+<Sync time="2633.79"/>
+he1 li1 zit1-ma4 vor2-lun3 li1 an1-na1 ki1 ca5,long1 ca2 ve3-diorh2
+//彼 你 這-馬 無-論 你 按-怎 去 查 攏 查 袂-著
+<Sync time="2638.093"/>
+dau4-di4 an2-da4 heh1 gi2-guai3
+//到-抵 安-搭 彼 奇-怪
+<Sync time="2640.463"/>
+ah1 na4 pen2-pen1 binn1-sor4-a3 ki1 kng4-lih3 hia1 e2 qin2-hang5
+//阿 那 偏-偏 扁-嫂-仔 去 囥-佇 遐 的 銀-行 
+<Sync time="2643.838"/>
+
+<Event desc="en" extent="begin" type="language"/>
+A
+<Event desc="en" extent="end" type="language"/>
+hit1-lor3 zinn5
+// 彼-號 錢
+<Sync time="2644.673"/>
+heh2,lan1 van3-ciann1 gong1 i2 e2 zinn5 si3 an1-nua4 lai5
+//嘿， 咱 慢-且 講 伊-的 錢 是 按-怎 來
+<Sync time="2648.194"/>
+dor2 zinn5 ki1 kng4-lih3 hia1,
+//就 錢 去 囥-佇 遐
+<Sync time="2649.663"/>
+hit1-le2 gok1-ga1 ah1 gorh1 hit1-ziong1 qin2-hang5
+//彼-號 國-家 阿 閣 彼-種 銀-行
+<Sync time="2651.479"/>
+an1-ne1 e3 ki1-hong5 ca5-dior3,
+//按-呢 會 去-予'人 查-著
+<Sync time="2652.797"/>
+e3 ki1 hong5 biak2 cut3-lai3 hainnh2
+//會 去-予'人 煏 出-來 hainnh
+<Sync time="2654.714"/>
+dai2-uan2-lang5 painn1-ga3, dor3-si3 zia1 leh1 painn1-ga3
+//台-灣-人 歹-教 就-是 遮 咧 歹-教
+<Sync time="2659.432"/>
+ah1 hor1-pen3 dor3-si3 zia1 leh1 hor1-pen3,
+//阿 好-騙 就-是 遮 咧 好-騙
+<Sync time="2661.182"/>
+long1 ve3-hiau1 veh1 ki1 siunn3-gong1 gi2-guai3
+//攏 袂-曉 欲 去 想-講 奇-怪
+<Sync time="2663.048"/>
+ah1 si3 an1-na4 kng4-lih3 hia1 nai4 biak1-kang1 ah3
+//阿 是 按-怎 囥-佇 遐 若'會 煏-空 啦
+<Sync time="2665.017"/>
+ah1 he1 si3 an1-na4 he1-lor2 giong3-san1-dong4 cut1-vin2 
+//阿 彼 是 按-怎 彼-號 共-產-黨 出-面
+<Sync time="2667.642"/>
+diong2-hua5 lin2-vin5 giong3-hor2-gok2 cut1-vin2 ki1
+//中-華 人-民 共-和-國 出-面 去
+<Sync time="2669.988"/>
+ki1 ga3 hia1 e2 gok1-ga1 ki1 ga2 si2 ap1-lik2 ah2
+//去 共 遐-個 國-家 去 共 施 壓-力 阿
+<Sync time="2672.195"/>
+ah1 gior4 i2 zu2-liau2 diau4-cut1-lai2 ho2 i2 ah2
+//阿 叫 伊 資-料 調-出-來 予 伊 阿
+<Sync time="2673.754"/>
+ah1 i2 lor3 guai2-guai2-a1 zuann5 diau3-cut3-lai3 ah2,honnh2
+//阿 伊 就 乖-乖-仔 自'按'呢 調-出-來 阿 乎
+<Sync time="2675.946"/>
+ah1 si3 an1-na4 i2 u3 gau4-lat2 ting1-a1 cong4-ze1 ap1-lik2
+//阿 是 按-怎 伊 有 夠-力 聽-候 創 這 壓-力
+<Sync time="2678.687"/>
+in2-ui3 leh3, zit1 lai3-vin2 gorh1 kan1-len2 dior3 zit3-gua1 
+//因-為 咧 這 內-面 閣 牽-連 著 一-寡
+<Sync time="2681.468"/>
+kah1 cu4-vi2 e2 dai3-zi3 la3
+//較 趣-味 的 代-誌 啦
+<Sync time="2682.859"/>
+dor2 vi1-gok2 zit1-gang1-gah1-am3 long1 
+//就 美-國 這-工-佮-暗 攏
+<Sync time="2684.785"/>
+bik1 a2-giong2-a2 gong1 li1 lin2-vin2-be3 honnh2
+//逼 阿-共-仔 講 你 人-民-幣 乎
+<Sync time="2687.127"/>
+eh1 li1 dor3-ai4 hit1-lor2 e2 oh2,
+//欸 你 就 愛 彼-號 的 喔
+<Sync time="2688.497"/>
+li1 lin-vin2-be3 honnh2, dui4 qua1 vi1-gim1 honnh2
+//你 人-民-幣 乎, 對 我 美-金 乎
+<Sync time="2690.625"/>
+li1 dor3-ai4 an1-ni1 zor4 zit3-le2 honnh2,
+//你 就 愛 按-呢 做 一─個 乎
+<Sync time="2692.406"/>
+zin2-ziann2 tor4-sen1
+//真-誠 妥-善
+<Sync time="2694.302"/>
+zin2-ziann2 uan2-bi2 e2 zit1-le2 
+//真-誠 完-備 的 這-個
+<Sync time="2696.396"/>
+hui2-lut2 bi1-dui3 e2 hit1-kuan1 hit1-lor3
+//費-率 比-對 的 彼-款 彼-號
+<Sync time="2698.534"/>
+hue3-lut2 e2 zit1-le2 so3-li2, li1 ai4 zau5-cuai3 honnh2
+//費-率 的 這-個 數-字, 你 愛 走-出'來 乎
+<Sync time="2700.706"/>
+ah1 qua1 vi1-gim1 leh1 buah2, ah1 li1 
+//阿 我 美-金 咧 跋, 阿 你
+<Sync time="2702.362"/>
+li1 li1 li1 lin2-vin2-be3 long1 an1-ne1
+//妳 你 你 人-民-幣 攏 按-呢
+<Sync time="2704.341"/>
+due4 qua1 vi1-gim1 long1 ga5 ga3-diau2-diau5 ah2
+//綴 我 美-金 攏 共 咬-椆-椆 阿
+<Sync time="2705.924"/>
+li1 lor2 vor2 ciau2 ho2 hor1-se3 ve3-sai4 ah2
+//你 就 無 撨 予 好-勢 袂-使 阿
+<Sync time="2707.841"/>
+ah1 so1-i1 honnh2, a2-giong2-a4 i2 e2 lin2-vin2-be3 honnh2
+//阿 所-以 乎 阿-共-仔 伊 的 人-民-幣 乎
+<Sync time="2710.285"/>
+i2 ma3 m3-gann1 ki1 ga2 buah3-ge3,an1-na1 gong4 neh2
+//伊 嘛 毋-敢 去 共 跋-價 按-怎 講 呢
+<Sync time="2713.081"/>
+i2 siunn3-veh1 biann4-gong1 lin2-vin2-be3 e2 de3-ui2 la3
+//伊 想-欲 拼 講 人-民-幣 的 地-位 啦
+<Sync time="2716.174"/>
+honnh2, so1-i1 honnh2 i2 di3 eh2 hit1-le2 
+//乎 所-以 乎 伊 佇 咧 彼-個
+<Sync time="2718.249"/>
+se4-gai3 e2 gim2-iong2-ci3-siunn5 honnh2
+//世-界 的 金-融-市-場 乎
+<Sync time="2719.862"/>
+i2 zun1-bi3 gong1 i2 lin2-vin2-be3 i2 uan2-na1 sng4 si3 lau1-dua2 e2 la3
+//伊 準-備 講 伊 人-民─幣 伊 原─若 算 是 老-大 的 啦
+<Sync time="2722.77"/>
+ah1 so1-i4 i2 di3 
+//阿 所-以 伊 佇
+<Sync time="2724.207"/>
+zit3-gua1 hit1-le2 gok1-ga1 leh1 
+//一-寡 彼-號 國-家 咧
+<Sync time="2725.405"/>
+gang5 ve1 quan2-iu5 e2 si2-zun2 na3
+//仝 買 原─油 的 時-陣 阿
+<Sync time="2726.92"/>
+i2 lor2 long1 gah1 lang2 gong4 ah2,
+//伊 就 攏 佮 人 講 阿
+<Sync time="2728.324"/>
+gong1 qua1 iong3 go2 lin2-vin2-be3 hu4 li1 zinn5
+//講 我 用 go 人-民-幣 付 你 錢
+<Sync time="2730.361"/>
+so1-i1 oh2, vu2-hing2 diong2-gan1 honnh2,
+//所-以 喔， 無-形 中-間 乎
+<Sync time="2731.642"/>
+li1 di3 zit1-le2 gau2-ik2 e2 si2-zun2 honnh2
+//你 佇 這─個 交-易 的 時-陣 乎
+<Sync time="2733.474"/>
+lin2-vin2-be3 kah1 u3 leh1 giann2-lau3 giann2-lau5 e2 si2-zun2 honnh2
+//人-民-幣 較 有 咧 行─流 行-流 的 時-陣 乎
+<Sync time="2735.9"/>
+di3 zit1-le2 se4-gai4 e2 gim1-iong2
+<Event desc="liong2" type="lexical" extent="previous"/>
+ ci3-diunn5 honnh2
+//佇 這─個 世-界 的 金─融 市-場 乎
+<Sync time="2737.689"/>
+lin2-vin2-be3 van3-van3-a1 van1-van3-a4 dor3 
+//人-民-幣 慢-慢-仔 慢─慢-仔 就
+<Sync time="2739.282"/>
+i2 u3 i2 e2 ci3-diunn5 ziam4-iu1-lut2 dor3 ki1 ho2 beh2─kit3-lai3
+//伊 有 伊 的 市-場 佔─有─率 就 去 予 趴─起-來
+<Sync time="2741.986"/>
+ah1 so1-i1 honnh2,i2 zit1-mai4
+<Event desc="ma4" type="lexical" extent="previous"/>
+ 
+//阿 所-以 乎 伊 這-馬
+<Sync time="2743.814"/>
+e2 ben4-zor4 lau1-dua2-e2 i2 ki1 ga2 lang2 gong1 huainn2-a1-ue2 honnh2
+//會 變-做 老-大-的 伊 去 共 人 講 橫-仔-話 乎
+<Sync time="2747.13"/>
+lang2 vor2 ho2 vin3-zu4 ah3 ve3-sai4,
+//人 無 予 面-子 也 袂-使
+<Sync time="2748.723"/>
+vun3-de5 lor3 cut1-lih3 zia1 la3
+//問-題 就 出─佇 遮 啦
+<Sync time="2750.011"/>
+ah1 lun3-zu1 qong3 dai2-uan2-a4 i2 dor3 ve3-hiau1 veh1 ki1 siunn3 ze1
+//阿 論 主 戇 台─灣─仔 伊 就 袂-曉 欲 去 想 這
+<Sync time="2752.67"/>
+i2 na3 e3-hiau1 veh1 ki1 siunn3 ze1 oh2,
+//伊 若 會-曉 欲 去 想 這 喔
+<Sync time="2753.982"/>
+gin2-na1 ma1-ing2-giu4 na4-u3 hiah1-ze3 pior3 haih2
+//今─仔 馬-英-九 那-有 遐─濟 票 唉
+<Sync time="2755.809"/>
+vun3-de5 lor3 cut1-lih3 zia1,hor4 la3
+//問-題 就 出─佇 遮， 好 啦
+<Sync time="2757.721"/>
+ah1 dann1 lan1 gin2-na1-rit2 gong1-lai2 gong1-ki3 gong1-gau4 gong1 honnh2
+//阿 今 咱 今─仔─日 講-來 講-去 講-到 講 乎
+<Sync time="2760.737"/>
+an1-ne1 gai1-zong1 loh3, leh1 zin4-bo2 loh3,
+//按-呢 改-裝 loh, 咧 進-步 loh
+<Sync time="2763.245"/>
+u2-e2-vor5-e2 gah1 gong1 gah1 gong1 honnh2
+//有-的-無-的 佮 講 佮 講 乎
+<Sync time="2764.853"/>
+e3 ai4 zor4-guann1,ah1 ai4-zinn5 ah1 hor1-pen3
+//欸， 愛 做-官 阿 愛─錢 阿 好─騙
+<Sync time="2769.353"/>
+
+<Event desc="laugh" extent="instantaneous" type="noise"/>
+
+<Sync time="2770.223"/>
+ah1 painn1-ga3,lan1 ma3 ve3-sai1 gong1 hiah1-ni3 sit1-zi3 ah3
+//阿 歹─教，咱 嘛 袂-使 講 遐─呢 失-志 阿
+<Sync time="2773.695"/>
+so1-i4 di3 gue4-ki3 honnh2, u3 zit3-gu4 ziah1-e2 kah1 zng2-ka1 e2 ue2 la3
+//所-以 佇 過-去 乎， 有 一-句 遮─個 較 庄-跤 的 話 啦
+<Sync time="2777.59"/>
+si3 gong1 honnh2, huan2-na1 cin2-ziann5 ziah3-ba4 gong1 ki1-giann5 la3 honnh2
+//是 講 乎，番─仔 親-情 食─飽 講 起-行 啦 乎
+<Sync time="2780.525"/>
+ah1 ze1 lor3 ben4-zor4 gong1 honnh2,eh2 lang5 u3 kah1 hen3-sit2 la3 honnh1
+//阿 這 就 變-做 講 乎， 欸 人 有 較 現─實 啦 乎
+<Sync time="2783.686"/>
+ah1 ma3 iah1-gorh1 u3 zit3-gu4 gong1 honnh2
+//阿 嘛 抑-閣 有 一-句 講 乎
+<Sync time="2785.561"/>
+ge2-a1-lang5 giann2-ziah2 la3,
+//街-仔─人 驚-食 啦
+<Sync time="2787.03"/>
+ah1 cau1-de3-lang5 giann2 liah2 la3
+//阿 草-地-人 驚 liah 啦
+<Sync time="2789.045"/>
+honnh2, ah1 ze1 zu3-za4 dor3 u3 zit1-ziong4 e2 sim2-tai3
+//乎, 阿 這 自-早 就 有 這-種 的 心-態
+<Sync time="2792.657"/>
+ah1 si3 an1-na4 gong1 giann2-liah2,
+//阿 是 按-怎 講 驚-liah
+<Sync time="2794.688"/>
+in2-ui3 dua3-lang5 leh1 ga4 qin1-na4 ma3 si3 an1-ne1
+//因-為 大-人 咧 教 囡-仔 嘛 是 按-呢
+<Sync time="2797.696"/>
+ga3 qin1-na4 gong1 honnh2,
+//共 囡-仔 講 乎
+<Sync time="2798.751"/>
+li1 ve3-sai1 an1-ni1 li1 na3 an1-ni1 honnh2
+//你 袂-使 按-呢 你 若 按-呢 乎
+<Sync time="2800.575"/>
+qua1 veh1 gior4 ging4-cat2 lai5,
+//我 欲 叫 警-察 來
+<Sync time="2801.565"/>
+ua5， gan1-na1 ging4-cat2 si3 honnh3,
+//哇， 敢-若 警-察 是 乎
+<Sync time="2803.152"/>
+zin2-painn4 zin2-painn4 hit1-lor3 hing5 ah3
+//真-歹 真-歹 彼-號 形 阿
+<Sync time="2804.642"/>
+ah1 qin1-na4 zu3 se4-han3 dor3 ho3─lang2 u3 zit1-ziong1 gau4-iok2
+//阿 囡-仔 自 細-漢 就 予─人 有 這-種 教-育
+<Sync time="2807.939"/>
+ah1 gorh1 li3-ciann1 honnh2,
+//也─閣 而-且 乎
+<Sync time="2808.986"/>
+gorh1 ga3 li1 gah1 gok1-vin2-dong1 zing4-hu4 lai5 e2 si2-zun2 honnh2
+//閣 共 你 佮 國-民-黨 政-府 來 的 時-陣 乎
+<Sync time="2812.155"/>
+gorh1 ga2 li1 cong4-cong3 zit3-gua1 ziah1-e2 qong3-vin2 e2 gau4-iok2
+//閣 共 你 創 創 一-寡 遮─個 戇-面 的 教-育
+<Sync time="2814.81"/>
+i4-su3 gong1 honnh2,qua1 gong1 an1-na4 li1 dor3 ai4 an1-nua4 la3 honnh2
+//意-思 講 乎 我 講 按-怎 你 就 愛 按-怎 啦 乎
+<Sync time="2817.608"/>
+ah1 ze1 hit1-kuan1 hit1-lor2 e2 
+//阿 這 彼-款 彼-號 的
+<Sync time="2819.171"/>
+he1 zit3-si4-ge3 li1 zit3-gang1 li3-si4 diam1-zing1
+//彼 一-四-界 你 一-工 二─四─點-鐘
+<Sync time="2822.707"/>
+long1-zong1 u3 zit3-le2 sin5 honnh2,
+//攏-總 有 這─個 神 乎
+<Sync time="2824.394"/>
+ah1 ting1-a1 ga3 li1 vu1-ze1 vu1-he1 la3
+//阿 聽-候 共 你 舞─這─舞─彼 啦
+<Sync time="2825.874"/>
+so1-i1 zit1-gui1-gang1 
+//所-以 這-幾-工
+<Sync time="2826.936"/>
+hia1─e2 den3-si2 dor3 iah1 gorh1-leh1 bor3 neh2
+//遐─個 電-視 就 也─閣 咧 播 呢
+<Sync time="2828.871"/>
+gong1 u3 zit3-gua1 sior1-hak3-hau2 
+//講 有 一-寡 小-學-校
+<Sync time="2830.695"/>
+sior1 hak3-sing1,e2 hit1-le2 gau4-zai5
+//小 學-生 的 彼-號 教-材
+<Sync time="2832.13"/>
+iah1-gorh1 leh1 si1-zuann3 ua3-zuann3,zuann4 gong1 
+//抑-閣 咧 死-zuann-活-zuann, zuann 講
+<Sync time="2834.07"/>
+ziunn1-diong2-zing3 si3 vin2-zok2 e2 giu4-cinn1
+//蔣 中-正 是 民─族 的 救-星
+<Sync time="2835.869"/>
+iah1-gorh1 dam4-hia1 leh1 ga3 li1 se1-nau4
+//抑-閣 店 遐 咧 共 你 洗-腦
+<Sync time="2837.315"/>
+ah1 so1-i1 honnh2,na3 kah1-u3 ni2-hue3 ziah1-e2 lang5,
+//阿 所-以 乎 若 較 有 年-歲 遮─個 人
+<Sync time="2839.494"/>
+di3 gue4-ki3 ki1 ho3 gok1-vin2-dong4 ah1 ga3 li1 se1-nau4
+//佇 過-去 去 予 國-民-黨 阿 共 你 洗-腦
+<Sync time="2842.035"/>
+long1-leh1 ga3 li1 zor3-sin5 un3-dong2,
+//攏 咧 共 你 造─神 運-動
+<Sync time="2843.691"/>
+ah1 zor3-sin5 un3-dong2 e2 zit1 diong2-gan1 honnh2
+//阿 造─神 運-動 的 這 中-間 乎
+<Sync time="2846.95"/>
+ah1 gorh1 zu3 se4-han3 e2 si2-zun2, be3-vu4 lor3 ga4-gong1
+//阿 閣 自 細-漢 的 時-陣 爸-母 就 共 講
+<Sync time="2848.847"/>
+li1 ve3-sai1 hia1 gau1-guai3,
+//你 袂-使 遐 九-怪
+<Sync time="2849.784"/>
+ah1 gau1-guai3 ga2 li1 ku2-liu5 li3-gau1-gang1 
+//阿 狡-怪 共 你 拘-留 二─九-工
+<Sync time="2851.514"/>
+gau1-guai3 qua1 ga3 li1 bor4 ging4-cat2,
+//狡-怪 我 共 你 報 警-察
+<Sync time="2853.001"/>
+gior4 ging4-cat2 lai5
+//叫 警-察 來
+<Sync time="2853.78"/>
+ah1 gorh1 kah1 dua3-han3 e2 si2-zun2
+//阿 閣 較 大-漢 的 時-陣
+<Sync time="2855.471"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="2856.315"/>
+kah1 vat1 dai3-zi3 e2 si2-zun2, hoh2 
+//較 捌 代-誌 的 時-陣 謼
+<Sync time="2857.907"/>
+m3 nia3 ging4-cat2 loh3,
+//毋 但 警-察 loh
+<Sync time="2858.925"/>
+gorh1-u3 zit3-le2 ging4-zong4 u2-e2-vor5-e2
+//閣 有 這─個 警-總 有-的-無-的
+<Sync time="2860.443"/>
+ah1 so1-i1 honnh2, tiann2-lor3 gong1 eh2,
+//阿 所-以 乎, 聽-著 講 欸
+<Sync time="2862.818"/>
+ging4-cat2 la3 ging4-zong4 la3
+//警-察 啦 警-總 啦
+<Sync time="2864.794"/>
+ah2-si3 huat1-inn2 e2 tuan2-duann1 la3,
+//猶─是 法-院 的 傳-單 啦
+<Sync time="2866.725"/>
+he1 dai2-uan2-lang5 lor3 qong4-i3 ah3
+//彼 台-灣-人 就 gong2─去 矣
+<Sync time="2868.141"/>
+dor3 dam4-hia1 pi3-pi3-cuah2,
+//就 店 遐 咇-咇-掣
+<Sync time="2869.204"/>
+so1-i1 di3 zit3 diong2-gan1 kah1 u3 huat1-do2 siu3-ik2 e3
+//所-以 佇 這 中-間 較 有 法-度 受-益 的
+<Sync time="2873.157"/>
+dor3-si3 ziah1-e2 huan3-zue2 zip3-tuan5,
+//就-是 遮─個 犯-罪 集-團
+<Sync time="2874.876"/>
+hoh2 zit1-ma4 den3-ue2 ga3 li1 ka3-lai3
+//謼 這-馬 電-話 共 你 敲─來
+<Sync time="2876.673"/>
+e3 qua1 si3 dor1-ui2 e2 huat1-inn2 e2 giam1-cat1-guann1
+//欸 我 是 佗-位 的 法-院 的 檢-察-官
+<Sync time="2880.657"/>
+li4 zit1-ma4 e2 kau1-zor3 honnh2,
+//你 這-馬 的 口-座 乎
+<Sync time="2882.8"/>
+gun2-gu4 qun1 diau2-za2, li1 e2 kau1-zor2 ki1 hong5 vo3-iong2
+//根-據 阮 調-查 你 的 口-座 去 予'人 冒─用
+<Sync time="2886.716"/>
+so1-i1 li1 zit1-ma4 kau1-zor2 lai3-vin2 
+//所─以 你 這-馬 口-座 內-面
+<Sync time="2889.163"/>
+u3 cun2-zinn5 ah1 siann1-mih1-hue3 honnh2
+//有 賰-錢 阿 啥-物─貨 乎
+<Sync time="2891.031"/>
+ah2 qua1 zit1-ma4 hit1-kuan1 hit1-lor2 giam1-cat1-guann1,
+//阿 我 這-馬 彼-款 彼-號 檢-察-官
+<Sync time="2893.265"/>
+qua1 ziam3-si5 ga3 li1 bor1-guan4 honnh2
+//我 暫-時 共 你 保-管 乎
+<Sync time="2895.499"/>
+ah1 ciann1-mng2 li1 e2 kau1-zor2 
+//阿 請-問 你 的 口-座
+<Sync time="2896.78"/>
+qua1 ga3 li1 dui3 zit3-le3 
+//我 共 你 對 一─下
+<Sync time="2897.666"/>
+si3-m3-si3 siann1-mi4 siann1-mi4 siann1-mi4 siann1-mi4 honnh2
+//是-毋-是 啥-物 啥-物 啥-物 啥-物 乎
+<Sync time="2899.742"/>
+ah1 so1-i1 honnh2,
+//阿 所-以 乎
+<Sync time="2900.586"/>
+zit3-gua1 dai2-uan2-lang5 na3 ziap1-lor3 zit1-kuan1 den3-ue2 oh2
+//一-寡 台-灣-人 若 接-著 這-款 電-話 喔
+<Sync time="2902.597"/>
+eh2, ka2-a1 ciu1-a4 bi3-bi3-cuah2 neh2,
+//欸, 跤-仔 手-仔 被-被-掣 呢
+<Sync time="2904.346"/>
+ah1 i2 gua2 sua3-lor3-i3 i2 ziah1 zu2-liau2 m3-zai2 
+//阿 伊 寡 紲-落─去 伊 遮 資-料 毋-知
+<Sync time="2906.199"/>
+due4 an4 dor1-ui2 lau2 cut3-lai3
+//綴 按 佗-位 流 出-來
+<Sync time="2907.6"/>
+huan3-se4 li1 ki1 cing1 den3-ue2,
+//凡-勢 你 去 請 電-話
+<Sync time="2908.924"/>
+an4 den3-ue3 ging2-a4 lau2 cut3-lih3
+//按 電-話 間-仔 流─出─去
+<Sync time="2910.343"/>
+huan3-se4 li1 ki1 hit1-kuan1 hit1-lor2 
+//凡-勢 你 去 彼-款 彼-號
+<Sync time="2912.109"/>
+ki1 binn3-inn2 kuann4-binn2 honnh2
+//去 病-院 看-病 乎
+<Sync time="2913.669"/>
+an4 binn3-inn2 hia1 e1 zu2-liau2 an4 hia1 lau5 cut3-lih3
+//按 病-院 遐 的 資-料 按 遐 流 出─去
+<Sync time="2915.868"/>
+ah1 huan3-se4 li1 gah1 lin1 bing2-iu4 
+//阿 凡-勢 你 佮 恁 朋-友
+<Sync time="2917.535"/>
+zit1 diong2-gan1 di3 den3-nau4 ding1-tau5 honnh2
+//這 中-間 佇 電-腦 頂-頭 乎
+<Sync time="2919.301"/>
+ah1 zit1-le2 i2 li3-iong3 den3-nau4 dit1-leh1 gong1-ue2 
+//阿 這─個 伊 利-用 電-腦 佇─咧 講-話
+<Sync time="2921.423"/>
+dit1-leh1 gau2-dam5 gau2-sim1 e2 si2-zun2
+//佇─咧 交-談 交─心 的 時-陣
+<Sync time="2923.167"/>
+di3 zit1-diong2-gan1 sin4-hor2 ki1 hong5 zam4-i3
+//佇 這-中-間 信-號 去 予'人 斬─去
+<Sync time="2926.194"/>
+ah1 li1 hiah1-e2 li1 hiah1 e2 gi2-bun1─zu2-liau2 
+//阿 你 遐─個 你 遐─個 基-本─資-料
+<Sync time="2928.167"/>
+ki1 ho3 dui4-hong1 sa1 dior3
+//去 予 對-方 捎 著
+<Sync time="2929.253"/>
+ah1 dui4-hong1 lor3 iong3-go3 ze1,
+//阿 對-方 就 用-go 這
+<Sync time="2930.465"/>
+ah1 tor4 li1-e2 ue2 lau2 li1-e2 ue2
+//阿 套 你-的 話 留 你-的 話
+<Sync time="2931.862"/>
+ah1 dai2-uan2-lang5 an1-ne1 giann2-si1-si4 ah3 bi3-bi3-cuah2 la3
+//阿 台-灣-人 按-呢 驚-死-死 啦 被-被-掣 啦
+<Sync time="2933.974"/>
+aih2-iorh3, ah1 qua1 e2 kau1-zor2 
+//噯-唷， 阿 我 的 口-座
+<Sync time="2935.256"/>
+ki1 hong5 vo3-iong2 ki3 a3 la3,ah1 veh1 an1-nua4
+//去 予'人 冒─用 去 矣 啦， 阿 欲 按-怎
+<Sync time="2937.031"/>
+ngh2,ah1 li1 na1 veh2-iau1 veh1 siunn3-gong1 honnh2
+//ngh, 阿 你 哪 袂-曉 欲 想-講 乎
+<Sync time="2939.036"/>
+ngh2,ah2 ah1 qua1 na3 veh1 lai5 nia1-zinn5,
+//ngh4 阿 阿 我 若 欲 來 領-錢
+<Sync time="2942.869"/>
+hiah1 gan1-dan1 honnh2
+//遐 簡-單 乎
+<Sync time="2944.004"/>
+ma3 dor3-ai4 za1 in1-na4 neh2,
+//嘛 就 愛 za 印-仔 呢
+<Sync time="2945.684"/>
+ah1 ma3 dor3-ai4 sia1 duann1 neh2
+//阿 嘛 就 愛 寫 單 呢
+<Sync time="2947.452"/>
+ah1 li3-ciann1 ki1 gah1 gui2-dai5 e2 si2-zun2
+//阿 而-且 去 佮 櫃-台 的 時-陣
+<Sync time="2949.753"/>
+mh2,eh1 gui3-dai5 e2 sior1-zia4 ma3 e3 gong1 hennh2
+//mh, 欸 櫃-台 的 小-姐 嘛 會 講 hennh
+<Sync time="2952.565"/>
+ah1 li1 zit1-ma4 lai3-gah1 gui3-dai5 veh1 nia1-zinn5 e2 si2-zun2
+//阿 你 這-馬 來 佮 櫃-台 欲 領-錢 的 時-陣
+<Sync time="2954.936"/>
+li1 iah1-gorh1 u3 zit3-le2 vit3-ma4,
+//你 抑-閣 有 這─個 密─碼
+<Sync time="2956.248"/>
+li1 iah1-gorh1 u3 zit3-le2 am4-hor2
+//你 抑-閣 有 這─個 暗-號
+<Sync time="2957.579"/>
+li1 zit3-le2 am4-hor2 li1 a2 pa4 cut1-lai2 ho3 qua1 kuann3
+//你 這─個 暗-號 你 也 拍 出-來 予 我 看
+<Sync time="2959.73"/>
+ah1 am4-hor2 na3-u3 dui3 e2 si2-zun2,
+//阿 暗-號 若-有 對 的 時-陣
+<Sync time="2961.193"/>
+zinn5 ziah1 ting1 a1 ho2 li2
+//錢 才 聽-仔 予 你
+<Sync time="2962.184"/>
+ma3-ai4 gorh1 ging2-gue4 zit3-guan2 in1-na4,
+//嘛 愛 閣 經-過 一 關 印-仔
+<Sync time="2964.809"/>
+zit3-guan2 pa4-am4-hor2 e2 ciu1-siok2
+//一 關 拍-暗-號 的 手-續
+<Sync time="2967.48"/>
+an1-ni1 zinn5 li1 ziah1 nia1 e2 diorh2 neh2
+//按-呢 錢 你 才 領 會 著 呢
+<Sync time="2969.323"/>
+ah1 si5-gau3 ki1 hong5 ga2 hann4-lue3,
+//阿 時-到 去 予'人 共 嚇-落'去
+<Sync time="2971.15"/>
+ah1 i2-lor3 ve3-hiau1 veh1 siunn3-gah1 an4 zia1 lai5
+//阿 伊 就 袂-曉 欲 想 佮 按 遮 來
+<Sync time="2973.757"/>
+ah1 dor3 kai2-si4 ka2-a1-ciu1-a4 pi3-pi3-cuah2
+//阿 就 開-始 跤-仔 手-仔 咇-咇-掣
+<Sync time="2975.575"/>
+ah1 vok3-guai4 gong1,
+//阿 莫-怪 講
+<Sync time="2976.7"/>
+zit3-gang1-gah1-am3 leh1 ki1 hong5 pen3
+//一-工-佮-暗 咧 去 予'人 騙
+<Sync time="2978.334"/>
+zit3-gang1-gah1-am3 leh1 ki1 hong5 bor4-zua4,
+//一-工-佮-暗 咧 去 予'人 報-紙
+<Sync time="2981.2"/>
+den3-si2 e2 sin2-vun2 zet1-vok2
+//電-視 的 新-聞 節-目
+<Sync time="2982.787"/>
+long1 e2 tiann2-lor3 gong1 honnh2,
+//攏 會 聽-著 講 乎
+<Sync time="2983.787"/>
+vo1-mih1-lang5 ki1 hong5 guai1 qua3-ze2
+//某-物-人 去 予'人 拐 偌-濟
+<Sync time="2985.268"/>
+ah1 ki1 hong5 guai1 qua3-ze2 e2 lai3-vin2 ah3,
+//阿 予'人 拐 偌-濟 的 內-面 啦
+<Sync time="2988.109"/>
+ah1 gorh1 siang3-gai4 cu4-vi2 e2 siang3-gai4 hor1-cior3 dor3 si3 gong1
+//阿 閣 上-蓋 趣-味 的 上-蓋 好-笑 就 是 講
+<Sync time="2990.873"/>
+hoh2, hit1-lor2 siann1-mih1 pok1-su2 e2 loh3,
+//謼 彼-號 啥-物 博-士 的 loh
+<Sync time="2993.452"/>
+hoh2 ma3 ki1 ho3 ah1 ki1 hong5 guai4
+//謼 嘛 去 予 阿 予'人 拐
+<Sync time="2995.359"/>
+ah1 hit1-lor2 siann1-mih1 he1 
+//阿 彼-號 啥-物 彼
+<Sync time="2996.455"/>
+qong3-za2-vo4 e3 ah1 ma3 hak3-lik2 zin2-guan5
+//戇 查-某 的 阿 嘛 學─歷 真-懸
+<Sync time="2999.024"/>
+ah1 ma3-si3 ki1 ho1 ha1 gok1-qua2 e2 hit1-kuan1 hit1-lor2 
+//阿 嘛-是 去 予 國-外 的 彼-款 彼-號
+<Sync time="3001.117"/>
+he1 lah2 ai4-zing5 sut2-la4
+//彼 啦 愛-情 sut-仔
+<Sync time="3002.443"/>
+ma3 ki1 hong5 guai4-i3 ki1 hong5 pen3-i3,
+//嘛 予'人 拐─去 予'人 騙─去
+<Sync time="3003.941"/>
+ah1 zit1 lai3-vin2 dor3 zing4-ving2 siann1-mih1 zing4-ving2 gong1
+//阿 這 內-面 就 證-明 啥-物 證-明 講
+<Sync time="3006.839"/>
+
+<Event desc="silence" extent="instantaneous" type="noise"/>
+
+<Sync time="3007.511"/>
+kak1-kak1-sit3-sit2 dai2-uan2-qin-na4 hor1-pen3 honnh2
+//確─確-實─實 台-灣─仔 好─騙 乎
+<Sync time="3012.198"/>
+ah1 hor1-pen3 dor3 si3 an1-nua4,vun3-de5 ziong3-gi2-vue4 dor3 si3 gong1
+//阿 好─騙 就 是 按-怎 問-題 終─其-尾 就 是 講
+<Sync time="3015.894"/>
+di1 zit1-le2 gau4-iok2 di3 zit1-le2 hak3-sip2 e2 gai2-duann2 
+//佇 這─個 教-育 佇 這─個 學─習 的 階-段
+<Sync time="3019.55"/>
+long1-zong1 leh1 tak3-si1-ceh2
+//攏-總 咧 讀-死-冊
+<Sync time="3022.338"/>
+m3-vat1 veh1 tak3 dior3 ua3-ceh2,
+//毋-捌 欲 讀 著 活 冊
+<Sync time="3024.238"/>
+honnh2 ah1 gah1 zin4-zing5 qua1 but1-si2 leh1 gong1
+//乎 阿 佮 進-前 我 不-時 咧 講
+<Sync time="3026.677"/>
+dai2-uan5 e2 gua2-a1-hi3 
+//臺-灣 的 歌-仔-戲
+<Sync time="3027.707"/>
+u3-lang2 leh1 gong1 honnh2, ah1 na3 an4-zau4
+//有-人 咧 講 乎，阿 若 按-照
+<Sync time="3029.854"/>
+an4-ziau4 giok3-bun4 dam4-a1 leh1 buann2-hi3 he1 ah3,
+//按-照 劇-本 店 仔 咧 搬-戲 彼 啦
+<Sync time="3031.899"/>
+he1 gior3-zor4 si1-hi3
+//彼 叫─做 死─戲
+<Sync time="3032.766"/>
+he1 ziong3-gi2-vue4 e3 lu1-buann1 lu1 dor4-te3,
+//彼 終─其-尾 會 愈 搬 愈 倒-退
+<Sync time="3034.93"/>
+ah1 so1-i1 hi3 veh1 kuann3 ai4-kuann4 ua3-hi3
+//阿 所-以 戲 欲 看 愛-看 活 戲
+<Sync time="3037.247"/>
+vok3-guai3 vok3-guai4 gong1 honnh2,
+//莫-怪 莫-怪 講 乎
+<Sync time="3038.685"/>
+ziah3-vah2 ai4 ziah3 sam2-zan5 la3,
+//食 肉 愛 食 三-層 啦
+<Sync time="3040.247"/>
+kuann4-hi3 ai4-kuann4 lan3-tan5 la3
+//看-戲 愛-看 亂-彈 啦
+<Sync time="3041.775"/>
+ah1 lan3-tan5 he1 dor3 si3 honnh2
+//阿 亂-彈 彼 就 是 乎
+<Sync time="3043.119"/>
+he1 dor3-si3 ua3-hi3 lai3-vin2 e2 zit3-ziong4 la3 honnh2
+//彼 就-是 活 戲 內-面 的 一-種 啦 乎
+<Sync time="3045.783"/>
+ah1 zit1-ma4 ue2 gorh1 kan1-dor4-dngh2-ai3,
+//阿 這-馬 話 閣 牽 倒─轉─來
+<Sync time="3047.814"/>
+dor3 si3 gong1 zu3 se4-han3 e2 si2-zun2
+//就 是 講 自 細-漢 的 時-陣
+<Sync time="3050.369"/>
+ah1 dor3 an1-ni1 tau2-kak2 siunn3-huat2 long1-zong1 giann2 dit3-lo2
+//阿 就 按-呢 頭-殼 想-法 攏-總 行 直-路
+<Sync time="3054.729"/>
+ah1 giann2 dit3-lo2 bing3 m3-si3 vai1-cu3 la3,
+//阿 行 直-路 並 毋-是 䆀-處 啦
+<Sync time="3056.931"/>
+in2-ui3 li1 na3 hong2-hiong3 diorh2 e2 si2-zun2
+//因-為 你 若 方-向 著 的 時-陣
+<Sync time="3058.527"/>
+giann2 dit3-lo2 ah3 vor2 siann1-mih1 vai1-cu3 ah3
+//行 直-路 啦 無 啥-物 䆀-處 啦
+<Sync time="3060.63"/>
+vun3-de5 dor3 si3 gong1, li1 lor3 ve3-sai1 tak3 si1-ceh2,
+//問-題 就 是 講 你 就 袂-使 讀 死 冊
+<Sync time="3062.786"/>
+ai4 siunn3 ho2 cing2-cor4
+//愛 想 予 清-楚
+<Sync time="3064.265"/>
+ah1 ziu3 se4-han3 di3 hit1-le2 
+//阿 就 細-漢 佇 彼-號
+<Sync time="3065.764"/>
+long1-zong1 iong3 ga2 kiong1-hat2 
+//攏-總 用 共 恐-嚇
+<Sync time="3067.108"/>
+long1-zong1 hong5 ga2 de4-giann1 e2 hit1-kuan1
+//攏-總 予'人 共 硩-驚 的 彼-款
+<Sync time="3069.221"/>
+kuan2-ging4 lai2 dua3-han3 e2 si2-zun2,
+//環-境 來 大-漢 的 時-陣
+<Sync time="3070.64"/>
+dong2-len5 lai2 gah1 cut1 sia3-hue2 e2 si2-zun2
+//當-然 來 佮 出 社-會 的 時-陣
+<Sync time="3073.143"/>
+ah1 gorh1 kah1 zior1 gah1 qua3-kau4 leh1 zi4-ziap2
+//阿 閣 較 少 佮 外-口 咧 接-接
+<Sync time="3075.575"/>
+hannh3,ah1 vu4-cuai3 dor3-si3 an1-ni1,
+//hannh 阿 舞 出'來 就-是 按-呢
+<Sync time="3077.197"/>
+lang2 zit3-tong2 den3-ue2 ga3 li1 pen3 e3
+//人 一-通 電-話 共 你 騙 e
+<Sync time="3078.571"/>
+ah1 li1 dor3 an1-ni1 ki3 ah3, long1 ki4-liau1-liau4 
+//阿 你 就 按-呢 去 矣, 攏 去-了-了
+<Sync time="3080.477"/>
+zun2-kuann4 qua3-ze2 u2-e2-vor5-e2 honnh2
+//存-款 偌-濟 有-的-無-的 乎
+<Sync time="3082.283"/>
+ah1 lang2 den3-ue2 ga3 li1 lau1-leh3, ah1 li1 long1-zong1 an1-ni1
+//阿 人 電-話 共 你 lau-咧 阿 你 攏-總 按-呢
+<Sync time="3084.723"/>
+an4 tau5 gong1 gah1 vue4 long1 gong1-gah1 cing2-cing2-cor1-cor4,
+//按 頭 講 佮 尾 攏 講 佮 清-清-楚-楚
+<Sync time="3087.215"/>
+an1-ni1 dor3 ki4-liau1-liau4 a3 neh2
+//按-呢 就 去-了-了 矣 呢
+<Sync time="3088.326"/>
+honnh2,an1-ni1 dor3 an1-ne1 honnh2,
+//乎 按-呢 就 按-呢 乎
+<Sync time="3089.742"/>
+sam1-dai2 liap3-zik2 honnh2,
+//三-代-粒-積 乎
+<Sync time="3090.871"/>
+ah1 zit3-tong2 den3-ue2 li1 dor3 pua4-gong1 i3 ah3
+//阿 一-通 電-話 你 就 破-功 去 矣
+<Sync time="3092.905"/>
+gam1-m3-si3 an1-ne1 gong4,ah1 lan4 gin1-na1 e2 gong1 ze1
+//敢-毋-是 按-呢 講, 阿 咱 今-仔 會 講 這
+<Sync time="3095.783"/>
+iah3-si3 siok3-i2 gong1 
+//猶-是 屬-於 講
+<Sync time="3096.939"/>
+zit3-gua1 kah1 go1-za1 sik2 e2 siok3-qi1-ue2
+//一-寡 較 古-早-式 的 俗-語-話
+<Sync time="3099.424"/>
+ah1 ge2-ge2-giam1-giam4 te3 cut1-lai2 gong4,
+//阿 加-加-減-減 提 出-來 講
+<Sync time="3101.268"/>
+ah1 gi2-sit2 siok3-qi4
+//阿 其-實 俗-語
+<Sync time="3102.935"/>
+lan1 zit1-ma4 ai4 por3-dior3 zit3-ziong1 tai3-do2 lai2 ga2 kuann4-tai2
+//咱 這-馬 愛 抱-著 一-種 態-度 來 共 看-待
+<Sync time="3106.293"/>
+in2-ui3 leh3 siok3-qi4 si3 siok3-qi4 la3,ah1 siok3-qi4 e2 si2-zun2
+//因-為 咧 俗-語 是 俗-語 啦 阿 俗-語 的 時-陣
+<Sync time="3111.315"/>
+he1 si3 zit3-ziong1 vun2-hua3 e2 gi4-lok2 la3, honnh2
+//彼 是 一-種 文-化 的 記-錄 啦 乎
+<Sync time="3114.128"/>
+ah1 li4 zit1-ma4 veh1 an1-na1 kuann4-dai3 zit1-gu4 siok3-qi4 
+//阿 你 這-馬 欲 按-怎 看-待 這-句 俗-語
+<Sync time="3116.659"/>
+ai4 sui2-zai3 li1 ki1 un3-iong2 la3
+//愛 隨-在 你 去 運-用 啦
+<Sync time="3118.294"/>
+siok3-qi4 si3 dann1 cin2-ciunn3 gong1,
+//俗-語 是 今 親-像 講
+<Sync time="3120.387"/>
+zit3-ziong4 e2 gang2-gu2 la3
+//一-種 的 工-具 啦
+<Sync time="3122.11"/>
+ah1 li1 zit1-ma4 ga2 dong4-zor4 gong1 
+//阿 你 這-馬 共 當-做 講
+<Sync time="3124.203"/>
+siok3-qi4 na1 cin2-ciunn3 gong1
+//俗-語 那 親-像 講
+<Sync time="3125.638"/>
+zit3-gi2 di2-tau5 la3,
+//一-支 鋤-頭 啦
+<Sync time="3126.516"/>
+ah1 li1 zit1-gi2 di2-tau5 li1 si3 veh1 ki1 gut3-to5
+//抑 你 這-支 鋤-頭 你 是 欲 去 掘-塗
+<Sync time="3130.206"/>
+veh1 lai2 zing4 cai4-gue1 ma3-si3 e3 saih2 lih3
+//欲 來 種 菜-瓜 嘛-是 會-使 lih
+<Sync time="3132.103"/>
+ah2-si3 hit1-kuan1 hit1-lor2 veh1 ki1 sun2-can2-zui4 honnh2,
+//猶-是 彼-款 彼-號 欲 去 巡-田-水 乎
+<Sync time="3135.259"/>
+ah1 veh1 ki1 gut3 nua3-to5 an1-ne1 ma3-si3 e3-saih2
+//阿 欲 去 掘 爛-塗 按-呢 嘛-是 會-使
+<Sync time="3137.772"/>
+long1-zong1 ai4 ing3 zit1-gi2 di2-tau5 la3,
+//攏-總 愛 用 這-支 鋤-頭 啦
+<Sync time="3139.821"/>
+ah1 li1 zit1-gi1 di2-tau5 li1 si3 veh1 an1-na1 su1-iong2 honnh2
+// 阿 你 這-支 鋤-頭 你 是 欲 按-怎 使-用 乎
+<Sync time="3143.291"/>
+ah1 di2-tau2-binn3 si3 veh1 dng5-e2 ah3-si3 veh1 de4-e3 honnh2
+//阿 鋤-頭-柄 是 欲 長-的 抑-是 欲 短-的 乎
+<Sync time="3146.323"/>
+ah1 di2-tau2-vin2 si3 veh1 kah1 kua4-bak2 e2 ah2 si3 veh1 kah1 e3-bak2,
+//阿 鋤-頭-面 是 欲 較 闊-腹 的 猶-是 欲 較 阨-腹
+<Sync time="3149.604"/>
+long1 zong1 sui2-zai3 li4
+//攏 總 隨-在 你
+<Sync time="3150.979"/>
+ah2-si3 veh1 iong3 go3 di3-tau2-gak2 
+//猶-是 欲 用 go 鋤-頭-角
+<Sync time="3152.303"/>
+he3 ah1 dam1-a4 an1-na1 sior1 ga2 an1-ne1
+//he 阿 店-遐 按-怎 小 共 按-呢
+<Sync time="3154.391"/>
+sior1 hit1-kuan1 hit1-lor2 can2-to2-a4 
+//小 彼-款 彼-號 田-塗 仔
+<Sync time="3156.172"/>
+sior1 ga2 lior5 zeh3-leh3 honnh2
+//小 共 lior­一─下 乎
+<Sync time="3157.44"/>
+ah1 he1 ma3 ting2-a1 gut3 ho2-liu1 neh2,honnh2
+//阿 彼 嘛 聽-候 掘 鰗-鰡 呢 乎
+<Sync time="3159.353"/>
+ah1 ze1 long1 zong1 e3 saih2,ah1 kuann4 zai3-li1 an1-nua1 un3-iong2 la3
+//阿 這 攏-總 會- 阿 看 在 你 按-怎 運-用 啦
+<Sync time="3162.528"/>
+ah1 siok3-qi4 e2 si2-zun2,
+//阿 俗-語 的 時-陣
+<Sync time="3163.997"/>
+li1 ah3 ve3-sai1 zuan2-buann5 honnh2
+//你 也 袂-使 全- 盤 乎
+<Sync time="3165.855"/>
+ziau4-duann1 zuan2-siu1 la3,
+//照-單-全-收 啦
+<Sync time="3167.684"/>
+u3-dang2-si2 u2 zit3-gua1 go1-za1-ue2 hit1-lor2 siok3-qi4
+//有-當-時 有 一-寡 古-早-話 彼-號 俗-語
+<Sync time="3170.54"/>
+iu2-gi2 si3 gah1 zit1-le2 ki4-hau2 
+//尤-其 是 佮 這-個 氣-候
+<Sync time="3172.786"/>
+u3 guan2-he2 gah1 long2-qiap2 u3 guan2-he2 zit3-gua1 siok3-qi4
+//有 關-係 佮 農-業 有 關-係 一-寡 俗-語
+<Sync time="3175.384"/>
+gin2-na1 e2 lai2-gah1 zit1-dong2-gim1 ah3,
+//今-仔 會 來 佮 這-當-今 阿
+<Sync time="3177.66"/>
+de3-giu5 e2 hit1-le2 un2-sik1 hau3-ing3 e3 hit1-le2 ben4-cen1 la3
+//地-球 的 彼-個 溫-室 效-應 會 彼-個 變-遷 啦
+<Sync time="3180.593"/>
+u3-dang2-si2 ziah1-e2 hit1-kuan1 hit1-lor2 e2 
+<Event desc="silence" extent="instantaneous" type="noise"/>
+ siok3-qi4 honnh2
+//有-當-時 遮─個 彼-款 彼-號 的 俗-語 乎
+<Sync time="3183.624"/>
+ziah1-e2 gah1 long2-qiap2 u2 guan2-he2 e2 siok3-qi4 honnh2
+//遮─個 佮 農-業 有 關-係 的 俗-語 乎
+<Sync time="3185.852"/>
+u3-dang2-si2 long1 e3 zau1-zing1 ki3 neh2,
+//有-當-時 攏 會 走-精 去 呢
+<Sync time="3187.674"/>
+ah1 ze1 ai4 zau1-zing1 e2 si2-zun2 honnh2
+//阿 這 愛 走-精 的 時-陣 乎
+<Sync time="3189.305"/>
+uan2-na1 zau1 vor2 qua3-ze2 la3,
+//原-若 走 無 外-濟 啦
+<Sync time="3190.68"/>
+ah1 na3 zing4-ging2 gong1 honnh2 
+//阿 若 正-經 講 乎
+<Sync time="3191.805"/>
+dua3 zau1-zing1 e2 si2-zun2 honnh2
+//大 走-精 的 時-陣 乎
+<Sync time="3193.135"/>
+he1 ma3-si3 ga3 dong4-zor4 gong1 gi4-lok2 ah3,
+//彼 嘛-是 共 當-做 講 記-錄 啦
+<Sync time="3194.837"/>
+ga2 dong4-zor4 gong1 vun2-hak2 e2 zit3-ziong4 honnh2
+//共 當-做 講 文─學 的 一-種 乎
+<Sync time="3196.332"/>
+ah1 ge2-ge2-giam1-giam4 lai3 him2-siong4 la3
+//阿 加-加-減-減 來 欣-賞 啦
+<Sync time="3198.16"/>
+ah2 ah1 na1 lan1 gin2-na1 gong1 gah1 zia1 la3 heh2
+//阿 阿 若 咱 今-仔 講 佮 遮 啦 heh
+</Turn>
+</Section>
+</Episode>
+</Trans>

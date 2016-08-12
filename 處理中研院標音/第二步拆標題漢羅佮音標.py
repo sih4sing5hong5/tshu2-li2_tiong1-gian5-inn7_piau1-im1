@@ -33,6 +33,8 @@ class 第二步拆標題漢羅佮音標:
 			資料.append(self.拆開一句(句))
 		return 資料
 	def 拆開一句(self, 句):
+		'因為TW03才需要拆開，別的免。所以直接回傳'
+		return ('標籤', '漢羅', 句)
 		try:
 # 			print('句',句)
 			標籤, 文本 = 句.split(' ', 1)

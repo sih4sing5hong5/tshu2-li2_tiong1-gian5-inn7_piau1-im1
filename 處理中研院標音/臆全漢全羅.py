@@ -19,8 +19,8 @@ from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器
 from 臺灣言語工具.解析整理.文章粗胚 import 文章粗胚
 from 臺灣言語工具.解析整理.轉物件音家私 import 轉物件音家私
 from 臺灣言語工具.解析整理.物件譀鏡 import 物件譀鏡
-from 臺灣言語工具.基本元素.公用變數 import 分詞符號
-from 臺灣言語工具.基本元素.公用變數 import 分字符號
+from 臺灣言語工具.基本物件.公用變數 import 分詞符號
+from 臺灣言語工具.基本物件.公用變數 import 分字符號
 from 補全漢全羅.揣全漢全羅 import 揣全漢全羅
 class 臆全漢全羅:
 	粗胚 = 文章粗胚()

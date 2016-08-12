@@ -6,6 +6,8 @@ from 處理中研院標音.第三步整理文本格式 import 第三步整理文
 from 處理中研院標音.第四步建立句物件 import 第四步建立句物件
 from 處理中研院標音.上尾轉做HTS標仔 import 上尾轉做HTS標仔
 from 處理中研院標音.臆全漢全羅 import 臆全漢全羅
+from os.path import join, dirname
+from os import makedirs
 
 if __name__ == '__main__':
 	共外語處理掉 = 第一步共外語處理掉()
@@ -14,13 +16,14 @@ if __name__ == '__main__':
 	建立物件 = 第四步建立句物件()
 	轉做HTS標仔 = 上尾轉做HTS標仔()
 	全漢全羅 = 臆全漢全羅()
-	資料 = "../EDU/"
+	資料 = join(dirname(__file__),"../EDU/")
 	
-	os.chdir(資料)
+# 	os.chdir(資料)
 	這馬目錄 = os.path.dirname(os.path.abspath(__file__))
 	合成語料檔名 = os.path.join(這馬目錄, '合成語料')
+	print(合成語料檔名)
 	合成語料檔案 = open(合成語料檔名, 'w')
-	for 檔名 in sorted(os.listdir(".")):
+	for 檔名 in sorted(os.listdir(資料)):
 		if 檔名.endswith("Combine002-110519(dancor)-1.trs"):
 			print(檔名)
 			檔案 = open(資料 + 檔名)

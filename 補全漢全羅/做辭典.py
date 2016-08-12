@@ -1,13 +1,13 @@
 import gzip
 from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器
 from 臺灣言語工具.解析整理.字物件篩仔 import 字物件篩仔
-from 臺灣言語工具.表單.型音辭典 import 型音辭典
 from 臺灣言語工具.語音合成.閩南語變調 import 閩南語變調
 from 臺灣言語工具.音標系統.閩南語.臺灣閩南語羅馬字拼音 import 臺灣閩南語羅馬字拼音
 import pickle
 import os
-from 臺灣言語工具.基本元素.詞 import 詞
+from 臺灣言語工具.基本物件.詞 import 詞
 from 臺灣言語工具.解析整理.詞物件網仔 import 詞物件網仔
+from 臺灣言語工具.辭典.型音辭典 import 型音辭典
 
 這馬所在 = os.path.dirname(__file__)
 辭典一對一 = os.path.join(這馬所在, '辭典一對一.txt.gz')

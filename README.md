@@ -14,6 +14,10 @@ pip install tai5-uan5_gian5-gi2_kang1-ku7
 python 補全漢全羅/做辭典.py
 PYTHONPATH=. python 處理中研院標音/處理標音.py 
 ```
+試驗
+```
+python -m unittest 試驗/第一步共外語處理掉試驗.py 
+```
 
 ## 標漢字正確率
 ```
